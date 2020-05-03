@@ -46,9 +46,9 @@
     "genre": "Scottish",
     "type": "March",
     "composer": "M MacDougal",
-    "score": "${baseUrl}/tunes/zCapeBreton/MNO/MemFA/MemFA.pdf",
-    "tab": "${baseUrl}/tunes/zCapeBreton/MNO/MemFA/MemFAt.pdf",
-    "audio": "${baseUrl}/tunes/zCapeBreton/MNO/MemFA/MemFA-BDunv_M.mp3 - FILE MISSING"
+    "score": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFA.pdf",
+    "tab": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFAt.pdf",
+    "audio": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFA_M.mp3"
   },
   {
     "name": "The Braes of Dunvegan",
@@ -56,9 +56,9 @@
     "genre": "Scottish",
     "type": "March",
     "composer": "",
-    "score": "${baseUrl}/tunes/zCapeBreton/MNO/MemFA/MemFA.pdf",
-    "tab": "${baseUrl}/tunes/zCapeBreton/MNO/MemFA/MemFAt.pdf",
-    "audio": "${baseUrl}/tunes/zCapeBreton/MNO/MemFA/MemFA-BDunv_M.mp3 - FILE MISSING"
+    "score": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFA.pdf",
+    "tab": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFAt.pdf",
+    "audio": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFA_M.mp3"
   },
 
 
@@ -130,7 +130,7 @@
     "composer": "Ewan MacColl",
     "score": "${baseUrl}/tunes/zEngland/STU/SwtTh/SwtTh.pdf",
     "tab": "${baseUrl}/tunes/zEngland/STU/SwtTh/SwtTht.pdf",
-    "audio": "${baseUrl}/tunes/zEngland/STU/SwtTh/SwtT_M.mp3 - FILE MISSING"
+    "audio": "${baseUrl}/tunes/zEngland/STU/SwtTh/SwtTh_M.mp3"
   },
   {
     "name": "Uncle's Jig",
@@ -942,25 +942,6 @@
     "tab": "${baseUrl}/tunes/F/FearF/FearFt.pdf",
     "audio": "${baseUrl}/tunes/F/FearF/FearF-Oovie_M.mp3"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "name": "Ale is Dear, The",
     "from": "nigel-gatherer",
@@ -1217,8 +1198,8 @@
     "genre": "Scottish",
     "type": "Reel",
     "composer": "Sandy Brechin",
-    "score": "${baseUrl}/tunes/H/HangOHangO.pdf - FILE MISSING",
-    "tab": "${baseUrl}/tunes/H/HangOHangOt.pdf - FILE MISSING",
+    "score": "${baseUrl}/tunes/H/HangO/HangO.pdf",
+    "tab": "${baseUrl}/tunes/H/HangO/HangOt.pdf",
     "audio": ""
   },
   {
@@ -2030,12 +2011,6 @@
     "tab": "${baseUrl}/tunes/D/DornL/DornLt.pdf",
     "audio": "${baseUrl}/tunes/D/DornL/DornL-GrnWd_M.mp3"
   },
-
-
-
-
-
-
   {
     "name": "Drummond Castle",
     "from": "nigel-gatherer",
@@ -2202,7 +2177,7 @@
     "genre": "Scottish",
     "type": "Jig",
     "composer": "Nathaniel Gow",
-    "score": "${baseUrl}/https://www.dropbox.com/s/6xkjo11k1mks0gu/MagtB.pdf - FILE MISSING",
+    "score": "${baseUrl}/tunes/M/MagtB/MagtB.pdf",
     "tab": "${baseUrl}/tunes/M/MagtB/MagtBt.pdf",
     "audio": "${baseUrl}/tunes/M/MagtB/MagtB_M.mp3"
   },
@@ -2216,14 +2191,6 @@
     "tab": "${baseUrl}/tunes/K/KissY/KissYt.pdf",
     "audio": "${baseUrl}/tunes/K/KissY/KissY-MrsCS_M.mp3"
   },
-
-
-
-
-
-
-
-
   {
     "name": "14th October, The",
     "from": "nigel-gatherer",
@@ -2262,7 +2229,7 @@
     "composer": "Robert Burns",
     "score": "${baseUrl}/tunes/A/AftnW/AftnW.pdf",
     "tab": "${baseUrl}/tunes/A/AftnW/AftnWt.pdf",
-    "audio": "${baseUrl}/tunes/A/AftnW/AftnW_W.mp3 - FILE MISSING"
+    "audio": "${baseUrl}/tunes/A/AftnW/AftnW_M.mp3"
   },
   {
     "name": "Aiken Drum",
@@ -2482,7 +2449,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/C/ChChL/ChChL.pdf",
     "tab": "",
-    "audio": "${baseUrl}/tunes/C/ChChL/ChChL_M.mp3.pdf - FILE MISSING"
+    "audio": "${baseUrl}/tunes/C/ChChL/ChChL_M.mp3"
   },
   {
     "name": "Cockle Gatherers, The",
@@ -2580,7 +2547,7 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "James Scott Skinner",
-    "score": "${baseUrl}/tunes/zSkinner/DEF/DMcPL/DMcPL.pdf - FILE MISSING",
+    "score": "${baseUrl}/tunes/D/DMcPL/DMcPL.pdf",
     "tab": "${baseUrl}/tunes/D/DMcPL/DMcPLt.pdf",
     "audio": "${baseUrl}/tunes/D/DMcPL/DMcPL_W.mp3"
   },
@@ -2590,7 +2557,7 @@
     "genre": "Scottish",
     "type": "Strathspey",
     "composer": "James Scott Skinner",
-    "score": "${baseUrl}/tunes/zSkinner/DEF/DMcPL/DMcPL.pdf - FILE MISSING",
+    "score": "${baseUrl}/tunes/D/DMcPL/DMcPL.pdf",
     "tab": "${baseUrl}/tunes/D/DMcPL/DMcPLt.pdf",
     "audio": "${baseUrl}/tunes/D/DMcPL/DMcPL_W.mp3"
   },
@@ -4376,12 +4343,6 @@
     "tab": "${baseUrl}/tunes/zClassical/STU/Sullivan/SRays/SRayst.pdf",
     "audio": "${baseUrl}/tunes/zClassical/STU/Sullivan/SRays/SRays.mp3"
   },
-
-
-
-
-
-
     {
       "name": "A Fig for a Kiss",
       "from": "nigel-gatherer",
@@ -4401,16 +4362,6 @@
       "score": "${baseUrl}/tunes/A/AeFKs/AeFKs.pdf",
       "tab": "${baseUrl}/tunes/A/AeFKs/AeFKst.pdf",
       "audio": "${baseUrl}/tunes/A/AeFKs/AeFKs_W.mp3"
-    },
-    {
-      "name": "Afton Water",
-      "from": "nigel-gatherer",
-      "genre": "Scottish",
-      "type": "Air",
-      "composer": "Robert Burns",
-      "score": "${baseUrl}/tunes/A/AftnW/AftnW.pdf",
-      "tab": "${baseUrl}/tunes/A/AftnW/AftnWt.pdf",
-      "audio": "${baseUrl}/tunes/A/AftnW/AftnW_M.mp3"
     },
     {
       "name": "Alleluia <i>(William Boyce)</i>",
