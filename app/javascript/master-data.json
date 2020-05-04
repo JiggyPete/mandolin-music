@@ -3,6 +3,136 @@
   {
     "name": "4 Marys, The",
     "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab9/4mary.html",
+    "audio": ""
+  },
+  {
+    "name": "Atholl Highlanders",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab7/athol.html",
+    "audio": ""
+  },
+  {
+    "name": "Ballydesmond Polka No.3",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab9/baly3.html",
+    "audio": ""
+  },
+  {
+    "name": "Bonaparte's Grand March",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab2/bon.html",
+    "audio": ""
+  },
+  {
+    "name": "Bottom of the Punch Bowl",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab4/punch.html",
+    "audio": ""
+  },
+  {
+    "name": "Boys of Limerick",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab8/boyst.html",
+    "audio": ""
+  },
+  {
+    "name": "Captain Campbell",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab3/captc.html",
+    "audio": ""
+  },
+  {
+    "name": "Clinch Mountain Backstep",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab1/clin.html",
+    "audio": ""
+  },
+  {
+    "name": "Comin' Thro' the Rye",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab8/ctrye.html",
+    "audio": ""
+  },
+  {
+    "name": "Donald's Awa Tae the War",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab10/donmb.html",
+    "audio": ""
+  },
+  {
+    "name": "Donegal Lass, The",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab3/dongl.html",
+    "audio": ""
+  },
+  {
+    "name": "Doon In the Wee Room",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab11/doonw.html",
+    "audio": ""
+  },
+  {
+    "name": "First of October",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab8/focto.html",
+    "audio": ""
+  },
+  {
+    "name": "4 Marys, The",
+    "from": "nigel-gatherer",
     "genre": "",
     "type": "",
     "composer": "",
