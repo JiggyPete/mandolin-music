@@ -33,6 +33,10 @@ suggestions = {
             mandolinIcon[0].click()
           }
         }
+        if(event.code === "Escape") {
+          self.clear()
+          document.getElementsByClassName("search--term")[0].focus();
+        }
       });
     });
   },
