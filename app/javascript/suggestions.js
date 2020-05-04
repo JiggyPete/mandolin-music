@@ -28,7 +28,10 @@ suggestions = {
           self.previous();
         }
         if(event.code === "Enter" || event.code === "Space") {
-          event.srcElement.getElementsByClassName("mandolin-icon")[0].click()
+          var mandolinIcon = event.srcElement.getElementsByClassName("mandolin-icon")
+          if(mandolinIcon.length > 0 ) {
+            mandolinIcon[0].click()
+          }
         }
       });
     });
