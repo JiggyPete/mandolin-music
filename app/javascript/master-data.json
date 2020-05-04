@@ -1,6 +1,278 @@
 `
 [
   {
+    "name": "This is No My Ain Lassie",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "2/4 reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/L/LRand/LRand.pdf",
+    "tab": "${baseUrl}/tunes/L/LRand/LRandt.pdf",
+    "audio": "${baseUrl}/tunes/L/LRand/LRand-ThIsN_W.mp3"
+  },
+  {
+    "name": "Lord Randolph's Bride",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "2/4 reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/L/LRand/LRand.pdf",
+    "tab": "${baseUrl}/tunes/L/LRand/LRandt.pdf",
+    "audio": "${baseUrl}/tunes/L/LRand/LRand-ThIsN_W.mp3"
+  },
+  {
+    "name": "Lord Randall's Bride",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/CCM/JKL/LRand/LRand.pdf",
+    "tab": "",
+    "audio": "${baseUrl}/tunes/CCM/JKL/LRand/LRand.mp3"
+  },
+
+  {
+    "name": "Sleep Sond ida Moarnin",
+    "from": "nigel-gatherer",
+    "genre": "Shetland",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/CCM/JKL/JackB/JackB.pdf",
+    "tab": "${baseUrl}/tunes/CCM/JKL/JackB/JackBt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Jack Broke da Prison Door",
+    "from": "nigel-gatherer",
+    "genre": "Shetland",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/CCM/JKL/JackB/JackB.pdf",
+    "tab": "${baseUrl}/tunes/CCM/JKL/JackB/JackBt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Glenside Polka",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/CCM/GHI/GlenP/GlenP.pdf",
+    "tab": "${baseUrl}/tunes/CCM/GHI/GlenP/GlenPt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/GHI/GlenP/GlenP_W.mp3"
+  },
+  {
+    "name": "The Flower o' the Quern",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "James Scott Skinner",
+    "score": "${baseUrl}/tunes/CCM/DEF/FlowQ/FlowQ.pdf",
+    "tab": "${baseUrl}/tunes/CCM/DEF/FlowQ/FlowQt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "East at Glendart",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/CCM/DEF/EastG/EastG.pdf",
+    "tab": "${baseUrl}/tunes/CCM/DEF/EastG/EastGt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/DEF/EastG/EastG-WillC_W.mp3"
+  },
+  {
+    "name": "Barbara's Jig",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/CCM/DEF/EastG/EastG.pdf",
+    "tab": "${baseUrl}/tunes/CCM/DEF/EastG/EastGt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/DEF/EastG/EastG-WillC_W.mp3"
+  },
+
+  {
+    "name": "Angela's Waltz",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "Dave McLagan",
+    "score": "${baseUrl}/tunes/CCM/DEF/DaveW/DaveW.pdf",
+    "tab": "${baseUrl}/tunes/CCM/DEF/DaveW/DaveWt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/DEF/DaveW/DaveW.mp3"
+  },
+  {
+    "name": "Barbara's Waltz",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "Dave McLagan",
+    "score": "${baseUrl}/tunes/CCM/DEF/DaveW/DaveW.pdf",
+    "tab": "${baseUrl}/tunes/CCM/DEF/DaveW/DaveWt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/DEF/DaveW/DaveW.mp3"
+  },
+  {
+    "name": "Charlotte",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Gordon Duncan",
+    "score": "${baseUrl}/tunes/CCM/ABC/Charl/Charl.pdf",
+    "tab": "${baseUrl}/tunes/CCM/ABC/Charl/Charlt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Road to the Isles",
+    "from": "nigel-gatherer",
+    "genre": "Schottische",
+    "type": "",
+    "composer": "PM J McLellan",
+    "score": "${baseUrl}/tunes/CCM/ABC/CastA/CastA.pdf",
+    "tab": "${baseUrl}/tunes/CCM/ABC/CastA/CastAt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/ABC/CastA/CastA-RIsle_W.mp3"
+  },
+  {
+    "name": "The Burning of Crieff",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "Nigel Gatherer",
+    "score": "${baseUrl}/tunes/CCM/ABC/BurnC/BurnC.pdf",
+    "tab": "${baseUrl}/tunes/CCM/ABC/BurnC/BurnCt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/ABC/BurnC/BurnC_W.mp3"
+  },
+  {
+    "name": "Maggie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air/March",
+    "composer": "Johnson/Butterfield",
+    "score": "${baseUrl}/tunes/CCM/ABC/BnGal/BnGal.pdf",
+    "tab": "${baseUrl}/tunes/CCM/ABC/BnGal/BnGalt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Bonny At Morn",
+    "from": "nigel-gatherer",
+    "genre": "Nothumbrian",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/CCM/ABC/BMorn/BMorn.pdf",
+    "tab": "${baseUrl}/tunes/CCM/ABC/BMorn/BMornt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/ABC/BMorn/BMorn_W.mp3"
+  },
+  {
+    "name": "The Cumberland Reel",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/C/CumbR/CumbR.pdf",
+    "tab": "${baseUrl}/tunes/C/CumbR/CumbRt.pdf",
+    "audio": "${baseUrl}/tunes/C/CumbR/CumbR-Harmo_W.mp3"
+  },
+  {
+    "name": "The Harmonica",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/C/CumbR/CumbR.pdf",
+    "tab": "${baseUrl}/tunes/C/CumbR/CumbRt.pdf",
+    "audio": "${baseUrl}/tunes/C/CumbR/CumbR-Harmo_W.mp3"
+  },
+  {
+    "name": "The Hut On Staffin Island",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Hornpipe",
+    "composer": "Phil Cunningham",
+    "score": "${baseUrl}/tunes/C/Calum/Calum.pdf",
+    "tab": "${baseUrl}/tunes/C/Calum/Calumt.pdf",
+    "audio": "${baseUrl}/tunes/C/Calum/Calum_M.mp3"
+  },
+  {
+    "name": "Calum's Road",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "Donald Shaw",
+    "score": "${baseUrl}/tunes/C/Calum/Calum.pdf",
+    "tab": "${baseUrl}/tunes/C/Calum/Calumt.pdf",
+    "audio": "${baseUrl}/tunes/C/Calum/Calum_M.mp3"
+  },
+  {
+    "name": "The Brolum",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Pipe Reel",
+    "composer": "Dr Charles Bannantyne",
+    "score": "${baseUrl}/tunes/B/Brolm/Brolm.pdf",
+    "tab": "${baseUrl}/tunes/B/Brolm/Brolmt.pdf",
+    "audio": "${baseUrl}/tunes/B/Brolm/Brolm_M.mp3"
+  },
+  {
+    "name": "The Brolum",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Pipe Reel",
+    "composer": "Dr Charles Bannantyne",
+    "score": "${baseUrl}/tunes/B/Brolm/Brolm.pdf",
+    "tab": "${baseUrl}/tunes/B/Brolm/Brolmt.pdf",
+    "audio": "${baseUrl}/tunes/B/Brolm/Brolm_M.mp3"
+  },
+  {
+    "name": "The Bride",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "James Scott Skinner",
+    "score": "${baseUrl}/tunes/B/Bride/Bride.pdf",
+    "tab": "${baseUrl}/tunes/B/Bride/Bridet.pdf",
+    "audio": "${baseUrl}/tunes/B/Bride/Bride_M.mp3"
+  },
+  {
+    "name": "Roses of Prince Charlie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Ronnie Browne",
+    "score": "${baseUrl}/tunes/B/BLFyv/BLFyv.pdf",
+    "tab": "${baseUrl}/tunes/B/BLFyv/BLFyvt.pdf",
+    "audio": "${baseUrl}/tunes/B/BLFyv/BLFyv-RosPC_W.mp"
+  },
+  {
+    "name": "Auld Reekie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/A/AuldR/AuldR.pdf",
+    "tab": "${baseUrl}/tunes/A/AuldR/AuldRt.pdf",
+    "audio": "${baseUrl}/tunes/A/AuldR/AuldR_M.mp3"
+  },
+  {
+    "name": "Amongst Friends",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/A/AmngF/AmngF.pdf",
+    "tab": "${baseUrl}/tunes/A/AmngF/AmngFt.pdf",
+    "audio": "${baseUrl}/tunes/A/AmngF/AmngF_M.mp3"
+  },
+  {
+    "name": "The Hundred Pipers",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Carolina Oliphant",
+    "score": "",
+    "tab": "${baseUrl}/tunes/1-9/100Pp/100Ppt.pdf",
+    "audio": "${baseUrl}/tunes/1-9/100Pp/100Pp_M.mp3"
+  },
+  {
     "name": "Hoch Hey Johnnie Lad",
     "from": "nigel-gatherer",
     "genre": "",
@@ -166,9 +438,9 @@
     "genre": "Scottish",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/songs/song1/4mary.html",
-    "tab": "",
-    "audio": ""
+    "score": "${baseUrl}/tunes/1-9/4Mary/4Mary.pdf",
+    "tab": "${baseUrl}/tunes/1-9/4Mary/4Maryt.pdf",
+    "audio": "${baseUrl}/tunes/1-9/4Mary/4Mary-DrAng_W.mp3"
   },
   {
     "name": "Dumbarton's Drums",
@@ -186,9 +458,9 @@
     "genre": "Scottish",
     "type": "",
     "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab9/4mary.html",
-    "audio": ""
+    "score": "${baseUrl}/tunes/1-9/4Mary/4Mary.pdf",
+    "tab": "${baseUrl}/tunes/1-9/4Mary/4Maryt.pdf",
+    "audio": "${baseUrl}/tunes/1-9/4Mary/4Mary-DrAng_W.mp3"
   },
   {
     "name": "Atholl Highlanders",
@@ -326,9 +598,9 @@
     "genre": "",
     "type": "",
     "composer": "",
-    "score": "",
+    "score": "${baseUrl}/tunes/CCM/JKL/LRand/LRand.pdf",
     "tab": "${baseUrl}/tab/tab8/8menm.html",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/CCM/JKL/LRand/LRand.mp3"
   },
   {
     "name": "A A Cameron's",
@@ -4533,6 +4805,26 @@
     "audio": "${baseUrl}/tunes/A/AikDr/AikDr-BoatR_M.mp3"
   },
   {
+    "name": "The Boatie Rows",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/A/AikDr/AikDr.pdf",
+    "tab": "${baseUrl}/tunes/A/AikDr/AikDrt.pdf",
+    "audio": "${baseUrl}/tunes/A/AikDr/AikDr-BoatR_M.mp3"
+  },
+  {
+    "name": "I'll Gang Nae Mair Tae Yon Town",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/A/AikDr/ADrum2.pdf",
+    "tab": "${baseUrl}/tunes/A/AikDr/ADrum2t.pdf",
+    "audio": "${baseUrl}/tunes/A/AikDr/ADrum-IGNMT_W.mp3"
+  },
+  {
     "name": "All the Tunes in the World",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -5061,16 +5353,6 @@
     "score": "${baseUrl}/tunes/P/PullB/PullB.pdf",
     "tab": "${baseUrl}/tunes/P/PullB/PullBt.pdf",
     "audio": "${baseUrl}/tunes/P/PullB/PullB-Happy_M.mp3"
-  },
-  {
-    "name": "Roses of Prince Charlie",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "Ronnie Browne",
-    "score": "${baseUrl}/tunes/R/RosPC/RosPC.pdf",
-    "tab": "${baseUrl}/tunes/R/RosPC/RosPCt.pdf",
-    "audio": ""
   },
   {
     "name": "The Thistle of Scotland",
