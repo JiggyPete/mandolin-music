@@ -1,6 +1,702 @@
 `
 [
   {
+    "name": "Hi Ho Hiram",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Schottische",
+    "composer": "",
+    "score": "http://www.nigelgatherer.com/classes/gfw/slos/set26/26-BefIM.pdf",
+    "tab": "http://www.nigelgatherer.com/classes/gfw/slos/set26/26-BefIMt.pdf",
+    "audio": "http://www.nigelgatherer.com/classes/gfw/slos/set26/BefIM-set_M.mp3"
+  },
+  {
+    "name": "Before I Marry",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Schottische",
+    "composer": "",
+    "score": "http://www.nigelgatherer.com/classes/gfw/slos/set26/26-BefIM.pdf",
+    "tab": "http://www.nigelgatherer.com/classes/gfw/slos/set26/26-BefIMt.pdf",
+    "audio": "http://www.nigelgatherer.com/classes/gfw/slos/set26/BefIM-set_M.mp3"
+  },
+  {
+    "name": "Island of Mull",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "composer": "Offenbach",
+    "type": "Jig",
+    "score": "http://www.nigelgatherer.com/classes/gfw/slos/set25/25-HighI.pdf",
+    "tab": "http://www.nigelgatherer.com/classes/gfw/slos/set25/25-HighIt.pdf",
+    "audio": "http://www.nigelgatherer.com/classes/gfw/slos/set25/TopBL-IsldM_M.mp3"
+  },
+  {
+    "name": "Morag",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Schottische",
+    "composer": "",
+    "score": "http://www.nigelgatherer.com/classes/gfw/slos/set26/26-BefIM.pdf",
+    "tab": "http://www.nigelgatherer.com/classes/gfw/slos/set26/26-BefIMt.pdf",
+    "audio": "http://www.nigelgatherer.com/classes/gfw/slos/set26/BefIM-set_M.mp3"
+  },
+  {
+    "name": "Top of Ben Lomond",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "composer": "Offenbach",
+    "type": "Jig",
+    "score": "http://www.nigelgatherer.com/classes/gfw/slos/set25/25-HighI.pdf",
+    "tab": "http://www.nigelgatherer.com/classes/gfw/slos/set25/25-HighIt.pdf",
+    "audio": "http://www.nigelgatherer.com/classes/gfw/slos/set25/TopBL-IsldM_M.mp3"
+  },
+
+
+
+  {
+    "name": "The Long Road (Dorogoj Dlinnoyu)",
+    "from": "nigel-gatherer",
+    "genre": "Russia",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zWorld/JKL/LongR/LongR.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/JKL/LongR/LongRt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/JKL/LongR/LongR_M.mp3"
+  },
+  {
+    "name": "Mount Stewart House",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/M/MntSH/MntSH.pdf",
+    "tab": "${baseUrl}/tunes/M/MntSH/MntSHt.pdf",
+    "audio": "${baseUrl}/tunes/M/MntSH/MntSH-GoodN_M.mp3"
+  },
+  {
+    "name": "Good Night and Joy Be With You'",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/M/MntSH/MntSH.pdf",
+    "tab": "${baseUrl}/tunes/M/MntSH/MntSHt.pdf",
+    "audio": "${baseUrl}/tunes/M/MntSH/MntSH-GoodN_M.mp3"
+  },
+
+  {
+    "name": "A Fisherman's Song for Attracting Seals",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/F/FishS/FishS.pdf",
+    "tab": "${baseUrl}/tunes/F/FishS/FishSt.pdf",
+    "audio": "${baseUrl}/tunes/F/FishS/FishS_M.mp3"
+  },
+  {
+    "name": "Dennis Murphy's Polka",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/DenMP/DenMP.pdf",
+    "tab": "${baseUrl}/tunes/D/DenMP/DenMPt.pdf",
+    "audio": "${baseUrl}/tunes/D/DenMP/DenMP-RyanP_M.mp3"
+  },
+  {
+    "name": "Orientalische Melody",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTv2.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTvt2.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTv2_M.mp3"
+  },
+  {
+    "name": "Battle Hymn of the Republic",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "Julia Ward Howe",
+    "score": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1.pdf",
+    "tab": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1t.pdf",
+    "audio": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1_M.mp3"
+  },
+  {
+    "name": "Marching Through Georgia",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "Henry Clay Work",
+    "score": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1.pdf",
+    "tab": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1t.pdf",
+    "audio": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1_M.mp3"
+  },
+  {
+    "name": "Dixie",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "Dan Emmett",
+    "score": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1.pdf",
+    "tab": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1t.pdf",
+    "audio": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1_M.mp3"
+  },
+  {
+    "name": "Second Round",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Round",
+    "composer": "Nigel Gatherer",
+    "score": "${baseUrl}/tunes/zNigelsTunes/STU/2ndRd/2ndRd.pdf",
+    "tab": "${baseUrl}/tunes/zNigelsTunes/STU/2ndRd/2ndRdt.pdf",
+    "audio": "${baseUrl}/tunes/zNigelsTunes/STU/2ndRd/2ndRd.mp3"
+  },
+  {
+    "name": "Becca, Scarlett & Tiegan",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "Nigel Gatherer",
+    "score": "${baseUrl}/tunes/zNigelsTunes/ABC/Becca/Becca.pdf",
+    "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/Becca/Beccat.pdf",
+    "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/Becca/Becca.mp3"
+  },
+  {
+    "name": "Dewar's Dream",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Nigel Gatherer",
+    "score": "${baseUrl}/tunes/zNigelsTunes/DEF/DewrD/DewrD.pdf",
+    "tab": "${baseUrl}/tunes/zNigelsTunes/DEF/DewrD/DewrDt.pdf",
+    "audio": "${baseUrl}/tunes/zNigelsTunes/DEF/DewrD/DewrD.mp3"
+  },
+  {
+    "name": "Raindrops are Falling On my Head",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "Bacharach/David",
+    "score": "",
+    "tab": "${baseUrl}/tunes/zMovies/PQR/Raind/Raindt.pdf",
+    "audio": "${baseUrl}/tunes/zMovies/PQR/Raind/Raind_W.mp3"
+  },
+  {
+    "name": "The Dachshund",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "John Coats",
+    "score": "${baseUrl}/tunes/zMisc/DEF/Dachs/Dachs.pdf",
+    "tab": "${baseUrl}/tunes/zMisc/DEF/Dachs/Dachst.pdf",
+    "audio": "${baseUrl}/tunes/zMisc/DEF/Dachs/Dachs.mp3"
+  },
+  {
+    "name": "Parthenia",
+    "from": "nigel-gatherer",
+    "genre": "England",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zEngland/PQR/Parth/Parth.pdf",
+    "tab": "${baseUrl}/tunes/zEngland/PQR/Parth/Partht.pdf",
+    "audio": "${baseUrl}/tunes/zEngland/PQR/Parth/Parth_M.mp3"
+  },
+  {
+    "name": "Bellingham Boat",
+    "from": "nigel-gatherer",
+    "genre": "Northumberland",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltL.pdf",
+    "tab": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltLt.pdf",
+    "audio": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltL-BellB_M.mp3"
+  },
+  {
+    "name": "Felton Lonnen",
+    "from": "nigel-gatherer",
+    "genre": "Northumberland",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltL.pdf",
+    "tab": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltLt.pdf",
+    "audio": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltL-BellB_M.mp3"
+  },
+  {
+    "name": "The Sun Whose Rays",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "Arthur Sullivan",
+    "score": "${baseUrl}/tunes/zClassical/STU/Sullivan/SRays/SRays2.pdf",
+    "tab": "${baseUrl}/tunes/zClassical/STU/Sullivan/SRays/SRays2t.pdf",
+    "audio": "${baseUrl}/tunes/zClassical/STU/Sullivan/SRays/SRays2_M.mp3"
+  },
+  {
+    "name": "Sir Charles Coote",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "Turlough O'Carolan",
+    "score": "${baseUrl}/tunes/zCarolan/SirCC/SirCC.pdf",
+    "tab": "${baseUrl}/tunes/zCarolan/SirCC/SirCCt.pdf",
+    "audio": "${baseUrl}/tunes/zCarolan/SirCC/SirCC_M.mp3"
+  },
+  {
+    "name": "Ode to Whisky",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "Turlough O'Carolan",
+    "score": "${baseUrl}/tunes/zCarolan/OdeWh/OdeWh.pdf",
+    "tab": "${baseUrl}/tunes/zCarolan/OdeWh/OdeWht.pdf",
+    "audio": "${baseUrl}/tunes/zCarolan/OdeWh/OdeWh.mp3"
+  },
+  {
+    "name": "Saint Anne's Reel",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeB.pdf",
+    "tab": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeBt.pdf",
+    "audio": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeB_M.mp3"
+  },
+  {
+    "name": "Homeward Bound",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Reel",
+    "composer": "Rory MacDonald",
+    "score": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeB.pdf",
+    "tab": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeBt.pdf",
+    "audio": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeB_M.mp3"
+  },
+  {
+    "name": "Waltz for Kylin",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "Dougie Hunter",
+    "score": "${baseUrl}/tunes/W/WKyln/WKyln.pdf",
+    "tab": "${baseUrl}/tunes/W/WKyln/WKylnt.pdf",
+    "audio": "${baseUrl}/tunes/W/WKyln/WKyln_M.mp3"
+  },
+  {
+    "name": "The White Cockade",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WCock/WCock.pdf",
+    "tab": "${baseUrl}/tunes/W/WCock/WCockt.pdf",
+    "audio": "${baseUrl}/tunes/W/WCock/WCock-RakeM_W.mp3"
+  },
+  {
+    "name": "Tune for Us",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "George Davidson",
+    "score": "${baseUrl}/tunes/T/TunUs/TunUs.pdf",
+    "tab": "${baseUrl}/tunes/T/TunUs/TunUst.pdf",
+    "audio": "${baseUrl}/tunes/T/TunUs/TunUs.mp3"
+  },
+  {
+    "name": "Trip to Pakistan",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "Niall Kenny",
+    "score": "${baseUrl}/tunes/T/TripP/TripP.pdf",
+    "tab": "${baseUrl}/tunes/T/TripP/TripPt.pdf",
+    "audio": "${baseUrl}/tunes/T/TripP/TripP-Shore_M.mp3"
+  },
+  {
+    "name": "The Shore Bar",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "Niall Kenny",
+    "score": "${baseUrl}/tunes/T/TripP/TripP.pdf",
+    "tab": "${baseUrl}/tunes/T/TripP/TripPt.pdf",
+    "audio": "${baseUrl}/tunes/T/TripP/TripP-Shore_M.mp3"
+  },
+  {
+    "name": "Sine Bhan (Fair Jean)",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "Duncan Johnson",
+    "score": "${baseUrl}/tunes/S/SineB/SineB.pdf",
+    "tab": "${baseUrl}/tunes/S/SineB/SineBt.pdf",
+    "audio": "${baseUrl}/tunes/S/SineB/SineB_M.mp3"
+  },
+  {
+    "name": "Rolling in the Rye Grass",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/R/RRyeG/RRyeG.pdf",
+    "tab": "${baseUrl}/tunes/R/RRyeG/RRyeGt.pdf",
+    "audio": "${baseUrl}/tunes/R/RRyeG/RRyeG_M.mp3"
+  },
+  {
+    "name": "Teribus",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "2/4 Pipe March",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/SwtMG/SwtMGc.pdf",
+    "tab": "${baseUrl}/tunes/S/SwtMG/SwtMGct.pdf",
+    "audio": "${baseUrl}/tunes/S/SwtMG/SwtMG-Terib_M.mp3"
+  },
+  {
+    "name": "Sweet Maid of Glendaruel",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "2/4 Pipe March",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/SwtMG/SwtMGc.pdf",
+    "tab": "${baseUrl}/tunes/S/SwtMG/SwtMGct.pdf",
+    "audio": "${baseUrl}/tunes/S/SwtMG/SwtMG-Terib_M.mp3"
+  },
+  {
+    "name": "Patrick O'Connor",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/P/POCon/POCon.pdf",
+    "tab": "${baseUrl}/tunes/P/POCon/POCont.pdf",
+    "audio": "${baseUrl}/tunes/P/POCon/POCon_M.mp3"
+  },
+  {
+    "name": "Oliver Jack",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/P/PHoos/PHoos.pdf",
+    "tab": "${baseUrl}/tunes/P/PHoos/PHoost.pdf",
+    "audio": "${baseUrl}/tunes/P/PHoos/PHoos-set_M.mp3"
+  },
+  {
+    "name": "Da Mirrie Boys o' Greenland",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/P/PHoos/PHoos.pdf",
+    "tab": "${baseUrl}/tunes/P/PHoos/PHoost.pdf",
+    "audio": "${baseUrl}/tunes/P/PHoos/PHoos-set_M.mp3"
+  },
+  {
+    "name": "Da Peerie Hoose Ahint da Burn",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/P/PHoos/PHoos.pdf",
+    "tab": "${baseUrl}/tunes/P/PHoos/PHoost.pdf",
+    "audio": "${baseUrl}/tunes/P/PHoos/PHoos-set_M.mp3"
+  },
+  {
+    "name": "Babes in the Wood",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "2/4 Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OHill/OHill.pdf",
+    "tab": "${baseUrl}/tunes/O/OHill/OHillt.pdf",
+    "audio": "${baseUrl}/tunes/O/OHill/OHill_M.mp3"
+  },
+  {
+    "name": "Draw the Sword, Scotland",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "2/4 Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OHill/OHill.pdf",
+    "tab": "${baseUrl}/tunes/O/OHill/OHillt.pdf",
+    "audio": "${baseUrl}/tunes/O/OHill/OHill_M.mp3"
+  },
+  {
+    "name": "O'er the Hills and Far Away",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "2/4 Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OHill/OHill.pdf",
+    "tab": "${baseUrl}/tunes/O/OHill/OHillt.pdf",
+    "audio": "${baseUrl}/tunes/O/OHill/OHill_M.mp3"
+  },
+  {
+    "name": "O Are Ye Sleeping, Maggies? (with double stops)",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OAYSM/OAYSM.pdf",
+    "tab": "${baseUrl}/tunes/O/OAYSM/OAYSM2t.pdf",
+    "audio": "${baseUrl}/tunes/O/OAYSM/OAYSM_M.mp3"
+  },
+  {
+    "name": "O Are Ye Sleeping, Maggies?",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OAYSM/OAYSM.pdf",
+    "tab": "${baseUrl}/tunes/O/OAYSM/OAYSMt.pdf",
+    "audio": "${baseUrl}/tunes/O/OAYSM/OAYSM_M.mp3"
+  },
+  {
+    "name": "The Road to Banff",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Malcolm Reavell",
+    "score": "${baseUrl}/tunes/N/North/North.pdf",
+    "tab": "${baseUrl}/tunes/N/North/Northt.pdf",
+    "audio": "${baseUrl}/tunes/N/North/North-RBanf_M.mp3"
+  },
+  {
+    "name": "North Turned South",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Dr John Holliday",
+    "score": "${baseUrl}/tunes/N/North/North.pdf",
+    "tab": "${baseUrl}/tunes/N/North/Northt.pdf",
+    "audio": "${baseUrl}/tunes/N/North/North-RBanf_M.mp3"
+  },
+  {
+    "name": "Miss Rowan Davies",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "Phil Cunningham",
+    "score": "${baseUrl}/tunes/M/MsRwn/MsRwn.pdf",
+    "tab": "${baseUrl}/tunes/M/MsRwn/MsRwnt.pdf",
+    "audio": "${baseUrl}/tunes/M/MsRwn/MsRwn_W.mp3"
+  },
+  {
+    "name": "Rutherglen Road",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Kevin O'Neill",
+    "score": "${baseUrl}/tunes/M/McKeF/McKeF.pdf",
+    "tab": "${baseUrl}/tunes/M/McKeF/McKeFt.pdf",
+    "audio": "${baseUrl}/tunes/M/McKeF/McKeF.mp3"
+  },
+  {
+    "name": "McKechnie's Farewell",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Slow Reel",
+    "composer": "John Somerville",
+    "score": "${baseUrl}/tunes/M/McKeF/McKeF.pdf",
+    "tab": "${baseUrl}/tunes/M/McKeF/McKeFt.pdf",
+    "audio": "${baseUrl}/tunes/M/McKeF/McKeF.mp3"
+  },
+  {
+    "name": "Maidens",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Andrew Rankine",
+    "score": "",
+    "tab": "${baseUrl}/tunes/M/MClub/MClubt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Music o' Spey",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "James Scott Skinner",
+    "score": "${baseUrl}/tunes/M/MSpey/MSpey.pdf",
+    "tab": "${baseUrl}/tunes/M/MSpey/MSpeyt.pdf",
+    "audio": "${baseUrl}/tunes/M/MSpey/MSpey_M.mp3"
+  },
+  {
+    "name": "Mo Mhathair",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Neil MacLean",
+    "score": "${baseUrl}/tunes/M/MMath/MMath.pdf",
+    "tab": "${baseUrl}/tunes/M/MMath/MMatht.pdf",
+    "audio": "${baseUrl}/tunes/M/MMath/MMath-LDuic_W.mp3"
+  },
+  {
+    "name": "Loch Duich",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Neil MacLean",
+    "score": "${baseUrl}/tunes/M/MMath/MMath.pdf",
+    "tab": "${baseUrl}/tunes/M/MMath/MMatht.pdf",
+    "audio": "${baseUrl}/tunes/M/MMath/MMath-LDuic_W.mp3"
+  },
+  {
+    "name": "The Moray Club",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/M/MClub/MClubt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Carrie's Reel",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "Norman MacKay",
+    "score": "",
+    "tab": "${baseUrl}/tunes/M/MClub/MClubt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Norminator",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "Carrie Thomas",
+    "score": "",
+    "tab": "${baseUrl}/tunes/M/MClub/MClubt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Lammas Tide",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/L/LammT/LammT.pdf",
+    "tab": "${baseUrl}/tunes/L/LammT/LammTt.pdf",
+    "audio": "${baseUrl}/tunes/L/LammT/LammT_M.mp3"
+  },
+  {
+    "name": "Leaving Friday Harbor",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Slip Jig",
+    "composer": "John McCusker",
+    "score": "${baseUrl}/tunes/L/LFriH/LFriH.pdf",
+    "tab": "${baseUrl}/tunes/L/LFriH/LFriHt.pdf",
+    "audio": "${baseUrl}/tunes/L/LFriH/LFriH.mp3"
+  },
+  {
+    "name": "Kid on the Mountain",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Slip Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/K/KidMt/KidMt.pdf",
+    "tab": "${baseUrl}/tunes/K/KidMt/KidMtt.pdf",
+    "audio": "${baseUrl}/tunes/K/KidMt/KidMt_M.mp3"
+  },
+  {
+    "name": "Hamilton House",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "James Oswald",
+    "score": "${baseUrl}/tunes/H/HamHo/HamHo.pdf",
+    "tab": "${baseUrl}/tunes/H/HamHo/HamHot.pdf",
+    "audio": "${baseUrl}/tunes/H/HamHo/HamHo.mp3"
+  },
+  {
+    "name": "The Humours of Tulla",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HTula/HTula.pdf",
+    "tab": "${baseUrl}/tunes/H/HTula/HTulat.pdf",
+    "audio": "${baseUrl}/tunes/H/HTula/HTula-OCTtP_M.mp3"
+  },
+  {
+    "name": "O'Connells's Trip to Parliament",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HTula/HTula.pdf",
+    "tab": "${baseUrl}/tunes/H/HTula/HTulat.pdf",
+    "audio": "${baseUrl}/tunes/H/HTula/HTula-OCTtP_M.mp3"
+  },
+
+
+  {
+    "name": "Larry the Beerdrinker",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/G/GirlB/GirlBt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Girls of Banbridge",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/G/GirlB/GirlBt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Flower of Kristiansand",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Ivan Dreever",
+    "score": "${baseUrl}/tunes/F/FlowK/FlowK.pdf",
+    "tab": "${baseUrl}/tunes/F/FlowK/FlowKt.pdf",
+    "audio": "${baseUrl}/tunes/F/FlowK/FlowK_M.mp3"
+  },
+  {
+    "name": "The Dark Island",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Iain McLachlan",
+    "score": "${baseUrl}/tunes/tunes/D/DarkI/DarkI.pdf",
+    "tab": "${baseUrl}/tunes/tunes/D/DarkI/DarkIt.pdf",
+    "audio": "${baseUrl}/tunes/tunes/D/DarkI/DarkI_M.mp3"
+  },
+  {
+    "name": "Rory MacLeod",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Pipe Jig",
+    "composer": "Donald MacLeod",
+    "score": "${baseUrl}/tunes/CCM/PQR/RoryM/RoryM.pdf",
+    "tab": "${baseUrl}/tunes/CCM/PQR/RoryM/RoryMt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Mo Chaillin Dileas Donn",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/CCM/MNO/MoCha/MoCha.pdf",
+    "tab": "${baseUrl}/tunes/CCM/MNO/MoCha/MoChat.pdf",
+    "audio": "${baseUrl}/tunes/CCM/MNO/MoCha/MoCha.mp3"
+  },
+  {
     "name": "This is No My Ain Lassie",
     "from": "nigel-gatherer",
     "genre": "",
@@ -406,11 +1102,11 @@
     "name": "Wild Mountain Thyme",
     "from": "nigel-gatherer",
     "genre": "Scottish",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/songs/song1/wmt.html",
-    "tab": "",
-    "audio": ""
+    "type": "Air",
+    "composer": "McPeake",
+    "score": "${baseUrl}/tunes/W/WMtnT/WMtnT.pdf",
+    "tab": "${baseUrl}/tunes/W/WMtnT/WMtnTt.pdf",
+    "audio": "${baseUrl}/tunes/W/WMtnT/WMtnT_W.mp3"
   },
   {
     "name": "The Sailor Laddie",
@@ -1373,16 +2069,6 @@
     "audio": ""
   },
   {
-    "name": "Good Night and Joy Be Wi' Ye A'",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab8/goodn.html",
-    "audio": ""
-  },
-  {
     "name": "Graemsay Jig",
     "from": "nigel-gatherer",
     "genre": "",
@@ -1826,11 +2512,11 @@
     "name": "Midnight On the Water",
     "from": "nigel-gatherer",
     "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab11/midnw.html",
-    "audio": ""
+    "type": "Waltz",
+    "composer": "Benny Thomasson",
+    "score": "${baseUrl}/tunes/M/MaggM/MaggM.pdf",
+    "tab": "${baseUrl}/tunes/M/MaggM/MaggMt.pdf",
+    "audio": "${baseUrl}/tunes/M/MaggM/MagtW-MidnW_M.mp3"
   },
   {
     "name": "Michael's Mazurka",
@@ -2288,9 +2974,9 @@
     "genre": "",
     "type": "",
     "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab9/short.html",
-    "audio": ""
+    "score": "${baseUrl}/tunes/S/Short/Short.pdf",
+    "tab": "${baseUrl}/tunes/S/Short/Shortt.pdf",
+    "audio": "${baseUrl}/tunes/S/Short/Short_M.mp3"
   },
   {
     "name": "Sidlaw Hills",
@@ -3763,7 +4449,7 @@
     "composer": "Sandy Brechin",
     "score": "${baseUrl}/tunes/H/HangO/HangO.pdf",
     "tab": "${baseUrl}/tunes/H/HangO/HangOt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/H/HangO/HangO-GWTry_M.mp3"
   },
   {
     "name": "Harris Dance",
@@ -3913,8 +4599,8 @@
     "type": "Reel",
     "composer": "",
     "score": "${baseUrl}/tunes/W/Wrlks/Wrlks.pdf",
-    "tab": "",
-    "audio": ""
+    "tab": "${baseUrl}/tunes/W/Wrlks/Wrlkst.pdf",
+    "audio": "${baseUrl}/tunes/W/Wrlks/Wrlks_M.mp3"
   },
   {
     "name": "The Warlocks",
@@ -3923,8 +4609,8 @@
     "type": "Reel",
     "composer": "Robert Lowe",
     "score": "${baseUrl}/tunes/W/Wrlks/Wrlks.pdf",
-    "tab": "",
-    "audio": ""
+    "tab": "${baseUrl}/tunes/W/Wrlks/Wrlkst.pdf",
+    "audio": "${baseUrl}/tunes/W/Wrlks/Wrlks_M.mp3"
   },
   {
     "name": "Periwig, The",
@@ -5372,7 +6058,7 @@
     "composer": "Blair Douglas",
     "score": "${baseUrl}/tunes/R/RoNML/RoNML.pdf",
     "tab": "${baseUrl}/tunes/R/RoNML/RoNMLt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/R/RoNML/RoNML_M.mp3"
   },
   {
     "name": "Rowan Tree",
@@ -5528,7 +6214,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/zOld-Time/GHI/HopLL/HopLL.pdf",
     "tab": "${baseUrl}/tunes/zOld-Time/GHI/HopLL/HopLLt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/zOld-Time/GHI/HopLL/HopLL_M.mp3"
   },
   {
     "name": "Maple Sugar",
@@ -6961,19 +7647,9 @@
       "from": "nigel-gatherer",
       "genre": "Old Time",
       "type": "",
-      "score": "${baseUrl}/assets/score/Angeline the Baker.pdf",
-      "tab": "${baseUrl}/assets/tab/Angeline the Baker.pdf",
-      "audio": "${baseUrl}/assets/audio/Angeline the Baker.mp3"
-    },
-    {
-      "name": "Before I Marry",
-      "from": "nigel-gatherer",
-      "genre": "Scottish",
-      "type": "Schottische",
-      "composer": "",
-      "score": "${baseUrl}/classes/gfw/slos/set26/26-BefIM.pdf",
-      "tab": "${baseUrl}/classes/gfw/slos/set26/26-BefIMt.pdf",
-      "audio": "${baseUrl}/classes/gfw/slos/set26/BefIM-set_M.mp3"
+      "score": "${baseUrl}/tunes/zOld-Time/ABC/AngBk/AngBk.pdf",
+      "tab": "${baseUrl}/tunes/zOld-Time/ABC/AngBk/AngBkt.pdf",
+      "audio": "${baseUrl}/tunes/zOld-Time/ABC/AngBk/AngBk_M.mp3"
     },
    {
       "name": "Big Sandy River",
@@ -7050,9 +7726,9 @@
       "from": "nigel-gatherer",
       "genre": "Scottish",
       "type": "",
-      "score": "",
-      "tab": "${baseUrl}/assets/tab/Britches Full of Stitches/Britches Full of Stitches.html",
-      "audio": ""
+      "score": "${baseUrl}/tunes/E/EganP/EganP.pdf",
+      "tab": "${baseUrl}/tunes/E/EganP/EganPt.pdf",
+      "audio": "${baseUrl}/tunes/E/EganP/EganP_M.mp3"
     },
 
     {
@@ -7126,33 +7802,6 @@
       "audio": ""
     },
     {
-      "name": "Egan's Polka",
-      "from": "nigel-gatherer",
-      "genre": "Irish",
-      "type": "Polka",
-      "score": "",
-      "tab": "${baseUrl}/assets/tab/Egan's Polka/Egan's Polka.html",
-      "audio": ""
-    },
-    {
-      "name": "Far from Home",
-      "from": "nigel-gatherer",
-      "genre": "Scottish",
-      "type": "reel",
-      "score": "${baseUrl}/assets/score/Far from Home.pdf",
-      "tab": "${baseUrl}/assets/tab/Far from Home.pdf",
-      "audio": "${baseUrl}/assets/audio/Far from Home.mp3"
-    },
-    {
-      "name": "Fear a' Phige",
-      "from": "nigel-gatherer",
-      "genre": "",
-      "type": "",
-      "score": "",
-      "tab": "${baseUrl}/assets/tab/Fear a' Phige/Fear a' Phige.html",
-      "audio": ""
-    },
-    {
       "name": "For A' That an' A' That",
       "from": "nigel-gatherer",
       "genre": "Scottish",
@@ -7215,17 +7864,6 @@
       "audio": ""
     },
     {
-      "name": "Hi Ho Hiram",
-      "from": "nigel-gatherer",
-      "genre": "Scottish",
-      "type": "Schottische",
-      "composer": "",
-      "score": "${baseUrl}/classes/gfw/slos/set26/26-BefIM.pdf",
-      "tab": "${baseUrl}/classes/gfw/slos/set26/26-BefIMt.pdf",
-      "audio": "${baseUrl}/classes/gfw/slos/set26/BefIM-set_M.mp3"
-    },
-
-    {
       "name": "Hot Punch",
       "from": "nigel-gatherer",
       "genre": "Scottish",
@@ -7245,16 +7883,6 @@
       "score": "${baseUrl}/tunes/I/IMeMa/IMeMa.pdf",
       "tab": "${baseUrl}/tunes/I/IMeMa/IMeMat.pdf",
       "audio": "${baseUrl}/tunes/I/IMeMa/IMeMa-RattB_M.mp3"
-    },
-    {
-      "name": "Island of Mull",
-      "from": "nigel-gatherer",
-      "genre": "Scottish",
-      "composer": "Offenbach",
-      "type": "Jig",
-      "score": "${baseUrl}/classes/gfw/slos/set25/25-HighI.pdf",
-      "tab": "${baseUrl}/classes/gfw/slos/set25/25-HighIt.pdf",
-      "audio": "${baseUrl}/classes/gfw/slos/set25/TopBL-IsldM_M.mp3"
     },
     {
       "name": "James Betagh No.1",
@@ -7311,9 +7939,9 @@
       "from": "nigel-gatherer",
       "genre": "Scottish",
       "type": "air",
-      "score": "${baseUrl}/assets/score/Johnny Todd.pdf",
-      "tab": "${baseUrl}/assets/tab/Johnny Todd.pdf",
-      "audio": "${baseUrl}/assets/audio/Johnny Todd,mp3"
+      "score": "${baseUrl}/tunes/J/JonyT/JonyT.pdf",
+      "tab": "${baseUrl}/tunes/J/JonyT/JonyTt.pdf",
+      "audio": "${baseUrl}/tunes/J/JonyT/JonyT-FarFH_M.mp3"
     },
     {
       "name": "Kate Dalrymple",
@@ -7435,17 +8063,7 @@
       "audio": "${baseUrl}/tunes/M/MsGay/MsGay_M.mp3"
     },
     {
-      "name": "Morag",
-      "from": "nigel-gatherer",
-      "genre": "Scottish",
-      "type": "Schottische",
-      "composer": "",
-      "score": "${baseUrl}/classes/gfw/slos/set26/26-BefIM.pdf",
-      "tab": "${baseUrl}/classes/gfw/slos/set26/26-BefIMt.pdf",
-      "audio": "${baseUrl}/classes/gfw/slos/set26/BefIM-set_M.mp3"
-    },
-    {
-      "name": "Morgan Magan",
+     "name": "Morgan Magan",
       "from": "nigel-gatherer",
       "genre": "Irish",
       "type": "Carolan",
@@ -7560,10 +8178,11 @@
       "name": "Rocking the Baby",
       "from": "nigel-gatherer",
       "genre": "Irish",
-      "type": "",
-      "score": "",
-      "tab": "${baseUrl}/assets/tab/Rocking the Baby/Rocking the Baby.html",
-      "audio": ""
+      "type": "Jig",
+      "composer": "",
+      "score": "${baseUrl}/tunes/R/RockB/RockB.pdf",
+      "tab": "${baseUrl}/tunes/R/RockB/RockBt.pdf",
+      "audio": "${baseUrl}/tunes/R/RockB/RockB_M.mp3"
     },
 
     {
@@ -7706,16 +8325,6 @@
       "score": "${baseUrl}/tunes/zOld-Time/STU/TennW/TennWD.pdf",
       "tab": "${baseUrl}/tunes/zOld-Time/STU/TennW/TennWDt.pdf",
       "audio": "${baseUrl}/tunes/zOld-Time/STU/TennW/TennWD_M.mp3"
-    },
-    {
-      "name": "Top of Ben Lomond",
-      "from": "nigel-gatherer",
-      "genre": "Scottish",
-      "composer": "Offenbach",
-      "type": "Jig",
-      "score": "${baseUrl}/classes/gfw/slos/set25/25-HighI.pdf",
-      "tab": "${baseUrl}/classes/gfw/slos/set25/25-HighIt.pdf",
-      "audio": "${baseUrl}/classes/gfw/slos/set25/TopBL-IsldM_M.mp3"
     },
     {
       "name": "Wheel Hoss",
