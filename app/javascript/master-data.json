@@ -1,5 +1,672 @@
 `
 [
+            {
+            "name": "Old Time Wedding Reel",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zCapeBreton/MNO/OTWRs/OTWRs.pdf",
+            "tab": "${baseUrl}/tunes/zCapeBreton/MNO/OTWRs/OTWRst.pdf",
+            "audio": "${baseUrl}/tunes/zCapeBreton/MNO/OTWRs/OTWRs_M.mp3"
+          },
+          {
+            "name": "I'll Go and Enlist",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Morris Dancy",
+            "composer": "Sherbourne",
+            "score": "${baseUrl}/tunes/zEngland/GHI/IllGo/IllGo.pdf",
+            "tab": "${baseUrl}/tunes/zEngland/GHI/IllGo/IllGot.pdf",
+            "audio": "${baseUrl}/tunes/zEngland/GHI/IllGo/IllGo_M.mp3"
+          },
+          {
+            "name": "Princess Royal (7 Springs)",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zEngland/PQR/PrinR/PrinR.pdf",
+            "tab": "${baseUrl}/tunes/zEngland/PQR/PrinR/PrinRt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Reynardine",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zEngland/PQR/Reynr/Reynr.pdf",
+            "tab": "${baseUrl}/tunes/zEngland/PQR/Reynr/Reynrt.pdf",
+            "audio": "${baseUrl}/tunes/zEngland/PQR/Reynr/Reynr_M.mp3"
+          },
+          {
+            "name": "Winster Galop",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Morris Dance",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zEngland/VWXYZ/WinsG/WinsG.pdf",
+            "tab": "${baseUrl}/tunes/zEngland/VWXYZ/WinsG/WinsGt.pdf",
+            "audio": "${baseUrl}/tunes/zEngland/VWXYZ/WinsG/WinsG_M.mp3"
+          },
+          {
+            "name": "Jimmy Allan",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "2/4 Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zEngland/JKL/JimAl/JimAl.pdf",
+            "tab": "${baseUrl}/tunes/zEngland/JKL/JimAl/JimAlt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Herd on the Hill",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "2/4 Reel",
+            "composer": "Tom Clough",
+            "score": "${baseUrl}/tunes/zEngland/JKL/JimAl/JimAl.pdf",
+            "tab": "${baseUrl}/tunes/zEngland/JKL/JimAl/JimAlt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Jump At the Sun",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Jig",
+            "composer": "John Kirkpatrick",
+            "score": "${baseUrl}/tunes/zEngland/JKL/JAtSn/JAtSn.pdf",
+            "tab": "${baseUrl}/tunes/zEngland/JKL/JAtSn/JAtSnt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Railway Porter",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RailP/RailP.pdf",
+            "tab": "${baseUrl}/tunes/R/RailP/RailPt.pdf",
+            "audio": "${baseUrl}/tunes/R/RailP/RailP_M.mp3"
+          },
+          {
+            "name": "The Road to Lisdoonvarna",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slide",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RLisd/RLisd.pdf",
+            "tab": "${baseUrl}/tunes/R/RLisd/RLisdt.pdf",
+            "audio": "${baseUrl}/tunes/R/RLisd/RLisd-OKeef_M.mp3"
+          },
+          {
+            "name": "The Rights of Man",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RoMan/RoMan.pdf",
+            "tab": "${baseUrl}/tunes/R/RoMan/RoMant.pdf",
+            "audio": "${baseUrl}/tunes/R/RoMan/RoMan-ChOnF_M.mp3"
+          },
+          {
+            "name": "Chief O’Neill’s Favourite",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RoMan/RoMan.pdf",
+            "tab": "${baseUrl}/tunes/R/RoMan/RoMant.pdf",
+            "audio": "${baseUrl}/tunes/R/RoMan/RoMan-ChOnF_M.mp3"
+          },
+          {
+            "name": "The Rocky Road to Dublin",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slip Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RockR/RockR.pdf",
+            "tab": "${baseUrl}/tunes/R/RockR/RockRt.pdf",
+            "audio": "${baseUrl}/tunes/R/RockR/RockR-Foxhu_M.mp3"
+          },
+          {
+            "name": "The Foxhunter’s",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slip Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RockR/RockR.pdf",
+            "tab": "${baseUrl}/tunes/R/RockR/RockRt.pdf",
+            "audio": "${baseUrl}/tunes/R/RockR/RockR-Foxhu_M.mp3"
+          },
+          {
+            "name": "Air for Linda",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zNigelsTunes/ABC/AirLi/AirLi.pdf",
+            "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/AirLi/AirLit.pdf",
+            "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/AirLi/AirLi.mp3"
+          },
+          {
+            "name": "The Clock Tower",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "",
+            "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/Clock/Clockt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "First of October",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "",
+            "tab": "${baseUrl}/tunes/zNigelsTunes/DEF/FOcto/FOctot.pdf",
+            "audio": "${baseUrl}/tunes/zNigelsTunes/DEF/FOcto/FOcto_M.mp3"
+          },
+          {
+            "name": "Lost Indian",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostI.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostIt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostI_M.mp3"
+          },
+          {
+            "name": "Snappin' Bug",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostI.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostIt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostI_M.mp3"
+          },
+          {
+            "name": "The Ash Grove",
+            "from": "nigel-gatherer",
+            "genre": "Welsh",
+            "type": "Air",
+            "composer": "Llwyn Onn",
+            "score": "${baseUrl}/tunes/zWorld/ABC/AshGr/AshGr.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/ABC/AshGr/AshGrt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/ABC/AshGr/AshGr_M.mp3"
+          },
+          {
+            "name": "The Waltz of Happiness",
+            "from": "nigel-gatherer",
+            "genre": "Canadian",
+            "type": "Waltz",
+            "composer": "Cliff Hamilton",
+            "score": "${baseUrl}/tunes/zWorld/VWXYZ/WHapp/WHapp.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WHapp/WHappt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Stou Delivoria",
+            "from": "nigel-gatherer",
+            "genre": "Greek",
+            "type": "",
+            "composer": "Stavros Xarhakos",
+            "score": "${baseUrl}/",
+            "tab": "${baseUrl}/tunes/zWorld/STU/StouD/StouDt.pdf",
+            "audio": "${baseUrl}/MISSING MP3"
+          },
+          {
+            "name": "Tiritomba",
+            "from": "nigel-gatherer",
+            "genre": "Italian",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/STU/Tirit/Tirit.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/STU/Tirit/Tiritt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/STU/Tirit/Tirit_M.mp3"
+          },
+
+          {
+            "name": "Skovsöen: Serras No. 9",
+            "from": "nigel-gatherer",
+            "genre": "Swedish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/STU/Skovs/Skovs.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/STU/Skovs/Skovst.pdf",
+            "audio": ""
+          },
+          {
+            "name": "How Much is that Doggie in the Window?",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Merrill",
+            "score": "${baseUrl}/tunes/z1950s/GHI/HowMD/HowMD.pdf",
+            "tab": "${baseUrl}/tunes/z1950s/GHI/HowMD/HowMDt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Brenda Stubbert's Reel",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Reel",
+            "composer": "Jerry Holland",
+            "score": "${baseUrl}/tunes/zCapeBreto/ABC/BStub/BStub.pdf",
+            "tab": "${baseUrl}/tunes/zCapeBreto/ABC/BStub/BStubt.pdf",
+            "audio": "${baseUrl}//tunes/zCapeBreto/ABC/BStub/BStub-JackD.pdf"
+          },
+          {
+            "name": "Jack Daniels",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Reel",
+            "composer": "John Morris  Rankin",
+            "score": "${baseUrl}/tunes/zCapeBreto/ABC/BStub/BStub.pdf",
+            "tab": "${baseUrl}/tunes/zCapeBreto/ABC/BStub/BStubt.pdf",
+            "audio": "${baseUrl}//tunes/zCapeBreto/ABC/BStub/BStub-JackD.mp3"
+          },
+          {
+            "name": "The Road to Skye",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkye.pdf",
+            "tab": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkyet.pdf",
+            "audio": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkye-StanC_M.mp3"
+          },
+          {
+            "name": "Stan Chapman's Jig",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Jig",
+            "composer": "Jery Holland",
+            "score": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkye.pdf",
+            "tab": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkyet.pdf",
+            "audio": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkye-StanC_M.mp3"
+          },
+          {
+            "name": "Cindy",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/ABC/Cindy/Cindy.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/ABC/Cindy/Cindyt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/ABC/Cindy/Cindy_M.mp3"
+          },
+          {
+            "name": "Cherokee Shuffle",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/ABC/ChrkS/ChrkS.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/ABC/ChrkS/ChrkSt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/ABC/ChrkS/ChrkS.mp3"
+          },
+          {
+            "name": "Bonaparte's Retreat",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/ABC/BonpR/BonpR.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/ABC/BonpR/BonpRt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/ABC/BonpR/BonpR_M.mp3"
+          },
+          {
+            "name": "Black Eyed Susie",
+            "from": "nigel-gatherer",
+            "genre": "American",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/ABC/BESus/BESus.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/ABC/BESus/BESust.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/ABC/BESus/BESus_M.mp3"
+          },
+          {
+            "name": "Cornstalk Fiddel and a Shiestring Bow",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/ABC/CrnsF/CornF.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/ABC/CrnsF/CornFt.pdf",
+            "audio": "${baseUrl}/MISSING MP3"
+          },
+          {
+            "name": "Barlow Knife",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/ABC/CrnsF/CornF.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/ABC/CrnsF/CornFt.pdf",
+            "audio": "${baseUrl}/MISSING MP3"
+          },
+          {
+            "name": "Home With the Girls in the Morning",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/GHI/HomeG/HomeG.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/GHI/HomeG/HomeGt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/GHI/HomeG/HomeG_M.mp3"
+          },
+          {
+            "name": "Georgiana Moon",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "Waltz",
+            "composer": "McMichen/Bryant",
+            "score": "${baseUrl}/tunes/zOld-Time/GHI/GMoon/GMoon.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/GHI/GMoon/GMoont.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Railroad Runs Through Georgia",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "${baseUrl}/tunes/zOld-Time/PQR/RRTGA/RRTGAt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Walkin’ in the Parlour",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/VWXYZ/WalkP/WalkP.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/VWXYZ/WalkP/WalkPt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/VWXYZ/WalkP/WalkP_M.mp3"
+          },
+          {
+            "name": "Little Liza Jane",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/JKL/LLizJ/LLizJ.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/JKL/LLizJ/LLizJt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/JKL/LLizJ/LLizJ1_M.mp3"
+          },
+          {
+            "name": "Jaybird",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/JKL/JBird/JBird.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/JKL/JBird/JBirdt.pdf",
+            "audio": ""
+          },
+
+
+        {
+            "name": "The Spey in Spate",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "James Scott Skinner",
+            "score": "${baseUrl}/tunes/TOW/TOW89_SpeyS/TOW89_SpeyS.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW89_SpeyS/TOW89_SpeySt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW89_SpeyS/TOW89_SpeyS.mp3"
+          },
+          {
+            "name": "The Railway Hornpipe",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "Charles Grant",
+            "score": "${baseUrl}/tunes/TOW/TOW90_RailH/TOW90_RailH.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW90_RailH/TOW90_RailHt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW90_RailH/TOW90_RailH.mp3"
+          },
+          {
+            "name": "Hannun Hambo",
+            "from": "nigel-gatherer",
+            "genre": "Swedish",
+            "type": "",
+            "composer": "Hannu Seppanen",
+            "score": "${baseUrl}/tunes/TOW/TOW91_HannH/TOW91_HannH.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW91_HannH/TOW91_HannHt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW91_HannH/TOW91_HannH.mp3"
+          },
+          {
+            "name": "Dorothy Leur's Jig",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Addie Harper",
+            "score": "${baseUrl}/tunes/TOW/TOW81_DLeur/TOW81_DLeur.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW81_DLeur/TOW81_DLeurt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW81_DLeur/TOW81_DLeur.mp3"
+          },
+          {
+            "name": "David Gordon's Dagger",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/TOW/TOW83_ScotM/TOW83_ScotM.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW83_ScotM/TOW83_ScotMt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW83_ScotM/TOW83_ScotM.mp3"
+          },
+          {
+            "name": "Kevin MacLeod of Auchterhouse",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/TOW/TOW83_ScotM/TOW83_ScotM.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW83_ScotM/TOW83_ScotMt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW83_ScotM/TOW83_ScotM.mp3"
+          },
+          {
+            "name": "14th October",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/TOW/TOW94_14Oct/TOW94_14Oct.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW94_14Oct/TOW94_14Octt.pdf",
+            "audio": "${baseUrl}/14Oct_M MP3"
+          },
+          {
+            "name": "Turn Under Lea",
+            "from": "nigel-gatherer",
+            "genre": "Shetland",
+            "type": "",
+            "composer": "Gibby Hutchison",
+            "score": "${baseUrl}/tunes/TOW/TOW88_Gibby/TOW88_Gibby.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW88_Gibby/TOW88_Gibbyt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW88_Gibby/TOW88_Gibby.mp3"
+          },
+          {
+            "name": "Shakin'so' da Barley",
+            "from": "nigel-gatherer",
+            "genre": "Shetland",
+            "type": "",
+            "composer": "Gibby Hutchison",
+            "score": "${baseUrl}/tunes/TOW/TOW88_Gibby/TOW88_Gibby.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW88_Gibby/TOW88_Gibbyt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW88_Gibby/TOW88_Gibby.mp3"
+          },
+          {
+            "name": "Chris Grace's Jig",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jige",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/TOW/TOW82_Chris/TOW82_Chris.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW82_Chris/TOW82_Christ.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW82_Chris/TOW82_Chris.mp3"
+          },
+          {
+            "name": "John MacDonald's Reel",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Reel",
+            "composer": "D H MacEachern",
+            "score": "${baseUrl}/tunes/TOW/TOW92_JMacD/TOW92_JMacD.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW92_JMacD/TOW92_JMacDt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW92_JMacD/TOW92_JMacD.mp3"
+          },
+          {
+            "name": "The Cas-Chrom",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/TOW/TOW84_Junes/TOW84_Junes.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW84_Junes/TOW84_Junest.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW84_Junes/TOW84_Junes.mp3"
+          },
+          {
+            "name": "June's Reel",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/TOW/TOW84_Junes/TOW84_Junes.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW84_Junes/TOW84_Junest.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW84_Junes/TOW84_Junes.mp3"
+          },
+          {
+            "name": "Salmon Trails Up the Water",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/TOW/TOW86_SalmT/TOW86_SalmT.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW86_SalmT/TOW86_SalmTt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW86_SalmT/TOW86_SalmT.mp3"
+          },
+          {
+            "name": "Salt Creek",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/TOW/TOW87_SaltC/TOW87_SaltC.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW87_SaltC/TOW87_SaltCt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW87_SaltC/TOW87_SaltC.mp3"
+          },
+          {
+            "name": "Larry Redican's Jig",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "Larry Redican",
+            "score": "${baseUrl}/tunes/TOW/TOW93_LaryR/TOW93_LaryR.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW93_LaryR/TOW93_LaryRt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW93_LaryR/TOW93_LaryR.mp3"
+          },
+          {
+            "name": "Pelagia's Song",
+            "from": "nigel-gatherer",
+            "genre": "Movie",
+            "type": "Captain Corelli's Mandolin",
+            "composer": "Stephen Warbeck",
+            "score": "${baseUrl}/tunes/zMovies/PQR/Pelag/Pelag.pdf",
+            "tab": "${baseUrl}/tunes/zMovies/PQR/Pelag/Pelagt.pdf",
+            "audio": "${baseUrl}/tunes/zMovies/PQR/Pelag/Pelag_M.mp3"
+          },
+          {
+            "name": "Lara's theme",
+            "from": "nigel-gatherer",
+            "genre": "Movie",
+            "type": "",
+            "composer": "Maurice Jarre",
+            "score": "${baseUrl}/tunes/zMovies/JKL/LaraT/LaraT.pdf",
+            "tab": "${baseUrl}/tunes/zMovies/JKL/LaraT/LaraTt.pdf",
+            "audio": "${baseUrl}/tunes/zMovies/JKL/LaraT/LaraT1-2_M.mp3"
+          },
+          {
+            "name": "Gavotte",
+            "from": "nigel-gatherer",
+            "genre": "Classical",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zClassical/ABC/Anon/GavAn/GavAn.pdf",
+            "tab": "${baseUrl}/tunes/zClassical/ABC/Anon/GavAn/GavAnt.pdf",
+            "audio": "${baseUrl}/tunes/zClassical/ABC/Anon/GavAn/GavAn_M.mp3"
+          },
+          {
+            "name": "Boccherini Minuet",
+            "from": "nigel-gatherer",
+            "genre": "Classical",
+            "type": "",
+            "composer": "Luigi Boccherini",
+            "score": "${baseUrl}/tunes/zClassical/ABC/Boccherini/BoccM/BoccM.pdf",
+            "tab": "${baseUrl}/tunes/zClassical/ABC/Boccherini/BoccM/BoccMt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Sonita in C major",
+            "from": "nigel-gatherer",
+            "genre": "Classical",
+            "type": "",
+            "composer": "Beethoven",
+            "score": "${baseUrl}/tunes/zClassical/ABC/Beethoven/BSonC/BSonC.pdf",
+            "tab": "${baseUrl}/tunes/zClassical/ABC/Beethoven/BSonC/BSonCt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Cristofaro Allegretto",
+            "from": "nigel-gatherer",
+            "genre": "Classical",
+            "type": "",
+            "composer": "Criofaro",
+            "score": "${baseUrl}/tunes/zClassical/ABC/Cristo/Cristo.pdf",
+            "tab": "${baseUrl}/tunes/zClassical/ABC/Cristo/Cristot.pdf",
+            "audio": "${baseUrl}/tunes/zClassical/ABC/Cristo/Cristo_M.mp3"
+          },
+          {
+            "name": "Surprise Symphony 2nd Movement Theme",
+            "from": "nigel-gatherer",
+            "genre": "Classical",
+            "type": "",
+            "composer": "Haydn",
+            "score": "${baseUrl}/tunes/zClassical/GHI/Haydn/Surpr/Surpr.pdf",
+            "tab": "${baseUrl}/tunes/zClassical/GHI/Haydn/Surpr/Surprt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Petite Pavane",
+            "from": "nigel-gatherer",
+            "genre": "Classical",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zClassical/PQR/PPvan/PPvan.pdf",
+            "tab": "${baseUrl}/tunes/zClassical/PQR/PPvan/PPvant.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Web",
+            "from": "nigel-gatherer",
+            "genre": "Classical",
+            "type": "",
+            "composer": "Alison Stephens",
+            "score": "${baseUrl}/tunes/zClassical/STU/Stephens/ThWeb/ThWeb.pdf",
+            "tab": "${baseUrl}/tunes/zClassical/STU/Stephens/ThWeb/ThWebt.pdf",
+            "audio": ""
+          },
+
+
+
+
   {
     "name": "Hi Ho Hiram",
     "from": "nigel-gatherer",
@@ -1049,16 +1716,6 @@
     "audio": ""
   },
   {
-    "name": "Air for Linda",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/std/std1/linda.html",
-    "tab": "",
-    "audio": ""
-  },
-  {
     "name": "David D MacKenzie of Sallachy",
     "from": "nigel-gatherer",
     "genre": "",
@@ -1266,16 +1923,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab11/doonw.html",
-    "audio": ""
-  },
-  {
-    "name": "First of October",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab8/focto.html",
     "audio": ""
   },
   {
@@ -2399,16 +3046,6 @@
     "audio": ""
   },
   {
-    "name": "Little Liza Jane",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab6/litlj.html",
-    "audio": ""
-  },
-  {
     "name": "Littlehohone",
     "from": "nigel-gatherer",
     "genre": "",
@@ -2616,26 +3253,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab2/ojc.html",
-    "audio": ""
-  },
-  {
-    "name": "Old Time Wedding Reel 2",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab4/hamc.html",
-    "audio": ""
-  },
-  {
-    "name": "Old Time Wedding Reel 3",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab5/putme.html",
     "audio": ""
   },
   {
@@ -3938,16 +4555,6 @@
     "composer": "Mack David/Martita",
     "score": "${baseUrl}/tunes/zWorld/MNO/MyJEy/MyJEy.pdf",
     "tab": "${baseUrl}/tunes/zWorld/MNO/MyJEy/MyJEyt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Ash Grove, The",
-    "from": "nigel-gatherer",
-    "genre": "Welsh",
-    "type": "Air",
-    "composer": "Llwyn Onn",
-    "score": "${baseUrl}/tunes/zWorld/ABC/AshGr/AshGr.pdf",
-    "tab": "",
     "audio": ""
   },
   {
@@ -7273,13 +7880,6 @@
     "tab": "${baseUrl}/tunes/W/WldRv/WldRvt.pdf",
     "audio": "${baseUrl}/tunes/W/WldRv/WldRv_M.mp3"
   },
-
-
-
-
-
-
-
   {
     "name": "Romanza",
     "from": "nigel-gatherer",
