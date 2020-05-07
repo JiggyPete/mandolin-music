@@ -3,12 +3,45 @@
   <head>
     <title>Mandolin Music</title>
     <style>
-      .content {
+      html, body {
+        height: 100%;
+      }
+
+      body {
         background: #F0F0F0;
+        margin: 0px;
+        padding: 0px;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .footer {
+        flex-shrink: 0;
+        margin-top: 8px;
+        height: 3rem;
+        color: rgb(85,96,118);
+        width: 100%;
+      }
+
+      .footer-items,a{
+        color: rgb(85,96,118);
+        text-decoration: none;
+        font-size: 14pt;
+        font-weight: 600;
+        margin-left: 2rem;
+      }
+
+      .footer-item {
+        margin-left: 8px;
+        padding-bottom: 80px;
+      }
+
+      .content {
+        flex: 1 0 auto;
         max-width: 33rem;
         margin: auto;
-        margin-top: 3rem;
-        font-family: 'Catamaran', sans-serif;
+        margin-top: 1rem;
+        font-family: 'Catamaran', sans-serif;;
       }
 
       .title {
@@ -110,6 +143,7 @@
         text-align: center;
         padding-top: 1em;
       }
+
     </style>
     <link href="https://fonts.googleapis.com/css2?family=ABeeZee&family=Catamaran:wght@500&family=Caveat:wght@700&display=swap" rel="stylesheet">
 
@@ -133,29 +167,42 @@
     <meta name="theme-color" content="#ffffff">
   </head>
 
-  <body class="content">
-    <div class="title">
-      <h1>Mandolin Music</h1>
-    </div>
-    <div class="header-icons">
-      <span class="mandolin-icon header-icon"></span>
-      <span class="treble-clef-icon header-icon"></span>
-      <span class="cassette-icon header-icon"></span>
+  <body >
+    <div class="content">
+      <div class="title">
+        <h1>Mandolin Music</h1>
+      </div>
+      <div class="header-icons">
+        <span class="mandolin-icon header-icon"></span>
+        <span class="treble-clef-icon header-icon"></span>
+        <span class="cassette-icon header-icon"></span>
+      </div>
+
+      <div id="search">
+        <input type="search" autofocus class="search--term" placeholder="Search for a song..." height="100px"></input>
+      </div>
+
+      <div id="suggestions">
+      </div>
+
+      <!-- <h2>Songs</h2> -->
+      <!-- <ul id="songs"></ul> -->
+
+      <script src="app/javascript/data.json"></script>
+      <script src="app/javascript/suggestions.js"></script>
+      <script src="app/javascript/search.js"></script>
+      <script src="app/javascript/all_songs.js"></script>
     </div>
 
-    <div id="search">
-      <input type="search" autofocus class="search--term" placeholder="Search for a song..." height="100px"></input>
-    </div>
-
-    <div id="suggestions">
-    </div>
-
-    <!-- <h2>Songs</h2> -->
-    <!-- <ul id="songs"></ul> -->
-
-    <script src="app/javascript/data.json"></script>
-    <script src="app/javascript/suggestions.js"></script>
-    <script src="app/javascript/search.js"></script>
-    <script src="app/javascript/all_songs.js"></script>
+     <footer class="footer">
+        <span class="footer-items">
+          <span class="footer-item">830 Songs</span>
+          <span class="footer-item">
+            <a href="https://twitter.com/jiggy_pete">
+              @jiggy_pete
+            </a>
+          </span>
+        </span>
+    </footer>
   </body>
 </html>
