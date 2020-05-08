@@ -184,19 +184,11 @@
 
       <div id="suggestions">
       </div>
-
-      <!-- <h2>Songs</h2> -->
-      <!-- <ul id="songs"></ul> -->
-
-      <script src="app/javascript/data.json"></script>
-      <script src="app/javascript/suggestions.js"></script>
-      <script src="app/javascript/search.js"></script>
-      <script src="app/javascript/all_songs.js"></script>
     </div>
 
      <footer class="footer">
         <span class="footer-items">
-          <span class="footer-item">890 Songs</span>
+          <span class="footer-item number-of-songs"></span>
           <span class="footer-item">
             <a href="https://twitter.com/jiggy_pete">
               @jiggy_pete
@@ -204,5 +196,17 @@
           </span>
         </span>
     </footer>
+
+    <script src="app/javascript/data.json"></script>
+    <script src="app/javascript/suggestions.js"></script>
+    <script src="app/javascript/search.js"></script>
+    <script src="app/javascript/all_songs.js"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+        var elements = document.getElementsByClassName("number-of-songs")
+        elements[0].textContent = data.length + " Songs"
+      });
+    </script>
+
   </body>
 </html>
