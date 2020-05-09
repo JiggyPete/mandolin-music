@@ -12,6 +12,14 @@ let matchesFor = function(searchTerm) {
   return results;
 }
 
+let isCurrentlyTypingThe = function(searchTerm) {
+  return ["th", "the", "the "].includes(searchTerm.toLowerCase()) && searchTerm.length <= 4;
+}
+
+let canPerformSearch = function(searchTerm) {
+  return searchTerm.length >= 2 && !isCurrentlyTypingThe(searchTerm);
+}
+
 document.addEventListener("DOMContentLoaded", function() {
   let searchTermField = document.getElementsByClassName("search--term")[0]
 
@@ -24,9 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
   searchTermField.addEventListener('input', function (event) {
-    if(searchTermField.value.length < 2) {
-      suggestions.clear()
-    } else {
+    if(canPerformSearch(searchTermField.value)) {
       let searchResults = matchesFor(searchTermField.value)
       if( searchResults.length == 0 ) {
         suggestions.clear()
@@ -34,6 +40,8 @@ document.addEventListener("DOMContentLoaded", function() {
       } else {
         suggestions.display(searchResults)
       }
+    } else {
+      suggestions.clear()
     }
   });
 });
