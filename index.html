@@ -33,7 +33,7 @@
 
       .footer-item {
         margin-left: 8px;
-        padding-bottom: 80px;
+        padding-bottom: 2em;
       }
 
       .content {
@@ -77,6 +77,34 @@
       }
       .mandolin-icon {
         content: url("app/images/mandolin.png");
+      }
+      .die-icon {
+        content: url("app/images/dice.png");
+        width: 4rem;
+        height: 4rem;
+        position: fixed;
+        top: 1rem;
+        left: 1rem;
+        cursor: pointer;
+      }
+
+      .die-icon:active  {
+        animation: dice-shake .6s ;
+        backface-visibility: hidden;
+        animation-iteration-count: 1;
+      }
+
+
+      @keyframes dice-shake {
+        0% { transform: rotate(0); }
+        15% { transform: rotate(20deg); }
+        30% { transform: rotate(-20deg); }
+        45% { transform: rotate(10deg); }
+        60% { transform: rotate(-10deg); }
+        75% { transform: rotate(5deg); }
+        85% { transform: rotate(-5deg); }
+        92% { transform: rotate(2deg); }
+        100% { transform: rotate(0); }
       }
 
       .header-icons {
@@ -168,6 +196,7 @@
   </head>
 
   <body >
+    <span class="random-song die-icon"></span>
     <div class="content">
       <div class="title">
         <h1>Mandolin Music</h1>
@@ -200,6 +229,7 @@
     <script src="app/javascript/data.json"></script>
     <script src="app/javascript/suggestions.js"></script>
     <script src="app/javascript/search.js"></script>
+    <script src="app/javascript/random_song.js"></script>
     <script src="app/javascript/all_songs.js"></script>
     <script>
       window.addEventListener('DOMContentLoaded', (event) => {

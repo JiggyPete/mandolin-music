@@ -5,6 +5,10 @@ suggestions = {
   displayNoResultsMessage: function() {
     this.suggestionsListElement().innerHTML = `<div class="no-suggestions">No matches found</div`
   },
+  displayAndFocus: function(song) {
+    this.display([song])
+    this.suggestionElements()[0].focus()
+  },
   display: function(songMatches) {
     this.clearChildren();
 
@@ -15,7 +19,7 @@ suggestions = {
       self.addSuggestionTo(element, song);
     })
 
-    this.addListenersTo(element.getElementsByClassName("suggestion") );
+    this.addListenersTo( this.suggestionElements() );
   },
   addListenersTo: function(suggestions) {
     self = this
@@ -48,7 +52,7 @@ suggestions = {
         nextElement.focus();
       }
     } else {
-      var suggestions = this.suggestionsListElement().getElementsByClassName("suggestion")
+      var suggestions = this.suggestionElements()
       if(suggestions.length > 0) {
         suggestions[0].focus();
       }
@@ -121,5 +125,8 @@ suggestions = {
 
   suggestionsListElement() {
     return document.getElementById("suggestions");
+  },
+  suggestionElements() {
+    return this.suggestionsListElement().getElementsByClassName("suggestion")
   }
 }
