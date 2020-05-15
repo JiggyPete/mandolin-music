@@ -13,7 +13,7 @@ let matchesFor = function(searchTerm) {
 }
 
 let isCurrentlyTypingThe = function(searchTerm) {
-  return ["th", "the", "the "].includes(searchTerm.toLowerCase()) && searchTerm.length <= 4;
+  return ["th", "the", "the ", "he"].includes(searchTerm.toLowerCase()) && searchTerm.length <= 4;
 }
 
 let canPerformSearch = function(searchTerm) {
