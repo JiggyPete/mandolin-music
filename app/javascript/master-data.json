@@ -2,6 +2,16 @@
 [
 
           {
+            "name": "Petronella",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/K/KateD/KateD.pdf",
+            "tab": "${baseUrl}/tunes/K/KateD/KateDt.pdf",
+            "audio": ""
+          },
+          {
             "name": "Reel Pays d'en Haut",
             "from": "nigel-gatherer",
             "genre": "Frech",
