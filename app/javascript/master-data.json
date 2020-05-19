@@ -2,6 +2,46 @@
 [
 
           {
+            "name": "Fanny Power",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "Turlough O'Carolan",
+            "score": "${baseUrl}/tunes/zCarolan/FanyP/FanyP.pdf",
+            "tab": "${baseUrl}/tunes/zCarolan/FanyP/FanyPt.pdf",
+            "audio": "${baseUrl}/tunes/zCarolan/FanyP/FanyP_H.mp3"
+          },
+          {
+            "name": "Miss Susan Cooper",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Reel",
+            "composer": "Ronnie Cooper",
+            "score": "",
+            "tab": "${baseUrl}/tunes/M/MsSuC/MsSuCto.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Calum Donaldson",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Reel",
+            "composer": "Ronnie Cooper",
+            "score": "",
+            "tab": "${baseUrl}/tunes/M/MsSuC/MsSuCto.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Bonnie Isle of Whalsay",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Reel",
+            "composer": "Ronnie Cooper",
+            "score": "",
+            "tab": "${baseUrl}/tunes/M/MsSuC/MsSuCto.pdf",
+            "audio": ""
+          },
+          {
             "name": "Petronella",
             "from": "nigel-gatherer",
             "genre": "",
@@ -9,7 +49,7 @@
             "composer": "",
             "score": "${baseUrl}/tunes/K/KateD/KateD.pdf",
             "tab": "${baseUrl}/tunes/K/KateD/KateDt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/K/KateD/KateD-Petro_M.mp3"
           },
           {
             "name": "Reel Pays d'en Haut",
@@ -3815,9 +3855,9 @@
     "genre": "",
     "type": "",
     "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab11/bbrag.html",
-    "audio": ""
+    "score": "${baseUrl}/tunes/zOld-Time/ABC/BBRag/BBRag.pdf",
+    "tab": "${baseUrl}/tunes/zOld-Time/ABC/BBRag/BBRagt.pdf",
+    "audio": "${baseUrl}/tunes/zOld-Time/ABC/BBRag/BBRag_M.mp3"
   },
   {
     "name": "Blackthorn Stick",
@@ -8207,9 +8247,9 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "Gordon Gunn",
-    "score": "${baseUrl}/tunes/O/Orkny/Orkny.pdf",
-    "tab": "",
-    "audio": "${baseUrl}/tunes/O/Orkny/Orkny_W.mp3"
+    "score": "${baseUrl}/tunes/zWorld/MNO/Orkny/Orkny.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/MNO/Orkny/Orknyt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/MNO/Orkny/Orkny_M.mp3"
   },
   {
     "name": "The Peat Fire Flame",
@@ -8316,8 +8356,8 @@
     "from": "nigel-gatherer",
     "genre": "Scottish",
     "type": "Air",
-    "composer": "",
-    "score": "",
+    "composer": "Sir Harold Boulton",
+    "score": "${baseUrl}/tunes/S/SkyeB/SkyeB.pdf",
     "tab": "${baseUrl}/tunes/S/SkyeB/SkyeBt.pdf",
     "audio": "${baseUrl}/tunes/S/SkyeB/SkyeB_M.mp3"
   },
@@ -8337,9 +8377,9 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "Gordon Duncan",
-    "score": "",
+    "score": "${baseUrl}/tunes/S/Sleep/Sleep.pdf",
     "tab": "${baseUrl}/tunes/S/Sleep/Sleept.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/S/Sleep/Sleep_M.mp3"
   },
   {
     "name": "All Around the Mountain",
