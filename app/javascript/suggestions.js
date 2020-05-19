@@ -80,6 +80,7 @@ suggestions = {
     let tab = this.buildSuggestionFor(song, "tab", "mandolin-icon");
     let score = this.buildSuggestionFor(song, "score", "treble-clef-icon")
     let audio = this.buildSuggestionFor(song, "audio", "cassette-icon")
+    let video = this.buildSuggestionFor(song, "video", "video-icon")
 
     return `<span class="suggestion" tabindex="0">
       ${this.buildNameSuggestionFor(song)}
@@ -87,6 +88,7 @@ suggestions = {
         ${tab}
         ${score}
         ${audio}
+        ${video}
       </span>
     </span>`
   },
@@ -111,11 +113,11 @@ suggestions = {
     }
   },
   buildSuggestionOutputFor(propertyName, propertyValue, iconClass) {
-    if( propertyValue == "" ) {
+    if( propertyValue == "" || propertyValue == undefined ) {
       return "<span></span>"
     }
 
-    result = `<span class="suggestion--${propertyName}">
+    result = `<span class="suggestion-link suggestion--${propertyName}">
       <a href="${propertyValue}" target="_blank" class="${iconClass} icon">
       </a>
     </span>`
