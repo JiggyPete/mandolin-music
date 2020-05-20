@@ -2,6 +2,28 @@
 [
 
           {
+            "name": "Tam Lin (The Glasgow Reel)",
+            "from": "",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "",
+            "tab": "https://www.mandolessons.com/wp-content/uploads/2015/04/The_Glasgow_Reel_Tam_Lin.pdf",
+            "audio": "",
+            "video": "https://www.mandolessons.com/lessons/fiddle-tunes/tam-lin-the-glasgow"
+          },
+          {
+            "name": "Night In That Land",
+            "from": "Duncan Chisholm",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "Johnny Cunningham",
+            "score": "https://thesession.org/tunes/8792",
+            "tab": "https://web.archive.org/web/20150911100616/http://mandolintab.net/tabs.php?name=Night%20In%20That%20Land&id=09651",
+            "audio": "",
+            "video": "https://www.youtube.com/watch?v=XHOfF_60Eek"
+          },
+          {
             "name": "Beth",
             "from": "Comandolin",
             "genre": "",
