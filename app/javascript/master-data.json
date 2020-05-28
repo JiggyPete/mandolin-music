@@ -2,6 +2,39 @@
 [
 
           {
+            "name": "Que Sera Sera",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Livingston/Evans",
+            "score": "",
+            "tab": "${baseUrl}/tunes/zMovies/PQR/QSera/QSerato.pdf",
+            "audio": "",
+            "video": ""
+          },
+          {
+            "name": "As Time Goes By",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Herman Hupfeld",
+            "score": "",
+            "tab": "${baseUrl}/tunes/zMovies/ABC/AsTGB/AsTGB_ogs.pdf",
+            "audio": "",
+            "video": ""
+          },
+          {
+            "name": "The Red Haired Boy",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RedHB/RedHB.pdf",
+            "tab": "${baseUrl}/tunes/R/RedHB/RedHBt.pdf",
+            "audio": "${baseUrl}/tunes/R/RedHB/RedHB_M.mp3",
+            "video": ""
+          },
+          {
             "name": "Tam Lin (The Glasgow Reel)",
             "from": "",
             "genre": "Scottish",
@@ -9501,22 +9534,6 @@
     "tab": "${baseUrl}/tunes/R/RakeM/RakeMt.pdf",
     "audio": "${baseUrl}/tunes/R/RakeM/RakeM_M.mp3"
   },
-
-
-  {
-    "name": "The Red Haired Boy",
-    "from": "nigel-gatherer",
-    "genre": "Irish",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/R/RakeK/RakeK.pdf",
-    "tab": "${baseUrl}/tunes/R/RakeK/RakeKt.pdf",
-    "audio": ""
-  },
-
-
-
-
   {
     "name": "Scottish Concerto",
     "from": "nigel-gatherer",
