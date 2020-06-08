@@ -2,6 +2,17 @@
 [
 
           {
+            "name": "My Cape Breton Home",
+            "from": "nigel-gatherer",
+            "genre": "Cape Breton",
+            "type": "Slow Air",
+            "composer": "Jerry Holland",
+            "score": "${baseUrl}/tunes/zCapeBreton/MNO/MyCBH/MyCBH.pdf",
+            "tab": "${baseUrl}/tunes/zCapeBreton/MNO/MyCBH/MyCBHt.pdf",
+            "audio": "${baseUrl}/tunes/zCapeBreton/MNO/MyCBH/MyCBH_M.mp3",
+            "video": ""
+          },
+          {
             "name": "Que Sera Sera",
             "from": "nigel-gatherer",
             "genre": "",
@@ -6867,7 +6878,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/L/LochT/LochT.pdf",
     "tab": "${baseUrl}/tunes/L/LochT/LochTt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/L/LochT/LochT-WhelH_M.mp3"
   },
   {
     "name": "The Man with Two Women",
@@ -7098,7 +7109,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/L/LochT/LochT.pdf",
     "tab": "${baseUrl}/tunes/L/LochT/LochTt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/L/LochT/LochT-WhelH_M.mp3"
   },
   {
     "name": "You're Welcome Home",
@@ -10364,7 +10375,17 @@
       "composer": "",
       "score": "${baseUrl}/tunes/M/MsGay/MsGay.pdf",
       "tab": "${baseUrl}/tunes/M/MsGay/MsGayt.pdf",
-      "audio": "${baseUrl}/tunes/M/MsGay/MsGay_M.mp3"
+      "audio": "${baseUrl}/tunes/M/MsGay/MsGay-CoopH_M.mp3"
+    },
+    {
+      "name": "Cooper's Hornpipe",
+      "from": "nigel-gatherer",
+      "genre": "Scottish",
+      "type": "Hornpipe",
+      "composer": "",
+      "score": "${baseUrl}/tunes/M/MsGay/MsGay.pdf",
+      "tab": "${baseUrl}/tunes/M/MsGay/MsGayt.pdf",
+      "audio": "${baseUrl}/tunes/M/MsGay/MsGay-CoopH_M.mp3"
     },
     {
      "name": "Morgan Magan",
