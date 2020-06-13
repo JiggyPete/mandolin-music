@@ -2,6 +2,17 @@
 [
 
           {
+            "name": "The 51st Highland Division",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "Donald MacLeod",
+            "score": "${baseUrl}/tunes/CCM/DEF/51stH/51stH.pdf",
+            "tab": "${baseUrl}/tunes/CCM/DEF/51stH/51stHt.pdf",
+            "audio": "${baseUrl}/tunes/CCM/DEF/51stH/51stH-Libty_M.mp3",
+            "video": ""
+          },
+          {
             "name": "My Cape Breton Home",
             "from": "nigel-gatherer",
             "genre": "Cape Breton",
@@ -1815,11 +1826,21 @@
             "name": "Princess Royal (7 Springs)",
             "from": "nigel-gatherer",
             "genre": "English",
-            "type": "",
+            "type": "Morris Dance",
             "composer": "",
-            "score": "${baseUrl}/tunes/zEngland/PQR/PrinR/PrinR.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/PQR/PrinR/PrinRt.pdf",
-            "audio": ""
+            "score": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT.pdf",
+            "tab": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FTt.pdf",
+            "audio": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT_M.mp3"
+          },
+          {
+            "name": "The Nutting Girl (Fieldtown)",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Morris Dance",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT.pdf",
+            "tab": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FTt.pdf",
+            "audio": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT_M.mp3"
           },
           {
             "name": "Reynardine",
