@@ -344,6 +344,8 @@ http://www.nigelgatherer.com/tunes/tunes/CCM/ABC/ComBH/ComBHu.pdf
 http://www.nigelgatherer.com/tunes/tunes/CCM/ABC/ComBH/ComBHw.pdf
 http://www.nigelgatherer.com/tunes/tunes/CCM/ABC/Count/Countu.pdf
 http://www.nigelgatherer.com/tunes/tunes/CCM/ABC/Cryin/Cryinu.pdf
+http://www.nigelgatherer.com/tunes/tunes/CCM/DEF/51stH/51stH.pdf
+http://www.nigelgatherer.com/tunes/tunes/CCM/DEF/51stH/51stHt.pdf
 http://www.nigelgatherer.com/tunes/tunes/CCM/DEF/8Days/8Daysu.pdf
 http://www.nigelgatherer.com/tunes/tunes/CCM/DEF/DaveW/DaveW.pdf
 http://www.nigelgatherer.com/tunes/tunes/CCM/DEF/DaveW/DaveWt.pdf
@@ -1478,6 +1480,7 @@ http://www.nigelgatherer.com/tunes/tunes/z1960s/JKL/LJetP/LJetPu.pdf
 http://www.nigelgatherer.com/tunes/tunes/z1960s/JKL/LPink/LPinku.pdf
 http://www.nigelgatherer.com/tunes/tunes/z1960s/MNO/MrTam/MrTam.pdf
 http://www.nigelgatherer.com/tunes/tunes/z1960s/MNO/MrTam/MrTamt.pdf
+http://www.nigelgatherer.com/tunes/tunes/z1960s/MNO/MustS/MustSu.pdf
 http://www.nigelgatherer.com/tunes/tunes/z1960s/STU/SoSil/SoSilw.pdf
 http://www.nigelgatherer.com/tunes/tunes/z1960s/STU/Sorow/Sorowu.pdf
 http://www.nigelgatherer.com/tunes/tunes/z1960s/STU/Stand/Standu.pdf
@@ -1821,8 +1824,10 @@ http://www.nigelgatherer.com/tunes/tunes/zEngland/MNO/OILMF/OILMFw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zEngland/MNO/OILMF/OILMFwh.pdf
 http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/Parth/Parth.pdf
 http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/Parth/Partht.pdf
-http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/PrinR/PrinR.pdf
-http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/PrinR/PrinRt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/PrinR/PR-7S.pdf
+http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/PrinR/PR-7St.pdf
+http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/PrinR/PR-FT.pdf
+http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/PrinR/PR-FTt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/PrsnF/PrsnF.pdf
 http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/Reynr/Reynr.pdf
 http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/Reynr/Reynrt.pdf
@@ -2554,6 +2559,7 @@ http://www.nigelgatherer.com/tunes/tunes/C/CawdF/CawdF-BHair_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/CennM/CennM-BBush_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/ChChC/ChChC_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/ChChL/ChChL_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/C/ChuSt/ChuSt-dec_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/CmYBA/CmYBA_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/CockN/CockN-MuckG_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/Coils/Coils_M.mp3
@@ -2570,6 +2576,7 @@ http://www.nigelgatherer.com/tunes/tunes/CCM/ABC/BothS/BothS.mp3
 http://www.nigelgatherer.com/tunes/tunes/CCM/ABC/Budap/Budap_U.mp3
 http://www.nigelgatherer.com/tunes/tunes/CCM/ABC/BurnC/BurnC_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/CCM/ABC/CastA/CastA-RIsle_W.mp3
+http://www.nigelgatherer.com/tunes/tunes/CCM/DEF/51stH/51stH-Libty_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/CCM/DEF/DaveW/DaveW.mp3
 http://www.nigelgatherer.com/tunes/tunes/CCM/DEF/EastG/EastG-WillC_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/CCM/DEF/FollH/FollH.mp3
@@ -2605,6 +2612,7 @@ http://www.nigelgatherer.com/tunes/tunes/E/EavsD/EavsD-BillC_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/E/EganP/EganP-Brtch_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/E/EganP/EganP_D_RyanP_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/E/EganP/EganP_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/E/Eibhl/Eibhl-dec_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/E/Eibhl/Eibhl_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FAthn/FAthn_U.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FFiun/FFiun_W.mp3
@@ -2636,6 +2644,7 @@ http://www.nigelgatherer.com/tunes/tunes/G/GerRg/GerRg-WWont_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GlasH/GlasH-CropS_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/H/HCass/HCass_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/H/HHome/HHome_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/H/HMant/HMant-dec_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/H/HMant/HMant_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/H/HPnch/HPnch_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/H/HTula/HTula-OCTtP_M.mp3
@@ -2765,6 +2774,7 @@ http://www.nigelgatherer.com/tunes/tunes/S/SkyeB/SkyeB_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/Sleep/Sleep_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/Smith/Smith_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/SoBrE/SoBrE-MchMH_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/S/SoJoy/SoJoy-s-f_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/SpanH/SpanH_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/SpanL/SpanL-LWatt_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/Spoot/Spoot-Willa_M.mp3
@@ -2944,6 +2954,8 @@ http://www.nigelgatherer.com/tunes/tunes/zEngland/GHI/IllGo/IllGo_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zEngland/JKL/JimAl/JimAl-HerdH_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zEngland/MNO/OILMF/OILMF_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/Parth/Parth_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/PrinR/PR-7S_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/PrinR/PR-FT_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zEngland/PQR/Reynr/Reynr_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zEngland/STU/ShepS/ShepS-MaidL_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zEngland/STU/SwtTh/SwtTh_M.mp3
