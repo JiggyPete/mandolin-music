@@ -2,6 +2,17 @@
 [
 
           {
+            "name": "A New Fangled Tango",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Tango",
+            "composer": "Matt Dubay / Harold Karr",
+            "score": "${baseUrl}/tunes/CCMtunes/zWorld/MNO/NewFT/NewFT.pdf",
+            "tab": "${baseUrl}/tunes/tunes/zWorld/MNO/NewFT/NewFTt.pdf",
+            "audio": "${baseUrl}/tunes/tunes/zWorld/MNO/NewFT/NewFT_M.mp3",
+            "video": ""
+          },
+          {
             "name": "The 51st Highland Division",
             "from": "nigel-gatherer",
             "genre": "Scottish",
