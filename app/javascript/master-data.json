@@ -2,6 +2,128 @@
 [
 
           {
+            "name": "Shalom Aleichem",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "Israel Goldfarb",
+            "score": "${baseUrl}/tunes/zWorld/STU/Shalm/Shalm.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/STU/Shalm/Shalmt.pdf",
+            "audio": "https://soundcloud.com/nigel-gatherer/07-shalom-aleichem-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+          {
+            "name": "Zemer Atik",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=8",
+            "audio": "https://soundcloud.com/nigel-gatherer/06-zemer-atik-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+          {
+            "name": "Ose Shalom",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/MNO/OseSh/OseSh.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/MNO/OseSh/OseSht.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/MNO/OseSh/OseSh_M.mp3",
+            "video": ""
+          },
+          {
+            "name": "Orientalische Melody",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=7",
+            "audio": "https://soundcloud.com/nigel-gatherer/08-orientalische-melody-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+          {
+            "name": "Hava Nagila",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=6",
+            "audio": "https://soundcloud.com/nigel-gatherer/09-hava-nagila-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+          {
+            "name": "Freylekh Zain",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/DEF/FreyZ/FreyZ.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/DEF/FreyZ/FreyZt.pdf",
+            "audio": "https://soundcloud.com/nigel-gatherer/04-freylekh-zain-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+          {
+            "name": "Bei Mir Bistu Shein",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=5",
+            "audio": "https://soundcloud.com/nigel-gatherer/03-bei-mir-bistu-shein-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+          {
+            "name": "Siman Tov",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/MNO/OdYsh/OdYsh.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/MNO/OdYsh/OdYsht.pdf",
+            "audio": "https://soundcloud.com/nigel-gatherer/10-siman-tov-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+          {
+            "name": "Mazel Tov",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=4",
+            "audio": "https://soundcloud.com/nigel-gatherer/02-mazel-tov-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+          {
+            "name": "Dance From Maramaros",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=3",
+            "audio": "https://soundcloud.com/nigel-gatherer/13-dance-from-maramaros-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+          {
+            "name": "Sachaki",
+            "from": "nigel-gatherer",
+            "genre": "Eastern European",
+            "type": "Klezmer",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/STU/ShaSh/ShaSh.pdf",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=3",
+            "audio": "https://soundcloud.com/nigel-gatherer/01-sachaki-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
+            "video": ""
+          },
+
+          {
             "name": "Zorba's Dance",
             "from": "nigel-gatherer",
             "genre": "Greek",
@@ -12,7 +134,6 @@
             "audio": "https://soundcloud.com/nigel-gatherer/12-zorbas-dance?in=nigel-gatherer/sets/mm08-greek-music",
             "video": ""
           },
-
           {
             "name": "Karagouna",
             "from": "nigel-gatherer",
@@ -2651,16 +2772,6 @@
     "score": "${baseUrl}/tunes/D/DenMP/DenMP.pdf",
     "tab": "${baseUrl}/tunes/D/DenMP/DenMPt.pdf",
     "audio": "${baseUrl}/tunes/D/DenMP/DenMP-RyanP_M.mp3"
-  },
-  {
-    "name": "Orientalische Melody",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTv2.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTvt2.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTv2_M.mp3"
   },
   {
     "name": "Battle Hymn of the Republic",
@@ -6140,16 +6251,6 @@
     "audio": "${baseUrl}/tunes/zWorld/DEF/DonaD/DonaD_M.mp3"
   },
   {
-    "name": "Freylekh Zain",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/DEF/FreyZ/FreyZ.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/FreyZ/FreyZt.pdf",
-    "audio": ""
-  },
-  {
     "name": "Im Eshkachech",
     "from": "nigel-gatherer",
     "genre": "",
@@ -6189,26 +6290,6 @@
     "audio": ""
   },
   {
-    "name": "Ose Shalom",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/OseSh/OseSh.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/OseSh/OseSht.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/OseSh/OseSh_M.mp3"
-  },
-  {
-    "name": "Sachaki",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/ShaSh/ShaSh.pdf",
-    "tab": "",
-    "audio": ""
-  },
-  {
     "name": "Sha Shtil",
     "from": "nigel-gatherer",
     "genre": "",
@@ -6216,26 +6297,6 @@
     "composer": "",
     "score": "${baseUrl}/tunes/zWorld/STU/ShaSh/ShaSh.pdf",
     "tab": "",
-    "audio": ""
-  },
-  {
-    "name": "Shalom Aleichem",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "Israel Goldfarb",
-    "score": "${baseUrl}/tunes/zWorld/STU/Shalm/Shalm.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/Shalm/Shalmt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Siman Tov",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "Hebrew wedding tune",
-    "score": "${baseUrl}/tunes/zWorld/MNO/OdYsh/OdYsh.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/OdYsh/OdYsht.pdf",
     "audio": ""
   },
   {
