@@ -2,6 +2,139 @@
 [
 
           {
+            "name": "Itele",
+            "from": "nigel-gatherer",
+            "genre": "Romania",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=14",
+            "audio": "https://soundcloud.com/nigel-gatherer/12-itele?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Kulsko Horo",
+            "from": "nigel-gatherer",
+            "genre": "Bulgaria",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=13",
+            "audio": "https://soundcloud.com/nigel-gatherer/11-kulsko-horo?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Bufchansko",
+            "from": "nigel-gatherer",
+            "genre": "Macedonia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=12",
+            "audio": "https://soundcloud.com/nigel-gatherer/10-bufchansko?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Cerdetshni",
+            "from": "nigel-gatherer",
+            "genre": "Russia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=11",
+            "audio": "https://soundcloud.com/nigel-gatherer/09-cerdetshni?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Ambee Dageets",
+            "from": "nigel-gatherer",
+            "genre": "Armenia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=10",
+            "audio": "https://soundcloud.com/nigel-gatherer/08-ambee-dageets?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Cocek Kursturica",
+            "from": "nigel-gatherer",
+            "genre": "Serbia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=9",
+            "audio": "https://soundcloud.com/nigel-gatherer/07-cocek-kursturica?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Hai Zumba Zei",
+            "from": "nigel-gatherer",
+            "genre": "Lithuania",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=8",
+            "audio": "https://soundcloud.com/nigel-gatherer/06-polonez-warszawski?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Polonez Warszawski",
+            "from": "nigel-gatherer",
+            "genre": "Poland",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=7",
+            "audio": "https://soundcloud.com/nigel-gatherer/05-polonez-warszawski?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Lithuanian Polka",
+            "from": "nigel-gatherer",
+            "genre": "Lithuania",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=6",
+            "audio": "https://soundcloud.com/nigel-gatherer/04-lithuanian-polka?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Ali Pasa",
+            "from": "nigel-gatherer",
+            "genre": "Armenia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=5",
+            "audio": "https://soundcloud.com/nigel-gatherer/03-ali-pasa?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Drmes Iz Zdencine",
+            "from": "nigel-gatherer",
+            "genre": "Croatia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=4",
+            "audio": "https://soundcloud.com/nigel-gatherer/02-drmes-iz-zdencine?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Promoroaca",
+            "from": "nigel-gatherer",
+            "genre": "Romania",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=3",
+            "audio": "https://soundcloud.com/nigel-gatherer/01-promoroaca?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+
+          {
             "name": "Shalom Aleichem",
             "from": "nigel-gatherer",
             "genre": "Eastern European",
@@ -4275,16 +4408,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab6/cenn.html",
-    "audio": ""
-  },
-  {
-    "name": "Cerdetshni",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/abc/abc2/cerd.abc",
     "audio": ""
   },
   {
