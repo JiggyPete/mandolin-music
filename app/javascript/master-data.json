@@ -2,6 +2,74 @@
 [
 
           {
+            "name": "Zorba's Dance",
+            "from": "nigel-gatherer",
+            "genre": "Greek",
+            "type": "",
+            "composer": "Mikis Theodorakis",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=14",
+            "audio": "https://soundcloud.com/nigel-gatherer/12-zorbas-dance?in=nigel-gatherer/sets/mm08-greek-music",
+            "video": ""
+          },
+
+          {
+            "name": "Karagouna",
+            "from": "nigel-gatherer",
+            "genre": "Greek",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=10",
+            "audio": "https://soundcloud.com/nigel-gatherer/08-karagouna?in=nigel-gatherer/sets/mm08-greek-music",
+            "video": ""
+          },
+          {
+            "name": "I Petra",
+            "from": "nigel-gatherer",
+            "genre": "Greek",
+            "type": "",
+            "composer": "Manos Hadjidakis",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=9",
+            "audio": "https://soundcloud.com/nigel-gatherer/07-i-petra?in=nigel-gatherer/sets/mm08-greek-music",
+            "video": ""
+          },
+          {
+            "name": "Minore Tis Avgis",
+            "from": "nigel-gatherer",
+            "genre": "Greek",
+            "type": "",
+            "composer": "Spyros Peristeris",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=8",
+            "audio": "https://soundcloud.com/nigel-gatherer/06-minore-tis-avgis?in=nigel-gatherer/sets/mm08-greek-music",
+            "video": ""
+          },
+          {
+            "name": "Tsamikos",
+            "from": "nigel-gatherer",
+            "genre": "Greek",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=7",
+            "audio": "https://soundcloud.com/nigel-gatherer/05-tsamikos?in=nigel-gatherer/sets/mm08-greek-music",
+            "video": ""
+          },
+
+          {
+            "name": "Kritikos Syrtos",
+            "from": "nigel-gatherer",
+            "genre": "Greek",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=5",
+            "audio": "https://soundcloud.com/nigel-gatherer/03-kritikos-syrtos?in=nigel-gatherer/sets/mm08-greek-music",
+            "video": ""
+          },
+          {
             "name": "A New Fangled Tango",
             "from": "nigel-gatherer",
             "genre": "",
@@ -2039,9 +2107,9 @@
             "genre": "Greek",
             "type": "",
             "composer": "Stavros Xarhakos",
-            "score": "${baseUrl}/",
+            "score": "",
             "tab": "${baseUrl}/tunes/zWorld/STU/StouD/StouDt.pdf",
-            "audio": "${baseUrl}/MISSING MP3"
+            "audio": "https://soundcloud.com/nigel-gatherer/11-stou-delivoria?in=nigel-gatherer/sets/mm08-greek-music"
           },
           {
             "name": "Tiritomba",
@@ -5879,7 +5947,7 @@
     "composer": "Mikis Theodorakis",
     "score": "",
     "tab": "${baseUrl}/tunes/zWorld/DEF/DoxaT/DoxaTt.pdf",
-    "audio": ""
+    "audio": "https://soundcloud.com/nigel-gatherer/01-doxa-to-theo?in=nigel-gatherer/sets/mm08-greek-music"
   },
   {
     "name": "I Mirei",
@@ -5888,8 +5956,8 @@
     "type": "",
     "composer": "Mikis Theodorakis",
     "score": "",
-    "tab": "${baseUrl}/tunes/zWorld/GHI/IMiri/IMirit.pdf",
-    "audio": ""
+    "tab": "${baseUrl}/tunes/zWorld/GHI/Imiri/IMirit.pdf",
+    "audio": "https://soundcloud.com/nigel-gatherer/10-i-mirei?in=nigel-gatherer/sets/mm08-greek-music"
   },
   {
     "name": "Never On Sunday",
@@ -5899,7 +5967,7 @@
     "composer": "Manos Hadjidakis",
     "score": "${baseUrl}/tunes/zWorld/MNO/Never/Never.pdf",
     "tab": "${baseUrl}/tunes/zWorld/MNO/Never/Nevert.pdf",
-    "audio": ""
+    "audio": "https://soundcloud.com/nigel-gatherer/04-never-on-sunday?in=nigel-gatherer/sets/mm08-greek-music"
   },
   {
     "name": "Perigiali",
@@ -5909,17 +5977,17 @@
     "composer": "Mikis Theodorakis",
     "score": "",
     "tab": "${baseUrl}/tunes/zWorld/DEF/DoxaT/DoxaTt.pdf",
-    "audio": ""
+    "audio": "https://soundcloud.com/nigel-gatherer/09-perigiali?in=nigel-gatherer/sets/mm08-greek-music"
   },
   {
-    "name": "Romios Agapise Romia",
+    "name": "Romio Agapise Romia",
     "from": "nigel-gatherer",
     "genre": "Greek",
     "type": "",
     "composer": "Giorgos Zampetas",
     "score": "",
     "tab": "${baseUrl}/tunes/zWorld/PQR/Romio/Romiot.pdf",
-    "audio": ""
+    "audio": "https://soundcloud.com/nigel-gatherer/02-romio-agapise-romia?in=nigel-gatherer/sets/mm08-greek-music"
   },
   {
     "name": "White Rose of Athens",
