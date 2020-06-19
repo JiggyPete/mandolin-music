@@ -2,6 +2,29 @@
 [
 
           {
+            "name": "Captain Francis Wemyss",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "",
+            "score": "${baseUrl}/tunes/C/CapFW/CapFW.pdf",
+            "tab": "${baseUrl}/tunes/C/CapFW/CapFWt.pdf",
+            "audio": "${baseUrl}/tunes/C/CapFW/CapFW-MrsFW_M.mp3",
+            "video": ""
+          },
+          {
+            "name": "Mrs Francis Wemyss",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/C/CapFW/CapFW.pdf",
+            "tab": "${baseUrl}/tunes/C/CapFW/CapFWt.pdf",
+            "audio": "${baseUrl}/tunes/C/CapFW/CapFW-MrsFW_M.mp3",
+            "video": ""
+          },
+
+          {
             "name": "Itele",
             "from": "nigel-gatherer",
             "genre": "Romania",
@@ -3545,9 +3568,9 @@
     "genre": "Scottish",
     "type": "Polka",
     "composer": "",
-    "score": "${baseUrl}/tunes/CCM/GHI/GlenP/GlenP.pdf",
-    "tab": "${baseUrl}/tunes/CCM/GHI/GlenP/GlenPt.pdf",
-    "audio": "${baseUrl}/tunes/CCM/GHI/GlenP/GlenP_W.mp3"
+    "score": "${baseUrl}/tunes/G/GlenP/GlenP.pdf",
+    "tab": "${baseUrl}/tunes/G/GlenP/GlenPt.pdf",
+    "audio": "${baseUrl}/tunes/G/GlenP/GlenP_W.mp3"
   },
   {
     "name": "The Flower o' the Quern",
@@ -5236,9 +5259,9 @@
     "genre": "",
     "type": "Waltz",
     "composer": "Benny Thomasson",
-    "score": "${baseUrl}/tunes/M/MaggM/MaggM.pdf",
-    "tab": "${baseUrl}/tunes/M/MaggM/MaggMt.pdf",
-    "audio": "${baseUrl}/tunes/M/MaggM/MagtW-MidnW_M.mp3"
+    "score": "${baseUrl}/tunes//zOld-Time/MNO/MidnW/MidnW.pdf",
+    "tab": "${baseUrl}/tunes/zOld-Time/MNO/MidnW/MidnWt.pdf",
+    "audio": "${baseUrl}/tunes/zOld-Time/MNO/MidnW/MidnW-dec_M.mp3"
   },
   {
     "name": "Michael's Mazurka",
@@ -8620,7 +8643,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/P/PeatF/PeatF.pdf",
     "tab": "${baseUrl}/tunes/P/PeatF/PeatFt.pdf",
-    "audio": "${baseUrl}/tunes/P/PeatF/PeatF_M.mp3"
+    "audio": "${baseUrl}/tunes/P/PeatF/PeatF-IslnD_M.mp3"
   },
   {
     "name": "Island Dance",
@@ -8630,7 +8653,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/P/PeatF/PeatF.pdf",
     "tab": "${baseUrl}/tunes/P/PeatF/PeatFt.pdf",
-    "audio": "${baseUrl}/tunes/P/PeatF/PeatF_M.mp3"
+    "audio": "${baseUrl}/tunes/P/PeatF/PeatF-IslnD_M.mp3"
   },
   {
     "name": "Port Lenox",
