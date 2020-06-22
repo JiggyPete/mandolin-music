@@ -353,8 +353,8 @@
             "type": "Tango",
             "composer": "Matt Dubay / Harold Karr",
             "score": "${baseUrl}/tunes/CCMtunes/zWorld/MNO/NewFT/NewFT.pdf",
-            "tab": "${baseUrl}/tunes/tunes/zWorld/MNO/NewFT/NewFTt.pdf",
-            "audio": "${baseUrl}/tunes/tunes/zWorld/MNO/NewFT/NewFT_M.mp3",
+            "tab": "${baseUrl}/tunes/zWorld/MNO/NewFT/NewFTt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/MNO/NewFT/NewFT_M.mp3",
             "video": ""
           },
           {
