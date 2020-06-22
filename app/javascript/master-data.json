@@ -2,6 +2,28 @@
 [
 
           {
+            "name": "The Gentle Light that Wakes Me",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Phil Cunningham",
+            "score": "${baseUrl}/tunes/G/GentL/GentL.pdf",
+            "tab": "${baseUrl}/tunes/G/GentL/GentLt.pdf",
+            "audio": "${baseUrl}/tunes/G/GentL/GentL_M.mp3",
+            "video": ""
+          },
+          {
+            "name": "Wayfairing Stranger",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zOld-Time/VWXYZ/WayfS/WayfS.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/VWXYZ/WayfS/WayfSt.pdf",
+            "audio": "${baseUrl}/tunes/C/CapFW/CapFW-MrsFW_M.mp3",
+            "video": "https://www.youtube.com/watch?v=gIlbZAP8ASQ"
+          },
+          {
             "name": "Captain Francis Wemyss",
             "from": "nigel-gatherer",
             "genre": "Scottish",
