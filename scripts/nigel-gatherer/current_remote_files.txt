@@ -691,6 +691,11 @@ http://www.nigelgatherer.com/tunes/tunes/G/Gathg/Gathgc.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/Gathg/Gathgt.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/Gathg/Gathgu.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/Gathg/Gathgw.pdf
+http://www.nigelgatherer.com/tunes/tunes/G/GentL/GentL.pdf
+http://www.nigelgatherer.com/tunes/tunes/G/GentL/GentLc.pdf
+http://www.nigelgatherer.com/tunes/tunes/G/GentL/GentLt.pdf
+http://www.nigelgatherer.com/tunes/tunes/G/GentL/GentLu.pdf
+http://www.nigelgatherer.com/tunes/tunes/G/GentL/GentLw.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/GerRg/GerRg.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/GerRg/GerRgt.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/GirlB/GirlBt.pdf
@@ -1682,7 +1687,10 @@ http://www.nigelgatherer.com/tunes/tunes/zCarolan/OdeWh/OdeWht.pdf
 http://www.nigelgatherer.com/tunes/tunes/zCarolan/OdeWh/OdeWhu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zCarolan/OdeWh/OdeWhw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zCarolan/PIrwn/PIrwn.pdf
+http://www.nigelgatherer.com/tunes/tunes/zCarolan/PIrwn/PIrwnc.pdf
+http://www.nigelgatherer.com/tunes/tunes/zCarolan/PIrwn/PIrwng.pdf
 http://www.nigelgatherer.com/tunes/tunes/zCarolan/PIrwn/PIrwnt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zCarolan/PIrwn/PIrwnu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zCarolan/PIrwn/PIrwnw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zCarolan/Sheeb/Sheeb.pdf
 http://www.nigelgatherer.com/tunes/tunes/zCarolan/Sheeb/Sheebt.pdf
@@ -2074,6 +2082,8 @@ http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWDt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWDu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WalkP/WalkP.pdf
 http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WalkP/WalkPt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WayfS/WayfS.pdf
+http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WayfS/WayfSt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WhenS/WhenSt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Mandolin/M-AR-1t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Mandolin/M-AR-2t.pdf
@@ -2661,6 +2671,7 @@ http://www.nigelgatherer.com/tunes/tunes/F/FwCrk/FwCrk_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GSkye/GSkye-YellC_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GalwH/GalwH_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/Gathg/Gathg-SoupD_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/G/GentL/GentL_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GerRg/GerRg-WWont_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GlasH/GlasH-CropS_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GlenP/GlenP_W.mp3
@@ -3040,6 +3051,8 @@ http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/SnapB/SnapB_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWA_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWD_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WalkP/WalkP_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WayfS/WayfS-dec_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WayfS/WayfS_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Mandolin/M-DE/YellH_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Mandolin/M-DS/M-DS-2t.mp3
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Mandolin/M-HA/ChorT_M.mp3
