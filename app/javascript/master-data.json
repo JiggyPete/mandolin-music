@@ -3097,9 +3097,9 @@
     "genre": "",
     "type": "",
     "composer": "Turlough O'Carolan",
-    "score": "${baseUrl}/tunes/zCarolan/OdeWh/OdeWh.pdf",
-    "tab": "${baseUrl}/tunes/zCarolan/OdeWh/OdeWht.pdf",
-    "audio": "${baseUrl}/tunes/zCarolan/OdeWh/OdeWh.mp3"
+    "score": "${baseUrl}/tunes/O/OdeWh/OdeWh.pdf",
+    "tab": "${baseUrl}/tunes/O/OdeWh/OdeWht.pdf",
+    "audio": "${baseUrl}/tunes/O/OdeWh/OdeWh.mp3"
   },
   {
     "name": "Saint Anne's Reel",
