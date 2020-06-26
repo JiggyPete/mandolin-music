@@ -3801,7 +3801,7 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "Carolina Oliphant",
-    "score": "",
+    "score": "${baseUrl}/tunes/1-9/100Pp/100Pp.pdf",
     "tab": "${baseUrl}/tunes/1-9/100Pp/100Ppt.pdf",
     "audio": "${baseUrl}/tunes/1-9/100Pp/100Pp_M.mp3"
   },
