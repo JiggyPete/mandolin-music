@@ -10420,9 +10420,9 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/zCarolan/ConMg/ConMg.pdf",
-      "tab": "${baseUrl}/tunes/zCarolan/ConMg/ConMgt.pdf",
-      "audio": ""
+      "score": "${baseUrl}/tunes/C/ConMg/ConMg.pdf",
+      "tab": "${baseUrl}/tunes/C/ConMg/ConMgt.pdf",
+      "audio": "${baseUrl}/tunes/C/ConMg/ConMg_M.mp3"
     },
     {
       "name": "Cropie's Strathspey",
