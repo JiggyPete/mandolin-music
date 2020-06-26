@@ -10866,8 +10866,8 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/zCarolan/Sheeb/Sheeb.pdf",
-      "tab": "${baseUrl}/tunes/zCarolan/Sheeb/Sheebt.pdf",
+      "score": "${baseUrl}/tunes/S/Sheeb/Sheeb.pdf",
+      "tab": "${baseUrl}/tunes/S/Sheeb/Sheebt.pdf",
       "audio": ""
     },
     {
