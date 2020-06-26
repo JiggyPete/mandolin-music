@@ -6669,13 +6669,23 @@
   },
 
   {
-    "name": "Auld Resting Chair, Da",
+    "name": "Da Auld Resting Chair",
     "from": "nigel-gatherer",
     "genre": "Shetland",
     "type": "Air",
     "composer": "Tom Anderson",
     "score": "${baseUrl}/tunes/A/AulRC/AulRC.pdf",
     "tab": "${baseUrl}/tunes/A/AulRC/AulRCt.pdf",
+    "audio": "${baseUrl}/tunes/A/AulRC/AulRC.mp3"
+  },
+  {
+    "name": "Da Auld Resting Chair (Double Stops)",
+    "from": "nigel-gatherer",
+    "genre": "Shetland",
+    "type": "Air",
+    "composer": "Tom Anderson",
+    "score": "${baseUrl}/tunes/A/AulRC/AulRC2.pdf",
+    "tab": "${baseUrl}/tunes/A/AulRC/AulRC2t.pdf",
     "audio": "${baseUrl}/tunes/A/AulRC/AulRC.mp3"
   },
   {
