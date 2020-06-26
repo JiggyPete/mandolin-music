@@ -10662,8 +10662,8 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/zCarolan/MOCon/MOCon.pdf",
-      "tab": "${baseUrl}/tunes/zCarolan/MOCon/MOCont.pdf",
+      "score": "${baseUrl}/tunes/M/MOCon/MOCon.pdf",
+      "tab": "${baseUrl}/tunes/M/MOCon/MOCont.pdf",
       "audio": ""
     },
     {
