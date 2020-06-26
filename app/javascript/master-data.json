@@ -1,6 +1,16 @@
 `
 [
-
+          {
+            "name": "Lord Lovat's Lament",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "",
+            "score": "${baseUrl}/tunes/CCM/JKL/LLovt/LLovt.pdf",
+            "tab": "${baseUrl}/tunes/CCM/JKL/LLovt/LLovtt.pdf",
+            "audio": "${baseUrl}/tunes/CCM/JKL/LLovt/LLovt-51HDv_M.mp3",
+            "video": ""
+          },
           {
             "name": "The Gentle Light that Wakes Me",
             "from": "nigel-gatherer",
