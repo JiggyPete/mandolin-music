@@ -776,9 +776,9 @@
             "genre": "Scottish",
             "type": "Jig",
             "composer": "Alexander MacKay",
-            "score": "${baseUrl}/tunes/SSS/69-HilsG/69-HilsG.pdf",
-            "tab": "${baseUrl}/tunes/SSS/69-HilsG/69-HilsGt.pdf",
-            "audio": "${baseUrl}/tunes/SSS/69-HilsG/69-HilsG.mp3"
+            "score": "${baseUrl}/tunes/H/HilGO/HilGO.pdf",
+            "tab": "${baseUrl}/tunes/H/HilGO/HilGOt.pdf",
+            "audio": "${baseUrl}/tunes/H/HilGO/HilGO-WalkF_M.mp3"
           },
           {
             "name": "Walking the Floor",
@@ -786,9 +786,9 @@
             "genre": "Scottish",
             "type": "Air",
             "composer": "Jack Chisholm",
-            "score": "${baseUrl}/tunes/SSS/69-HilsG/69-HilsG.pdf",
-            "tab": "${baseUrl}/tunes/SSS/69-HilsG/69-HilsGt.pdf",
-            "audio": "${baseUrl}/tunes/SSS/69-HilsG/69-HilsG.mp3"
+            "score": "${baseUrl}/tunes/H/HilGO/HilGO.pdf",
+            "tab": "${baseUrl}/tunes/H/HilGO/HilGOt.pdf",
+            "audio": "${baseUrl}/tunes/H/HilGO/HilGO-WalkF_M.mp3"
           },
 
           {
@@ -1042,7 +1042,7 @@
             "audio": ""
           },
           {
-            "name": "Lady Glenorchy’s Reel",
+            "name": "Lady Glenorchy's Reel",
             "from": "nigel-gatherer",
             "genre": "Scottish",
             "type": "Reel",
@@ -4983,16 +4983,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab11/hskip.html",
-    "audio": ""
-  },
-  {
-    "name": "Hills of Glenorchy",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab2/glen.html",
     "audio": ""
   },
   {
