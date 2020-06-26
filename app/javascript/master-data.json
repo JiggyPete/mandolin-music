@@ -483,9 +483,9 @@
             "genre": "Irish",
             "type": "",
             "composer": "Turlough O'Carolan",
-            "score": "${baseUrl}/tunes/zCarolan/FanyP/FanyP.pdf",
-            "tab": "${baseUrl}/tunes/zCarolan/FanyP/FanyPt.pdf",
-            "audio": "${baseUrl}/tunes/zCarolan/FanyP/FanyP_H.mp3"
+            "score": "${baseUrl}/tunes/F/FanyP/FanyP.pdf",
+            "tab": "${baseUrl}/tunes/F/FanyP/FanyPt.pdf",
+            "audio": "${baseUrl}/tunes/F/FanyP/FanyP_H.mp3"
           },
           {
             "name": "Miss Susan Cooper",
