@@ -1429,8 +1429,8 @@
             "genre": "Scottish",
             "type": "Air",
             "composer": "",
-            "score": "${baseUrl}/tunes/W/WNAwa/WNAwa.pdf",
-            "tab": "${baseUrl}/tunes/W/WNAwa/WNAwat.pdf",
+            "score": "${baseUrl}/tunes/CCM/VWXYZ/WNAwa/WNAwa.pdf",
+            "tab": "${baseUrl}/tunes/CCM/VWXYZ/WNAwa/WNAwat.pdf",
             "audio": "${baseUrl}/tunes/W/WNAwa/WNAwa_M.mp3"
           },
           {
@@ -5943,16 +5943,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab8/twstb.html",
-    "audio": ""
-  },
-  {
-    "name": "We're No' Awa Tae Bide Awa",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab8/wrno.html",
     "audio": ""
   },
   {
