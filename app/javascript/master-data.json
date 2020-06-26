@@ -3087,9 +3087,9 @@
     "genre": "",
     "type": "",
     "composer": "Turlough O'Carolan",
-    "score": "${baseUrl}/tunes/zCarolan/SirCC/SirCC.pdf",
-    "tab": "${baseUrl}/tunes/zCarolan/SirCC/SirCCt.pdf",
-    "audio": "${baseUrl}/tunes/zCarolan/SirCC/SirCC_M.mp3"
+    "score": "${baseUrl}/tunes/S/SirCC/SirCC.pdf",
+    "tab": "${baseUrl}/tunes/S/SirCC/SirCCt.pdf",
+    "audio": "${baseUrl}/tunes/S/SirCC/SirCC_M.mp3"
   },
   {
     "name": "Ode to Whisky",
