@@ -10410,9 +10410,9 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/zCarolan/CDraf/CDraf.pdf",
-      "tab": "${baseUrl}/tunes/zCarolan/CDraf/CDraft.pdf",
-      "audio": "${baseUrl}/tunes/zCarolan/CDraf/CDraf_W.mp3"
+      "score": "${baseUrl}/tunes/C/CDraf/CDraf.pdf",
+      "tab": "${baseUrl}/tunes/C/CDraf/CDraft.pdf",
+      "audio": "${baseUrl}/tunes/C/CDraf/CDraf_W.mp3"
     },
     {
       "name": "Constantine Maguire",
