@@ -10400,9 +10400,9 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/zCarolan/CConc/CConc.pdf",
-      "tab": "${baseUrl}/tunes/zCarolan/CConc/CConct.pdf",
-      "audio": "${baseUrl}/tunes/zCarolan/CConc/CConc_M.mp3"
+      "score": "${baseUrl}/tunes/C/CConc/CConc.pdf",
+      "tab": "${baseUrl}/tunes/C/CConc/CConct.pdf",
+      "audio": "${baseUrl}/tunes/C/CConc/CConc_M.mp3"
     },
     {
       "name": "Carolan's Draught",
