@@ -10814,9 +10814,9 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/zCarolan/PIrwn/PIrwn.pdf",
-      "tab": "${baseUrl}/tunes/zCarolan/PIrwn/PIrwnt.pdf",
-      "audio": "${baseUrl}/tunes/zCarolan/PIrwn/PIrwn_M.mp3"
+      "score": "${baseUrl}/tunes/P/PIrwn/PIrwn.pdf",
+      "tab": "${baseUrl}/tunes/P/PIrwn/PIrwnt.pdf",
+      "audio": "${baseUrl}/tunes/P/PIrwn/PIrwn_M.mp3"
     },
     {
       "name": "The Rigs o' Barley",
