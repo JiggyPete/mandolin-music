@@ -10722,9 +10722,9 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/zCarolan/MorgM/MorgM.pdf",
-      "tab": "${baseUrl}/tunes/zCarolan/MorgM/MorgMt.pdf",
-      "audio": "${baseUrl}/tunes/zCarolan/MorgM/MorgM_W.mp3"
+      "score": "${baseUrl}/tunes/M/MorgM/MorgM.pdf",
+      "tab": "${baseUrl}/tunes/M/MorgM/MorgMt.pdf",
+      "audio": "${baseUrl}/tunes/M/MorgM/MorgM_W.mp3"
     },
     {
       "name": "Muskrat Ramble",
@@ -10763,9 +10763,9 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/zCarolan/ORouF/ORouF.pdf",
-      "tab": "${baseUrl}/tunes/zCarolan/ORouF/ORouFt.pdf",
-      "audio": "${baseUrl}/tunes/zCarolan/ORouF/ORouF_W.mp3"
+      "score": "${baseUrl}/tunes/O/ORouF/ORouF.pdf",
+      "tab": "${baseUrl}/tunes/O/ORouF/ORouFt.pdf",
+      "audio": "${baseUrl}/tunes/O/ORouF/ORouF_W.mp3"
     },
     {
       "name": "The Old Spinning Wheel",
