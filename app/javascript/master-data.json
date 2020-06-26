@@ -10341,9 +10341,9 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/zCarolan/BMary/BMary.pdf",
-      "tab": "${baseUrl}/tunes/zCarolan/BMary/BMaryt.pdf",
-      "audio": "${baseUrl}/tunes/zCarolan/BMary/BMary_W.mp3"
+      "score": "${baseUrl}/tunes/B/BMary/BMary.pdf",
+      "tab": "${baseUrl}/tunes/B/BMary/BMaryt.pdf",
+      "audio": "${baseUrl}/tunes/B/BMary/BMary_M.mp3"
     },
     {
       "name": "Bluegrass Stomp",
