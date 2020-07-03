@@ -38,7 +38,9 @@ http://www.nigelgatherer.com/tunes/tunes/A/AikDr/ADrum2w.pdf
 http://www.nigelgatherer.com/tunes/tunes/A/AikDr/AikDr.pdf
 http://www.nigelgatherer.com/tunes/tunes/A/AikDr/AikDrt.pdf
 http://www.nigelgatherer.com/tunes/tunes/A/AirTu/AirTu.pdf
+http://www.nigelgatherer.com/tunes/tunes/A/AirTu/AirTuc.pdf
 http://www.nigelgatherer.com/tunes/tunes/A/AirTu/AirTut.pdf
+http://www.nigelgatherer.com/tunes/tunes/A/AirTu/AirTuu.pdf
 http://www.nigelgatherer.com/tunes/tunes/A/AirTu/AirTuw.pdf
 http://www.nigelgatherer.com/tunes/tunes/A/AirdR/AirdR.pdf
 http://www.nigelgatherer.com/tunes/tunes/A/AirdR/AirdRt.pdf
@@ -2541,7 +2543,7 @@ http://www.nigelgatherer.com/tunes/tunes/A/AeFKs/AeFKs_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AftnW/AftnW_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AikDr/AikDr-BoatR_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AikDr/AikDr-IGNMT_W.mp3
-http://www.nigelgatherer.com/tunes/tunes/A/AirTu/AirTu.mp3
+http://www.nigelgatherer.com/tunes/tunes/A/AirTu/AirTu_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AirdR/AirdR_PutMe_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AlDun/AlDun-CockG_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AlesD/AlesD-HRoad_M.mp3
