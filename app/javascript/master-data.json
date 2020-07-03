@@ -9022,7 +9022,7 @@
     "composer": "James Oswald",
     "score": "${baseUrl}/tunes/S/StriV/StriV.pdf",
     "tab": "${baseUrl}/tunes/S/StriV/StriVt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/S/StriV/StriV_M.mp3"
   },
   {
     "name": "Autumn Leaves",
