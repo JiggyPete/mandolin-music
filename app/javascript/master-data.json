@@ -1,6 +1,26 @@
 `
 [
           {
+            "name": "Corriechoillie's Welcome to the Northern Meeting",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/C/CorrW/CorrW.pdf",
+            "tab": "${baseUrl}/tunes/C/CorrW/CorrWt.pdf",
+            "audio": "${baseUrl}/tunes/C/CorrW/CorrW-CampF_M.mp3"
+          },
+          {
+            "name": "Campbell's Farewell to Redcastle",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/C/CorrW/CorrW.pdf",
+            "tab": "${baseUrl}/tunes/C/CorrW/CorrWt.pdf",
+            "audio": "${baseUrl}/tunes/C/CorrW/CorrW-CampF_M.mp3"
+          },
+          {
             "name": "Lord Lovat's Lament",
             "from": "nigel-gatherer",
             "genre": "Scottish",
@@ -3876,16 +3896,6 @@
     "audio": ""
   },
   {
-    "name": "Campbell's Farewell to Redcastle",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/std/std1/campf.html",
-    "tab": "",
-    "audio": ""
-  },
-  {
     "name": "Earl of Mansfield",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -4433,16 +4443,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab4/missd.html",
-    "audio": ""
-  },
-  {
-    "name": "Campbell's Farewell...",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab1/campl.html",
     "audio": ""
   },
   {
