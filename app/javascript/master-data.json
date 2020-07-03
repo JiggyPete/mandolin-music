@@ -10911,6 +10911,7 @@
     },
     {
       "name": "Tennessee Blues",
+      "key": "A",
       "from": "nigel-gatherer",
       "genre": "Bluegrass",
       "type": "",
@@ -10918,6 +10919,17 @@
       "score": "${baseUrl}/tunes/zBluegrass/STU/TennB/TennB.pdf",
       "tab": "${baseUrl}/tunes/zBluegrass/STU/TennB/TennBt.pdf",
       "audio": "${baseUrl}/tunes/zBluegrass/STU/TennB/TennB_M.mp3"
+    },
+    {
+      "name": "Tennessee Blues",
+      "key": "D",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "",
+      "tab": "${baseUrl}/tunes/zBluegrass/STU/TennB/TennB-Dt.pdf",
+      "audio": "${baseUrl}/tunes/zBluegrass/STU/TennB/TennB-D_M.mp3"
     },
 
     {
