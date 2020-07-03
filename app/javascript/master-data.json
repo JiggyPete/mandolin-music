@@ -10534,8 +10534,8 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/J/JBeta/JBeta1.pdf",
-      "tab": "${baseUrl}/tunes/J/JBeta/JBeta1t.pdf",
+      "score": "${baseUrl}/tunes/J/JBet1/JBet1.pdf",
+      "tab": "${baseUrl}/tunes/J/JBet1/JBet1t.pdf",
       "audio": ""
     },
     {
@@ -10544,8 +10544,8 @@
       "genre": "Irish",
       "type": "Carolan",
       "composer": "Turlough O'Carolan",
-      "score": "${baseUrl}/tunes/J/JBeta/JBeta2.pdf",
-      "tab": "${baseUrl}/tunes/J/JBeta/JBeta2t.pdf",
+      "score": "${baseUrl}/tunes/J/JBet2/JBet2.pdf",
+      "tab": "${baseUrl}/tunes/J/JBet2/JBet2t.pdf",
       "audio": ""
     },
     {
