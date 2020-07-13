@@ -297,6 +297,12 @@ http://www.nigelgatherer.com/tunes/tunes/C/Corpl/Corplc.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/Corpl/Corplt.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/Corpl/Corplu.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/Corpl/Corplw.pdf
+http://www.nigelgatherer.com/tunes/tunes/C/CorrW/CorrW-Du.pdf
+http://www.nigelgatherer.com/tunes/tunes/C/CorrW/CorrW.pdf
+http://www.nigelgatherer.com/tunes/tunes/C/CorrW/CorrWc.pdf
+http://www.nigelgatherer.com/tunes/tunes/C/CorrW/CorrWt.pdf
+http://www.nigelgatherer.com/tunes/tunes/C/CorrW/CorrWu.pdf
+http://www.nigelgatherer.com/tunes/tunes/C/CorrW/CorrWw.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/CradS/CradS.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/CradS/CradSt.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/CullB/CullB.pdf
@@ -535,7 +541,6 @@ http://www.nigelgatherer.com/tunes/tunes/CCM/VWXYZ/YAMSS/YAMSS.pdf
 http://www.nigelgatherer.com/tunes/tunes/CCM/VWXYZ/YAMSS/YAMSSu.pdf
 http://www.nigelgatherer.com/tunes/tunes/CCM/VWXYZ/YtOIW/YtOIWu.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DBSal/DBSal.pdf
-http://www.nigelgatherer.com/tunes/tunes/D/DBSal/DBSala.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DBSal/DBSalt.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DBSal/DBSalw.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DLuth/DLuth.pdf
@@ -550,7 +555,9 @@ http://www.nigelgatherer.com/tunes/tunes/D/DPari/DPari.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DPari/DParit.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DancM/DancM.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DancM/DancMt.pdf
+http://www.nigelgatherer.com/tunes/tunes/D/DanyB/DanyB-Cu.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DanyB/DanyB.pdf
+http://www.nigelgatherer.com/tunes/tunes/D/DanyB/DanyBc.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DanyB/DanyBt.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DanyB/DanyBu.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DanyB/DanyBw.pdf
@@ -786,7 +793,9 @@ http://www.nigelgatherer.com/tunes/tunes/H/HangO/HangOw.pdf
 http://www.nigelgatherer.com/tunes/tunes/H/Haugh/Haughw.pdf
 http://www.nigelgatherer.com/tunes/tunes/H/HectH/HectH.pdf
 http://www.nigelgatherer.com/tunes/tunes/H/HectH/HectH2t.pdf
+http://www.nigelgatherer.com/tunes/tunes/H/HectH/HectHc.pdf
 http://www.nigelgatherer.com/tunes/tunes/H/HectH/HectHt.pdf
+http://www.nigelgatherer.com/tunes/tunes/H/HectH/HectHu.pdf
 http://www.nigelgatherer.com/tunes/tunes/H/HectH/HectHw.pdf
 http://www.nigelgatherer.com/tunes/tunes/H/HilGO/HilGO.pdf
 http://www.nigelgatherer.com/tunes/tunes/H/HilGO/HilGOc.pdf
@@ -825,10 +834,10 @@ http://www.nigelgatherer.com/tunes/tunes/I/InnoR/InnoRw.pdf
 http://www.nigelgatherer.com/tunes/tunes/I/IronM/IronM.pdf
 http://www.nigelgatherer.com/tunes/tunes/I/IronM/IronMt.pdf
 http://www.nigelgatherer.com/tunes/tunes/I/IslnD/IslnDw.pdf
-http://www.nigelgatherer.com/tunes/tunes/J/JBeta/JBeta1.pdf
-http://www.nigelgatherer.com/tunes/tunes/J/JBeta/JBeta1t.pdf
-http://www.nigelgatherer.com/tunes/tunes/J/JBeta/JBeta2.pdf
-http://www.nigelgatherer.com/tunes/tunes/J/JBeta/JBeta2t.pdf
+http://www.nigelgatherer.com/tunes/tunes/J/JBet1/JBet1.pdf
+http://www.nigelgatherer.com/tunes/tunes/J/JBet1/JBet1t.pdf
+http://www.nigelgatherer.com/tunes/tunes/J/JBet2/JBet2.pdf
+http://www.nigelgatherer.com/tunes/tunes/J/JBet2/JBet2t.pdf
 http://www.nigelgatherer.com/tunes/tunes/J/JSang/JSang.pdf
 http://www.nigelgatherer.com/tunes/tunes/J/JSang/JSangc.pdf
 http://www.nigelgatherer.com/tunes/tunes/J/JSang/JSangt.pdf
@@ -1286,7 +1295,9 @@ http://www.nigelgatherer.com/tunes/tunes/S/StirB/StirBt.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StirB/StirBu.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StirB/StirBw.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StriV/StriV.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/StriV/StriVc.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StriV/StriVt.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/StriV/StriVu.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StriV/StriVw.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StriV/ToW96_StriV.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StriV/ToW96_StriVt.pdf
@@ -1685,6 +1696,7 @@ http://www.nigelgatherer.com/tunes/tunes/zBluegrass/PQR/RWing/RWing.pdf
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/PQR/RWing/RWingt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/STU/SnowF/SnowF.pdf
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/STU/SnowF/SnowFt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zBluegrass/STU/TennB/TennB-Dt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/STU/TennB/TennB.pdf
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/STU/TennB/TennBt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/VWXYZ/WHoss/WHoss.pdf
@@ -2150,8 +2162,6 @@ http://www.nigelgatherer.com/tunes/tunes/zTheory/Standard/SC-3.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Standard/SC-4.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Standard/JG/JG-2.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-BG-1t.pdf
-http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-BL-1t.pdf
-http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-BL-2t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-BP-1t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-BP-2t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-HP-1t.pdf
@@ -2164,8 +2174,12 @@ http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-PLK-1t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-RL-1t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-SH-1t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/M-ST-1t.pdf
-http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/U-BL-1u.pdf
-http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/U-BL-2u.pdf
+http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Blues/M-BL-1t.pdf
+http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Blues/M-BL-2t.pdf
+http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Blues/M-BL-3t.pdf
+http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Blues/M-BL-4t.pdf
+http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Blues/U-BL-1u.pdf
+http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Blues/U-BL-2u.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Ragtime/M-RT-1t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Ragtime/M-RT-2t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Ragtime/M-RT-3t.pdf
@@ -2616,6 +2630,7 @@ http://www.nigelgatherer.com/tunes/tunes/C/ColgS/ColgS-AdaSh_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/ComBH/ComBH_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/ConMg/ConMg_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/Corpl/Corpl-set_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/C/CorrW/CorrW-CampF_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/CradS/CradS-PipWd_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/CullB/CullB_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/CumbR/CumbR-Harmo_W.mp3
@@ -2844,6 +2859,7 @@ http://www.nigelgatherer.com/tunes/tunes/S/Spoot/Spoot_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/StMry/StMry-ChuSt_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/StarC/StarC_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/StirB/StirB_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/S/StriV/StriV_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/SurgT/SurgT-BillB_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/SwtMG/SwtMG-Terib_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/SSS/01-ByTPF/01-ByTPF.mp3
@@ -2952,6 +2968,7 @@ http://www.nigelgatherer.com/tunes/tunes/zBluegrass/MNO/Monro/Monro_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/MNO/OldSW/OldSW_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/PQR/RWing/RWing_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/STU/SnowF/SnowF.mp3
+http://www.nigelgatherer.com/tunes/tunes/zBluegrass/STU/TennB/TennB-D_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/STU/TennB/TennB_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zBluegrass/VWXYZ/WHoss/WHoss_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zCapeBreton/ABC/BStub/BStub-JackD_M.mp3
@@ -3072,6 +3089,8 @@ http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WayfS/WayfS-dec_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zOld-Time/VWXYZ/WayfS/WayfS_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Mandolin/M-DE/YellH_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Mandolin/M-HA/ChorT_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Blues/DBlue_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Blues/M-BL-4t_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Ragtime/Entrt_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Ragtime/GathR_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zTheory/Styles/Ragtime/M-RT-1t.mp3
