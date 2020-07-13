@@ -8598,6 +8598,16 @@
     "audio": "${baseUrl}/tunes/H/HectH/HectH_M.mp3"
   },
   {
+    "name": "Hector the Hero (decorated)",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "James Scott Skinner",
+    "score": "${baseUrl}/tunes/H/HectH/HectH.pdf",
+    "tab": "${baseUrl}/tunes/H/HectH/HectHt-dec.pdf",
+    "audio": "${baseUrl}/tunes/H/HectH/HectH-dec_M.mp3"
+  },
+  {
     "name": "Huntingtone Castle",
     "from": "nigel-gatherer",
     "genre": "Scottish",
