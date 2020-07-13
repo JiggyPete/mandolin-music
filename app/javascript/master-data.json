@@ -2694,16 +2694,6 @@
             "audio": "${baseUrl}/tunes/TOW/TOW83_ScotM/TOW83_ScotM.mp3"
           },
           {
-            "name": "14th October",
-            "from": "nigel-gatherer",
-            "genre": "",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/TOW/TOW94_14Oct/TOW94_14Oct.pdf",
-            "tab": "${baseUrl}/tunes/TOW/TOW94_14Oct/TOW94_14Octt.pdf",
-            "audio": "${baseUrl}/14Oct_M MP3"
-          },
-          {
             "name": "Turn Under Lea",
             "from": "nigel-gatherer",
             "genre": "Shetland",
@@ -8108,14 +8098,24 @@
     "audio": "${baseUrl}/tunes/K/KissY/KissY-MrsCS_M.mp3"
   },
   {
-    "name": "The 14th October",
+    "name": "The 14th of October",
     "from": "nigel-gatherer",
     "genre": "Scottish",
     "type": "Air",
     "composer": "",
-    "score": "${baseUrl}/tunes/1-9/14Oct/tow94-14Oct.pdf",
-    "tab": "${baseUrl}/tunes/1-9/14Oct/tow94-14Octt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/1-9/14Oct/14Oct.pdf",
+    "tab": "${baseUrl}/tunes/1-9/14Oct/14Octt.pdf",
+    "audio": "${baseUrl}/tunes/1-9/14Oct/14Oct_M.mp3"
+  },
+  {
+    "name": "The 11th of October",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/1-9/14Oct/14Oct.pdf",
+    "tab": "${baseUrl}/tunes/1-9/14Oct/14Octt.pdf",
+    "audio": "${baseUrl}/tunes/1-9/14Oct/14Oct_M.mp3"
   },
   {
     "name": "A Man's a Man",
