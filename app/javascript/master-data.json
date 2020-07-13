@@ -1,6 +1,26 @@
 `
 [
           {
+            "name": "Portugese Waltz #1",
+            "from": "nigel-gatherer",
+            "genre": "Canada",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/PQR/PorW1/PorW1.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/PQR/PorW1/PorW1t.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/PQR/PorW1/PorW1_M.mp3"
+          },
+          {
+            "name": "Rocky Road Blues",
+            "from": "nigel-gatherer",
+            "genre": "Blues",
+            "type": "Bill Monroe",
+            "composer": "",
+            "score": "",
+            "tab": "${baseUrl}/tunes/zBluegrass/PQR/RockR/RockRt.pdf",
+            "audio": ""
+          },
+          {
             "name": "A Scarce o' Tatties",
             "from": "nigel-gatherer",
             "genre": "Irish",
