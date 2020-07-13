@@ -8336,7 +8336,7 @@
     "composer": "James Scott Skinner",
     "score": "${baseUrl}/tunes/B/BLoBA/BLoBA.pdf",
     "tab": "${baseUrl}/tunes/B/BLoBA/BLoBAt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/BLoBA/BLoBA_M.mp3"
   },
   {
     "name": "Bonnie Lass o' Fyvie",
