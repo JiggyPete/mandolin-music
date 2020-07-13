@@ -2120,14 +2120,24 @@
             "audio": "${baseUrl}/tunes/zNigelsTunes/MNO/MsLud/MsLud.mp3"
           },
           {
-            "name": "Jamie Laval’s Welcome to Glasgow",
+            "name": "Jamie Laval's Welcome to Glasgow",
             "from": "nigel-gatherer",
             "genre": "Scottish",
             "type": "Strathspey",
             "composer": "Nigel Gatherer",
             "score": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLW.pdf",
             "tab": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLWt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLW-JamiR_M.mp3"
+          },
+          {
+            "name": "Jamie Laval's Reel",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLW.pdf",
+            "tab": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLWt.pdf",
+            "audio": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLW-JamiR_M.mp3"
           },
           {
             "name": "Uist Tramping Song",
