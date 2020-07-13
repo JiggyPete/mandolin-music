@@ -7689,6 +7689,7 @@
   },
   {
     "name": "Liberty",
+    "key": "D",
     "from": "nigel-gatherer",
     "genre": "Scottish",
     "type": "Air",
@@ -7696,6 +7697,17 @@
     "score": "${baseUrl}/tunes/L/Libty/Libty.pdf",
     "tab": "${baseUrl}/tunes/L/Libty/Libtyt.pdf",
     "audio": "${baseUrl}/tunes/L/Libty/Libty_M.mp3"
+  },
+  {
+    "name": "Liberty",
+    "key": "C",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Weir/Williamson",
+    "score": "${baseUrl}/tunes/L/Libty/Libty-C.pdf",
+    "tab": "${baseUrl}/tunes/L/Libty/Libtyt-C.pdf",
+    "audio": ""
   },
   {
     "name": "Rolling Hills of the Borders",
