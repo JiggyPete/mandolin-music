@@ -3720,9 +3720,9 @@
     "genre": "Scottish",
     "type": "",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/CCM/ABC/BurnC/BurnC.pdf",
-    "tab": "${baseUrl}/tunes/CCM/ABC/BurnC/BurnCt.pdf",
-    "audio": "${baseUrl}/tunes/CCM/ABC/BurnC/BurnC_W.mp3"
+    "score": "${baseUrl}/tunes/zNigelsTunes/ABC/BurnC/BurnC.pdf",
+    "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/BurnC/BurnCt.pdf",
+    "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/BurnC/BurnC-Knock_M.mp3"
   },
   {
     "name": "Maggie",
