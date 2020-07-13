@@ -1,6 +1,26 @@
 `
 [
           {
+            "name": "A Scarce o' Tatties",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Norman MacLean",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SnugB/SnugB.pdf",
+            "tab": "${baseUrl}/tunes/S/SnugB/SnugBt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Snug in a Blanket",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SnugB/SnugB.pdf",
+            "tab": "${baseUrl}/tunes/S/SnugB/SnugBt.pdf",
+            "audio": ""
+          },
+          {
             "name": "Clach nan Tarbh",
             "from": "nigel-gatherer",
             "genre": "Scottish",
@@ -597,27 +617,6 @@
             "tab": "${baseUrl}/tunes/SSS/62-YBard/62-YBardt.pdf",
             "audio": "${baseUrl}/tunes/SSS/62-YBard/62-YBard.mp3"
           },
-          {
-            "name": "A Scarce o' Tatties",
-            "from": "nigel-gatherer",
-            "genre": "Irish",
-            "type": "Norman MacLean",
-            "composer": "",
-            "score": "${baseUrl}/tunes/SSS/05-SnugT/05-SnugT.pdf",
-            "tab": "${baseUrl}/tunes/SSS/05-SnugT/05-SnugTt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Sung In a Blanket",
-            "from": "nigel-gatherer",
-            "genre": "Irish",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/SSS/05-SnugT/05-SnugT.pdf",
-            "tab": "${baseUrl}/tunes/SSS/05-SnugT/05-SnugTt.pdf",
-            "audio": ""
-          },
-
           {
             "name": "Dingle Regatta",
             "from": "nigel-gatherer",
