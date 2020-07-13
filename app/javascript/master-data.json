@@ -8654,9 +8654,9 @@
     "from": "nigel-gatherer",
     "genre": "Scottish",
     "type": "Air",
-    "composer": "",
+    "composer": "James Scott Skinner",
     "score": "${baseUrl}/tunes/M/MeikB/MeikB.pdf",
-    "tab": "",
+    "tab": "${baseUrl}/tunes/M/MeikB/MeikBt.pdf",
     "audio": "${baseUrl}/tunes/M/MeikB/MeikB_W.mp3"
   },
   {
