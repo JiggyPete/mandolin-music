@@ -10361,10 +10361,10 @@
       "from": "nigel-gatherer",
       "genre": "Bluegrass",
       "type": "",
-      "composer": "Bill Monroe / Jenny Baker",
-      "score": "${baseUrl}/tunes/zBluegrass/ABC/BigSR/BigSR.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/ABC/BigSR/BigSRt.pdf",
-      "audio": "${baseUrl}/tunes/zBluegrass/ABC/BigSR/BigSR_M.mp3"
+      "composer": "Bill Monroe / Kenny Baker",
+      "score": "${baseUrl}/tunes/zAmerican/ABC/BigSR/BigSR.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/BigSR/BigSRt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/BigSR/BigSR_M.mp3"
     },
     {
       "name": "Bill's Dream",
