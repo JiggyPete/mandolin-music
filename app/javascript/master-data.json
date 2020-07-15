@@ -856,9 +856,9 @@
             "genre": "Bluegrass",
             "type": "",
             "composer": "Dixie Bruce",
-            "score": "${baseUrl}/tunes/zBluegrass/ABC/BluCh/BluCh.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/ABC/BluCh/BluCht.pdf",
-            "audio": "${baseUrl}/tunes/zBluegrass/ABC/BluCh/BluCh.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BluCh/BluCh.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BluCh/BluCht.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BluCh/BluCh.mp3"
           },
           {
             "name": "Blackberry Blossom",
