@@ -10402,9 +10402,9 @@
       "genre": "Bluegrass",
       "type": "",
       "composer": "Bill Monroe",
-      "score": "${baseUrl}/tunes/zBluegrass/ABC/BGStm/BStmp.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/ABC/BGStm/BStmpt.pdf",
-      "audio": "${baseUrl}/tunes/zBluegrass/ABC/BGStm/BStmp_M.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/ABC/BStmp/BStmp.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/BStmp/BStmpt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/BStmp/BStmp_M.mp3"
     },
     {
       "name": "Bouree in E minor",
