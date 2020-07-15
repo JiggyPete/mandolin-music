@@ -10382,9 +10382,9 @@
       "genre": "Bluegrass",
       "type": "",
       "composer": "Leslie Keith",
-      "score": "${baseUrl}/tunes/zBluegrass/ABC/BMRag/BMRag.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/ABC/BMRag/BMRagt.pdf",
-      "audio": "${baseUrl}/tunes/zBluegrass/ABC/BMRag/BMRag_M.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/ABC/BMRag/BMRag.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/BMRag/BMRagt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/BMRag/BMRag_M.mp3"
     },
     {
       "name": "Blind Mary",
