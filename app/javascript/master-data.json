@@ -925,9 +925,9 @@
             "from": "nigel-gatherer",
             "genre": "Bluegrass",
             "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zBluegrass/JKL/LimeR/LimeR.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/JKL/LimeR/LimeRt.pdf",
+            "composer": "Peacock",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LimeR/LimeR.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LimeR/LimeRt.pdf",
             "audio": ""
           },
           {
