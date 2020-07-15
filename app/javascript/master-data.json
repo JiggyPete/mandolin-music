@@ -1963,8 +1963,8 @@
             "genre": "Jazz",
             "type": "",
             "composer": "Acker Bilk",
-            "score": "${baseUrl}/tunes/zMisc/STU/SShor/SShor.pdf",
-            "tab": "${baseUrl}/tunes/zMisc/STU/SShor/SShort.pdf",
+            "score": "${baseUrl}/tunes/zAmerican/STU/SShor/SShor.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/STU/SShor/SShort.pdf",
             "audio": ""
           },
           {
