@@ -10372,9 +10372,9 @@
       "genre": "Bluegrass",
       "type": "",
       "composer": "Bill Monroe",
-      "score": "${baseUrl}/tunes/zBluegrass/ABC/BillD/BillD.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/ABC/BillD/BillDt.pdf",
-      "audio": "${baseUrl}/tunes/zBluegrass/ABC/BillD/BillD-BB.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/ABC/BillD/BillD.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/BillD/BillDt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/BillD/BillD-BB.mp3"
     },
     {
       "name": "Black Mountain Rag",
