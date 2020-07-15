@@ -9091,8 +9091,8 @@
     "genre": "Jazz",
     "type": "",
     "composer": "Joseph Kosma",
-    "score": "${baseUrl}/tunes/zMisc/ABC/AutLv/AutLv.pdf",
-    "tab": "${baseUrl}/tunes/zMisc/ABC/AutLv/AutLvt.pdf",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/AutLv/AutLv.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/AutLv/AutLvt.pdf",
     "audio": ""
   },
   {
