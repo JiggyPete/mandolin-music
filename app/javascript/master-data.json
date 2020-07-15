@@ -886,9 +886,9 @@
             "genre": "Bluegrass",
             "type": "",
             "composer": "Kerry Mills",
-            "score": "${baseUrl}/tunes/zBluegrass/PQR/RWing/RWing.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/PQR/RWing/RWingt.pdf",
-            "audio": "${baseUrl}/tunes/zBluegrass/PQR/RWing/RWing_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RWing/RWing.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RWing/RWingt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/RWing/RWing_M.mp3"
           },
           {
             "name": "Dixie Hoedown",
