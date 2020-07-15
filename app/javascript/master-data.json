@@ -10625,9 +10625,9 @@
       "genre": "Bluegrass",
       "type": "",
       "composer": "Bill Monroe",
-      "score": "${baseUrl}/tunes/zBluegrass/JKL/JRdge/JRdge.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/JKL/JRdge/JRdget.pdf",
-      "audio": "${baseUrl}/tunes/zBluegrass/JKL/JRdge/JRdge_M.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/JKL/JRdge/JRdge.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/JKL/JRdge/JRdget.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/JKL/JRdge/JRdge_M.mp3"
     },
     {
       "name": "John McAlpine",
