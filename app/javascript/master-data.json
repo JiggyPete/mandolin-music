@@ -11070,9 +11070,9 @@
       "genre": "Bluegrass",
       "type": "",
       "composer": "Bill Monroe",
-      "score": "${baseUrl}/tunes/zBluegrass/VWXYZ/WHoss/WHoss.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/VWXYZ/WHoss/WHosst.pdf",
-      "audio": "${baseUrl}/tunes/zBluegrass/VWXYZ/WHoss/WHoss_M.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/VWXYZ/WHoss/WHoss.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WHoss/WHosst.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/VWXYZ/WHoss/WHoss_M.mp3"
     },
     {
       "name": "Willafjord",
