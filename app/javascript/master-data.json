@@ -936,8 +936,8 @@
             "genre": "Bluegrass",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zBluegrass/JKL/LMagg/LMagg.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/JKL/LMagg/LMaggt.pdf",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LMagg/LMagg.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LMagg/LMaggt.pdf",
             "audio": ""
           },
           {
