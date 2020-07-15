@@ -10834,9 +10834,9 @@
       "genre": "Bluegrass",
       "type": "",
       "composer": "Billy Hill",
-      "score": "${baseUrl}/tunes/zBluegrass/MNO/OldSW/OldSW.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/MNO/OldSW/OldSWt.pdf",
-      "audio": "${baseUrl}/tunes/zBluegrass/MNO/OldSW/OldSW_M.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/MNO/OldSW/OldSW.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/MNO/OldSW/OldSWt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/MNO/OldSW/OldSW_M.mp3"
     },
     {
       "name": "Passepied",
