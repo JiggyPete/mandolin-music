@@ -10703,9 +10703,9 @@
       "genre": "Bluegrass",
       "type": "",
       "composer": "Bill Monroe",
-      "score": "${baseUrl}/tunes/zBluegrass/JKL/LongJ/LongJ.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/JKL/LongJ/LongJt.pdf",
-      "audio": "${baseUrl}/tunes/zBluegrass/JKL/LongJ/LongJ_M.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/JKL/LongJ/LongJ.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/JKL/LongJ/LongJt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/JKL/LongJ/LongJ_M.mp3"
     },
     {
       "name": "March in D major",
