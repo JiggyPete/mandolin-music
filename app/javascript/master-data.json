@@ -10673,9 +10673,9 @@
       "genre": "Bluegrass",
       "type": "",
       "composer": "Bill Monroe",
-      "score": "${baseUrl}/tunes/zBluegrass/JKL/KentM/KentM.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/JKL/KentM/KentMt.pdf",
-      "audio": "${baseUrl}/tunes/zBluegrass/JKL/KentM/KentM_M.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/JKL/KentM/KentM.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/JKL/KentM/KentMt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/JKL/KentM/KentM_M.mp3"
     },
     {
       "name": "Laura Beth's Polka",
