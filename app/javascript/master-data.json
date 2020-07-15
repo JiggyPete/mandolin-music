@@ -17,8 +17,8 @@
             "type": "Bill Monroe",
             "composer": "",
             "score": "",
-            "tab": "${baseUrl}/tunes/zBluegrass/PQR/RockR/RockRt.pdf",
-            "audio": ""
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RockR/RockRt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/RockR/RockR_M.mp3"
           },
           {
             "name": "A Scarce o' Tatties",
