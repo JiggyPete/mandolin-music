@@ -10865,8 +10865,8 @@
       "genre": "Bluegrass",
       "type": "",
       "composer": "Bill Monroe",
-      "score": "${baseUrl}/tunes/zBluegrass/PQR/PikeC/PikeC.pdf",
-      "tab": "${baseUrl}/tunes/zBluegrass/PQR/PikeC/PikeCt.pdf",
+      "score": "${baseUrl}/tunes/zAmerican/PQR/PikeC/PikeC.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/PQR/PikeC/PikeCt.pdf",
       "audio": ""
     },
     {
