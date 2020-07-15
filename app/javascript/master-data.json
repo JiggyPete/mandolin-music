@@ -866,9 +866,9 @@
             "genre": "Bluegrass",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zBluegrass/ABC/BBlos/BBlos.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/ABC/BBlos/BBlost.pdf",
-            "audio": "${baseUrl}/tunes/zBluegrass/ABC/BBlos/BBlos.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BBlos/BBlos.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BBlos/BBlost.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BBlos/BBlos_M.mp3"
           },
           {
             "name": "The GFW Mando Stomp",
