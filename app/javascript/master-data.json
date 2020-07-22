@@ -2435,9 +2435,9 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostI.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostIt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostI_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostI.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostIt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostI_M.mp3"
           },
           {
             "name": "Snappin' Bug",
@@ -2445,9 +2445,9 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostI.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostIt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/JKL/LostI/LostI_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostI.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostIt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/JKL/LostI/SnapB_M.mp3"
           },
           {
             "name": "The Ash Grove",
