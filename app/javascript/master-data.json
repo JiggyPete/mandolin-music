@@ -8970,9 +8970,9 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zOld-Time/STU/Senec/Senec.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/STU/Senec/Senect.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/STU/Senec/Senec_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/STU/Senec/Senec.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/STU/Senec/Senect.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/STU/Senec/Senec_M.mp3"
   },
   {
     "name": "When the Saints Go Marching In",
