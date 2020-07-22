@@ -8950,9 +8950,9 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tunes/zOld-Time/MNO/OldJC/OldJC1t.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/MNO/OldJC/OldJC1_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/MNO/OldJC/OldJC1.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/MNO/OldJC/OldJC1t.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/MNO/OldJC/OldJC1_M.mp3"
   },
   {
     "name": "Ragtime Annie",
