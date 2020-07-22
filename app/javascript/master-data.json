@@ -5855,16 +5855,6 @@
     "audio": ""
   },
   {
-    "name": "Tennessee Waltz in D",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab7/tennw.html",
-    "audio": ""
-  },
-  {
     "name": "There Cam a Young Man",
     "from": "nigel-gatherer",
     "genre": "",
@@ -11050,9 +11040,10 @@
       "from": "nigel-gatherer",
       "genre": "Old Time",
       "type": "Waltz",
-      "score": "${baseUrl}/tunes/zOld-Time/STU/TennW/TennWA.pdf",
-      "tab": "${baseUrl}/tunes/zOld-Time/STU/TennW/TennWAt.pdf",
-      "audio": "${baseUrl}/tunes/zOld-Time/STU/TennW/TennWA_M.mp3"
+      "composer": "Pee Wee King",
+      "score": "${baseUrl}/tunes/zAmerican/STU/TennW/TennWA.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/STU/TennW/TennWAt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/STU/TennW/TennWA_M.mp3"
     },
     {
       "name": "The Tennessee Waltz",
@@ -11060,9 +11051,10 @@
       "from": "nigel-gatherer",
       "genre": "Old Time",
       "type": "Waltz",
-      "score": "${baseUrl}/tunes/zOld-Time/STU/TennW/TennWD.pdf",
-      "tab": "${baseUrl}/tunes/zOld-Time/STU/TennW/TennWDt.pdf",
-      "audio": "${baseUrl}/tunes/zOld-Time/STU/TennW/TennWD_M.mp3"
+      "composer": "Pee Wee King",
+      "score": "${baseUrl}/tunes/zAmerican/STU/TennW/TennWD.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/STU/TennW/TennWDt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/STU/TennW/TennWD_M.mp3"
     },
     {
       "name": "Wheel Hoss",
