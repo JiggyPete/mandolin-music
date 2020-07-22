@@ -98,9 +98,9 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/VWXYZ/WayfS/WayfS.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/VWXYZ/WayfS/WayfSt.pdf",
-            "audio": "${baseUrl}/tunes/C/CapFW/CapFW-MrsFW_M.mp3",
+            "score": "${baseUrl}/tunes/zAmerican/VWXYZ/WayfS/WayfS.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WayfS/WayfSt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/VWXYZ/WayfS/WayfS_M.mp3",
             "video": "https://www.youtube.com/watch?v=gIlbZAP8ASQ"
           },
           {
