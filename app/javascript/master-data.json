@@ -2596,9 +2596,9 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornF.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornFt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornF-BarlK_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornF.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornFt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornF-BarlK_M.mp3"
           },
           {
             "name": "Barlow Knife",
