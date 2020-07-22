@@ -2566,9 +2566,9 @@
             "genre": "",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/ABC/ChrkS/ChrkS.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/ABC/ChrkS/ChrkSt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/ABC/ChrkS/ChrkS.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/ABC/ChrkS/ChrkS.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/ChrkS/ChrkSt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/ChrkS/ChrkS_M.mp3"
           },
           {
             "name": "Bonaparte's Retreat",
@@ -4502,16 +4502,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/abc/abc1/charli.abc",
-    "audio": ""
-  },
-  {
-    "name": "Cherokee Shuffle",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab1/cher.html",
     "audio": ""
   },
   {
