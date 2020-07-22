@@ -2646,9 +2646,9 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/VWXYZ/WalkP/WalkP.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/VWXYZ/WalkP/WalkPt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/VWXYZ/WalkP/WalkP_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/VWXYZ/WalkP/WalkP.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WalkP/WalkPt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/VWXYZ/WalkP/WalkP_M.mp3"
           },
           {
             "name": "Little Liza Jane",
