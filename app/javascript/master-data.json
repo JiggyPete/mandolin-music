@@ -846,9 +846,9 @@
             "genre": "Bluegrass",
             "type": "",
             "composer": "Ralph Stanley",
-            "score": "${baseUrl}/tunes/zBluegrass/ABC/Clnch/Clnch.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/ABC/Clnch/Clncht.pdf",
-            "audio": "${baseUrl}/tunes/zBluegrass/ABC/Clnch/Clnch.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/ABC/Clnch/Clnch.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/Clnch/Clncht.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/Clnch/Clnch_M.mp3"
           },
           {
             "name": "Bluegrass Chime",
@@ -876,9 +876,9 @@
             "genre": "Bluegrass",
             "type": "",
             "composer": "Laura-Beth Salter",
-            "score": "${baseUrl}/tunes/zBluegrass/GHI/GFWMS/GFWMS.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/GHI/GFWMS/GFWMSt.pdf",
-            "audio": "${baseUrl}/tunes/zBluegrass/GHI/GFWMS/GFWMS.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GFWMS/GFWMS.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GFWMS/GFWMSt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/GHI/GFWMS/GFWMS_M.mp3"
           },
           {
             "name": "Red Wing",
@@ -896,9 +896,9 @@
             "genre": "Bluegrass",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zBluegrass/DEF/DixiH/DixiH.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/DEF/DixiH/DixiHt.pdf",
-            "audio": "${baseUrl}/tunes/zBluegrass/DEF/DixiH/DixiH.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/DEF/DixiH/DixiH.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/DixiH/DixiHt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/DixiH/DixiH_M.mp3"
           },
           {
             "name": "Fire On the Mountain",
@@ -906,9 +906,9 @@
             "genre": "Bluegrass",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zBluegrass/DEF/FireM/FireM.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/DEF/FireM/FireMt.pdf",
-            "audio": "${baseUrl}/tunes/zBluegrass/DEF/FireM/FireM_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/DEF/FireM/FireM.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/FireM/FireMt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/FireM/FireM_M.mp3"
           },
           {
             "name": "Monroesque",
@@ -916,9 +916,9 @@
             "genre": "Bluegrass",
             "type": "",
             "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/tunes/zBluegrass/MNO/Monro/Monro.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/MNO/Monro/Monrot.pdf",
-            "audio": "${baseUrl}/tunes/zBluegrass/MNO/Monro/Monro_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/MNO/Monro/Monro.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/MNO/Monro/Monrot.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/MNO/Monro/Monro_M.mp3"
           },
           {
             "name": "Lime Rock",
@@ -946,9 +946,9 @@
             "genre": "Bluegrass",
             "type": "Reel",
             "composer": "",
-            "score": "${baseUrl}/tunes/zBluegrass/STU/SnowF/SnowF.pdf",
-            "tab": "${baseUrl}/tunes/zBluegrass/STU/SnowF/SnowFt.pdf",
-            "audio": "${baseUrl}/tunes/zBluegrass/STU/SnowF/SnowF.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/STU/SnowF/SnowF.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/STU/SnowF/SnowFt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/STU/SnowF/SnowF.mp3"
           },
           {
             "name": "Harvest Storm",
@@ -2556,9 +2556,9 @@
             "genre": "",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/ABC/Cindy/Cindy.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/ABC/Cindy/Cindyt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/ABC/Cindy/Cindy_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/ABC/Cindy/Cindy.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/Cindy/Cindyt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/Cindy/Cindy_M.mp3"
           },
           {
             "name": "Cherokee Shuffle",
@@ -2576,9 +2576,9 @@
             "genre": "",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/ABC/BonpR/BonpR.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/ABC/BonpR/BonpRt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/ABC/BonpR/BonpR_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BonpR/BonpR.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BonpR/BonpRt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BonpR/BonpR_M.mp3"
           },
           {
             "name": "Black Eyed Susie",
@@ -2586,9 +2586,9 @@
             "genre": "American",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/ABC/BESus/BESus.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/ABC/BESus/BESust.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/ABC/BESus/BESus_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BESus/BESus.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BESus/BESust.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BESus/BESus_M.mp3"
           },
           {
             "name": "Cornstalk Fiddel and a Shoestring Bow",
@@ -2606,9 +2606,9 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornF.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornFt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornF-BarlK_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornF.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornFt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornF-BarlK_M.mp3"
           },
           {
             "name": "Home With the Girls in the Morning",
@@ -2636,8 +2636,8 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "",
-            "tab": "${baseUrl}/tunes/zOld-Time/PQR/RRTGA/RRTGAt.pdf",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RRTGA/RRTGA.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RRTGA/RRTGAt.pdf",
             "audio": ""
           },
           {
@@ -3026,9 +3026,9 @@
     "genre": "Old Time",
     "type": "",
     "composer": "Julia Ward Howe",
-    "score": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1t.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1t.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3"
   },
   {
     "name": "Marching Through Georgia",
@@ -3036,9 +3036,9 @@
     "genre": "Old Time",
     "type": "",
     "composer": "Henry Clay Work",
-    "score": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1t.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1t.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3"
   },
   {
     "name": "Dixie",
@@ -3046,9 +3046,9 @@
     "genre": "Old Time",
     "type": "",
     "composer": "Dan Emmett",
-    "score": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1t.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/ABC/CWMed1/CWMed1_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1t.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3"
   },
   {
     "name": "Second Round",
@@ -4105,16 +4105,6 @@
     "audio": ""
   },
   {
-    "name": "Clinch Mountain Backstep",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab1/clin.html",
-    "audio": ""
-  },
-  {
     "name": "Comin' Thro' the Rye",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -4345,16 +4335,6 @@
     "audio": "${baseUrl}/tunes/E/EavsD/EavsD-BillC_M.mp3"
   },
   {
-    "name": "Billy In the Lowground",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab8/blowg.html",
-    "audio": ""
-  },
-  {
     "name": "The Birkin Tree",
     "from": "nigel-gatherer",
     "genre": "",
@@ -4380,9 +4360,9 @@
     "genre": "",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zOld-Time/ABC/BBRag/BBRag.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/BBRag/BBRagt.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/ABC/BBRag/BBRag_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/ABC/BBRag/BBRag.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/BBRag/BBRagt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/BBRag/BBRag_M.mp3"
   },
   {
     "name": "Blackthorn Stick",
@@ -4615,16 +4595,6 @@
     "audio": "${baseUrl}/tunes/SSS/25-DenWv/25-DenWv.mp3"
   },
   {
-    "name": "Dixie Hoedown",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab8/dixih.html",
-    "audio": ""
-  },
-  {
     "name": "Domhnall Dubh",
     "from": "nigel-gatherer",
     "genre": "",
@@ -4782,16 +4752,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab5/cuilf.html",
-    "audio": ""
-  },
-  {
-    "name": "Fire On the Mountain 1",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab1/fire.html",
     "audio": ""
   },
   {
@@ -5332,16 +5292,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab5/misss.html",
-    "audio": ""
-  },
-  {
-    "name": "Monroesque",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab8/monro.html",
     "audio": ""
   },
   {
@@ -8844,8 +8794,8 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zOld-Time/ABC/AAtMt/AAtMt.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/AAtMt/AAtMtt.pdf",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/AAtMt/AAtMt.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/AAtMt/AAtMtt.pdf",
     "audio": ""
   },
   {
@@ -8854,8 +8804,8 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zOld-Time/ABC/AGHHH/AGHHH.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/AGHHH/AGHHHt.pdf",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/AGHHH/AGHHH.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/AGHHH/AGHHHt.pdf",
     "audio": ""
   },
   {
@@ -8865,8 +8815,8 @@
     "type": "",
     "composer": "Walker",
     "score": "",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/AmazG/AmazGt.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/ABC/AmazG/AmazG_W.mp3"
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/AmazG/AmazGt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/AmazG/AmazG_W.mp3"
   },
   {
     "name": "Annie Laurie",
@@ -8874,9 +8824,9 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/AnniL/AnniLt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/zAmerican/ABC/AnniL/AnniL.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/AnniL/AnniLt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/AnniL/AnniL_M.mp3"
   },
 
   {
@@ -8885,9 +8835,9 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zOld-Time/ABC/BLowg/BLowg.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/BLowg/BLowgt.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/ABC/BLowg/BLowg_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/ABC/BLowg/BLowg.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/BLowg/BLowgt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/BLowg/BLowg_M.mp3"
   },
 
   {
@@ -8896,9 +8846,9 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zOld-Time/ABC/CripC/CripC.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/ABC/CripC/CripCt.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/ABC/CripC/CripC_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/ABC/CripC/CripC.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/CripC/CripCt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/CripC/CripC_M.mp3"
   },
   {
     "name": "Ever See a Devil, Uncle Joe?",
@@ -8981,7 +8931,7 @@
     "type": "",
     "composer": "",
     "score": "",
-    "tab": "${baseUrl}/tunes/zOld-Time/VWXYZ/WhenS/WhenSt.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WhenS/WhenSt.pdf",
     "audio": ""
   },
 
@@ -10352,9 +10302,9 @@
       "from": "nigel-gatherer",
       "genre": "Old Time",
       "type": "",
-      "score": "${baseUrl}/tunes/zOld-Time/ABC/AngBk/AngBk.pdf",
-      "tab": "${baseUrl}/tunes/zOld-Time/ABC/AngBk/AngBkt.pdf",
-      "audio": "${baseUrl}/tunes/zOld-Time/ABC/AngBk/AngBk_M.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/ABC/AngBk/AngBk.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/AngBk/AngBkt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/AngBk/AngBk_M.mp3"
     },
    {
       "name": "Big Sandy River",
