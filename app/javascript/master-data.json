@@ -2616,9 +2616,9 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/GHI/HomeG/HomeG.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/GHI/HomeG/HomeGt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/GHI/HomeG/HomeG_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/GHI/HomeG/HomeG.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/HomeG/HomeGt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/GHI/HomeG/HomeG_M.mp3"
           },
           {
             "name": "Georgiana Moon",
@@ -2626,8 +2626,8 @@
             "genre": "Old Time",
             "type": "Waltz",
             "composer": "McMichen/Bryant",
-            "score": "${baseUrl}/tunes/zOld-Time/GHI/GMoon/GMoon.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/GHI/GMoon/GMoont.pdf",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GMoon/GMoon.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GMoon/GMoont.pdf",
             "audio": ""
           },
           {
@@ -2656,9 +2656,9 @@
             "genre": "",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/JKL/LLizJ/LLizJ.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/JKL/LLizJ/LLizJt.pdf",
-            "audio": "${baseUrl}/tunes/zOld-Time/JKL/LLizJ/LLizJ1_M.mp3"
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LLizJ/LLizJ.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LLizJ/LLizJt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/JKL/LLizJ/LLizJ1_M.mp3"
           },
           {
             "name": "Jaybird",
@@ -2666,8 +2666,18 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/JKL/JBird/JBird.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/JKL/JBird/JBirdt.pdf",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/JBird/JBird.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/JBird/JBirdt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Fiddle Head Reel",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/JBird/JBird.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/JBird/JBirdt.pdf",
             "audio": ""
           },
 
@@ -5300,9 +5310,9 @@
     "genre": "",
     "type": "Waltz",
     "composer": "Benny Thomasson",
-    "score": "${baseUrl}/tunes//zOld-Time/MNO/MidnW/MidnW.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/MNO/MidnW/MidnWt.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/MNO/MidnW/MidnW-dec_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnW.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnWt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnW-dec_M.mp3"
   },
   {
     "name": "Michael's Mazurka",
@@ -8896,8 +8906,8 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zOld-Time/DEF/EvSee/EvSee.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/DEF/EvSee/EvSeet.pdf",
+    "score": "${baseUrl}/tunes/zAmerican/DEF/EvSee/EvSee.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/DEF/EvSee/EvSeet.pdf",
     "audio": ""
   },
 
@@ -8920,9 +8930,9 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zOld-Time/GHI/HopLL/HopLL.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/GHI/HopLL/HopLLt.pdf",
-    "audio": "${baseUrl}/tunes/zOld-Time/GHI/HopLL/HopLL_M.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/GHI/HopLL/HopLL.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/GHI/HopLL/HopLLt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/GHI/HopLL/HopLL_M.mp3"
   },
   {
     "name": "Maple Sugar",
@@ -8930,8 +8940,8 @@
     "genre": "Old Time",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zOld-Time/MNO/MaplS/MaplS.pdf",
-    "tab": "${baseUrl}/tunes/zOld-Time/MNO/MaplS/MaplSt.pdf",
+    "score": "${baseUrl}/tunes/zAmerican/MNO/MaplS/MaplS.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/MNO/MaplS/MaplSt.pdf",
     "audio": ""
   },
   {
@@ -10793,9 +10803,9 @@
       "genre": "Old Time",
       "type": "",
       "composer": "",
-      "score": "${baseUrl}/tunes/zOld-Time/MNO/MHABR/MHABR.pdf",
-      "tab": "${baseUrl}/tunes/zOld-Time/MNO/MHABR/MHABRt.pdf",
-      "audio": "${baseUrl}/tunes/zOld-Time/MNO/MHABR/MHABR_M.mp3"
+      "score": "${baseUrl}/tunes/zAmerican/MNO/MHABR/MHABR.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/MNO/MHABR/MHABRt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/MNO/MHABR/MHABR_M.mp3"
     },
     {
       "name": "My Love Is Like a Red, Red Rose",
