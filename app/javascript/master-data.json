@@ -2591,14 +2591,14 @@
             "audio": "${baseUrl}/tunes/zOld-Time/ABC/BESus/BESus_M.mp3"
           },
           {
-            "name": "Cornstalk Fiddel and a Shiestring Bow",
+            "name": "Cornstalk Fiddel and a Shoestring Bow",
             "from": "nigel-gatherer",
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/ABC/CrnsF/CornF.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/ABC/CrnsF/CornFt.pdf",
-            "audio": "${baseUrl}/MISSING MP3"
+            "score": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornF.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornFt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornF-BarlK_M.mp3"
           },
           {
             "name": "Barlow Knife",
@@ -2606,9 +2606,9 @@
             "genre": "Old Time",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zOld-Time/ABC/CrnsF/CornF.pdf",
-            "tab": "${baseUrl}/tunes/zOld-Time/ABC/CrnsF/CornFt.pdf",
-            "audio": "${baseUrl}/MISSING MP3"
+            "score": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornF.pdf",
+            "tab": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornFt.pdf",
+            "audio": "${baseUrl}/tunes/zOld-Time/ABC/CornF/CornF-BarlK_M.mp3"
           },
           {
             "name": "Home With the Girls in the Morning",
