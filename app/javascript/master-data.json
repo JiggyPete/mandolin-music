@@ -2516,9 +2516,9 @@
             "genre": "",
             "type": "Reel",
             "composer": "Jerry Holland",
-            "score": "${baseUrl}/tunes/zCapeBreto/ABC/BStub/BStub.pdf",
-            "tab": "${baseUrl}/tunes/zCapeBreto/ABC/BStub/BStubt.pdf",
-            "audio": "${baseUrl}//tunes/zCapeBreto/ABC/BStub/BStub-JackD.pdf"
+            "score": "${baseUrl}/tunes/B/BStub/BStub.pdf",
+            "tab": "${baseUrl}/tunes/B/BStub/BStubt.pdf",
+            "audio": "${baseUrl}/tunes/B/BStub/BStub-JackD_M.mp3"
           },
           {
             "name": "Jack Daniels",
@@ -2526,9 +2526,9 @@
             "genre": "",
             "type": "Reel",
             "composer": "John Morris  Rankin",
-            "score": "${baseUrl}/tunes/zCapeBreto/ABC/BStub/BStub.pdf",
-            "tab": "${baseUrl}/tunes/zCapeBreto/ABC/BStub/BStubt.pdf",
-            "audio": "${baseUrl}//tunes/zCapeBreto/ABC/BStub/BStub-JackD.mp3"
+            "score": "${baseUrl}/tunes/B/BStub/BStub.pdf",
+            "tab": "${baseUrl}/tunes/B/BStub/BStubt.pdf",
+            "audio": "${baseUrl}/tunes/B/BStub/BStub-JackD_M.mp3"
           },
           {
             "name": "The Road to Skye",
