@@ -1,6 +1,16 @@
 `
 [
           {
+            "name": "El Recolector",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zComposers/PQR/Recol/Recol.pdf",
+            "tab": "",
+            "audio": "${baseUrl}/tunes/zComposers/PQR/Recol/Recol.mp3"
+          },
+          {
             "name": "Portugese Waltz #1",
             "from": "nigel-gatherer",
             "genre": "Canada",
@@ -476,20 +486,9 @@
             "genre": "Cape Breton",
             "type": "Slow Air",
             "composer": "Jerry Holland",
-            "score": "${baseUrl}/tunes/zCapeBreton/MNO/MyCBH/MyCBH.pdf",
-            "tab": "${baseUrl}/tunes/zCapeBreton/MNO/MyCBH/MyCBHt.pdf",
-            "audio": "${baseUrl}/tunes/zCapeBreton/MNO/MyCBH/MyCBH_M.mp3",
-            "video": ""
-          },
-          {
-            "name": "Que Sera Sera",
-            "from": "nigel-gatherer",
-            "genre": "",
-            "type": "",
-            "composer": "Livingston/Evans",
-            "score": "",
-            "tab": "${baseUrl}/tunes/zMovies/PQR/QSera/QSerato.pdf",
-            "audio": "",
+            "score": "${baseUrl}/tunes/M/MyCBH/MyCBH.pdf",
+            "tab": "${baseUrl}/tunes/M/MyCBH/MyCBHt.pdf",
+            "audio": "${baseUrl}/tunes/M/MyCBH/MyCBH_M.mp3",
             "video": ""
           },
           {
@@ -499,7 +498,7 @@
             "type": "",
             "composer": "Herman Hupfeld",
             "score": "",
-            "tab": "${baseUrl}/tunes/zMovies/ABC/AsTGB/AsTGB_ogs.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/ABC/AsTGB/AsTGB_ogs.pdf",
             "audio": "",
             "video": ""
           },
@@ -2074,20 +2073,9 @@
             "genre": "Scottish",
             "type": "Air",
             "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/tunes/zNigelsTunes/MNO/MyBMF/MyBMF.pdf",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/MNO/MyBMF/MyBMFt.pdf",
-            "audio": "${baseUrl}/tunes/zNigelsTunes/MNO/MyBMF/MyBMF-MangoTrio.mp3"
-          },
-          {
-            "name": "My Beautiful Mandolin Friend",
-            "from": "nigel-gatherer",
-            "key": "D",
-            "genre": "Scottish",
-            "type": "Air",
-            "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/tunes/zNigelsTunes/MNO/MyBMF-D/MyBMF-D.pdf",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/MNO/MyBMF-D/MyBMF-Dt.pdf",
-            "audio": "${baseUrl}/tunes/zNigelsTunes/MNO/MyBMF-D/MyBMF-D.mp3"
+            "score": "${baseUrl}/tunes/zComposers/MNO/MyBMF/MyBMF.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/MNO/MyBMF/MyBMFt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/MNO/MyBMF/MyBMF-MangoTrio.mp3"
           },
           {
             "name": "Monzievaird Hall",
@@ -2095,9 +2083,9 @@
             "genre": "Scottish",
             "type": "",
             "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/tunes/zNigelsTunes/MNO/MonzH/MonzH.pdf",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/MNO/MonzH/MonzHt.pdf",
-            "audio": "${baseUrl}/tunes/zNigelsTunes/MNO/MonzH/MonzH_W.mp3"
+            "score": "${baseUrl}/tunes/zComposers/MNO/MonzH/MonzH.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/MNO/MonzH/MonzHt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/MNO/MonzH/MonzH_W.mp3"
           },
           {
             "name": "March of the GFW",
@@ -2105,9 +2093,9 @@
             "genre": "Scottish",
             "type": "March",
             "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/tunes/zNigelsTunes/MNO/MaGFW/MaGFW.pdf",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/MNO/MaGFW/MaGFWt.pdf",
-            "audio": "${baseUrl}/tunes/zNigelsTunes/MNO/MaGFW/MaGFW_M.mp3"
+            "score": "${baseUrl}/tunes/zComposers/MNO/MaGFW/MaGFW.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/MNO/MaGFW/MaGFWt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/MNO/MaGFW/MaGFW_M.mp3"
           },
           {
             "name": "Miss J Ludriecus",
@@ -2115,9 +2103,9 @@
             "genre": "Scottish",
             "type": "",
             "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/MNO/MsLud/MsLudt.pdf",
-            "audio": "${baseUrl}/tunes/zNigelsTunes/MNO/MsLud/MsLud.mp3"
+            "score": "",
+            "tab": "${baseUrl}/tunes/zComposers/MNO/MsLud/MsLudt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/MNO/MsLud/MsLud.mp3"
           },
           {
             "name": "Jamie Laval's Welcome to Glasgow",
@@ -2125,9 +2113,9 @@
             "genre": "Scottish",
             "type": "Strathspey",
             "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLW.pdf",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLWt.pdf",
-            "audio": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLW-JamiR_M.mp3"
+            "score": "${baseUrl}/tunes/zComposers/JKL/JamLW/JamLW.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/JKL/JamLW/JamLWt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/JKL/JamLW/JamLW-JamiR_M.mp3"
           },
           {
             "name": "Jamie Laval's Reel",
@@ -2135,9 +2123,9 @@
             "genre": "Scottish",
             "type": "Reel",
             "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLW.pdf",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLWt.pdf",
-            "audio": "${baseUrl}/tunes/zNigelsTunes/JKL/JamLW/JamLW-JamiR_M.mp3"
+            "score": "${baseUrl}/tunes/zComposers/JKL/JamLW/JamLW.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/JKL/JamLW/JamLWt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/JKL/JamLW/JamLW-JamiR_M.mp3"
           },
           {
             "name": "Uist Tramping Song",
@@ -2255,9 +2243,9 @@
             "genre": "",
             "type": "",
             "composer": "",
-            "score": "${baseUrl}/tunes/zCapeBreton/MNO/OTWRs/OTWRs.pdf",
-            "tab": "${baseUrl}/tunes/zCapeBreton/MNO/OTWRs/OTWRst.pdf",
-            "audio": "${baseUrl}/tunes/zCapeBreton/MNO/OTWRs/OTWRs_M.mp3"
+            "score": "${baseUrl}/tunes/O/OTWRs/OTWRs.pdf",
+            "tab": "${baseUrl}/tunes/O/OTWRs/OTWRst.pdf",
+            "audio": "${baseUrl}/tunes/O/OTWRs/OTWRs_M.mp3"
           },
           {
             "name": "I'll Go and Enlist",
@@ -2265,9 +2253,9 @@
             "genre": "English",
             "type": "Morris Dancy",
             "composer": "Sherbourne",
-            "score": "${baseUrl}/tunes/zEngland/GHI/IllGo/IllGo.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/GHI/IllGo/IllGot.pdf",
-            "audio": "${baseUrl}/tunes/zEngland/GHI/IllGo/IllGo_M.mp3"
+            "score": "${baseUrl}/tunes/zWorld/GHI/IllGo/IllGo.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/GHI/IllGo/IllGot.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/GHI/IllGo/IllGo_M.mp3"
           },
           {
             "name": "Princess Royal (7 Springs)",
@@ -2295,9 +2283,9 @@
             "genre": "English",
             "type": "Air",
             "composer": "",
-            "score": "${baseUrl}/tunes/zEngland/PQR/Reynr/Reynr.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/PQR/Reynr/Reynrt.pdf",
-            "audio": "${baseUrl}/tunes/zEngland/PQR/Reynr/Reynr_M.mp3"
+            "score": "${baseUrl}/tunes/zWorld/PQR/Reynr/Reynr.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/PQR/Reynr/Reynrt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/PQR/Reynr/Reynr_M.mp3"
           },
           {
             "name": "Winster Galop",
@@ -2305,9 +2293,9 @@
             "genre": "English",
             "type": "Morris Dance",
             "composer": "",
-            "score": "${baseUrl}/tunes/zEngland/VWXYZ/WinsG/WinsG.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/VWXYZ/WinsG/WinsGt.pdf",
-            "audio": "${baseUrl}/tunes/zEngland/VWXYZ/WinsG/WinsG_M.mp3"
+            "score": "${baseUrl}/tunes/zWorld/VWXYZ/WinsG/WinsG.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WinsG/WinsGt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/VWXYZ/WinsG/WinsG_M.mp3"
           },
           {
             "name": "Jimmy Allan",
@@ -2315,9 +2303,9 @@
             "genre": "English",
             "type": "2/4 Reel",
             "composer": "",
-            "score": "${baseUrl}/tunes/zEngland/JKL/JimAl/JimAl.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/JKL/JimAl/JimAlt.pdf",
-            "audio": ""
+            "score": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAlt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl-HerdH_M.mp3"
           },
           {
             "name": "The Herd on the Hill",
@@ -2325,9 +2313,9 @@
             "genre": "English",
             "type": "2/4 Reel",
             "composer": "Tom Clough",
-            "score": "${baseUrl}/tunes/zEngland/JKL/JimAl/JimAl.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/JKL/JimAl/JimAlt.pdf",
-            "audio": ""
+            "score": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAlt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl-HerdH_M.mp3"
           },
           {
             "name": "Jump At the Sun",
@@ -2335,8 +2323,8 @@
             "genre": "English",
             "type": "Jig",
             "composer": "John Kirkpatrick",
-            "score": "${baseUrl}/tunes/zEngland/JKL/JAtSn/JAtSn.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/JKL/JAtSn/JAtSnt.pdf",
+            "score": "${baseUrl}/tunes/zWorld/JKL/JAtSn/JAtSn.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/JAtSn/JAtSnt.pdf",
             "audio": ""
           },
           {
@@ -2405,9 +2393,9 @@
             "genre": "Scottish",
             "type": "Air",
             "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/tunes/zNigelsTunes/ABC/AirLi/AirLi.pdf",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/AirLi/AirLit.pdf",
-            "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/AirLi/AirLi.mp3"
+            "score": "${baseUrl}/tunes/zComposers/ABC/AirLi/AirLi.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/ABC/AirLi/AirLit.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/ABC/AirLi/AirLi.mp3"
           },
           {
             "name": "The Clock Tower",
@@ -2416,7 +2404,7 @@
             "type": "",
             "composer": "Nigel Gatherer",
             "score": "",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/Clock/Clockt.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/ABC/Clock/Clockt.pdf",
             "audio": ""
           },
           {
@@ -2426,8 +2414,8 @@
             "type": "",
             "composer": "Nigel Gatherer",
             "score": "",
-            "tab": "${baseUrl}/tunes/zNigelsTunes/DEF/FOcto/FOctot.pdf",
-            "audio": "${baseUrl}/tunes/zNigelsTunes/DEF/FOcto/FOcto_M.mp3"
+            "tab": "${baseUrl}/tunes/zComposers/DEF/FOcto/FOctot.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/DEF/FOcto/FOcto_M.mp3"
           },
           {
             "name": "Lost Indian",
@@ -2506,8 +2494,8 @@
             "genre": "",
             "type": "",
             "composer": "Merrill",
-            "score": "${baseUrl}/tunes/z1950s/GHI/HowMD/HowMD.pdf",
-            "tab": "${baseUrl}/tunes/z1950s/GHI/HowMD/HowMDt.pdf",
+            "score": "${baseUrl}/tunes/zPopRock/GHI/HowMD/HowMD.pdf",
+            "tab": "${baseUrl}/tunes/zPopRock/GHI/HowMD/HowMDt.pdf",
             "audio": ""
           },
           {
@@ -2536,9 +2524,9 @@
             "genre": "",
             "type": "Jig",
             "composer": "",
-            "score": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkye.pdf",
-            "tab": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkyet.pdf",
-            "audio": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkye-StanC_M.mp3"
+            "score": "${baseUrl}/tunes/R/RSkye/RSkye.pdf",
+            "tab": "${baseUrl}/tunes/R/RSkye/RSkyet.pdf",
+            "audio": "${baseUrl}/tunes/R/RSkye/RSkye-StanC_M.mp3"
           },
           {
             "name": "Stan Chapman's Jig",
@@ -2546,9 +2534,9 @@
             "genre": "",
             "type": "Jig",
             "composer": "Jery Holland",
-            "score": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkye.pdf",
-            "tab": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkyet.pdf",
-            "audio": "${baseUrl}/tunes/zCapeBreton/PQR/RSkye/RSkye-StanC_M.mp3"
+            "score": "${baseUrl}/tunes/R/RSkye/RSkye.pdf",
+            "tab": "${baseUrl}/tunes/R/RSkye/RSkyet.pdf",
+            "audio": "${baseUrl}/tunes/R/RSkye/RSkye-StanC_M.mp3"
           },
           {
             "name": "Cindy",
@@ -2828,9 +2816,9 @@
             "genre": "Movie",
             "type": "Captain Corelli's Mandolin",
             "composer": "Stephen Warbeck",
-            "score": "${baseUrl}/tunes/zMovies/PQR/Pelag/Pelag.pdf",
-            "tab": "${baseUrl}/tunes/zMovies/PQR/Pelag/Pelagt.pdf",
-            "audio": "${baseUrl}/tunes/zMovies/PQR/Pelag/Pelag_M.mp3"
+            "score": "${baseUrl}/tunes/zMisc/PQR/Pelag/Pelag.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/PQR/Pelag/Pelagt.pdf",
+            "audio": "${baseUrl}/tunes/zMisc/PQR/Pelag/Pelag_M.mp3"
           },
           {
             "name": "Lara's theme",
@@ -3056,9 +3044,9 @@
     "genre": "Scottish",
     "type": "Round",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/STU/2ndRd/2ndRd.pdf",
-    "tab": "${baseUrl}/tunes/zNigelsTunes/STU/2ndRd/2ndRdt.pdf",
-    "audio": "${baseUrl}/tunes/zNigelsTunes/STU/2ndRd/2ndRd.mp3"
+    "score": "${baseUrl}/tunes/zComposers/STU/2ndRd/2ndRd.pdf",
+    "tab": "${baseUrl}/tunes/zComposers/STU/2ndRd/2ndRdt.pdf",
+    "audio": "${baseUrl}/tunes/zComposers/STU/2ndRd/2ndRd.mp3"
   },
   {
     "name": "Becca, Scarlett & Tiegan",
@@ -3066,9 +3054,9 @@
     "genre": "",
     "type": "",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/ABC/Becca/Becca.pdf",
-    "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/Becca/Beccat.pdf",
-    "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/Becca/Becca.mp3"
+    "score": "${baseUrl}/tunes/zComposers/ABC/Becca/Becca.pdf",
+    "tab": "${baseUrl}/tunes/zComposers/ABC/Becca/Beccat.pdf",
+    "audio": "${baseUrl}/tunes/zComposers/ABC/Becca/Becca.mp3"
   },
   {
     "name": "Dewar's Dream",
@@ -3076,9 +3064,9 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/DEF/DewrD/DewrD.pdf",
-    "tab": "${baseUrl}/tunes/zNigelsTunes/DEF/DewrD/DewrDt.pdf",
-    "audio": "${baseUrl}/tunes/zNigelsTunes/DEF/DewrD/DewrD.mp3"
+    "score": "${baseUrl}/tunes/zComposers/DEF/DewrD/DewrD.pdf",
+    "tab": "${baseUrl}/tunes/zComposers/DEF/DewrD/DewrDt.pdf",
+    "audio": "${baseUrl}/tunes/zComposers/DEF/DewrD/DewrD.mp3"
   },
   {
     "name": "Raindrops are Falling On my Head",
@@ -3087,8 +3075,8 @@
     "type": "",
     "composer": "Bacharach/David",
     "score": "",
-    "tab": "${baseUrl}/tunes/zMovies/PQR/Raind/Raindt.pdf",
-    "audio": "${baseUrl}/tunes/zMovies/PQR/Raind/Raind_W.mp3"
+    "tab": "${baseUrl}/tunes/zMisc/PQR/Raind/Raindt.pdf",
+    "audio": "${baseUrl}/tunes/zMisc/PQR/Raind/Raind_W.mp3"
   },
   {
     "name": "The Dachshund",
@@ -3106,9 +3094,9 @@
     "genre": "England",
     "type": "Air",
     "composer": "",
-    "score": "${baseUrl}/tunes/zEngland/PQR/Parth/Parth.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/PQR/Parth/Partht.pdf",
-    "audio": "${baseUrl}/tunes/zEngland/PQR/Parth/Parth_M.mp3"
+    "score": "${baseUrl}/tunes/zWorld/PQR/Parth/Parth.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/PQR/Parth/Partht.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/PQR/Parth/Parth_M.mp3"
   },
   {
     "name": "Bellingham Boat",
@@ -3116,9 +3104,9 @@
     "genre": "Northumberland",
     "type": "Jig",
     "composer": "",
-    "score": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltL.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltLt.pdf",
-    "audio": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltL-BellB_M.mp3"
+    "score": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltL.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltLt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltL-BellB_M.mp3"
   },
   {
     "name": "Felton Lonnen",
@@ -3126,9 +3114,9 @@
     "genre": "Northumberland",
     "type": "Air",
     "composer": "",
-    "score": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltL.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltLt.pdf",
-    "audio": "${baseUrl}/tunes/zEngland/DEF/FeltL/FeltL-BellB_M.mp3"
+    "score": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltL.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltLt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltL-BellB_M.mp3"
   },
   {
     "name": "The Sun Whose Rays",
@@ -3166,9 +3154,9 @@
     "genre": "",
     "type": "Reel",
     "composer": "",
-    "score": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeB.pdf",
-    "tab": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeBt.pdf",
-    "audio": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeB_M.mp3"
+    "score": "${baseUrl}/tunes/H/HomeB/HomeB.pdf",
+    "tab": "${baseUrl}/tunes/H/HomeB/HomeBt.pdf",
+    "audio": "${baseUrl}/tunes/H/HomeB/HomeB_M.mp3"
   },
   {
     "name": "Homeward Bound",
@@ -3176,9 +3164,9 @@
     "genre": "",
     "type": "Reel",
     "composer": "Rory MacDonald",
-    "score": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeB.pdf",
-    "tab": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeBt.pdf",
-    "audio": "${baseUrl}/tunes/zCapeBreton/GHI/HomeB/HomeB_M.mp3"
+    "score": "${baseUrl}/tunes/H/HomeB/HomeB.pdf",
+    "tab": "${baseUrl}/tunes/H/HomeB/HomeBt.pdf",
+    "audio": "${baseUrl}/tunes/H/HomeB/HomeB_M.mp3"
   },
   {
     "name": "Waltz for Kylin",
@@ -3740,9 +3728,9 @@
     "genre": "Scottish",
     "type": "",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/ABC/BurnC/BurnC.pdf",
-    "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/BurnC/BurnCt.pdf",
-    "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/BurnC/BurnC-Knock_M.mp3"
+    "score": "${baseUrl}/tunes/zComposers/ABC/BurnC/BurnC.pdf",
+    "tab": "${baseUrl}/tunes/zComposers/ABC/BurnC/BurnCt.pdf",
+    "audio": "${baseUrl}/tunes/zComposers/ABC/BurnC/BurnC-Knock_M.mp3"
   },
   {
     "name": "Maggie",
@@ -5953,7 +5941,7 @@
     "composer": "Wals voor Polle",
     "score": "${baseUrl}/tunes/zWorld/VWXYZ/WPoll/WPoll.pdf",
     "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WPoll/WPoll.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/zWorld/VWXYZ/WPoll/WPoll_M.mp3"
   },
   {
     "name": "O Cravo e a Rosa",
@@ -5991,9 +5979,9 @@
     "genre": "Scottish",
     "type": "March",
     "composer": "M MacDougal",
-    "score": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFA.pdf",
-    "tab": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFAt.pdf",
-    "audio": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFA_M.mp3"
+    "score": "${baseUrl}/tunes/M/MemFa/MemFA.pdf",
+    "tab": "${baseUrl}/tunes/M/MemFa/MemFAt.pdf",
+    "audio": "${baseUrl}/tunes/M/MemFa/MemFA_M.mp3"
   },
   {
     "name": "The Braes of Dunvegan",
@@ -6001,9 +5989,9 @@
     "genre": "Scottish",
     "type": "March",
     "composer": "",
-    "score": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFA.pdf",
-    "tab": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFAt.pdf",
-    "audio": "${baseUrl}/tunes/zCapeBreton/MNO/MemFa/MemFA_M.mp3"
+    "score": "${baseUrl}/tunes/M/MemFa/MemFA.pdf",
+    "tab": "${baseUrl}/tunes/M/MemFa/MemFAt.pdf",
+    "audio": "${baseUrl}/tunes/M/MemFa/MemFA_M.mp3"
   },
 
 
@@ -6013,9 +6001,9 @@
     "genre": "Scottish",
     "type": "",
     "composer": "Paul Cranford",
-    "score": "${baseUrl}/tunes/zCapeBreton/STU/UnStS/UnStS.pdf",
-    "tab": "${baseUrl}/tunes/zCapeBreton/STU/UnStS/UnStSt.pdf",
-    "audio": "${baseUrl}/tunes/zCapeBreton/STU/UnStS/UnStSw.pdf"
+    "score": "${baseUrl}/tunes/U/UnStS/UnStS.pdf",
+    "tab": "${baseUrl}/tunes/U/UnStS/UnStSt.pdf",
+    "audio": "${baseUrl}/tunes/U/UnStS/UnStSw.pdf"
   },
   {
     "name": "Garoon <i>(Armenia)</i>",
@@ -6033,9 +6021,9 @@
     "genre": "English",
     "type": "Morris Dance",
     "composer": "",
-    "score": "${baseUrl}/tunes/zEngland/ABC/BBill/BBill.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/ABC/BBill/BBillt.pdf",
-    "audio": "${baseUrl}/tunes/zEngland/ABC/BBill/BBill-HMary_M.mp3"
+    "score": "${baseUrl}/tunes/zWorld/ABC/BBill/BBill.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/BBill/BBillt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/ABC/BBill/BBill-HMary_M.mp3"
   },
   {
     "name": "Highland Mary",
@@ -6043,9 +6031,9 @@
     "genre": "English",
     "type": "Morris Dance",
     "composer": "",
-    "score": "${baseUrl}/tunes/zEngland/ABC/BBill/BBill.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/ABC/BBill/BBillt.pdf",
-    "audio": "${baseUrl}/tunes/zEngland/ABC/BBill/BBill-HMary_M.mp3"
+    "score": "${baseUrl}/tunes/zWorld/ABC/BBill/BBill.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/BBill/BBillt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/ABC/BBill/BBill-HMary_M.mp3"
   },
   {
     "name": "Maiden Lane",
@@ -6053,9 +6041,9 @@
     "genre": "English",
     "type": "",
     "composer": "Playford",
-    "score": "${baseUrl}/tunes/zEngland/STU/ShepS/ShepS.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/STU/ShepS/ShepSt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepSt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS-MaidL_M.mp3"
   },
   {
     "name": "Shepherd and the Shepherdess",
@@ -6063,9 +6051,9 @@
     "genre": "English",
     "type": "",
     "composer": "Johnson",
-    "score": "${baseUrl}/tunes/zEngland/STU/ShepS/ShepS.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/STU/ShepS/ShepSt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepSt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS-MaidL_M.mp3"
   },
   {
     "name": "Sweet Thames Flow Softly",
@@ -6073,9 +6061,9 @@
     "genre": "England",
     "type": "Air",
     "composer": "Ewan MacColl",
-    "score": "${baseUrl}/tunes/zEngland/STU/SwtTh/SwtTh.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/STU/SwtTh/SwtTht.pdf",
-    "audio": "${baseUrl}/tunes/zEngland/STU/SwtTh/SwtTh_M.mp3"
+    "score": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTh.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTht.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTh_M.mp3"
   },
   {
     "name": "Uncle's Jig",
@@ -6083,9 +6071,9 @@
     "genre": "England",
     "type": "West Country",
     "composer": "Jig",
-    "score": "${baseUrl}/tunes/zEngland/VWXYZ/WoodF/WoodF.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/VWXYZ/WoodF/WoodFt.pdf",
-    "audio": "${baseUrl}/tunes/zEngland/VWXYZ/WoodF/WoodF-UnclJ_M.mp3"
+    "score": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodF.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodFt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodF-UnclJ_M.mp3"
   },
   {
     "name": "Woodland Flowers",
@@ -6093,9 +6081,9 @@
     "genre": "England",
     "type": "West Country",
     "composer": "Jig",
-    "score": "${baseUrl}/tunes/zEngland/VWXYZ/WoodF/WoodF.pdf",
-    "tab": "${baseUrl}/tunes/zEngland/VWXYZ/WoodF/WoodFt.pdf",
-    "audio": "${baseUrl}/tunes/zEngland/VWXYZ/WoodF/WoodF-UnclJ_M.mp3"
+    "score": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodF.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodFt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodF-UnclJ_M.mp3"
   },
   {
     "name": "Bouree de Brand",
@@ -8941,7 +8929,7 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/DEF/FwCrR/FwCrR.pdf",
+    "score": "${baseUrl}/tunes/zComposers/DEF/FwCrR/FwCrR.pdf",
     "tab": "",
     "audio": ""
   },
@@ -8961,9 +8949,9 @@
     "genre": "Scottish",
     "type": "Jig",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/ABC/CtFin/CtFin.pdf",
-    "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/CtFin/CtFint.pdf",
-    "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/CtFin/CtFin_M.mp3"
+    "score": "${baseUrl}/tunes/zComposers/ABC/CtFin/CtFin.pdf",
+    "tab": "${baseUrl}/tunes/zComposers/ABC/CtFin/CtFint.pdf",
+    "audio": "${baseUrl}/tunes/zComposers/ABC/CtFin/CtFin_M.mp3"
   },
   {
     "name": "Compliments to Finlay Allison",
@@ -8971,9 +8959,9 @@
     "genre": "Scottish",
     "type": "Jig",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/ABC/CtFin/CtFin.pdf",
-    "tab": "${baseUrl}/tunes/zNigelsTunes/ABC/CtFin/CtFint.pdf",
-    "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/CtFin/CtFin_M.mp3"
+    "score": "${baseUrl}/tunes/zComposers/ABC/CtFin/CtFin.pdf",
+    "tab": "${baseUrl}/tunes/zComposers/ABC/CtFin/CtFint.pdf",
+    "audio": "${baseUrl}/tunes/zComposers/ABC/CtFin/CtFin_M.mp3"
   },
   {
     "name": "The Cray House Reel",
@@ -8981,9 +8969,9 @@
     "genre": "Scottish",
     "type": "Reel",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/ABC/CrayH/CrayH.pdf",
+    "score": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH.pdf",
     "tab": "",
-    "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/CrayH/CrayH_W.mp3"
+    "audio": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH_W.mp3"
   },
   {
     "name": "The Cray House Strathspey",
@@ -9083,7 +9071,7 @@
     "composer": "Maurice Jarre",
     "score": "${baseUrl}/tunes/zMisc/JKL/LaraT/LaraT.pdf",
     "tab": "${baseUrl}/tunes/zMisc/JKL/LaraT/LaraTt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/zMisc/JKL/LaraT/LaraT1-2_M.mp3"
   },
 
 
@@ -9254,8 +9242,8 @@
     "genre": "60s",
     "type": "",
     "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zBeatles/ABC/AllML/AllML.pdf",
-    "tab": "${baseUrl}/tunes/zBeatles/ABC/AllML/AllMLt.pdf",
+    "score": "${baseUrl}/tunes/zPopRock/ABC/AllML/AllML.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/ABC/AllML/AllMLt.pdf",
     "audio": ""
   },
   {
@@ -9264,8 +9252,8 @@
     "genre": "60s",
     "type": "",
     "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zBeatles/ABC/AndIL/AndIL.pdf",
-    "tab": "${baseUrl}/tunes/zBeatles/ABC/AndIL/AndILt.pdf",
+    "score": "${baseUrl}/tunes/zPopRock/ABC/AndIL/AndIL.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/ABC/AndIL/AndILt.pdf",
     "audio": ""
   },
   {
@@ -9274,9 +9262,9 @@
     "genre": "60s",
     "type": "",
     "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zBeatles/ABC/BeatM/BeatM1.pdf",
-    "tab": "${baseUrl}/tunes/zBeatles/ABC/BeatM/BeatM1t.pdf",
-    "audio": "${baseUrl}/tunes/zBeatles/ABC/BeatM/BeatM1.mp3"
+    "score": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1t.pdf",
+    "audio": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.mp3"
   },
   {
     "name": "OB-LA-DI OB-LA-DA",
@@ -9284,9 +9272,9 @@
     "genre": "60s",
     "type": "",
     "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zBeatles/ABC/BeatM/BeatM1.pdf",
-    "tab": "${baseUrl}/tunes/zBeatles/ABC/BeatM/BeatM1t.pdf",
-    "audio": "${baseUrl}/tunes/zBeatles/ABC/BeatM/BeatM1.mp3"
+    "score": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1t.pdf",
+    "audio": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.mp3"
   },
   {
     "name": "From Me To You",
@@ -9294,9 +9282,9 @@
     "genre": "60s",
     "type": "",
     "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zBeatles/ABC/BeatM/BeatM1.pdf",
-    "tab": "${baseUrl}/tunes/zBeatles/ABC/BeatM/BeatM1t.pdf",
-    "audio": "${baseUrl}/tunes/zBeatles/ABC/BeatM/BeatM1.mp3"
+    "score": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1t.pdf",
+    "audio": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.mp3"
   },
   {
     "name": "For No One",
@@ -9304,8 +9292,8 @@
     "genre": "60s",
     "type": "",
     "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zBeatles/DEF/FNOne/FNOne.pdf",
-    "tab": "${baseUrl}/tunes/zBeatles/DEF/FNOne/FNOnet.pdf",
+    "score": "${baseUrl}/tunes/zPopRock/DEF/FNOne/FNOne.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/DEF/FNOne/FNOnet.pdf",
     "audio": ""
   },
   {
@@ -9314,8 +9302,8 @@
     "genre": "60s",
     "type": "",
     "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zBeatles/GHI/IHJtD/IHJtD.pdf",
-    "tab": "${baseUrl}/tunes/zBeatles/GHI/IHJtD/IHJtD.pdf",
+    "score": "${baseUrl}/tunes/zPopRock/GHI/IHJtD/IHJtD.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/GHI/IHJtD/IHJtD.pdf",
     "audio": ""
   },
 
@@ -9325,8 +9313,8 @@
     "genre": "60s",
     "type": "",
     "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zBeatles/GHI/InMyL/InMyL.pdf",
-    "tab": "${baseUrl}/tunes/zBeatles/GHI/InMyL/InMyLt.pdf",
+    "score": "${baseUrl}/tunes/zPopRock/GHI/InMyL/InMyL.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/GHI/InMyL/InMyLt.pdf",
     "audio": ""
   },
   {
@@ -9336,8 +9324,8 @@
     "type": "",
     "composer": "Lennon/McCartney",
     "score": "",
-    "tab": "${baseUrl}/tunes/zBeatles/MNO/NorwW/NorwWt.pdf",
-    "audio": ""
+    "tab": "${baseUrl}/tunes/zPopRock/MNO/NorwW/NorwWt.pdf",
+    "audio": "${baseUrl}/tunes/zPopRock/MNO/NorwW/NorwW_W.mp3"
   },
   {
     "name": "Blowin' in the Wind",
@@ -9345,9 +9333,9 @@
     "genre": "60s",
     "type": "",
     "composer": "BoB Dylan",
-    "score": "${baseUrl}/tunes/z1960s/ABC/BlowW/BlowW.pdf",
-    "tab": "${baseUrl}/tunes/z1960s/ABC/BlowW/BlowWt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/zPopRock/ABC/BlowW/BlowW.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/ABC/BlowW/BlowWt.pdf",
+    "audio": "${baseUrl}/tunes/zPopRock/ABC/BlowW/BlowW_M.mp3"
   },
   {
     "name": "Mr Tambourine Man",
@@ -9355,9 +9343,9 @@
     "genre": "60s",
     "type": "",
     "composer": "BoB Dylan",
-    "score": "${baseUrl}/tunes/z1960s/MNO/MrTam/MrTam.pdf",
-    "tab": "${baseUrl}/tunes/z1960s/MNO/MrTam/MrTamt.pdf",
-    "audio": "${baseUrl}/tunes/z1960s/MNO/MrTam/MrTam_M.mp3"
+    "score": "${baseUrl}/tunes/zPopRock/MNO/MrTam/MrTam.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/MNO/MrTam/MrTamt.pdf",
+    "audio": "${baseUrl}/tunes/zPopRock/MNO/MrTam/MrTam_M.mp3"
   },
   {
     "name": "The Air Tune",
@@ -10464,7 +10452,7 @@
       "composer": "Robert Burns",
       "score": "${baseUrl}/tunes/F/ForAT/ForAT.pdf",
       "tab": "${baseUrl}/tunes/F/ForAT/ForATt.pdf",
-      "audio": ""
+      "audio": "${baseUrl}/tunes/F/ForAT/AMans-SWHae_W.mp3"
     },
     {
       "name": "Gatherer's Rag",
@@ -10565,9 +10553,9 @@
       "genre": "",
       "type": "Polka",
       "composer": "Nigel Gatherer",
-      "score": "${baseUrl}/tunes/zNigelsTunes/JKL/LBPlk/LBPlk.pdf",
-      "tab": "${baseUrl}/tunes/zNigelsTunes/JKL/LBPlk/LBPlkt.pdf",
-      "audio": "${baseUrl}/tunes/zNigelsTunes/JKL/LBPlk/LBPlk-JennP_M.mp3"
+      "score": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlk.pdf",
+      "tab": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlkt.pdf",
+      "audio": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlk-JennP_M.mp3"
     },
     {
       "name": "Jerusalem Ridge",
