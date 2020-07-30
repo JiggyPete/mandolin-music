@@ -158,6 +158,8 @@ http://www.nigelgatherer.com/tunes/tunes/B/BalyP/BalyP.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BalyP/BalyPt.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BarnD/BarnDt.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BarnD/BarnDw.pdf
+http://www.nigelgatherer.com/tunes/tunes/B/Barrn/Barrn.pdf
+http://www.nigelgatherer.com/tunes/tunes/B/Barrn/Barrnt.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BatSh/BatSh.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BatSh/BatShc2.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BatSh/BatSht.pdf
@@ -1350,6 +1352,8 @@ http://www.nigelgatherer.com/tunes/tunes/S/StriV/StriVw.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StriV/ToW96_StriV.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StriV/ToW96_StriVt.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/StriV/ToW96_StriVw.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/Stron/Stron.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/Stron/Stront.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SurgT/SurgT.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SurgT/SurgTc2.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SurgT/SurgTt.pdf
@@ -2226,8 +2230,6 @@ http://www.nigelgatherer.com/tunes/tunes/zWorld/DEF/FlitD/FlitDt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/DEF/FlitD/FlitDw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/DEF/FreyZ/FreyZ.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/DEF/FreyZ/FreyZt.pdf
-http://www.nigelgatherer.com/tunes/tunes/zWorld/DEF/Freyl/Freyl.pdf
-http://www.nigelgatherer.com/tunes/tunes/zWorld/DEF/Freyl/Freylt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/DEF/Furus/Furus.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/DEF/Furus/Furust.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/Gandz/Gandz.pdf
@@ -2239,9 +2241,9 @@ http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/Garon/Garont.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/Golon/Golon.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/HymnL/HymnL.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/HymnL/HymnLt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/IMiri/IMirit.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/IllGo/IllGo.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/IllGo/IllGot.pdf
-http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/Imiri/IMirit.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/IsleC/IsleC.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/IsleC/IsleCc.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/IsleC/IsleCt.pdf
@@ -2256,7 +2258,6 @@ http://www.nigelgatherer.com/tunes/tunes/zWorld/JKL/JimAl/JimAlw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/JKL/Kamar/Kamar.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/JKL/Kamar/Kamart.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/JKL/LngeB/LngeB.pdf
-http://www.nigelgatherer.com/tunes/tunes/zWorld/JKL/LngeB/LngeBa.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/JKL/LngeB/LngeBt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/JKL/LngeB/LngeBw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/JKL/LongR/LongR.pdf
@@ -2618,7 +2619,7 @@ http://www.nigelgatherer.com/tunes/tunes/B/Bella/Bella-MDoug_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/B/BnGal/BnGal_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/B/BnksS/BnksS_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/B/BoanP/ShPol_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/B/BoyGp/BoyGp_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/B/BoyGp/BoyGp-Bshee_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/B/BoysT/BoysT_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/B/Bride/Bride_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/B/Brolm/Brolm_M.mp3
@@ -2929,6 +2930,8 @@ http://www.nigelgatherer.com/tunes/tunes/SSS/66-DBSal/66-DBSal.mp3
 http://www.nigelgatherer.com/tunes/tunes/SSS/67-BBush/67-BBush.mp3
 http://www.nigelgatherer.com/tunes/tunes/SSS/68-EarlM/68-EarlM.mp3
 http://www.nigelgatherer.com/tunes/tunes/SSS/69-HilsG/69-HilsG.mp3
+http://www.nigelgatherer.com/tunes/tunes/T/TMulh/TMulh-IdleR_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/T/TMulh/TMulh-IdleR_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/T/Terib/Terib_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/T/ThisS/ThisS-Barrn_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/T/ThisS/ThisS-Barrn_W.mp3
