@@ -1,6 +1,36 @@
 `
 [
           {
+            "name": "The Stronsay Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "Pye Chalmers",
+            "score": "${baseUrl}/tunes/S/Stron/Stron.pdf",
+            "tab": "${baseUrl}/tunes/S/Stron/Stront.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Barren Rocks of Aden",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "A McKellar",
+            "score": "${baseUrl}/tunes/B/Barrn/Barrn.pdf",
+            "tab": "${baseUrl}/tunes/B/Barrn/Barrnt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "79th Farewell to Gibralter",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/B/Barrn/Barrn.pdf",
+            "tab": "${baseUrl}/tunes/B/Barrn/Barrnt.pdf",
+            "audio": ""
+          },
+          {
             "name": "El Recolector",
             "from": "nigel-gatherer",
             "genre": "",
@@ -3913,16 +3943,6 @@
     "audio": ""
   },
   {
-    "name": "79th Farewell to Gibralter",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/std/std1/79thf.html",
-    "tab": "",
-    "audio": ""
-  },
-  {
     "name": "Earl of Mansfield",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -4120,16 +4140,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab3/dongl.html",
-    "audio": ""
-  },
-  {
-    "name": "79th's Farewell to Gibraltar",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/std/std1/79thf.html",
-    "tab": "",
     "audio": ""
   },
   {
@@ -6182,7 +6192,7 @@
     "type": "",
     "composer": "Mikis Theodorakis",
     "score": "",
-    "tab": "${baseUrl}/tunes/zWorld/GHI/Imiri/IMirit.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/GHI/IMiri/IMirit.pdf",
     "audio": "https://soundcloud.com/nigel-gatherer/10-i-mirei?in=nigel-gatherer/sets/mm08-greek-music"
   },
   {
@@ -9529,7 +9539,17 @@
     "composer": "",
     "score": "${baseUrl}/tunes/T/TMulh/TMulh.pdf",
     "tab": "${baseUrl}/tunes/T/TMulh/TMulht.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/T/TMulh/TMulh-IdleR_W.mp3"
+  },
+  {
+    "name": "The Idle Road",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/T/TMulh/TMulh.pdf",
+    "tab": "${baseUrl}/tunes/T/TMulh/TMulht.pdf",
+    "audio": "${baseUrl}/tunes/T/TMulh/TMulh-IdleR_W.mp3"
   },
   {
     "name": "Willie Clancy's",
@@ -9761,7 +9781,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/B/BoyGp/BoyGp.pdf",
     "tab": "${baseUrl}/tunes/B/BoyGp/BoyGpt.pdf",
-    "audio": "${baseUrl}/tunes/B/BoyGp/BoyGp_M.mp3"
+    "audio": "${baseUrl}/tunes/B/BoyGp/BoyGp-Bshee_M.mp3"
   },
   {
     "name": "Boy in the Gap",
@@ -9771,7 +9791,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/B/BoyGp/BoyGp.pdf",
     "tab": "${baseUrl}/tunes/B/BoyGp/BoyGpt.pdf",
-    "audio": "${baseUrl}/tunes/B/BoyGp/BoyGp_M.mp3"
+    "audio": "${baseUrl}/tunes/B/BoyGp/BoyGp-Bshee_M.mp3"
   },
   {
     "name": "Belles of Tipperary",
