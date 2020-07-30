@@ -5438,9 +5438,9 @@
     "genre": "",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/zBluegrass/ABC/BBlos/BBlos.pdf",
-    "tab": "${baseUrl}/tunes/zBluegrass/ABC/BBlos/BBlost.pdf",
-    "audio": "${baseUrl}/tunes/zBluegrass/ABC/BBlos/BBlos.mp3"
+    "score": "${baseUrl}/tunes/zAmerican/ABC/BBlos/BBlos.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/BBlos/BBlost.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/BBlos/BBlos.mp3"
   },
   {
     "name": "Peg Ryan's Fancy",
@@ -8939,7 +8939,7 @@
     "genre": "Scottish",
     "type": "Jig",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/DEF/FwCrR/FwCrR.pdf",
+    "score": "${baseUrl}/tunes/zComposers/DEF/FwCrR/FwCrR.pdf",
     "tab": "",
     "audio": ""
   },
@@ -8979,9 +8979,9 @@
     "genre": "Scottish",
     "type": "Strathspey",
     "composer": "Nigel Gatherer",
-    "score": "${baseUrl}/tunes/zNigelsTunes/ABC/CrayH/CrayH.pdf",
+    "score": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH.pdf",
     "tab": "",
-    "audio": "${baseUrl}/tunes/zNigelsTunes/ABC/CrayH/CrayH_W.mp3"
+    "audio": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH_W.mp3"
   },
   {
     "name": "O Onochie O",
@@ -10621,9 +10621,9 @@
       "genre": "",
       "type": "Polka",
       "composer": "Nigel Gatherer",
-      "score": "${baseUrl}/tunes/zNigelsTunes/JKL/LBPlk/LBPlk.pdf",
-      "tab": "${baseUrl}/tunes/zNigelsTunes/JKL/LBPlk/LBPlkt.pdf",
-      "audio": "${baseUrl}/tunes/zNigelsTunes/JKL/LBPlk/LBPlk-JennP_M.mp3"
+      "score": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlk.pdf",
+      "tab": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlkt.pdf",
+      "audio": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlk-JennP_M.mp3"
     },
     {
       "name": "Leezie Lindsay",
