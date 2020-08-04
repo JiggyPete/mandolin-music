@@ -3888,7 +3888,7 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "Carolina Oliphant",
-    "score": "${baseUrl}/tunes/1-9/100Pp/100Pp.pdf",
+    "score": "${baseUrl}/tunes/W/Wi100/Wi100.pdf",
     "tab": "${baseUrl}/tunes/1-9/100Pp/100Ppt.pdf",
     "audio": "${baseUrl}/tunes/1-9/100Pp/100Pp_M.mp3"
   },
@@ -8222,9 +8222,19 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "",
-    "score": "${baseUrl}/tunes/SSS/15-BarnY/15-BarnY.pdf",
+    "score": "${baseUrl}/tunes/B/BarnD/BrnyD.pdf",
     "tab": "${baseUrl}/tunes/B/BarnD/BarnDt.pdf",
     "audio": "${baseUrl}/tunes/B/BarnD/BarnY2_M.mp3"
+  },
+  {
+    "name": "The Hopeful Lover",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BarnD/BrnyD.pdf",
+    "tab": "${baseUrl}/tunes/B/BarnD/BrnyDt.pdf",
+    "audio": ""
   },
   {
     "name": "Big Dougal",
