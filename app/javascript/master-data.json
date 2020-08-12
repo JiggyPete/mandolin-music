@@ -1,6 +1,46 @@
 `
 [
           {
+            "name": "Pretty Little Cat",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/PLCat/PLCat.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/PLCat/PLCatt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Sula Sgeir March",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "Charlie Grey / Joseph Peach",
+            "score": "${baseUrl}/tunes/S/SulaS/SulaS.pdf",
+            "tab": "${baseUrl}/tunes/S/SulaS/SulaSt.pdf",
+            "audio": "${baseUrl}/tunes/S/SulaS/SulaS_M.mp3"
+          },
+          {
+            "name": "Sula Sgeir Reel",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Charlie Grey / Joseph Peach",
+            "score": "${baseUrl}/tunes/S/SulaS/SulaS.pdf",
+            "tab": "${baseUrl}/tunes/S/SulaS/SulaSt.pdf",
+            "audio": "${baseUrl}/tunes/S/SulaS/SulaS_M.mp3"
+          },
+          {
+            "name": "The Fernlea Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "Phil Cunningham",
+            "score": "${baseUrl}/tunes/F/FernW/FernW.pdf",
+            "tab": "${baseUrl}/tunes/F/FernW/FernWt.pdf",
+            "audio": "${baseUrl}/tunes/F/FernW/FernW.mp3"
+          },
+          {
             "name": "The Stronsay Waltz",
             "from": "nigel-gatherer",
             "genre": "Scottish",
@@ -1105,8 +1145,8 @@
             "genre": "Scottish",
             "type": "Strathspey",
             "composer": "",
-            "score": "${baseUrl}/tunes/M/McMcK/MsMcK.pdf",
-            "tab": "${baseUrl}/tunes/M/McMcK/MsMcKt.pdf",
+            "score": "${baseUrl}/tunes/M/MsMcK/MsMcK.pdf",
+            "tab": "${baseUrl}/tunes/M/MsMcK/MsMcKt.pdf",
             "audio": ""
           },
           {
@@ -1115,8 +1155,8 @@
             "genre": "Scottish",
             "type": "Reel",
             "composer": "",
-            "score": "${baseUrl}/tunes/M/McMcK/MsMcK.pdf",
-            "tab": "${baseUrl}/tunes/M/McMcK/MsMcKt.pdf",
+            "score": "${baseUrl}/tunes/M/MsMcK/MsMcK.pdf",
+            "tab": "${baseUrl}/tunes/M/MsMcK/MsMcKt.pdf",
             "audio": ""
           },
           {
@@ -1125,8 +1165,8 @@
             "genre": "Scottish",
             "type": "Reel",
             "composer": "Duncan McKerchar",
-            "score": "${baseUrl}/tunes/M/McMcK/MsMcK.pdf",
-            "tab": "${baseUrl}/tunes/M/McMcK/MsMcKt.pdf",
+            "score": "${baseUrl}/tunes/M/MsMcK/MsMcK.pdf",
+            "tab": "${baseUrl}/tunes/M/MsMcK/MsMcKt.pdf",
             "audio": ""
           },
           {
@@ -2133,7 +2173,7 @@
             "genre": "Scottish",
             "type": "",
             "composer": "Nigel Gatherer",
-            "score": "",
+            "score": "${baseUrl}/tunes/zComposers/MNO/MsLud/MsLud.pdf",
             "tab": "${baseUrl}/tunes/zComposers/MNO/MsLud/MsLudt.pdf",
             "audio": "${baseUrl}/tunes/zComposers/MNO/MsLud/MsLud.mp3"
           },
@@ -7773,7 +7813,7 @@
     "type": "March",
     "composer": "",
     "score": "",
-    "tab": "${baseUrl}/tunes/U/Urquh/Urquhart's_tab.pdf",
+    "tab": "${baseUrl}/tunes/U/Urquh/Urquht.pdf",
     "audio": ""
   },
   {
@@ -8990,8 +9030,8 @@
     "type": "Reel",
     "composer": "Nigel Gatherer",
     "score": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH.pdf",
-    "tab": "",
-    "audio": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH_W.mp3"
+    "tab": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayHt.pdf",
+    "audio": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH_M.mp3"
   },
   {
     "name": "The Cray House Strathspey",
@@ -9000,8 +9040,8 @@
     "type": "Strathspey",
     "composer": "Nigel Gatherer",
     "score": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH.pdf",
-    "tab": "",
-    "audio": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH_W.mp3"
+    "tab": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayHt.pdf",
+    "audio": "${baseUrl}/tunes/zComposers/ABC/CrayH/CrayH_M.mp3"
   },
   {
     "name": "O Onochie O",

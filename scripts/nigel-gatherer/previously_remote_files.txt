@@ -103,7 +103,6 @@ http://www.nigelgatherer.com/tunes/tunes/B/BBHil/BBHilw.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BBMrk/BBMrk.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BBMrk/BBMrkt.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BBear/BBear.pdf
-http://www.nigelgatherer.com/tunes/tunes/B/BBear/BBeara.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BBear/BBeart.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BBear/BBearw.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BBoru/BBoru.pdf
@@ -158,6 +157,9 @@ http://www.nigelgatherer.com/tunes/tunes/B/BalyP/BalyP.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BalyP/BalyPt.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BarnD/BarnDt.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BarnD/BarnDw.pdf
+http://www.nigelgatherer.com/tunes/tunes/B/BarnD/BrnyD.pdf
+http://www.nigelgatherer.com/tunes/tunes/B/BarnD/BrnyDt.pdf
+http://www.nigelgatherer.com/tunes/tunes/B/BarnD/BrnyDw.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/Barrn/Barrn.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/Barrn/Barrnt.pdf
 http://www.nigelgatherer.com/tunes/tunes/B/BatSh/BatSh.pdf
@@ -230,7 +232,6 @@ http://www.nigelgatherer.com/tunes/tunes/C/CaYow/CaYowt.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/CabrF/CabrF.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/CabrF/CabrFt.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/CaldL/CaldL.pdf
-http://www.nigelgatherer.com/tunes/tunes/C/CaldL/CaldLa.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/CaldL/CaldLt.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/CaldL/CaldLw.pdf
 http://www.nigelgatherer.com/tunes/tunes/C/Caled/Caled.pdf
@@ -1581,6 +1582,9 @@ http://www.nigelgatherer.com/tunes/tunes/W/WhJar/WhJaru.pdf
 http://www.nigelgatherer.com/tunes/tunes/W/WhJar/WhJarw.pdf
 http://www.nigelgatherer.com/tunes/tunes/W/WhaWF/WhaWF.pdf
 http://www.nigelgatherer.com/tunes/tunes/W/WhaWF/WhaWFt.pdf
+http://www.nigelgatherer.com/tunes/tunes/W/Wi100/Wi100.pdf
+http://www.nigelgatherer.com/tunes/tunes/W/Wi100/Wi100t.pdf
+http://www.nigelgatherer.com/tunes/tunes/W/Wi100/Wi100w.pdf
 http://www.nigelgatherer.com/tunes/tunes/W/WilYG/WilYG.pdf
 http://www.nigelgatherer.com/tunes/tunes/W/WilYG/WilYGc2.pdf
 http://www.nigelgatherer.com/tunes/tunes/W/WilYG/WilYGt.pdf
@@ -2579,7 +2583,7 @@ http://www.nigelgatherer.com/tunes/tunes/A/AftnW/AftnW_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AikDr/AikDr-BoatR_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AikDr/AikDr-IGNMT_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AirTu/AirTu_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/A/AirdR/AirdR_PutMe_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/A/AirdR/AirdR-PutMe_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AlDun/AlDun-CockG_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AlesD/AlesD-HRoad_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AmngF/AmngF_M.mp3
@@ -2687,7 +2691,7 @@ http://www.nigelgatherer.com/tunes/tunes/D/DarkI/DarkI_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/D/DenMP/DenMP-RyanP_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/D/Dinky/Dinky-DickG_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/D/DnchH/DnchH-JamiR_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/D/DoWil/DoWil_TendS_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/D/DoWil/DoWil-TendS_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/D/DoonW/Coult_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/D/DoonW/DoonW_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/D/DornL/DornL-GrnWd_M.mp3
