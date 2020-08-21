@@ -1,5 +1,164 @@
 `
 [
+
+
+          {
+            "name": "Que Sera Sera",
+            "from": "nigel-gatherer",
+            "genre": "Movie",
+            "type": "",
+            "composer": "Livingston / Evans",
+            "score": "",
+            "tab": "${baseUrl}/tunes/zMisc/PQR/QSera/QSerat.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Over the Rainbod",
+            "from": "nigel-gatherer",
+            "genre": "Movie",
+            "type": "",
+            "composer": "Harold Arlen",
+            "score": "${baseUrl}/tunes/zMisc/MNO/OverR/OverR.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/MNO/OverR/OverRt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Three Chimneys",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "Brian McNeill",
+            "score": "${baseUrl}/tunes/T/3Chim/3Chim.pdf",
+            "tab": "${baseUrl}/tunes/T/3Chim/3Chimt.pdf",
+            "audio": "${baseUrl}/tunes/T/3Chim/3Chim-LoosN_M.mp3"
+          },
+          {
+            "name": "The Loose Noose",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Brian McNeill",
+            "score": "${baseUrl}/tunes/T/3Chim/3Chim.pdf",
+            "tab": "${baseUrl}/tunes/T/3Chim/3Chimt.pdf",
+            "audio": "${baseUrl}/tunes/T/3Chim/3Chim-LoosN_M.mp3"
+          },
+
+          {
+            "name": "Sailor's Hornpipe",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SailH/SailH.pdf",
+            "tab": "${baseUrl}/tunes/S/SailH/SailHt.pdf",
+            "audio": "${baseUrl}/tunes/S/SailH/SailH_M.mp3"
+          },
+          {
+            "name": "Rannoch",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "Dougie MacLean",
+            "score": "${baseUrl}/tunes/R/Rnoch/Rnoch.pdf",
+            "tab": "${baseUrl}/tunes/R/Rnoch/Rnocht.pdf",
+            "audio": "${baseUrl}/tunes/R/Rnoch/Rnoch-FCity_M.mp3"
+          },
+          {
+            "name": "The Fair City",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Dougie MacLean",
+            "score": "${baseUrl}/tunes/R/Rnoch/Rnoch.pdf",
+            "tab": "${baseUrl}/tunes/R/Rnoch/Rnocht.pdf",
+            "audio": "${baseUrl}/tunes/R/Rnoch/Rnoch-FCity_M.mp3"
+          },
+
+
+          {
+            "name": "Derry Cunningham's",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Phil Cunningham",
+            "score": "${baseUrl}/tunes/P/QCoop/QCoop.pdf",
+            "tab": "${baseUrl}/tunes/P/QCoop/QCoopt.pdf",
+            "audio": "${baseUrl}/tunes/P/QCoop/QCoop-DerrC_M.mp3"
+          },
+          {
+            "name": "The Queensferry Cooper",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Phil Cunningham",
+            "score": "${baseUrl}/tunes/P/QCoop/QCoop.pdf",
+            "tab": "${baseUrl}/tunes/P/QCoop/QCoopt.pdf",
+            "audio": "${baseUrl}/tunes/P/QCoop/QCoop-DerrC_M.mp3"
+          },
+
+
+          {
+            "name": "Glendaruel Highlanders",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "",
+            "score": "${baseUrl}/tunes/G/GlenH/GlenH.pdf",
+            "tab": "${baseUrl}/tunes/G/GlenH/GlenHt.pdf",
+            "audio": "${baseUrl}/tunes/G/GlenH/GlenH-LDuck_M.mp3"
+          },
+          {
+            "name": "Leg of a Duck",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/G/GlenH/GlenH.pdf",
+            "tab": "${baseUrl}/tunes/G/GlenH/GlenHt.pdf",
+            "audio": "${baseUrl}/tunes/G/GlenH/GlenH-LDuck_M.mp3"
+          },
+          {
+            "name": "The Erigmore Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "Graham Mackenzie",
+            "score": "${baseUrl}/tunes/E/ErigW/ErigW.pdf",
+            "tab": "${baseUrl}/tunes/E/ErigW/ErigWt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Dunkled Oaks",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Gregor Lowrie",
+            "score": "${baseUrl}/tunes/D/DunkO/DunkO.pdf",
+            "tab": "${baseUrl}/tunes/D/DunkO/DunkOt.pdf",
+            "audio": "${baseUrl}/tunes/D/DunkO/DunkO_M.mp3"
+          },
+          {
+            "name": "Houlihan's",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Calum MacCrimmon",
+            "score": "${baseUrl}/tunes/C/CSBay/CSBay.pdf",
+            "tab": "${baseUrl}/tunes/C/CSBay/CSBayt.pdf",
+            "audio": "${baseUrl}/tunes/C/CSBay/CSBay-Houli_M.mp3"
+          },
+          {
+            "name": "Charlotte of Spey Bay",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "Calum MacCrimmon",
+            "score": "${baseUrl}/tunes/C/CSBay/CSBay.pdf",
+            "tab": "${baseUrl}/tunes/C/CSBay/CSBayt.pdf",
+            "audio": "${baseUrl}/tunes/C/CSBay/CSBay-Houli_M.mp3"
+          },
+
+
           {
             "name": "Pretty Little Cat",
             "from": "nigel-gatherer",
