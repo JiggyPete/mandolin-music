@@ -3,14 +3,104 @@
 
 
           {
+            "name": "Josefins Dopvals",
+            "from": "nigel-gatherer",
+            "genre": "Swedish",
+            "type": "",
+            "composer": "Roger Tallroth",
+            "score": "${baseUrl}/tunes/zWorld/JKL/JosfW/JosfW.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/JosfW/JosfWt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/JKL/JosfW/JosfW_M.mp3"
+          },
+          {
+            "name": "Boston Boy",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BostB/BostB.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BostB/BostBt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BostB/BostB_M.mp3"
+          },
+          {
+            "name": "She Put Her Knee on the Old Man",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SeonT/SeonT.pdf",
+            "tab": "${baseUrl}/tunes/S/SeonT/SeonTt.pdf",
+            "audio": "${baseUrl}/tunes/S/SeonT/SeonT-set_M.mp3"
+          },
+          {
+            "name": "Chuir I Gluin air A' Bhodaich",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SeonT/SeonT.pdf",
+            "tab": "${baseUrl}/tunes/S/SeonT/SeonTt.pdf",
+            "audio": "${baseUrl}/tunes/S/SeonT/SeonT-set_M.mp3"
+          },
+          {
+            "name": "Seonaidh's Tune",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "Fred Morrison",
+            "score": "${baseUrl}/tunes/S/SeonT/SeonT.pdf",
+            "tab": "${baseUrl}/tunes/S/SeonT/SeonTt.pdf",
+            "audio": "${baseUrl}/tunes/S/SeonT/SeonT-set_M.mp3"
+          },
+          {
+            "name": "The New Dawning",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Alistair McCulloch",
+            "score": "${baseUrl}/tunes/N/NDawn/NDawn.pdf",
+            "tab": "${baseUrl}/tunes/N/NDawn/NDawnt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Mariner's Hornpipe",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Hornpipe",
+            "composer": "Angus Grant Sr",
+            "score": "${baseUrl}/tunes/M/Marnr/Marnr.pdf",
+            "tab": "${baseUrl}/tunes/M/Marnr/Marnrt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Kincaldrum's",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/L/LairM/LairM.pdf",
+            "tab": "${baseUrl}/tunes/L/LairM/LairMt.pdf",
+            "audio": "${baseUrl}/tunes/L/LairM/LairM-KincD_M.mp3"
+          },
+          {
+            "name": "Laird o' MachIntosh",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "",
+            "score": "${baseUrl}/tunes/L/LairM/LairM.pdf",
+            "tab": "${baseUrl}/tunes/L/LairM/LairMt.pdf",
+            "audio": "${baseUrl}/tunes/L/LairM/LairM-KincD_M.mp3"
+          },
+          {
             "name": "Que Sera Sera",
             "from": "nigel-gatherer",
             "genre": "Movie",
             "type": "",
             "composer": "Livingston / Evans",
-            "score": "",
+            "score": "${baseUrl}/tunes/zMisc/PQR/QSera/QSera.pdf",
             "tab": "${baseUrl}/tunes/zMisc/PQR/QSera/QSerat.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/zMisc/PQR/QSera/QSera_M.mp3"
           },
           {
             "name": "Over the Rainbod",
@@ -3633,8 +3723,8 @@
     "genre": "Scottish",
     "type": "Jig",
     "composer": "Andrew Rankine",
-    "score": "",
-    "tab": "${baseUrl}/tunes/M/MClub/MClubt.pdf",
+    "score": "${baseUrl}/tunes/M/Maidn/Maidn.pdf",
+    "tab": "${baseUrl}/tunes/M/Maidn/Maidnt.pdf",
     "audio": ""
   },
   {
@@ -7411,9 +7501,9 @@
     "genre": "Scottish",
     "type": "Reel",
     "composer": "Sir Alexander MacDonald",
-    "score": "${baseUrl}/tunes/M/MrsMR/MrsMR.pdf",
-    "tab": "${baseUrl}/tunes/M/MrsMR/MrsMRt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/S/SoJoy/SoJoy.pdf",
+    "tab": "${baseUrl}/tunes/S/SoJoy/SoJoyt.pdf",
+    "audio": "${baseUrl}/tunes/S/SoJoy/SoJoy-MrsMR_M.mp3"
   },
   {
     "name": "The Night We Had the Goats",
@@ -7552,19 +7642,9 @@
     "genre": "Scottish",
     "type": "Reel",
     "composer": "",
-    "score": "${baseUrl}/tunes/S/SJoy/SJoy2.pdf",
-    "tab": "${baseUrl}/tunes/S/SJoy/SJoy2t.pdf",
-    "audio": "${baseUrl}/tunes/S/SJoy/SJoy_M.mp3"
-  },
-  {
-    "name": "Soldier's Joy",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/M/MrsMR/MrsMR.pdf",
-    "tab": "${baseUrl}/tunes/M/MrsMR/MrsMRt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/S/SoJoy/SoJoy.pdf",
+    "tab": "${baseUrl}/tunes/S/SoJoy/SoJoyt.pdf",
+    "audio": "${baseUrl}/tunes/S/SoJoy/SoJoy-MrsMR_M.mp3"
   },
   {
     "name": "Staten Island",
@@ -9483,17 +9563,7 @@
     "composer": "Lennon/McCartney",
     "score": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.pdf",
     "tab": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1t.pdf",
-    "audio": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.mp3"
-  },
-  {
-    "name": "OB-LA-DI OB-LA-DA",
-    "from": "nigel-gatherer",
-    "genre": "60s",
-    "type": "",
-    "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.pdf",
-    "tab": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1t.pdf",
-    "audio": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.mp3"
+    "audio": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1_M.mp3"
   },
   {
     "name": "From Me To You",
