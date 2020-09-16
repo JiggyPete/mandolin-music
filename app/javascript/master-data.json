@@ -1,7 +1,188 @@
 `
 [
 
+          {
+            "name": "Dahlhoff Tanz I/107a",
+            "from": "nigel-gatherer",
+            "genre": "German",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanz.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanzt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Dahlhoff Tanz I/109b",
+            "from": "nigel-gatherer",
+            "genre": "German",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanz.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanzt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Bear Dance",
+            "from": "nigel-gatherer",
+            "genre": "Belgian",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/ABC/BearD/BearD.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/ABC/BearD/BearDt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/ABC/BearD/BearD_M.mp3"
+          },
+          {
+            "name": "Black Mountain Air",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "Mark Schatz",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BMAir/BMAir.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BMAir/BMAirt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BMAir/Black%20Mountain%20Air_M.mp3"
+          },
+          {
+            "name": "Wha'll be King but Charlie?",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/W/WhaBK/WhaBK.pdf",
+            "tab": "${baseUrl}/tunes/W/WhaBK/WhaBKt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Campbell's are Coming",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/W/WhaBK/WhaBK.pdf",
+            "tab": "${baseUrl}/tunes/W/WhaBK/WhaBKt.pdf",
+            "audio": ""
+          },
 
+          {
+            "name": "The Westcoaster",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Hornpipe",
+            "composer": "Angus Grant Sr",
+            "score": "${baseUrl}/tunes/W/WestC/WestC.pdf",
+            "tab": "${baseUrl}/tunes/W/WestC/WestCt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Wild Rose of the Mountain",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "John Mason",
+            "score": "${baseUrl}/tunes/W/WRose/WRose.pdf",
+            "tab": "${baseUrl}/tunes/W/WRose/WRoset.pdf",
+            "audio": "${baseUrl}/tunes/W/WRose/WRose_M.mp3"
+          },
+          {
+            "name": "The Old Favourite",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slide",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/ScatI/ScatI.pdf",
+            "tab": "${baseUrl}/tunes/S/ScatI/ScatIt.pdf",
+            "audio": "${baseUrl}/tunes/S/ScatI/ScatI-OlFav_M.mp3"
+          },
+          {
+            "name": "A Pinch of Snuff",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/P/Pinch/Pinch.pdf",
+            "tab": "${baseUrl}/tunes/P/Pinch/Pincht.pdf",
+            "audio": "${baseUrl}/tunes/P/Pinch/Pinch_M.mp3"
+          },
+          {
+            "name": "Mrs Forbe's Farewell to Banff",
+            "from": "nigel-gatherer",
+            "genre": "Scotland",
+            "type": "Reel",
+            "composer": "Isaac Cooper",
+            "score": "${baseUrl}/tunes/M/MFFtB/MFFtB.pdf",
+            "tab": "${baseUrl}/tunes/M/MFFtB/MFFtBt.pdf",
+            "audio": "${baseUrl}/tunes/M/MFFtB/MFFtB-LassP_M.mp3"
+          },
+          {
+            "name": "Lament for the Rev. Archie Beaton",
+            "from": "nigel-gatherer",
+            "genre": "Scotland",
+            "type": "Lament",
+            "composer": "John Mason",
+            "score": "${baseUrl}/tunes/L/LamAB/LamAB.pdf",
+            "tab": "${baseUrl}/tunes/L/LamAB/LamABt.pdf",
+            "audio": "${baseUrl}/tunes/L/LamAB/LamAB_M.mp3"
+          },
+          {
+            "name": "The Invercauld March",
+            "from": "nigel-gatherer",
+            "genre": "Scotland",
+            "type": "March",
+            "composer": "",
+            "score": "${baseUrl}/tunes/I/InvCM/InvCM.pdf",
+            "tab": "${baseUrl}/tunes/I/InvCM/InvCMt.pdf",
+            "audio": "${baseUrl}/tunes/I/InvCM/InvCM-SwtMG_M.mp3"
+          },
+          {
+            "name": "Gie Us a Drink of Water",
+            "from": "nigel-gatherer",
+            "genre": "Scotland",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/G/GieUs/GieUs.pdf",
+            "tab": "${baseUrl}/tunes/G/GieUs/GieUst.pdf",
+            "audio": "${baseUrl}/tunes/G/GieUs/GieUs-Lexie_M.mp3"
+          },
+          {
+            "name": "Lexie MacAskill",
+            "from": "nigel-gatherer",
+            "genre": "Scotland",
+            "type": "Reel",
+            "composer": "Dr John MacAskill",
+            "score": "${baseUrl}/tunes/G/GieUs/GieUs.pdf",
+            "tab": "${baseUrl}/tunes/G/GieUs/GieUst.pdf",
+            "audio": "${baseUrl}/tunes/G/GieUs/GieUs-Lexie_M.mp3"
+          },
+
+          {
+            "name": "Duke of Perth",
+            "from": "nigel-gatherer",
+            "genre": "Scotland",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/D/DukeP/DukeP.pdf",
+            "tab": "${baseUrl}/tunes/D/DukeP/DukePt.pdf",
+            "audio": "${baseUrl}/tunes/D/DukeP/DukeP-LadMC_M.mp3"
+          },
+          {
+            "name": "Da Craw Dang Pussy",
+            "from": "nigel-gatherer",
+            "genre": "Scotland",
+            "type": "Shetland Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/C/CrawD/CrawD.pdf",
+            "tab": "${baseUrl}/tunes/C/CrawD/CrawDt.pdf",
+            "audio": "${baseUrl}/tunes/C/CrawD/CrawD-WatOt_M.mp3"
+          },
+          {
+            "name": "Da Wattle O't",
+            "from": "nigel-gatherer",
+            "genre": "Scotland",
+            "type": "Shetland Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/C/CrawD/CrawD.pdf",
+            "tab": "${baseUrl}/tunes/C/CrawD/CrawDt.pdf",
+            "audio": "${baseUrl}/tunes/C/CrawD/CrawD-WatOt_M.mp3"
+          },
           {
             "name": "Josefins Dopvals",
             "from": "nigel-gatherer",
@@ -12,6 +193,7 @@
             "tab": "${baseUrl}/tunes/zWorld/JKL/JosfW/JosfWt.pdf",
             "audio": "${baseUrl}/tunes/zWorld/JKL/JosfW/JosfW_M.mp3"
           },
+
           {
             "name": "Boston Boy",
             "from": "nigel-gatherer",
@@ -8623,7 +8805,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/B/Braig/Braig.pdf",
     "tab": "${baseUrl}/tunes/B/Braig/Braigt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/Braig/Braig-MrsCS_M.mp3"
   },
   {
     "name": "Bruce's Address (Scots Wha Hae)",
@@ -8721,9 +8903,9 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "James Scott Skinner",
-    "score": "${baseUrl}/tunes/C/CradS/CradS.pdf",
-    "tab": "${baseUrl}/tunes/C/CradS/CradSt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/C/CradS/PiprW.pdf",
+    "tab": "${baseUrl}/tunes/C/CradS/PiprWt.pdf",
+    "audio": "${baseUrl}/tunes/C/CradS/CradS-PipWd_M.mp3"
   },
   {
     "name": "The Piper's Weird",
@@ -8731,9 +8913,9 @@
     "genre": "Scottish",
     "type": "Waltz",
     "composer": "James Scott Skinner",
-    "score": "${baseUrl}/tunes/C/CradS/CradS.pdf",
-    "tab": "${baseUrl}/tunes/C/CradS/CradSt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/C/CradS/PiprW.pdf",
+    "tab": "${baseUrl}/tunes/C/CradS/PiprWt.pdf",
+    "audio": "${baseUrl}/tunes/C/CradS/CradS-PipWd_M.mp3"
   },
   {
     "name": "The Dark Island",
@@ -9908,7 +10090,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/B/BalyO/BalyO.pdf",
     "tab": "${baseUrl}/tunes/B/BalyO/BalyOt.pdf",
-    "audio": "${baseUrl}/tunes/B/BalyO/BalyO_M.mp3"
+    "audio": "${baseUrl}/tunes/B/BalyO/BalyO-DanOL_M.mp3"
   },
   {
     "name": "Boys of the Town",
@@ -9948,7 +10130,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/B/BalyO/BalyO.pdf",
     "tab": "${baseUrl}/tunes/B/BalyO/BalyOt.pdf",
-    "audio": "${baseUrl}/tunes/B/BalyO/BalyO_M.mp3"
+    "audio": "${baseUrl}/tunes/B/BalyO/BalyO-DanOL_M.mp3"
   },
   {
     "name": "Egan's Polka",
