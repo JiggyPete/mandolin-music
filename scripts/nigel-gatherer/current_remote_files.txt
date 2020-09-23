@@ -748,6 +748,11 @@ http://www.nigelgatherer.com/tunes/tunes/F/FlatW/FlatWc.pdf
 http://www.nigelgatherer.com/tunes/tunes/F/FlatW/FlatWt.pdf
 http://www.nigelgatherer.com/tunes/tunes/F/FlatW/FlatWu.pdf
 http://www.nigelgatherer.com/tunes/tunes/F/FlatW/FlatWw.pdf
+http://www.nigelgatherer.com/tunes/tunes/F/Flett/Flett.pdf
+http://www.nigelgatherer.com/tunes/tunes/F/Flett/Flettc.pdf
+http://www.nigelgatherer.com/tunes/tunes/F/Flett/Flettt.pdf
+http://www.nigelgatherer.com/tunes/tunes/F/Flett/Flettu.pdf
+http://www.nigelgatherer.com/tunes/tunes/F/Flett/Flettw.pdf
 http://www.nigelgatherer.com/tunes/tunes/F/FlowE/FlowE.pdf
 http://www.nigelgatherer.com/tunes/tunes/F/FlowE/FlowEc.pdf
 http://www.nigelgatherer.com/tunes/tunes/F/FlowE/FlowEg.pdf
@@ -2146,6 +2151,7 @@ http://www.nigelgatherer.com/tunes/tunes/zMisc/PQR/Raind/Raindw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zMisc/STU/SingR/SingRu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zMisc/STU/Super/Superu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zMisc/STU/TwoLB/TwoLBu.pdf
+http://www.nigelgatherer.com/tunes/tunes/zMisc/VWXYZ/Whale/Whaleu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zPopRock/ABC/AllML/AllML.pdf
 http://www.nigelgatherer.com/tunes/tunes/zPopRock/ABC/AllML/AllMLt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zPopRock/ABC/AndIL/AndIL.pdf
@@ -2496,6 +2502,8 @@ http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/PrinR/PR-7St.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/PrinR/PR-FT.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/PrinR/PR-FTt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/PrsnF/PrsnF.pdf
+http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RSorr/RSorr.pdf
+http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RSorr/RSorrt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/Reynr/Reynr.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/Reynr/Reynrt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RhudM/RhudM.pdf
@@ -2901,6 +2909,7 @@ http://www.nigelgatherer.com/tunes/tunes/F/FigFK/FigFK_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FingC/FingC_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FishS/FishS_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FlatW/FlatW_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/F/Flett/Flett-LRuan_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FlowE/FlowE-StatI_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FlowK/FlowK_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/ForAT/AMans-SWHae_W.mp3

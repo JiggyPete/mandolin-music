@@ -2,6 +2,26 @@
 [
 
           {
+            "name": "Return to Sorrento (Torna a Surriento)",
+            "from": "nigel-gatherer",
+            "genre": "Italy",
+            "type": "",
+            "composer": "Ernest De Curtis",
+            "score": "${baseUrl}/tunes/zWorld/PQR/RSorr/RSorr.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/PQR/RSorr/RSorrt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Flett from Flotta",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "PM Donald MacLeod",
+            "score": "${baseUrl}/tunes/F/Flett/Flett.pdf",
+            "tab": "${baseUrl}/tunes/F/Flett/Flettt.pdf",
+            "audio": "${baseUrl}/tunes/F/Flett/Flett-LRuan_M.mp3"
+          },
+          {
             "name": "Dahlhoff Tanz I/107a",
             "from": "nigel-gatherer",
             "genre": "German",
