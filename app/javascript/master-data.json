@@ -2,6 +2,66 @@
 [
 
           {
+            "name": "Emma's Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Finnish",
+            "type": "Waltz",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSav.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSavt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSav-EmmaW_M.mp3"
+          },
+          {
+            "name": "Vals fran Savola",
+            "from": "nigel-gatherer",
+            "genre": "Finnish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSav.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSavt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSav-EmmaW_M.mp3"
+          },
+          {
+            "name": "Kantelemarssi",
+            "from": "nigel-gatherer",
+            "genre": "Finnish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/JKL/KantM/KantM.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/KantM/KantMt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/JKL/KantM/KantM_M.mp3"
+          },
+          {
+            "name": "The Gay Gordons",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "James Scott Skinner",
+            "score": "${baseUrl}/tunes/G/GGord/GGord.pdf",
+            "tab": "${baseUrl}/tunes/G/GGord/GGordt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Lovat Scouts",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "James Scott Skinner",
+            "score": "${baseUrl}/tunes/G/GGord/GGord.pdf",
+            "tab": "${baseUrl}/tunes/G/GGord/GGordt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Jig of Slurs",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Pipe Jig",
+            "composer": "PM V S MacLellan",
+            "score": "${baseUrl}/tunes/A/Athol/Athol2.pdf",
+            "tab": "${baseUrl}/tunes/A/Athol/Athol2t.pdf",
+            "audio": ""
+          },
+          {
             "name": "Return to Sorrento (Torna a Surriento)",
             "from": "nigel-gatherer",
             "genre": "Italy",
@@ -4664,15 +4724,26 @@
     "audio": ""
   },
   {
-    "name": "A Rosa Vermellha 2",
+    "name": "A Rosa Vermellha",
     "from": "nigel-gatherer",
-    "genre": "",
+    "genre": "Brazilian",
     "type": "",
     "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab6/aros2.html",
-    "audio": ""
+    "score": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosV.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosVt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosV-MorBr_M.mp3"
   },
+  {
+    "name": "Morenita do Brazil",
+    "from": "nigel-gatherer",
+    "genre": "Brazilian",
+    "type": "",
+    "composer": "Giuseooe Farrauto",
+    "score": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosV.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosVt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosV-MorBr_M.mp3"
+  },
+
   {
     "name": "The Ale Is Dear",
     "from": "nigel-gatherer",
@@ -11085,6 +11156,15 @@
       "type": "air",
       "score": "${baseUrl}/tunes/J/JonyT/JonyT.pdf",
       "tab": "${baseUrl}/tunes/J/JonyT/JonyTt.pdf",
+      "audio": "${baseUrl}/tunes/J/JonyT/JonyT-FarFH_M.mp3"
+    },
+    {
+      "name": "Johnny Todd (with double stops)",
+      "from": "nigel-gatherer",
+      "genre": "Scottish",
+      "type": "air",
+      "score": "${baseUrl}/tunes/J/JonyT/JonyT.pdf",
+      "tab": "${baseUrl}/tunes/J/JonyT/JonyT2t.pdf",
       "audio": "${baseUrl}/tunes/J/JonyT/JonyT-FarFH_M.mp3"
     },
     {
