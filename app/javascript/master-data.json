@@ -2,6 +2,36 @@
 [
 
           {
+            "name": "Balsa Rastreira",
+            "from": "nigel-gatherer",
+            "genre": "Portugal",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsR.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsRt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Valsa a Dois Passos",
+            "from": "nigel-gatherer",
+            "genre": "Portugal",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsR.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsRt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Contra Danca",
+            "from": "nigel-gatherer",
+            "genre": "Portugal",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsR.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsRt.pdf",
+            "audio": ""
+          },
+          {
             "name": "Emma's Waltz",
             "from": "nigel-gatherer",
             "genre": "Finnish",
@@ -477,7 +507,7 @@
             "composer": "Graham Mackenzie",
             "score": "${baseUrl}/tunes/E/ErigW/ErigW.pdf",
             "tab": "${baseUrl}/tunes/E/ErigW/ErigWt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/E/ErigW/ErigW_M.mp3"
           },
           {
             "name": "Dunkled Oaks",
