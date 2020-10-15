@@ -1151,6 +1151,11 @@ http://www.nigelgatherer.com/tunes/tunes/M/Molly/Mollyu.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MorgM/MorgM.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MorgM/MorgMt.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MorgM/MorgMw.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MrMrs/MrMrs.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MrMrs/MrMrsc.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MrMrs/MrMrst.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MrMrs/MrMrsu.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MrMrs/MrMrsw.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MrsCS/MrsCS.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MrsCS/MrsCSt.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MrsJF/MrsJF.pdf
@@ -1373,6 +1378,11 @@ http://www.nigelgatherer.com/tunes/tunes/S/SBrav/SBravt.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SBrav/SBravw.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SClyd/SClyd.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SClyd/SClydt.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/SEarn/SEarn.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/SEarn/SEarnc.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/SEarn/SEarnt.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/SEarn/SEarnu.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/SEarn/SEarnw.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SLchB/SLchB.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SLchB/SLchBt.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SLchB/SLchBw.pdf
@@ -2945,6 +2955,8 @@ http://www.nigelgatherer.com/tunes/tunes/F/FrCAY/FrCAY_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FtTay/FtTay-MidlP_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FurrE/FurrE_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FwCrk/FwCrk_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/G/GGord/GGord-LovtS_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/G/GGord/GGord-LovtS_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GSkye/GSkye-YellC_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GalwH/GalwH_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/Gathg/Gathg-SoupD_M.mp3
@@ -3035,6 +3047,7 @@ http://www.nigelgatherer.com/tunes/tunes/M/MemFa/MemFA_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/MntSH/MntSH-GoodN_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/MogHT/MogHT-RollH_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/MorgM/MorgM_W.mp3
+http://www.nigelgatherer.com/tunes/tunes/M/MrMrs/MrMrs_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/MrsJF/MrsJF_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/MrsMR/MrsMR-SJoy_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/MsDru/MsDru-DrumC_M.mp3
@@ -3093,6 +3106,7 @@ http://www.nigelgatherer.com/tunes/tunes/R/RovnP/RovnP_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/R/RownT/RownT_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/SBrav/SBrav_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/SClyd/SClyd_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/S/SEarn/SEarn_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/SLchB/SLchB-RoadG_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/Saddl2/Saddl2-BLGow_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/S/SailH/SailH_M.mp3
@@ -3216,7 +3230,7 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BBRag/BBRag_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BBlos/BBlos_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BESus/BESus_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BLowg/BLowg_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BMAir/Black%20Mountain%20Air_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BMAir/BMAir_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BMRag/BMRag_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BStmp/BStmp_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BigSR/BigSR_M.mp3

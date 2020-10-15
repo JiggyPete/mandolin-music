@@ -2,6 +2,26 @@
 [
 
           {
+            "name": "Strathearn",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Ron Gonnella",
+            "score": "${baseUrl}/tunes/S/SEarn/SEarn.pdf",
+            "tab": "${baseUrl}/tunes/S/SEarn/SEarnt.pdf",
+            "audio": "${baseUrl}/tunes/S/SEarn/SEarn_M.mp3"
+          },
+          {
+            "name": "Mr & Mrs MacLean of Snaigow",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "D MacLean",
+            "score": "${baseUrl}/tunes/M/MrMrs/MrMrs.pdf",
+            "tab": "${baseUrl}/tunes/M/MrMrs/MrMrst.pdf",
+            "audio": "${baseUrl}/tunes/M/MrMrs/MrMrs_W.mp3"
+          },
+          {
             "name": "Balsa Rastreira",
             "from": "nigel-gatherer",
             "genre": "Portugal",
@@ -69,7 +89,7 @@
             "composer": "James Scott Skinner",
             "score": "${baseUrl}/tunes/G/GGord/GGord.pdf",
             "tab": "${baseUrl}/tunes/G/GGord/GGordt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/G/GGord/GGord-LovtS_M.mp3"
           },
           {
             "name": "The Lovat Scouts",
@@ -79,7 +99,7 @@
             "composer": "James Scott Skinner",
             "score": "${baseUrl}/tunes/G/GGord/GGord.pdf",
             "tab": "${baseUrl}/tunes/G/GGord/GGordt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/G/GGord/GGord-LovtS_M.mp3"
           },
           {
             "name": "The Jig of Slurs",
@@ -149,7 +169,7 @@
             "composer": "Mark Schatz",
             "score": "${baseUrl}/tunes/zAmerican/ABC/BMAir/BMAir.pdf",
             "tab": "${baseUrl}/tunes/zAmerican/ABC/BMAir/BMAirt.pdf",
-            "audio": "${baseUrl}/tunes/zAmerican/ABC/BMAir/Black%20Mountain%20Air_M.mp3"
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BMAir/BMAir_M.mp3"
           },
           {
             "name": "Wha'll be King but Charlie?",
