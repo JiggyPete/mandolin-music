@@ -2,6 +2,36 @@
 [
 
           {
+            "name": "Scottish a Virmous",
+            "from": "nigel-gatherer",
+            "genre": "French",
+            "type": "Scottish",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrm.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrmt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrm-PDeDe_M.mp3"
+          },
+          {
+            "name": "Polka du DeDe",
+            "from": "nigel-gatherer",
+            "genre": "French",
+            "type": "Polka",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrm.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrmt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrm-PDeDe_M.mp3"
+          },
+          {
+            "name": "Gracelands",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Phil Cunningham",
+            "score": "${baseUrl}/tunes/G/Grace/Grace.pdf",
+            "tab": "${baseUrl}/tunes/G/Grace/Gracet.pdf",
+            "audio": "${baseUrl}/tunes/G/Grace/Grace_M.mp3"
+          },
+          {
             "name": "Strathearn",
             "from": "nigel-gatherer",
             "genre": "Scottish",
