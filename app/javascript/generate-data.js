@@ -10,7 +10,12 @@ var buildJSONStringFor = function(baseUrl) {
 }
 
 var writeDataFile = function(json, filename, siteName) {
-  var outputContents = `data = ${JSON.stringify(json)}`
+  var date = new Date();
+  var outputContents = `
+  // Updated on ${date.getDate()}/${date.getMonth()}/${date.getFullYear()}
+  data = ${JSON.stringify(json)}
+  `
+
   fs.writeFile(filename, outputContents, function (err) {
     if (err) return console.log(err);
     console.log("Generated data.json for " + siteName);
