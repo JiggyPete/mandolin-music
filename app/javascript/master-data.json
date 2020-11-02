@@ -2,6 +2,227 @@
 [
 
           {
+            "name": "Salton De Candamu",
+            "from": "nigel-gatherer",
+            "genre": "Asturias",
+            "type": "",
+            "composer": "Ekuas Garcia",
+            "score": "${baseUrl}/tunes/zWorld/MNOSTU/SaltC/SaltC.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/STU/SaltC/SaltCt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/STU/SaltC/SaltC_M.mp3"
+          },
+          {
+            "name": "N'Alcordanza",
+            "from": "nigel-gatherer",
+            "genre": "Asturias",
+            "type": "",
+            "composer": "Javier Tejedor",
+            "score": "${baseUrl}/tunes/zWorld/MNO/NAlco/NAlco.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/MNO/NAlco/NAlcot.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/MNO/NAlco/NAlco_M.mp3"
+          },
+          {
+            "name": "Kalinka ('Snowberry')",
+            "from": "nigel-gatherer",
+            "genre": "Russian",
+            "type": "",
+            "composer": "Ivan Larionov",
+            "score": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalint.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin_M.mp3"
+          },
+          {
+            "name": "Katiusha ('Kathy')",
+            "from": "nigel-gatherer",
+            "genre": "Russian",
+            "type": "",
+            "composer": "Matvey Blanter",
+            "score": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalint.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin_M.mp3"
+          },
+          {
+            "name": "Obsaja Kadril",
+            "from": "nigel-gatherer",
+            "genre": "Russian",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalint.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin_M.mp3"
+          },
+
+          {
+            "name": "All of Me",
+            "from": "nigel-gatherer",
+            "genre": "jazz",
+            "type": "",
+            "composer": "G Marks",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/AllMe/AllMe.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/AllMe/AllMet.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/AllMe/AllMe.mp3"
+          },
+          {
+            "name": "Mary Young and Fair (Mairi Bhan Og)",
+            "from": "nigel-gatherer",
+            "genre": "scottish",
+            "type": "air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MarYF/MarYF.pdf",
+            "tab": "${baseUrl}/tunes/M/MarYF/MarYFt.pdf",
+            "audio": "${baseUrl}/tunes/M/MarYF/MarYF_M.mp3"
+          },
+          {
+            "name": "Marion MacLean of Eoligarry",
+            "from": "nigel-gatherer",
+            "genre": "scottish",
+            "type": "air",
+            "composer": "Colin Melville",
+            "score": "${baseUrl}/tunes/M/MMEol/MMEol.pdf",
+            "tab": "${baseUrl}/tunes/M/MMEol/MMEolt.pdf",
+            "audio": "${baseUrl}/tunes/M/MMEol/MMEol.mp3"
+          },
+          {
+            "name": "St Mary's Polka",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/CCM/STU/StMry/StMry.pdf",
+            "tab": "${baseUrl}/tunes/CCM/STU/StMry/StMryt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Sarah",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Max Houliston",
+            "score": "${baseUrl}/tunes/CCM/STU/Sarah/Sarah.pdf",
+            "tab": "${baseUrl}/tunes/CCM/STU/Sarah/Saraht.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Rothesay Bay",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Alfred Scott-Gatty",
+            "score": "${baseUrl}/tunes/CCM/STU/SWltz/SWltz.pdf",
+            "tab": "${baseUrl}/tunes/CCM/STU/SWltz/SWltzt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Jock o' Hazeldean",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Alfred Scott-Gatty",
+            "score": "${baseUrl}/tunes/CCM/STU/SWltz/SWltz.pdf",
+            "tab": "${baseUrl}/tunes/CCM/STU/SWltz/SWltzt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Waters of Kylesku",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Alfred Scott-Gatty",
+            "score": "${baseUrl}/tunes/CCM/STU/SWltz/SWltz.pdf",
+            "tab": "${baseUrl}/tunes/CCM/STU/SWltz/SWltzt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Of A' the Airts the Wind Can Blaw",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Marshall",
+            "score": "${baseUrl}/tunes/CCM/MNO/OAirts/OAirts.pdf",
+            "tab": "${baseUrl}/tunes/CCM/MNO/OAirts/OAirtst.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The New High Level",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Andrew Rankine",
+            "score": "${baseUrl}/tunes/CCM/MNO/NewHL/NewHL.pdf",
+            "tab": "${baseUrl}/tunes/CCM/MNO/NewHL/NewHLt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Soldier's Joy",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Andrew Rankine",
+            "score": "${baseUrl}/tunes/CCM/MNO/NewHL/NewHL.pdf",
+            "tab": "${baseUrl}/tunes/CCM/MNO/NewHL/NewHLt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Bonnie Kirkwall Bay",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Jimmy MacFarlane",
+            "score": "${baseUrl}/tunes/CCM/MNO/MPark/MPark.pdf",
+            "tab": "${baseUrl}/tunes/CCM/MNO/MPark/MParkt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Miss Linda MacFarlane",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Robin Brock",
+            "score": "${baseUrl}/tunes/CCM/MNO/MPark/MPark.pdf",
+            "tab": "${baseUrl}/tunes/CCM/MNO/MPark/MParkt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "MacRosty Park",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Robin Brock",
+            "score": "${baseUrl}/tunes/CCM/MNO/MPark/MPark.pdf",
+            "tab": "${baseUrl}/tunes/CCM/MNO/MPark/MParkt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Lindisfarne",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Matt Seattle",
+            "score": "${baseUrl}/tunes/CCM/JKL/Lindf/Lindf.pdf",
+            "tab": "${baseUrl}/tunes/CCM/JKL/Lindf/Lindft.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Black Douglas",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "Masterton / Burns",
+            "score": "${baseUrl}/tunes/CCM/JKL/LammT/LammT.pdf",
+            "tab": "${baseUrl}/tunes/CCM/JKL/LammT/LammTt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Beware O Bonie Ann",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Masterton / Burns",
+            "score": "${baseUrl}/tunes/B/BonAn/BonAn.pdf",
+            "tab": "${baseUrl}/tunes/B/BonAn/BonAnt.pdf",
+            "audio": "${baseUrl}/tunes/B/BonAn/BonAn_MW.mp3"
+          },
+          {
             "name": "Scottish a Virmous",
             "from": "nigel-gatherer",
             "genre": "French",
@@ -1836,7 +2057,7 @@
             "genre": "Irish",
             "type": "Air",
             "composer": "John Sheahan",
-            "score": "${baseUrl}/tunes/C/ChChC/ChChCh.pdf",
+            "score": "${baseUrl}/tunes/C/ChChC/ChChC.pdf",
             "tab": "${baseUrl}/tunes/C/ChChC/ChChCt.pdf",
             "audio": "${baseUrl}/tunes/C/ChChC/ChChC_M.mp3"
           },
@@ -2605,7 +2826,7 @@
             "composer": "John Sheahan",
             "score": "${baseUrl}/tunes/S/StPat/StPat.pdf",
             "tab": "${baseUrl}/tunes/S/StPat/StPatt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/S/StPat/StPaC-AmngF_M.mp3"
           },
           {
             "name": "Christ Church Cathedral",
@@ -2615,7 +2836,7 @@
             "composer": "John Sheahan",
             "score": "${baseUrl}/tunes/S/StPat/StPat.pdf",
             "tab": "${baseUrl}/tunes/S/StPat/StPatt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/S/StPat/StPaC-ChChC_M.mp3"
           },
           {
             "name": "Stranger On the Shore",
@@ -5905,6 +6126,16 @@
     "audio": ""
   },
   {
+    "name": "Midnight On the Water - decorated",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "Waltz",
+    "composer": "Benny Thomasson",
+    "score": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnW-dec.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnW-dect.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnW-dec_M.mp3"
+  },
+  {
     "name": "Midnight On the Water",
     "from": "nigel-gatherer",
     "genre": "",
@@ -5912,7 +6143,7 @@
     "composer": "Benny Thomasson",
     "score": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnW.pdf",
     "tab": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnWt.pdf",
-    "audio": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnW-dec_M.mp3"
+    "audio": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnW_M.mp3"
   },
   {
     "name": "Michael's Mazurka",
