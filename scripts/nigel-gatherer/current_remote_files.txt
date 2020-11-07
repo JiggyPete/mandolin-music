@@ -1132,6 +1132,9 @@ http://www.nigelgatherer.com/tunes/tunes/M/Mairi/Mairiu.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/Mairi/Mairiw.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MajMo/MajMo.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MajMo/MajMot.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MangV/MangV.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MangV/MangVt.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MangV/MangVw.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MarYF/MarYF.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MarYF/MarYFc.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MarYF/MarYFt.pdf
@@ -1843,6 +1846,8 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/CWMed1/CWMed1u.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/CWMed1/CWMed1w.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/CareL/CareLu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/ChrkS/ChrkS.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/ChrkS/ChrkS2.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/ChrkS/ChrkS2t.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/ChrkS/ChrkSt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/Cindy/Cindy.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/Cindy/Cindyt.pdf
@@ -1871,6 +1876,7 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/GNLad/GNLad2u.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/GNLad/GNLadu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/GaBlB/GaBlB.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/GaBlB/GaBlBt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/GentM/GentMu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/Glory/Gloryu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HeyGL/HeyGLu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HomeG/HomeG.pdf
@@ -1896,6 +1902,8 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/JKL/LLizJ/LLizJ.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/JKL/LLizJ/LLizJt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/JKL/LMagg/LMagg.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/JKL/LMagg/LMaggt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/JKL/LdyBG/LdyBG.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/JKL/LdyBG/LdyBGt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/JKL/LimeR/LimeR.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/JKL/LimeR/LimeRt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/JKL/LitBx/LitBxu.pdf
@@ -2092,6 +2100,9 @@ http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/BurnC/BurnCc.pdf
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/BurnC/BurnCt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/BurnC/BurnCu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/BurnC/BurnCw.pdf
+http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/CJWlz/CJWlz.pdf
+http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/CJWlz/CJWlzt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/CJWlz/CJWlzw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/Clock/Clockt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/CrayH/CrayH.pdf
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/CrayH/CrayHc.pdf
@@ -3086,6 +3097,7 @@ http://www.nigelgatherer.com/tunes/tunes/M/MagtB/MagtB_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/MagtW/MagtW-KateM_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/Mairi/Mairi-BLFyv_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/MajMo/MajMo-KateD_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/M/MangV/MangV_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/MarYF/MarYF_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/Marnr/Marnr_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/M/McKeF/McKeF.mp3
@@ -3292,6 +3304,7 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BluCh/BluCh.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BonpR/BonpR_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BostB/BostB_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/ChrkS/ChrkS2_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/ChrkS/ChrkS_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/Cindy/Cindy_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/Clnch/Clnch_M.mp3
@@ -3367,6 +3380,7 @@ http://www.nigelgatherer.com/tunes/tunes/zClassical/STU/Sullivan/SRays/SRays2_M.
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/AirLi/AirLi.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/Becca/Becca.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/BurnC/BurnC-Knock_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/CJWlz/CJWlz_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/CrayH/CrayH_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/CrayH/CrayH_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/ABC/CtFin/CtFin_M.mp3

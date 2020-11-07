@@ -2,6 +2,36 @@
 [
 
           {
+            "name": "Colin and Jane's Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zComposers/ABC/CJWlz/CJWlz.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/ABC/CJWlz/CJWlzt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/ABC/CJWlz/CJWlz_W.mp3"
+          },
+          {
+            "name": "Lady Be Good",
+            "from": "nigel-gatherer",
+            "genre": "Jazz",
+            "type": "",
+            "composer": "George Gershwin",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LdyBG/LdyBG.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LdyBG/LdyBGt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Mangaster Voe",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "Tom Anderson",
+            "score": "${baseUrl}/tunes/M/MangV/MangV.pdf",
+            "tab": "${baseUrl}/tunes/M/MangV/MangVt.pdf",
+            "audio": "${baseUrl}/tunes/M/MangV/MangV_M.mp3"
+          },
+          {
             "name": "Salton De Candamu",
             "from": "nigel-gatherer",
             "genre": "Asturias",
@@ -3439,6 +3469,16 @@
             "score": "${baseUrl}/tunes/zAmerican/ABC/ChrkS/ChrkS.pdf",
             "tab": "${baseUrl}/tunes/zAmerican/ABC/ChrkS/ChrkSt.pdf",
             "audio": "${baseUrl}/tunes/zAmerican/ABC/ChrkS/ChrkS_M.mp3"
+          },
+          {
+            "name": "Cherokee Shuffle (2)",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/ChrkS/ChrkS2.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/ChrkS/ChrkS2t.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/ChrkS/ChrkS2_M.mp3"
           },
           {
             "name": "Bonaparte's Retreat",
