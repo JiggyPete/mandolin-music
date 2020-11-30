@@ -2,6 +2,196 @@
 [
 
           {
+            "name": "Rothbury Hills",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Air",
+            "composer": "Jack Armstrong",
+            "score": "${baseUrl}/tunes/zWorld/PQR/RothH/RothH.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/PQR/RothH/RothHt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Old Molly Oxford",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Fieldtown",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxf.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxft.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxf-BCamp_M.mp3"
+          },
+          {
+            "name": "Brighton Camp",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Bampton",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxf.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxft.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxf-BCamp_M.mp3"
+          },
+          {
+            "name": "Matilda",
+            "from": "nigel-gatherer",
+            "genre": "Trinidad & Tobago",
+            "type": "Calypso",
+            "composer": "Span",
+            "score": "${baseUrl}/tunes/zWorld/MNO/Matil/Matil.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/MNO/Matil/Matilt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/MNO/Matil/Matil_M.mp3"
+          },
+          {
+            "name": "Go Mango Walk",
+            "from": "nigel-gatherer",
+            "genre": "Trinidad & Tobago",
+            "type": "Calypso",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/MNO/MangW/MangW.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/MNO/MangW/MangWt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/MNO/MangW/MangW_M.mp3"
+          },
+          {
+            "name": "Holme's Fancy",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Rant",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmFt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF-set_M.mp3"
+          },
+          {
+            "name": "Stagshaw Bank Fair",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Rant",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmFt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF-set_M.mp3"
+          },
+          {
+            "name": "Lasses Pass the Brandy",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Rant",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmFt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF-set_M.mp3"
+          },
+          {
+            "name": "Gentle Annie",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Stephen Foster",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentAt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Beautiful Dreamer",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Stephen Foster",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentAt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Tarbolton Lodge",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/T/TarbJ/TarbJ.pdf",
+            "tab": "${baseUrl}/tunes/T/TarbJ/TarbJt.pdf",
+            "audio": "${baseUrl}/tunes/T/TarbJ/TarbJ-TarbL_M.mp3"
+          },
+          {
+            "name": "The Tarbolton Jig",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Dougie Pinock",
+            "score": "${baseUrl}/tunes/T/TarbJ/TarbJ.pdf",
+            "tab": "${baseUrl}/tunes/T/TarbJ/TarbJt.pdf",
+            "audio": "${baseUrl}/tunes/T/TarbJ/TarbJ-TarbL_M.mp3"
+          },
+          {
+            "name": "Muckla Skerry A' Three",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MkSk3/MkSk3.pdf",
+            "tab": "${baseUrl}/tunes/M/MkSk3/MkSk3t.pdf",
+            "audio": "${baseUrl}/tunes/M/MkSk3/MkSk3-MirBG_M.mp3"
+          },
+          {
+            "name": "Da Mirrie Boys of Greenland",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MkSk3/MkSk3.pdf",
+            "tab": "${baseUrl}/tunes/M/MkSk3/MkSk3t.pdf",
+            "audio": "${baseUrl}/tunes/M/MkSk3/MkSk3-MirBG_M.mp3"
+          },
+          {
+            "name": "Lady Mary Ramsay",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "Nathaniel Gow",
+            "score": "${baseUrl}/tunes/L/LadMR/LadMR.pdf",
+            "tab": "${baseUrl}/tunes/L/LadMR/LadMRt.pdf",
+            "audio": "${baseUrl}/tunes/L/LadMR/LadMR-GOgle_M.mp3"
+          },
+          {
+            "name": "Glen Ogle",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Donald Grant",
+            "score": "${baseUrl}/tunes/L/LadMR/LadMR.pdf",
+            "tab": "${baseUrl}/tunes/L/LadMR/LadMRt.pdf",
+            "audio": "${baseUrl}/tunes/L/LadMR/LadMR-GOgle_M.mp3"
+          },
+          {
+            "name": "Elanor of Usan",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Phil Cunningham",
+            "score": "${baseUrl}/tunes/E/EUsan/EUsan.pdf",
+            "tab": "${baseUrl}/tunes/E/EUsan/EUsant.pdf",
+            "audio": "${baseUrl}/tunes/E/EUsan/EUsan.mp3"
+          },
+          {
+            "name": "Da Day Dawn",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Listening Tune",
+            "composer": "",
+            "score": "${baseUrl}/tunes/D/DDawn/DDawn.pdf",
+            "tab": "${baseUrl}/tunes/D/DDawn/DDawnt.pdf",
+            "audio": "${baseUrl}/tunes/D/DDawn/DDawn_M.mp3"
+          },
+          {
+            "name": "Captain Fletcher's Favourite",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Nathaniel Gow",
+            "score": "${baseUrl}/tunes/C/CapFl/CapFl.pdf",
+            "tab": "${baseUrl}/tunes/C/CapFl/CapFlt.pdf",
+            "audio": ""
+          },
+          {
             "name": "Colin and Jane's Waltz",
             "from": "nigel-gatherer",
             "genre": "Scottish",
@@ -1320,9 +1510,20 @@
             "genre": "Greek",
             "type": "",
             "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=10",
+            "score": "${baseUrl}/tunes/zWorld/JKL/Karag/Karag.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/Karag/Karagt.pdf",
             "audio": "https://soundcloud.com/nigel-gatherer/08-karagouna?in=nigel-gatherer/sets/mm08-greek-music",
+            "video": ""
+          },
+          {
+            "name": "Myrties tou Maiou",
+            "from": "nigel-gatherer",
+            "genre": "Greek",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/JKL/Karag/Karag.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/JKL/Karag/Karagt.pdf",
+            "audio": "",
             "video": ""
           },
           {
@@ -7455,7 +7656,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/zWorld/STU/Sjomn/Sjomn.pdf",
     "tab": "${baseUrl}/tunes/zWorld/STU/Sjomn/Sjomnt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/zWorld/STU/Sjomn/Sjomn_M.mp3"
   },
   {
     "name": "Skovsoen: Serras No.9",
@@ -7524,8 +7725,8 @@
     "type": "Air",
     "composer": "",
     "score": "${baseUrl}/tunes/zWorld/PQR/RhudM/RhudM.pdf",
-    "tab": "",
-    "audio": "${baseUrl}/tunes/zWorld/PQR/RhudM/RhudM_W.mp3"
+    "tab": "${baseUrl}/tunes/zWorld/PQR/RhudM/RhudMt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/PQR/RhudM/RhudM_M.mp3"
   },
   {
     "name": "Suo Gan",
@@ -7566,7 +7767,7 @@
     "composer": "Tom Anderson",
     "score": "${baseUrl}/tunes/S/SilvV/SilvV.pdf",
     "tab": "${baseUrl}/tunes/S/SilvV/SilvVt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/S/SilvV/SilvV_M.mp3"
   },
   {
     "name": "Da Boannie Polka",
