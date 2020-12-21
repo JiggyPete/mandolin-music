@@ -2,6 +2,166 @@
 [
 
           {
+            "name": "Gjevre-Valsen",
+            "from": "nigel-gatherer",
+            "genre": "Norway",
+            "type": "Waltz",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/GHI/GjevV/GjevV.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/GHI/GjevV/GjevVt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Brudemarsj fra Jelsa",
+            "from": "nigel-gatherer",
+            "genre": "Norway",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zWorld/GHI/GjevV/GjevV.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/GHI/GjevV/GjevVt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Despatsko Horo",
+            "from": "nigel-gatherer",
+            "genre": "Bulgaria",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/DEF/DospH/DospH.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/DEF/DospH/DospHt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/DEF/DospH/DospH_M.mp3"
+          },
+          {
+            "name": "Deck the Halls",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Christmas",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zMisc/DEF/DeckH/DeckH.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/DEF/DeckH/DeckHt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Gathering Waltz",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zComposers/GHI/GathW/GathW.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/GHI/GathW/GathWt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/GHI/GathW/GathW_M.mp3"
+          },
+          {
+            "name": "Rose of the West",
+            "from": "nigel-gatherer",
+            "genre": "Country",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RoseW/RoseW.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RoseW/RoseWt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/RoseW/RoseW_M.mp3"
+          },
+          {
+            "name": "Rothsay Bay",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "Scott-Gatty",
+            "score": "${baseUrl}/tunes/R/RothB/RothB.pdf",
+            "tab": "${baseUrl}/tunes/R/RothB/RothBt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Day We Went to Rothesay, O",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RothB/RothB.pdf",
+            "tab": "${baseUrl}/tunes/R/RothB/RothBt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The MacAulays of Benbecula",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "Frank Reid",
+            "score": "${baseUrl}/tunes/M/MacAB/MacAB.pdf",
+            "tab": "${baseUrl}/tunes/M/MacAB/MacABt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Donald MacAulays of Creagory",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "MacDonald",
+            "score": "${baseUrl}/tunes/M/MacAB/MacAB.pdf",
+            "tab": "${baseUrl}/tunes/M/MacAB/MacABt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Islay Jig",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Alan Reid",
+            "score": "${baseUrl}/tunes/I/IslaJ/IslaJ.pdf",
+            "tab": "${baseUrl}/tunes/I/IslaJ/IslaJt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "An Islay Jig",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/I/IslaJ/IslaJ.pdf",
+            "tab": "${baseUrl}/tunes/I/IslaJ/IslaJt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Arran Lilt",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/A/ArrnL/ArrnL.pdf",
+            "tab": "${baseUrl}/tunes/A/ArrnL/ArrnLt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Arran Air",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/A/ArrnL/ArrnL.pdf",
+            "tab": "${baseUrl}/tunes/A/ArrnL/ArrnLt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Arran Hills",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Scott Wilson",
+            "score": "${baseUrl}/tunes/A/ArrnH/ArrnH.pdf",
+            "tab": "${baseUrl}/tunes/A/ArrnH/ArrnHt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Arran Boat",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/A/ArrnB/ArrnB.pdf",
+            "tab": "${baseUrl}/tunes/A/ArrnB/ArrnBt.pdf",
+            "audio": ""
+          },
+          {
             "name": "Rothbury Hills",
             "from": "nigel-gatherer",
             "genre": "English",
