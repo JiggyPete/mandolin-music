@@ -3,23 +3,7 @@ http://www.nigelgatherer.com/tunes/hebhop/HH1t.pdf
 http://www.nigelgatherer.com/tunes/hebhop/HH2t.pdf
 
 
-http://www.nigelgatherer.com/tunes/tunes/B/Balch/Balch.pdf
-http://www.nigelgatherer.com/tunes/tunes/B/Balch/Balcht.pdf
-http://www.nigelgatherer.com/tunes/tunes/B/BaybI/BaybI.pdf
-http://www.nigelgatherer.com/tunes/tunes/B/BaybI/BaybIt.pdf
-http://www.nigelgatherer.com/tunes/tunes/B/BedfC/BedfC.pdf
-http://www.nigelgatherer.com/tunes/tunes/B/BedfC/BedfCt.pdf
-http://www.nigelgatherer.com/tunes/tunes/B/BethW/BethW.pdf
-http://www.nigelgatherer.com/tunes/tunes/B/BethW/BethWt.pdf
-http://www.nigelgatherer.com/tunes/tunes/B/BethW/BethWw.pdf
-http://www.nigelgatherer.com/tunes/tunes/C/CMnch/CMnch.pdf
-http://www.nigelgatherer.com/tunes/tunes/C/CMnch/CMncht.pdf
-http://www.nigelgatherer.com/tunes/tunes/C/Ca174/Ca174.pdf
-http://www.nigelgatherer.com/tunes/tunes/C/Ca174/Ca174t.pdf
-http://www.nigelgatherer.com/tunes/tunes/C/Ca175/Ca175.pdf
-http://www.nigelgatherer.com/tunes/tunes/C/Ca175/Ca175t.pdf
-http://www.nigelgatherer.com/tunes/tunes/F/FondR/FondR.pdf
-http://www.nigelgatherer.com/tunes/tunes/F/FondR/FondRt.pdf
+
 http://www.nigelgatherer.com/tunes/tunes/F/FrJon/FrJon.pdf
 http://www.nigelgatherer.com/tunes/tunes/F/FrJon/FrJont.pdf
 http://www.nigelgatherer.com/tunes/tunes/F/Frank/Frank.pdf
@@ -218,16 +202,9 @@ http://www.nigelgatherer.com/tunes/tunes/A/ArrnB/ArrnB_Mmm.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/ArrnH/ArrnH_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/ArrnL/ArrnL-ArrnA_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/B/BBush/BBush_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/B/Balch/Balch_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/B/BaybI/BaybI-LewsL_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/B/BedfC/BedfC-BiddD_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/C/CMnch/CMnch_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/C/Ca174/C174_Mm.mp3
-http://www.nigelgatherer.com/tunes/tunes/C/Ca175/Ca175_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/C/Cluin/Cluin-MMofE_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/D/DrnkL/DrnkL-Boyne_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FTobe/FTobe_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/F/FondR/FondR-Myles_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/FrJon/FJonM_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/Frank/Frank_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/F/Fwell/Fwell_M.mp3

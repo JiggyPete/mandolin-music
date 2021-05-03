@@ -22,6 +22,18 @@
             "audio": ""
           },
           {
+            "name": "Crossing the Minch",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Pipe Hornpipe",
+            "composer": "P.M. Donald MacLeod, Lewis",
+            "score": "${baseUrl}/tunes/C/CMnch/CMnch.pdf",
+            "tab": "${baseUrl}/tunes/C/CMnch/CMncht.pdf",
+            "audio": "${baseUrl}/tunes/C/CMnch/CMnch_M.mp3"
+          },
+
+
+          {
             "name": "Hebridean Hopscotch Part 1",
             "from": "nigel-gatherer",
             "genre": "Scottish",
@@ -453,8 +465,110 @@
             "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
             "audio": "${baseUrl}/tunes/W/WhyLI/WhyLI-set_M.mp3"
           },
+          {
+            "name": "Bayble Island",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Polka",
+            "composer": "Ian Crichton",
+            "score": "${baseUrl}/tunes/B/BaybI/BaybI.pdf",
+            "tab": "${baseUrl}/tunes/B/BaybI/BaybIt.pdf",
+            "audio": "${baseUrl}/tunes/B/BaybI/BaybI-LewsL_M.mp3"
+          },
+          {
+            "name": "Lewis Lilt",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Polka",
+            "composer": "Ian Crichton",
+            "score": "${baseUrl}/tunes/B/BaybI/BaybI.pdf",
+            "tab": "${baseUrl}/tunes/B/BaybI/BaybIt.pdf",
+            "audio": "${baseUrl}/tunes/B/BaybI/BaybI-LewsL_M.mp3"
+          },
 
 
+
+
+          {
+            "name": "Fond Returning",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Myles Lobjoie",
+            "score": "${baseUrl}/tunes/F/FondR/FondR.pdf",
+            "tab": "${baseUrl}/tunes/F/FondR/FondRt.pdf",
+            "audio": "${baseUrl}/tunes/F/FondR/FondR-Myles_M.mp3"
+          },
+          {
+            "name": "Myles of Fun",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/F/FondR/FondR.pdf",
+            "tab": "${baseUrl}/tunes/F/FondR/FondRt.pdf",
+            "audio": "${baseUrl}/tunes/F/FondR/FondR-Myles_M.mp3"
+          },
+          {
+            "name": "Carolan 174",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "Turlough O'Carolan",
+            "score": "${baseUrl}/tunes/C/Ca174/Ca174.pdf",
+            "tab": "${baseUrl}/tunes/C/Ca174/Ca174t.pdf",
+            "audio": "${baseUrl}/tunes/C/Ca174/C174_Mm.mp3"
+          },
+          {
+            "name": "Carolan 175",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "Turlough O'Carolan",
+            "score": "${baseUrl}/tunes/C/Ca175/Ca175.pdf",
+            "tab": "${baseUrl}/tunes/C/Ca175/Ca175t.pdf",
+            "audio": "${baseUrl}/tunes/C/Ca175/Ca175_M.mp3"
+          },
+          {
+            "name": "Bethany's Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "Jenna Reid",
+            "score": "${baseUrl}/tunes/B/BethW/BethW.pdf",
+            "tab": "${baseUrl}/tunes/B/BethW/BethWt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Bedford Cross",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slide",
+            "composer": "",
+            "score": "${baseUrl}/tunes/B/BedfC/BedfC.pdf",
+            "tab": "${baseUrl}/tunes/B/BedfC/BedfCt.pdf",
+            "audio": "${baseUrl}/tunes/B/BedfC/BedfC-BiddD_M.mp3"
+          },
+          {
+            "name": "Biddy the Darling",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slide",
+            "composer": "",
+            "score": "${baseUrl}/tunes/B/BedfC/BedfC.pdf",
+            "tab": "${baseUrl}/tunes/B/BedfC/BedfCt.pdf",
+            "audio": "${baseUrl}/tunes/B/BedfC/BedfC-BiddD_M.mp3"
+          },
+          {
+            "name": "Balchraggan",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "John Somerville",
+            "score": "${baseUrl}/tunes/B/Balch/Balch.pdf",
+            "tab": "${baseUrl}/tunes/B/Balch/Balcht.pdf",
+            "audio": "${baseUrl}/tunes/B/Balch/Balch_M.mp3"
+          },
           {
             "name": "A Rosebud By My Early Walk",
             "from": "nigel-gatherer",
@@ -6437,16 +6551,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab11/cg+hf.html",
-    "audio": ""
-  },
-  {
-    "name": "Crossing the Minch",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab3/cros1.html",
     "audio": ""
   },
   {
