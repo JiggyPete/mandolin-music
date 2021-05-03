@@ -2,6 +2,699 @@
 [
 
           {
+            "name": "The Great Scottish Composers",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Various",
+            "composer": "Various",
+            "score": "${baseUrl}/gsc/GSC1.pdf",
+            "tab": "${baseUrl}/gsc/GSC1t.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Shingly Beach",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Tom Anderson",
+            "score": "${baseUrl}/tunes/S/ShngB/ShngB.pdf",
+            "tab": "${baseUrl}/tunes/S/ShngB/ShngBt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Hebridean Hopscotch Part 1",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Various",
+            "composer": "Various",
+            "score": "${baseUrl}/hebhop/HH1.pdf",
+            "tab": "${baseUrl}/hebhop/HH1t.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Hebridean Hopscotch Part 2",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Various",
+            "composer": "Various",
+            "score": "${baseUrl}/hebhop/HH2.pdf",
+            "tab": "${baseUrl}/hebhop/HH2t.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "Colonsay Aire",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Gillian Murray",
+            "score": "${baseUrl}/tunes/C/CAire/CAire.pdf",
+            "tab": "${baseUrl}/tunes/C/CAire/CAiret.pdf",
+            "audio": "${baseUrl}/tunes/C/CAire/CAire_M.mp3"
+          },
+          {
+            "name": "Crossing to Jura",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "R Kennedy / D MacDonald",
+            "score": "${baseUrl}/tunes/C/CJura/CJura.pdf",
+            "tab": "${baseUrl}/tunes/C/CJura/CJurat.pdf",
+            "audio": "${baseUrl}/tunes/C/CJura/CJura_M.mp3"
+          },
+          {
+            "name": "An Cluinn thu Mi Mo Nighean Donn",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/C/Cluin/Cluin.pdf",
+            "tab": "${baseUrl}/tunes/C/Cluin/Cluint.pdf",
+            "audio": "${baseUrl}/tunes/C/Cluin/Cluin-MMofE_M.mp3"
+          },
+          {
+            "name": "The MacMillans of Eriskay",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Anderson",
+            "score": "${baseUrl}/tunes/C/Cluin/Cluin.pdf",
+            "tab": "${baseUrl}/tunes/C/Cluin/Cluint.pdf",
+            "audio": "${baseUrl}/tunes/C/Cluin/Cluin-MMofE_M.mp3"
+          },
+
+          {
+            "name": "The Eigg Poachers",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/E/EiggP/EiggP.pdf",
+            "tab": "${baseUrl}/tunes/E/EiggP/EiggPt.pdf",
+            "audio": "${baseUrl}/tunes/E/EiggP/EiggP-KinlC_M.mp3"
+          },
+          {
+            "name": "Kinloch Castle, Run",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Iain Peterson",
+            "score": "${baseUrl}/tunes/E/EiggP/EiggP.pdf",
+            "tab": "${baseUrl}/tunes/E/EiggP/EiggPt.pdf",
+            "audio": "${baseUrl}/tunes/E/EiggP/EiggP-KinlC_M.mp3"
+          },
+          {
+            "name": "The Eriskay Ferryman",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/ErskF/ErskF.pdf",
+            "tab": "${baseUrl}/tunes/E/ErskF/ErskFt.pdf",
+            "audio": "${baseUrl}/tunes/E/ErskF/ErskF_M.mp3"
+          },
+          {
+            "name": "Eriskay Love Lilt",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/ErskL/ErskL.pdf",
+            "tab": "${baseUrl}/tunes/E/ErskL/ErskLt.pdf",
+            "audio": "${baseUrl}/tunes/E/ErskL/ErskL-OranE_W.mp3"
+          },
+          {
+            "name": "Oran Eriskay",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Gaelic Waltz",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/ErskL/ErskL.pdf",
+            "tab": "${baseUrl}/tunes/E/ErskL/ErskLt.pdf",
+            "audio": "${baseUrl}/tunes/E/ErskL/ErskL-OranE_W.mp3"
+          },
+          {
+            "name": "Eriskay Venture",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/E/ErskV/ErskV.pdf",
+            "tab": "${baseUrl}/tunes/E/ErskV/ErskVt.pdf",
+            "audio": "${baseUrl}/tunes/E/ErskV/ErskV-ErskL_M.mp3"
+          },
+          {
+            "name": "Eriskay Lilt Jig",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Fergie MacDonald",
+            "score": "${baseUrl}/tunes/E/ErskV/ErskV.pdf",
+            "tab": "${baseUrl}/tunes/E/ErskV/ErskVt.pdf",
+            "audio": "${baseUrl}/tunes/E/ErskV/ErskV-ErskL_M.mp3"
+          },
+          {
+            "name": "Farewell to Tobermory",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "Jimmy Blair",
+            "score": "${baseUrl}/tunes/F/FTobe/FTobe.pdf",
+            "tab": "${baseUrl}/tunes/F/FTobe/FTobet.pdf",
+            "audio": "${baseUrl}/tunes/F/FTobe/FTobe_M.mp3"
+          },
+          {
+            "name": "Flett from Flotta",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "PM Donald MacLeod",
+            "score": "${baseUrl}/tunes/F/Flett2/Flett2.pdf",
+            "tab": "${baseUrl}/tunes/F/Flett2/Flett2t.pdf",
+            "audio": "${baseUrl}/tunes/F/Flett2/Flett-Gairs_M.mp3"
+          },
+          {
+            "name": "Gairsay",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "Ronnie Aim",
+            "score": "${baseUrl}/tunes/F/Flett2/Flett2.pdf",
+            "tab": "${baseUrl}/tunes/F/Flett2/Flett2t.pdf",
+            "audio": "${baseUrl}/tunes/F/Flett2/Flett-Gairs_M.mp3"
+          },
+          {
+            "name": "Fingal's Cave (3)",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Paul Anderson",
+            "score": "${baseUrl}/tunes/F/FngCv/FngCv.pdf",
+            "tab": "${baseUrl}/tunes/F/FngCv/FngCvt.pdf",
+            "audio": "${baseUrl}/tunes/F/FngCv/FngCv-FingC_M.mp3"
+          },
+          {
+            "name": "Fingal's Cave (1)",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "",
+            "score": "${baseUrl}/tunes/F/FngCv/FngCv.pdf",
+            "tab": "${baseUrl}/tunes/F/FngCv/FngCvt.pdf",
+            "audio": "${baseUrl}/tunes/F/FngCv/FngCv-FingC_M.mp3"
+          },
+          {
+            "name": "The Dark Island",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Iain McLachlan",
+            "score": "${baseUrl}/tunes/tunes/D/DarkI/DarkI.pdf",
+            "tab": "${baseUrl}/tunes/tunes/D/DarkI/DarkIt.pdf",
+            "audio": "${baseUrl}/tunes/tunes/D/DarkI/DarkI_M.mp3"
+          },
+          {
+            "name": "The Dark Island",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Iain McLachlan",
+            "score": "${baseUrl}/tunes/tunes/D/DarkI/DarkI2.pdf",
+            "tab": "${baseUrl}/tunes/tunes/D/DarkI/DarkI2t.pdf",
+            "audio": "${baseUrl}/tunes/tunes/D/DarkI/DarkI2_M.mp3"
+          },
+          {
+            "name": "Harris Dance (1)",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/H/HarrD/HarrD.pdf",
+            "tab": "${baseUrl}/tunes/H/HarrD/HarrDt.pdf",
+            "audio": "${baseUrl}/tunes/H/HarrD/HarrD_M.mp3"
+          },
+          {
+            "name": "Harris Dance (2)",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/H/HarrD/HarrD.pdf",
+            "tab": "${baseUrl}/tunes/H/HarrD/HarrDt.pdf",
+            "audio": "${baseUrl}/tunes/H/HarrD/HarrD_M.mp3"
+          },
+          {
+            "name": "The Island of Iona",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/I/IIona/IIona.pdf",
+            "tab": "${baseUrl}/tunes/I/IIona/IIonat.pdf",
+            "audio": "${baseUrl}/tunes/I/IIona/Iona-set_M.mp3"
+          },
+          {
+            "name": "The Iona Hop",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Iain Hardie",
+            "score": "${baseUrl}/tunes/I/IIona/IIona.pdf",
+            "tab": "${baseUrl}/tunes/I/IIona/IIonat.pdf",
+            "audio": "${baseUrl}/tunes/I/IIona/Iona-set_M.mp3"
+          },
+          {
+            "name": "The Iona Shuffle",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Iain Hardie",
+            "score": "${baseUrl}/tunes/I/IIona/IIona.pdf",
+            "tab": "${baseUrl}/tunes/I/IIona/IIonat.pdf",
+            "audio": "${baseUrl}/tunes/I/IIona/Iona-set_M.mp3"
+          },
+          {
+            "name": "The Islay Smugglers",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "",
+            "score": "${baseUrl}/tunes/I/ISmug/ISmug.pdf",
+            "tab": "${baseUrl}/tunes/I/ISmug/ISmugt.pdf",
+            "audio": "${baseUrl}/tunes/I/ISmug/ISmug-IRant_M.mp3"
+          },
+          {
+            "name": "The Islay Ranters",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "McKerron",
+            "score": "${baseUrl}/tunes/I/ISmug/ISmug.pdf",
+            "tab": "${baseUrl}/tunes/I/ISmug/ISmugt.pdf",
+            "audio": "${baseUrl}/tunes/I/ISmug/ISmug-IRant_M.mp3"
+          },
+          {
+            "name": "Kiloran Bay",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "",
+            "score": "${baseUrl}/tunes/K/KilBW/KilBW.pdf",
+            "tab": "${baseUrl}/tunes/K/KilBW/KilBWt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Rowing from Islay to Uist",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RwngU/RwngU.pdf",
+            "tab": "${baseUrl}/tunes/R/RwngU/RwngUt.pdf",
+            "audio": "${baseUrl}/tunes/R/RwngU/RwngU_M.mp3"
+          },
+          {
+            "name": "Land of the Corn",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Gaelic Waltz",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/L/LandC/LandC.pdf",
+            "tab": "${baseUrl}/tunes/L/LandC/LandCt.pdf",
+            "audio": "${baseUrl}/tunes/L/LandC/LandC-TirLL_M.mp3"
+          },
+          {
+            "name": "Tiree Love Lilt",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Gaelic Waltz",
+            "composer": "",
+            "score": "${baseUrl}/tunes/L/LandC/LandC.pdf",
+            "tab": "${baseUrl}/tunes/L/LandC/LandCt.pdf",
+            "audio": "${baseUrl}/tunes/L/LandC/LandC-TirLL_M.mp3"
+          },
+          {
+            "name": "The Lismore Ferryman",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "John Renton",
+            "score": "${baseUrl}/tunes/L/LismF/LismF.pdf",
+            "tab": "${baseUrl}/tunes/L/LismF/LismFt.pdf",
+            "audio": "${baseUrl}/tunes/L/LismF/LismF_MmW.mp3"
+          },
+          {
+            "name": "The Skyline of Skye",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Gaelic Waltz",
+            "composer": "Bob Halfin",
+            "score": "${baseUrl}/tunes/S/SkylS/SkylS.pdf",
+            "tab": "${baseUrl}/tunes/S/SkylS/SkylSt.pdf",
+            "audio": "${baseUrl}/tunes/S/SkylS/SkylS-Morag_M.mp3"
+          },
+          {
+            "name": "Morag of Dunvegan",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Gaelic Waltz",
+            "composer": "Mathieson",
+            "score": "${baseUrl}/tunes/S/SkylS/SkylS.pdf",
+            "tab": "${baseUrl}/tunes/S/SkylS/SkylSt.pdf",
+            "audio": "${baseUrl}/tunes/S/SkylS/SkylS-Morag_M.mp3"
+          },
+          {
+            "name": "St Kilda Song",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/StKil/StKil.pdf",
+            "tab": "${baseUrl}/tunes/S/StKil/StKilt.pdf",
+            "audio": "${baseUrl}/tunes/S/StKil/SKSet_M.mp3"
+          },
+          {
+            "name": "A St Kilda Dance",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/StKil/StKil.pdf",
+            "tab": "${baseUrl}/tunes/S/StKil/StKilt.pdf",
+            "audio": "${baseUrl}/tunes/S/StKil/SKSet_M.mp3"
+          },
+          {
+            "name": "St Kilda Reel",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/StKil/StKil.pdf",
+            "tab": "${baseUrl}/tunes/S/StKil/StKilt.pdf",
+            "audio": "${baseUrl}/tunes/S/StKil/SKSet_M.mp3"
+          },
+          {
+            "name": "Raasay House",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RaasH/RaasH.pdf",
+            "tab": "${baseUrl}/tunes/R/RaasH/RaasHt.pdf",
+            "audio": "${baseUrl}/tunes/R/RaasH/RaasH-MrsMR_M.mp3"
+          },
+          {
+            "name": "Uidhist Mo Graidh (Uist My Love)",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Gaelic Waltz",
+            "composer": "Mathieson",
+            "score": "${baseUrl}/tunes/U/UistM/UistM.pdf",
+            "tab": "${baseUrl}/tunes/U/UistM/UistMt.pdf",
+            "audio": "${baseUrl}/tunes/U/UistM/UistM-SGeoW_M.mp3"
+          },
+          {
+            "name": "S Georgia Whaling Song",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "MacMillan",
+            "score": "${baseUrl}/tunes/U/UistM/UistM.pdf",
+            "tab": "${baseUrl}/tunes/U/UistM/UistMt.pdf",
+            "audio": "${baseUrl}/tunes/U/UistM/UistM-SGeoW_M.mp3"
+          },
+          {
+            "name": "Why Left I My Home",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/W/WhyLI/WhyLI.pdf",
+            "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
+            "audio": "${baseUrl}/tunes/W/WhyLI/WhyLI-set_M.mp3"
+          },
+          {
+            "name": "There Was a Lad",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/W/WhyLI/WhyLI.pdf",
+            "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
+            "audio": "${baseUrl}/tunes/W/WhyLI/WhyLI-set_M.mp3"
+          },
+          {
+            "name": "A Man's a Man",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Robert Burns",
+            "score": "${baseUrl}/tunes/W/WhyLI/WhyLI.pdf",
+            "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
+            "audio": "${baseUrl}/tunes/W/WhyLI/WhyLI-set_M.mp3"
+          },
+
+
+          {
+            "name": "A Rosebud By My Early Walk",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RoseB/RoseB.pdf",
+            "tab": "${baseUrl}/tunes/R/RoseB/RoseBt.pdf",
+            "audio": "${baseUrl}/tunes/R/RoseB/RoseB_M.mp3"
+          },
+          {
+            "name": "Da Slockit Light",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Tom Anderson",
+            "score": "${baseUrl}/tunes/S/Slock/Slock.pdf",
+            "tab": "${baseUrl}/tunes/S/Slock/Slockt.pdf",
+            "audio": "${baseUrl}/tunes/S/Slock/Slock_M.mp3"
+          },
+          {
+            "name": "The Northern Lass",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/N/NLass/NLass.pdf",
+            "tab": "${baseUrl}/tunes/N/NLass/NLasst.pdf",
+            "audio": "${baseUrl}/tunes/N/NLass/NLass-VJoky_M.mp3"
+          },
+          {
+            "name": "Valiant Joky",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/N/NLass/NLass.pdf",
+            "tab": "${baseUrl}/tunes/N/NLass/NLasst.pdf",
+            "audio": "${baseUrl}/tunes/N/NLass/NLass-VJoky_M.mp3"
+          },
+          {
+            "name": "The Muckin’ of Geordie’s Byre",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MuckA/MuckA.pdf",
+            "tab": "${baseUrl}/tunes/M/MuckA/MuckAt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Jeannie's Blue Een",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MuckA/MuckA.pdf",
+            "tab": "${baseUrl}/tunes/M/MuckA/MuckAt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "The Mist Covered Mountains",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "Chi Mi Na Morbheanna",
+            "score": "${baseUrl}/tunes/M/MistC/MistC.pdf",
+            "tab": "${baseUrl}/tunes/M/MistC/MistCt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Leaving Barra",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "Chi Mi Na Morbheanna",
+            "score": "${baseUrl}/tunes/M/MistC/MistC.pdf",
+            "tab": "${baseUrl}/tunes/M/MistC/MistCt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Oyster Wives Rant",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/O/OystW/OystW.pdf",
+            "tab": "${baseUrl}/tunes/O/OystW/OystWt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Clean Pea Strae",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/O/OystW/OystW.pdf",
+            "tab": "${baseUrl}/tunes/O/OystW/OystWt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Dunse Dings A'",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/O/OystW/OystW.pdf",
+            "tab": "${baseUrl}/tunes/O/OystW/OystWt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "Jock Wilson's Ball",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JockW/JockW.pdf",
+            "tab": "${baseUrl}/tunes/J/JockW/JockWt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Tail Toddle",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JockW/JockW.pdf",
+            "tab": "${baseUrl}/tunes/J/JockW/JockWt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "Alas That I was Not Born Blind",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Wm Ross",
+            "score": "${baseUrl}/tunes/A/AlasT/AlasT.pdf",
+            "tab": "${baseUrl}/tunes/A/AlasT/AlasTt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "Doddie's Dream",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Bruce MacGregor",
+            "score": "${baseUrl}/tunes/D/DoddD/DoddD.pdf",
+            "tab": "${baseUrl}/tunes/D/DoddD/DoddDt.pdf",
+            "audio": "${baseUrl}/tunes/D/DoddD/DoddD_MW.mp3"
+          },
+
+        {
+            "name": "East at Glendart",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/EastG/EastG.pdf",
+            "tab": "${baseUrl}/tunes/E/EastG/EastGt.pdf",
+            "audio": "${baseUrl}/tunes/E/EastG/EastG-KeshJ_M.mp3"
+          },
+        {
+            "name": "The Kesh Jig",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/EastG/EastG.pdf",
+            "tab": "${baseUrl}/tunes/E/EastG/EastGt.pdf",
+            "audio": "${baseUrl}/tunes/E/EastG/EastG-KeshJ_M.mp3"
+          },
+        {
+            "name": "The Haunted House",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "Vincent Broderick",
+            "score": "${baseUrl}/tunes/H/Haunt/Haunt.pdf",
+            "tab": "${baseUrl}/tunes/H/Haunt/Haunt.pdf",
+            "audio": "${baseUrl}/tunes/H/Haunt/Haunt_M.mp3"
+          },
+        {
+            "name": "Willlie Coleman's",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/EastG2/EastG2.pdf",
+            "tab": "${baseUrl}/tunes/E/EastG2/EastG2t.pdf",
+            "audio": "${baseUrl}/tunes/E/EastG2/EastG-WCole_MWU.mp3"
+          },
+
+          {
+            "name": "Andy Renwick's Ferret",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Gordon Duncan",
+            "score": "${baseUrl}/tunes/A/AndyR/AndyR.pdf",
+            "tab": "${baseUrl}/tunes/A/AndyR/AndyRt.pdf",
+            "audio": "${baseUrl}/tunes/A/AndyR/AndyR_M.mp3"
+          },
+          {
+            "name": "The High Drive",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Gordon Duncan",
+            "score": "${baseUrl}/tunes/A/AndyR/AndyR.pdf",
+            "tab": "${baseUrl}/tunes/A/AndyR/AndyRt.pdf",
+            "audio": "${baseUrl}/tunes/A/AndyR/AndyR_M.mp3"
+          },
+
+          {
+            "name": "Ann Maguire's Silver Wedding",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "John McCusker",
+            "score": "${baseUrl}/tunes/A/AnnMW/AnnMW.pdf",
+            "tab": "${baseUrl}/tunes/A/AnnMW/AnnMWt.pdf",
+            "audio": "${baseUrl}/tunes/A/AnnMW/AnnMW_M.mp3"
+          },
+
+          {
+            "name": "The Battle of the Somme",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Retreat",
+            "composer": "W Laurie",
+            "score": "${baseUrl}/tunes/B/BSomm/BSomm.pdf",
+            "tab": "${baseUrl}/tunes/B/BSomm/BSommt.pdf",
+            "audio": ""
+          },
+
+          {
             "name": "Gjevre-Valsen",
             "from": "nigel-gatherer",
             "genre": "Norway",
@@ -751,16 +1444,6 @@
             "score": "${baseUrl}/tunes/zWorld/PQR/RSorr/RSorr.pdf",
             "tab": "${baseUrl}/tunes/zWorld/PQR/RSorr/RSorrt.pdf",
             "audio": ""
-          },
-          {
-            "name": "Flett from Flotta",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "March",
-            "composer": "PM Donald MacLeod",
-            "score": "${baseUrl}/tunes/F/Flett/Flett.pdf",
-            "tab": "${baseUrl}/tunes/F/Flett/Flettt.pdf",
-            "audio": "${baseUrl}/tunes/F/Flett/Flett-LRuan_M.mp3"
           },
           {
             "name": "Dahlhoff Tanz I/107a",
@@ -2482,16 +3165,6 @@
             "score": "${baseUrl}/tunes/C/CennM/CennM.pdf",
             "tab": "${baseUrl}/tunes/C/CennM/CennMt.pdf",
             "audio": "${baseUrl}/tunes/C/CennM/CennM-BBush_M.mp3"
-          },
-          {
-            "name": "The Muckin’ of Geordie’s Byre",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Jig",
-            "composer": "",
-            "score": "${baseUrl}/tunes/C/CockN/CockN.pdf",
-            "tab": "${baseUrl}/tunes/C/CockN/CockNt.pdf",
-            "audio": "${baseUrl}/tunes/C/CockN/CockN-MuckG_M.mp3"
           },
           {
             "name": "Cock o' the North",
@@ -4844,16 +5517,6 @@
     "audio": "${baseUrl}/tunes/F/FlowK/FlowK_M.mp3"
   },
   {
-    "name": "The Dark Island",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "Iain McLachlan",
-    "score": "${baseUrl}/tunes/tunes/D/DarkI/DarkI.pdf",
-    "tab": "${baseUrl}/tunes/tunes/D/DarkI/DarkIt.pdf",
-    "audio": "${baseUrl}/tunes/tunes/D/DarkI/DarkI_M.mp3"
-  },
-  {
     "name": "Rory MacLeod",
     "from": "nigel-gatherer",
     "genre": "",
@@ -4943,16 +5606,6 @@
     "score": "${baseUrl}/tunes/CCM/DEF/FlowQ/FlowQ.pdf",
     "tab": "${baseUrl}/tunes/CCM/DEF/FlowQ/FlowQt.pdf",
     "audio": ""
-  },
-  {
-    "name": "East at Glendart",
-    "from": "nigel-gatherer",
-    "genre": "Irish",
-    "type": "Jig",
-    "composer": "",
-    "score": "${baseUrl}/tunes/CCM/DEF/EastG/EastG.pdf",
-    "tab": "${baseUrl}/tunes/CCM/DEF/EastG/EastGt.pdf",
-    "audio": "${baseUrl}/tunes/CCM/DEF/EastG/EastG-WillC_W.mp3"
   },
   {
     "name": "Barbara's Jig",
@@ -5767,16 +6420,6 @@
     "audio": ""
   },
   {
-    "name": "Clean Pea Strae",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab9/clean.html",
-    "audio": ""
-  },
-  {
     "name": "Cold Frosty Morning",
     "from": "nigel-gatherer",
     "genre": "",
@@ -6567,16 +7210,6 @@
     "audio": ""
   },
   {
-    "name": "Morag of Dunvegan",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab9/mdunv.html",
-    "audio": ""
-  },
-  {
     "name": "Mormond Braes",
     "from": "nigel-gatherer",
     "genre": "",
@@ -6844,16 +7477,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab11/rollw.html",
-    "audio": ""
-  },
-  {
-    "name": "Rowing from Isla to Uist (Am)",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab6/rowng.html",
     "audio": ""
   },
   {
@@ -8360,16 +8983,6 @@
     "audio": "${baseUrl}/tunes/H/HangO/HangO-GWTry_M.mp3"
   },
   {
-    "name": "Harris Dance",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/J/JWYMM/JWYMM.pdf",
-    "tab": "${baseUrl}/tunes/J/JWYMM/JWYMMt.pdf",
-    "audio": "${baseUrl}/tunes/J/JWYMM/JWYMM-set_M.mp3"
-  },
-  {
     "name": "The High Road to Linton",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -9241,26 +9854,6 @@
     "audio": "${baseUrl}/tunes/D/DnchH/DnchH-JamiR_M.mp3"
   },
   {
-    "name": "Jeanie's Blue Een",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "",
-    "score": "${baseUrl}/tunes/CCM/MNO/MuckG/MuckG.pdf",
-    "tab": "",
-    "audio": ""
-  },
-  {
-    "name": "The Muckin' o' Geordie's Byre",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "",
-    "score": "${baseUrl}/tunes/CCM/MNO/MuckG/MuckG.pdf",
-    "tab": "",
-    "audio": ""
-  },
-  {
     "name": "John Grumlie",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -9369,16 +9962,6 @@
     "score": "${baseUrl}/tunes/1-9/14Oct/14Oct.pdf",
     "tab": "${baseUrl}/tunes/1-9/14Oct/14Octt.pdf",
     "audio": "${baseUrl}/tunes/1-9/14Oct/14Oct_M.mp3"
-  },
-  {
-    "name": "A Man's a Man",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "Robert Burns",
-    "score": "${baseUrl}/tunes/A/AMans/AMans.pdf",
-    "tab": "${baseUrl}/tunes/A/AMans/AManst.pdf",
-    "audio": "${baseUrl}/tunes/A/AMans/AMans-SWHae_M.mp3"
   },
   {
     "name": "Ae Fond Kiss",
@@ -9799,16 +10382,6 @@
     "score": "${baseUrl}/tunes/F/FGovn/FGovn.pdf",
     "tab": "${baseUrl}/tunes/F/FGovn/FGovnt.pdf",
     "audio": "${baseUrl}/tunes/F/FGovn/FGovn_M.mp3"
-  },
-  {
-    "name": "Fingal's Cave",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "",
-    "score": "${baseUrl}/tunes/F/FingC/FingC.pdf",
-    "tab": "${baseUrl}/tunes/F/FingC/FingCt.pdf",
-    "audio": "${baseUrl}/tunes/F/FingC/FingC_M.mp3"
   },
   {
     "name": "The Furrow's End",
