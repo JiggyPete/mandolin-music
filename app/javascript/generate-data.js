@@ -1,9 +1,18 @@
 var fs = require('fs');
 
-var buildJSONStringFor = function(baseUrl) {
+var buildJSONStringForFile = function(baseUrl, filename) {
   try {
-      var template = fs.readFileSync('master-data.json', 'utf8');
-      return eval(template);
+    var template = fs.readFileSync(filename, 'utf8');
+    var textData = eval(template);
+    return JSON.parse(textData)
+
+
+    // let result = new Array();
+
+    // result.push(eval( fs.readFileSync('main-data.json', 'utf8') ));
+    // result.push(eval( fs.readFileSync('highland-hopscotch.json', 'utf8') ));
+
+    // return result.reduce((acc, val) => acc.concat(val), []);
   } catch(e) {
       console.log('Error:', e.stack);
   }
@@ -25,12 +34,23 @@ var writeDataFile = function(json, filename, siteName) {
 var extractOnlyNecessaryFieldsFrom = function(json) {
   var result = [];
   json.forEach( function(song) {
-    var newSong = {
-      "name": song["name"],
-      "score": song["score"],
-      "tab": song["tab"],
-      "audio": song["audio"]
-    };
+    var newSong = { "name": song["name"] };
+
+    if(song["score"]) {
+      newSong["score"] = song["score"]
+    }
+
+    if(song["tab"]) {
+      newSong["tab"] = song["tab"]
+    }
+
+    if(song["audio"]) {
+      newSong["audio"] = song["audio"]
+    }
+
+    if(song["video"]) {
+      newSong["video"] = song["video"]
+    }
 
     result.push(newSong);
   })
@@ -52,16 +72,23 @@ var sortJSON = function(json) {
   } );
 }
 
+var buildJSONFor = function(baseUrl) {
+  let result = new Array();
+  result.push(buildJSONStringForFile(baseUrl, "main-data.json"));
+  result.push(buildJSONStringForFile(baseUrl, "hebridean-hopscotch.json"));
+
+  return result.reduce((acc, val) => acc.concat(val), []);;
+}
+
 var createDataFile = function() {
-  textData = buildJSONStringFor("http://www.nigelgatherer.com/tunes")
-  var json = JSON.parse(textData)
+  var json = buildJSONFor("http://www.nigelgatherer.com/tunes")
   sortJSON(json);
+  json = extractOnlyNecessaryFieldsFrom(json)
   writeDataFile(json, "data.json", "mandolin-music");
 }
 
 var createNigelsDataFile = function() {
-  textData = buildJSONStringFor("/tunes")
-  var json = JSON.parse(textData)
+  var json = buildJSONFor("/tunes")
   sortJSON(json);
   json = extractOnlyNecessaryFieldsFrom(json)
   writeDataFile(json, "nigels-data.json", "nigelgatherer.com");
