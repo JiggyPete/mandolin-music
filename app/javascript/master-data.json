@@ -55,6 +55,116 @@
           },
 
           {
+            "name": "Lochanside",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "P.M. J MacLellan",
+            "score": "${baseUrl}/tunes/L/LSide/LSide.pdf",
+            "tab": "${baseUrl}/tunes/L/LSide/LSidet.pdf",
+            "audio": "${baseUrl}/tunes/L/LSide/LSide_W.mp3"
+          },
+          {
+            "name": "My Home Town",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "air",
+            "composer": "P.M. J MacLellan",
+            "score": "${baseUrl}/tunes/L/LSide/LSide.pdf",
+            "tab": "${baseUrl}/tunes/L/LSide/LSidet.pdf",
+            "audio": "${baseUrl}/tunes/L/LSide/LSide_W.mp3"
+          },
+          {
+            "name": "J O Forbes of Corse",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "Peter Milne",
+            "score": "${baseUrl}/tunes/J/JOFoC/JOFoC.pdf",
+            "tab": "${baseUrl}/tunes/J/JOFoC/JOFoCt.pdf",
+            "audio": "${baseUrl}/tunes/J/JOFoC/JOFoC-BrigF_M.mp3"
+          },
+          {
+            "name": "The Brig o' Feugh",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Peter Milne",
+            "score": "${baseUrl}/tunes/J/JOFoC/JOFoC.pdf",
+            "tab": "${baseUrl}/tunes/J/JOFoC/JOFoCt.pdf",
+            "audio": "${baseUrl}/tunes/J/JOFoC/JOFoC-BrigF_M.mp3"
+          },
+          {
+            "name": "Iona Theme 1",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "William Jackson",
+            "score": "${baseUrl}/tunes/I/IonaT/IonaT.pdf",
+            "tab": "${baseUrl}/tunes/I/IonaT/IonaTt.pdf",
+            "audio": "${baseUrl}/tunes/I/IonaT/IonaT-MCros_M.mp3"
+          },
+          {
+            "name": "Iona Theme 2",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "William Jackson",
+            "score": "${baseUrl}/tunes/I/IonaT/IonaT.pdf",
+            "tab": "${baseUrl}/tunes/I/IonaT/IonaTt.pdf",
+            "audio": "${baseUrl}/tunes/I/IonaT/IonaT-MCros_M.mp3"
+          },
+          {
+            "name": "MacLean's Cross",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/I/IonaT/IonaT.pdf",
+            "tab": "${baseUrl}/tunes/I/IonaT/IonaTt.pdf",
+            "audio": "${baseUrl}/tunes/I/IonaT/IonaT-MCros_M.mp3"
+          },
+          {
+            "name": "The Isle of Skye",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/I/ISkye/ISkye.pdf",
+            "tab": "${baseUrl}/tunes/I/ISkye/ISkyet.pdf",
+            "audio": "${baseUrl}/tunes/I/ISkye/ISkye_Mm.mp3"
+          },
+          {
+            "name": "The Hills of Mull",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "Calum MacLean",
+            "score": "${baseUrl}/tunes/H/HMull/HMull.pdf",
+            "tab": "${baseUrl}/tunes/H/HMull/HMullt.pdf",
+            "audio": "${baseUrl}/tunes/H/HMull/HMull_Mm.mp3"
+          },
+          {
+            "name": "The Farewell",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Air",
+            "composer": "William Marshall",
+            "score": "${baseUrl}/tunes/F/Fwell/Fwell.pdf",
+            "tab": "${baseUrl}/tunes/F/Fwell/Fwellt.pdf",
+            "audio": "${baseUrl}/tunes/F/Fwell/Fwell_M.mp3"
+          },
+          {
+            "name": "Father John MacMillan of Barra",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Pipe March",
+            "composer": "MacDonald",
+            "score": "${baseUrl}/tunes/F/FrJon/FrJon.pdf",
+            "tab": "${baseUrl}/tunes/F/FrJon/FrJont.pdf",
+            "audio": "${baseUrl}/tunes/F/FrJon/FJonM_M.mp3"
+          },
+          {
             "name": "Colonsay Aire",
             "from": "nigel-gatherer",
             "genre": "Scottish",
@@ -485,10 +595,149 @@
             "tab": "${baseUrl}/tunes/B/BaybI/BaybIt.pdf",
             "audio": "${baseUrl}/tunes/B/BaybI/BaybI-LewsL_M.mp3"
           },
+          {
+            "name": "Jim Broon of Kintillo",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "Angus Fitchet",
+            "score": "${baseUrl}/tunes/J/JimBr/JimBr.pdf",
+            "tab": "${baseUrl}/tunes/J/JimBr/JimBrt.pdf",
+            "audio": "${baseUrl}/tunes/J/JimBr/JimBr-MsMMG_M.mp3"
+          },
+          {
+            "name": "Miss Mary McGill",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Angus Fitchet",
+            "score": "${baseUrl}/tunes/J/JimBr/JimBr.pdf",
+            "tab": "${baseUrl}/tunes/J/JimBr/JimBrt.pdf",
+            "audio": "${baseUrl}/tunes/J/JimBr/JimBr-MsMMG_M.mp3"
+          },
+          {
+            "name": "The Jura Music Festival",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Archie McAllister",
+            "score": "${baseUrl}/tunes/J/JurMF/JurMF.pdf",
+            "tab": "${baseUrl}/tunes/J/JurMF/JurMFt.pdf",
+            "audio": "${baseUrl}/tunes/J/JurMF/JurMF_M.mp3"
+          },
 
 
+          {
+            "name": "The Laird o' Bemersyde",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "James Scott Skinner",
+            "score": "${baseUrl}/tunes/L/LBeme/LBeme.pdf",
+            "tab": "${baseUrl}/tunes/L/LBeme/LBeme.pdf",
+            "audio": "${baseUrl}/tunes/L/LBeme/LBeme_M.mp3"
+          },
+          {
+            "name": "Johnny McIljohn's No. 1",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JonyM/JonyM.pdf",
+            "tab": "${baseUrl}/tunes/J/JonyM/JonyMt.pdf",
+            "audio": "${baseUrl}/tunes/J/JonyM/JonyM1-JonyM2_M.mp3"
+          },
+          {
+            "name": "Johnny McIljohn's No. 2",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JonyM/JonyM.pdf",
+            "tab": "${baseUrl}/tunes/J/JonyM/JonyMt.pdf",
+            "audio": "${baseUrl}/tunes/J/JonyM/JonyM1-JonyM2_M.mp3"
+          },
+          {
+            "name": "Jack Broke da Prison Door",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JackB/JackB.pdf",
+            "tab": "${baseUrl}/tunes/J/JackB/JackBt.pdf",
+            "audio": "${baseUrl}/tunes/J/JackB/JackB-set_M.mp3"
+          },
+          {
+            "name": "Donald Blue",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JackB/JackB.pdf",
+            "tab": "${baseUrl}/tunes/J/JackB/JackBt.pdf",
+            "audio": "${baseUrl}/tunes/J/JackB/JackB-set_M.mp3"
+          },
+          {
+            "name": "Sleep Soond ida Moarnin",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JackB/JackB.pdf",
+            "tab": "${baseUrl}/tunes/J/JackB/JackBt.pdf",
+            "audio": "${baseUrl}/tunes/J/JackB/JackB-set_M.mp3"
+          },
 
-
+          {
+            "name": "Jerry O'Sullivan's",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/J/JOSul/JOSul.pdf",
+            "tab": "${baseUrl}/J/JOSul/JOSult.pdf",
+            "audio": "${baseUrl}/J/JOSul/JOSul_M.mp3"
+          },
+          {
+            "name": "The Dimmers",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/J/JOSul/JOSul.pdf",
+            "tab": "${baseUrl}/J/JOSul/JOSult.pdf",
+            "audio": "${baseUrl}/J/JOSul/JOSul_M.mp3"
+          },
+          {
+            "name": "Garster's Dream",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/G/GrstD/GrstD.pdf",
+            "tab": "${baseUrl}/G/GrstD/GrstDt.pdf",
+            "audio": "${baseUrl}/G/GrstD/GrstD-DBrig_M.mp3"
+          },
+          {
+            "name": "Da Brig",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Friedemann Stickle",
+            "score": "${baseUrl}/G/GrstD/GrstD.pdf",
+            "tab": "${baseUrl}/G/GrstD/GrstDt.pdf",
+            "audio": "${baseUrl}/G/GrstD/GrstD-DBrig_M.mp3"
+          },
+          {
+            "name": "Frank's Reel",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "John McCusker",
+            "score": "${baseUrl}/tunes/F/Fwell/Fwell.pdf",
+            "tab": "${baseUrl}/tunes/F/Fwell/Fwell.pdf",
+            "audio": "${baseUrl}/tunes/F/Fwell/Fwell_M.mp3"
+          },
           {
             "name": "Fond Returning",
             "from": "nigel-gatherer",
@@ -638,7 +887,7 @@
             "composer": "Chi Mi Na Morbheanna",
             "score": "${baseUrl}/tunes/M/MistC/MistC.pdf",
             "tab": "${baseUrl}/tunes/M/MistC/MistCt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/L/LBara/LBara-FMBar_M.mp3"
           },
           {
             "name": "Leaving Barra",
@@ -648,7 +897,7 @@
             "composer": "Chi Mi Na Morbheanna",
             "score": "${baseUrl}/tunes/M/MistC/MistC.pdf",
             "tab": "${baseUrl}/tunes/M/MistC/MistCt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/L/LBara/LBara-FMBar_M.mp3"
           },
           {
             "name": "The Oyster Wives Rant",
@@ -5682,26 +5931,6 @@
   },
 
   {
-    "name": "Sleep Sond ida Moarnin",
-    "from": "nigel-gatherer",
-    "genre": "Shetland",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/CCM/JKL/JackB/JackB.pdf",
-    "tab": "${baseUrl}/tunes/CCM/JKL/JackB/JackBt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Jack Broke da Prison Door",
-    "from": "nigel-gatherer",
-    "genre": "Shetland",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/CCM/JKL/JackB/JackB.pdf",
-    "tab": "${baseUrl}/tunes/CCM/JKL/JackB/JackBt.pdf",
-    "audio": ""
-  },
-  {
     "name": "The Glenside Polka",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -6611,16 +6840,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab6/dond.html",
-    "audio": ""
-  },
-  {
-    "name": "Donald Blue",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab9/dblue.html",
     "audio": ""
   },
   {
