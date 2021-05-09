@@ -21,6 +21,78 @@
     "audio": ""
   },
 
+
+
+  {
+    "name": "Mangersta Beach",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Aidan O'Rourke",
+    "score": "${baseUrl}/tunes/M/MangB/MangB.pdf",
+    "tab": "${baseUrl}/tunes/M/MangB/MangBt.pdf",
+    "audio": "${baseUrl}/tunes/M/MangB/MangB_MW.mp3"
+  },
+  {
+    "name": "Marion MacLean of Eoligarry",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Colin Melville",
+    "score": "${baseUrl}/tunes/M/MMEol/MMEol.pdf",
+    "tab": "${baseUrl}/tunes/M/MMEol/MMEolt.pdf",
+    "audio": "${baseUrl}/tunes/M/MMEol/MMEol.mp3"
+  },
+  {
+    "name": "Mountain of Gold",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reek",
+    "composer": "Nigel Gatherer",
+    "score": "${baseUrl}/tunes/M/MGold/MGold.pdf",
+    "tab": "${baseUrl}/tunes/M/MGold/MGoldt.pdf",
+    "audio": "${baseUrl}/tunes/M/MGold/MGold-Coryv_M.mp3"
+  },
+  {
+    "name": "Corryvrechan",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reek",
+    "composer": "William Jackson",
+    "score": "${baseUrl}/tunes/M/MGold/MGold.pdf",
+    "tab": "${baseUrl}/tunes/M/MGold/MGoldt.pdf",
+    "audio": "${baseUrl}/tunes/M/MGold/MGold-Coryv_M.mp3"
+  },
+  {
+    "name": "The Lights of Lochindale",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "Iain Simpson",
+    "score": "${baseUrl}/tunes/L/LghtL/LghtL.pdf",
+    "tab": "${baseUrl}/tunes/L/LghtL/LghtLt.pdf",
+    "audio": "${baseUrl}/tunes/L/LghtL/LghtL-IslaT_M.mp3"
+  },
+  {
+    "name": "The Islay Teenager",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/L/LghtL/LghtL.pdf",
+    "tab": "${baseUrl}/tunes/L/LghtL/LghtLt.pdf",
+    "audio": "${baseUrl}/tunes/L/LghtL/LghtL-IslaT_M.mp3"
+  },
+  {
+    "name": "Leaving Uist",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Fred Morrison",
+    "score": "${baseUrl}/tunes/L/LUist/LUist.pdf",
+    "tab": "${baseUrl}/tunes/L/LUist/LUistt.pdf",
+    "audio": "${baseUrl}/tunes/L/LUist/LUist_M.mp3"
+  },
   {
     "name": "The Iona Hop",
     "from": "nigel-gatherer",
