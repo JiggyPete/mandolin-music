@@ -51,8 +51,99 @@
             "tab": "${baseUrl}/tunes/C/CMnch/CMncht.pdf",
             "audio": "${baseUrl}/tunes/C/CMnch/CMnch_M.mp3"
           },
+          {
+            "name": "The Rock on the Clyde",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Bobby MacLeod",
+            "score": "${baseUrl}/tunesR/RockC/RockC.pdf",
+            "tab": "${baseUrl}/tunesR/RockC/RockCt.pdf",
+            "audio": "${baseUrl}/tunesR/RockC/RockC-CHunt_M.mp3"
+          },
+          {
+            "name": "Charlie Hunter",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Bobby MacLeod",
+            "score": "${baseUrl}/tunesR/RockC/RockC.pdf",
+            "tab": "${baseUrl}/tunesR/RockC/RockCt.pdf",
+            "audio": "${baseUrl}/tunesR/RockC/RockC-CHunt_M.mp3"
+          },
 
 
+
+          {
+            "name": "Repeal the Poll Tax",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Sandy Mathers",
+            "score": "${baseUrl}/tunes/R/RPTax/RPTax.pdf",
+            "tab": "${baseUrl}/tunes/R/RPTax/RPTaxt.pdf",
+            "audio": "${baseUrl}/tunes/R/RPTax/RPTax_M.mp3"
+          },
+          {
+            "name": "Richard Brennan's Favourite",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RBren/RBren.pdf",
+            "tab": "${baseUrl}/tunes/R/RBren/RBrent.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Donegal Lass",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "Brian Finnegan",
+            "score": "${baseUrl}/tunes/R/RBren/RBren.pdf",
+            "tab": "${baseUrl}/tunes/R/RBren/RBrent.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Perth",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Michael McGoldrick",
+            "score": "${baseUrl}/tunes/P/Perth/Perth.pdf",
+            "tab": "${baseUrl}/tunes/P/Perth/Pertht.pdf",
+            "audio": "${baseUrl}/tunes/P/Perth/Perth-TattH_M.mp3"
+          },
+          {
+            "name": "Buntata 's Sgadan (Tatties and Herring)",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Allan MacDonald",
+            "score": "${baseUrl}/tunes/P/Perth/Perth.pdf",
+            "tab": "${baseUrl}/tunes/P/Perth/Pertht.pdf",
+            "audio": "${baseUrl}/tunes/P/Perth/Perth-TattH_M.mp3"
+          },
+          {
+            "name": "Pachelbel's Frolics",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/P/PachF/PachF.pdf",
+            "tab": "${baseUrl}/tunes/P/PachF/PachFt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Of A' the Airts the Wind Can Blaw",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "William Marshall",
+            "score": "${baseUrl}/tunes/O/OAirt/OAirt.pdf",
+            "tab": "${baseUrl}/tunes/O/OAirt/OAirtt.pdf",
+            "audio": ""
+          },
           {
             "name": "Morven's March",
             "from": "nigel-gatherer",
@@ -5940,16 +6031,6 @@
     "audio": ""
   },
   {
-    "name": "The Donegal Lass",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab3/dongl.html",
-    "audio": ""
-  },
-  {
     "name": "8 Men of Moidart",
     "from": "nigel-gatherer",
     "genre": "",
@@ -7328,16 +7409,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab2/rev.html",
-    "audio": ""
-  },
-  {
-    "name": "Richard Brennan's Favourite",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab9/rbren.html",
     "audio": ""
   },
   {

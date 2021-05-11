@@ -24,6 +24,26 @@
 
 
   {
+    "name": "The Sound of Iona",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/SIona/SIona.pdf",
+    "tab": "${baseUrl}/tunes/S/SIona/SIonat.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Pipe Major Donald MacLean of Lewis",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "Donald MacLeod",
+    "score": "${baseUrl}/tunes/P/PMDMc/PMDMc.pdf",
+    "tab": "${baseUrl}/tunes/P/PMDMc/PMDMct.pdf",
+    "audio": "${baseUrl}/tunes/P/PMDMc/PMDMc_M.mp3"
+  },
+  {
     "name": "Mangersta Beach",
     "from": "nigel-gatherer",
     "genre": "Scottish",
