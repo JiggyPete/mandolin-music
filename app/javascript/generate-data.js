@@ -76,6 +76,7 @@ var buildJSONFor = function(baseUrl) {
   let result = new Array();
   result.push(buildJSONStringForFile(baseUrl, "main-data.json"));
   result.push(buildJSONStringForFile(baseUrl, "hebridean-hopscotch.json"));
+  result.push(buildJSONStringForFile(baseUrl, "world-music.json"));
 
   return result.reduce((acc, val) => acc.concat(val), []);;
 }

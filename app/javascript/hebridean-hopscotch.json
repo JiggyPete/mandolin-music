@@ -24,6 +24,56 @@
 
 
   {
+    "name": "Vatersay Bay",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "D MacKinnon",
+    "score": "${baseUrl}/tunes/U/VatrB/VatrB.pdf",
+    "tab": "${baseUrl}/tunes/U/VatrB/VatrBt.pdf",
+    "audio": "${baseUrl}/tunes/U/VatrB/VatrB-VatAm_M.mp3"
+  },
+  {
+    "name": "The Vatersay Ambulance",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Polka",
+    "composer": "Colm O'Rua",
+    "score": "${baseUrl}/tunes/U/VatrB/VatrB.pdf",
+    "tab": "${baseUrl}/tunes/U/VatrB/VatrBt.pdf",
+    "audio": "${baseUrl}/tunes/U/VatrB/VatrB-VatAm_M.mp3"
+  },
+  {
+    "name": "The Sound of Sleat",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "D MacKinnon",
+    "score": "${baseUrl}/tunes/S/Sleat/Sleat.pdf",
+    "tab": "${baseUrl}/tunes/S/Sleat/Sleatt.pdf",
+    "audio": "${baseUrl}/tunes/S/Sleat/Sleat_M.mp3"
+  },
+  {
+    "name": "Skye Volunteers",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/SkyeV/SkyeV.pdf",
+    "tab": "${baseUrl}/tunes/S/SkyeV/SkyeVt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Garden of Skye",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "Harper",
+    "score": "${baseUrl}/tunes/S/SkyeV/SkyeV.pdf",
+    "tab": "${baseUrl}/tunes/S/SkyeV/SkyeVt.pdf",
+    "audio": ""
+  },
+  {
     "name": "The Sound of Iona",
     "from": "nigel-gatherer",
     "genre": "Scottish",

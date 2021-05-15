@@ -57,9 +57,9 @@
             "genre": "Scottish",
             "type": "Jig",
             "composer": "Bobby MacLeod",
-            "score": "${baseUrl}/tunesR/RockC/RockC.pdf",
-            "tab": "${baseUrl}/tunesR/RockC/RockCt.pdf",
-            "audio": "${baseUrl}/tunesR/RockC/RockC-CHunt_M.mp3"
+            "score": "${baseUrl}/tunes/R/RockC/RockC.pdf",
+            "tab": "${baseUrl}/tunes/R/RockC/RockCt.pdf",
+            "audio": "${baseUrl}/tunes/R/RockC/RockC-CHunt_M.mp3"
           },
           {
             "name": "Charlie Hunter",
@@ -67,13 +67,346 @@
             "genre": "Scottish",
             "type": "Jig",
             "composer": "Bobby MacLeod",
-            "score": "${baseUrl}/tunesR/RockC/RockC.pdf",
-            "tab": "${baseUrl}/tunesR/RockC/RockCt.pdf",
-            "audio": "${baseUrl}/tunesR/RockC/RockC-CHunt_M.mp3"
+            "score": "${baseUrl}/tunes/R/RockC/RockC.pdf",
+            "tab": "${baseUrl}/tunes/R/RockC/RockCt.pdf",
+            "audio": "${baseUrl}/tunes/R/RockC/RockC-CHunt_M.mp3"
+          },
+          {
+            "name": "Tigh na Gorm",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "Ian Powrie",
+            "score": "${baseUrl}/T/TighN/TighN.pdf",
+            "tab": "${baseUrl}/T/TighN/TighNt.pdf",
+            "audio": "${baseUrl}/T/TighN/TighN_M.mp3"
+          },
+          {
+            "name": "Jimmy Shand's Welcome to Corrieburn",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "Ian Powrie",
+            "score": "${baseUrl}/T/TighN/TighN.pdf",
+            "tab": "${baseUrl}/T/TighN/TighNt.pdf",
+            "audio": "${baseUrl}/T/TighN/TighN_M.mp3"
+          },
+          {
+            "name": "The Warlocks",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Strathspey",
+            "composer": "Robert Lowe",
+            "score": "${baseUrl}/W/Wrlks/Wrlks2.pdf",
+            "tab": "${baseUrl}/W/Wrlks/Wrlks2t.pdf",
+            "audio": "${baseUrl}/W/Wrlks/Wrlks-MrsCB_M.mp3"
+          },
+          {
+            "name": "Mrs Colonel Bailie of Red-Castle",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Reel",
+            "composer": "Joseph Lowe",
+            "score": "${baseUrl}/W/Wrlks/Wrlks2.pdf",
+            "tab": "${baseUrl}/W/Wrlks/Wrlks2t.pdf",
+            "audio": "${baseUrl}/W/Wrlks/Wrlks-MrsCB_M.mp3"
           },
 
 
 
+
+
+
+          {
+            "name": "Star Wars Main Theme",
+            "from": "nigel-gatherer",
+            "genre": "Movie Soundtrack",
+            "type": "Star Wars 1977",
+            "composer": "John Willliams",
+            "score": "${baseUrl}/tunes/zMisc/STU/StarW/StarW.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/STU/StarW/StarWt.pdf",
+            "audio": "${baseUrl}/tunes/zMisc/STU/StarW/StarW_M.mp3"
+          },
+          {
+            "name": "Cantina Band",
+            "from": "nigel-gatherer",
+            "genre": "Movie Soundtrack",
+            "type": "Star Wars 1977",
+            "composer": "John Williams",
+            "score": "${baseUrl}/tunes/zMisc/ABC/CantB/CantB.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/ABC/CantB/CantBt.pdf",
+            "audio": "${baseUrl}/tunes/zMisc/ABC/CantB/CantB_M.mp3"
+          },
+          {
+            "name": "The Lion",
+            "from": "nigel-gatherer",
+            "genre": "Narnia",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zComposers/JKL/LionW/LionW.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/JKL/LionW/LionWt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/JKL/LionW/Nrnia%20set_M.mp3"
+          },
+          {
+            "name": "The Witch",
+            "from": "nigel-gatherer",
+            "genre": "Narnia",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zComposers/JKL/LionW/LionW.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/JKL/LionW/LionWt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/JKL/LionW/Nrnia%20set_M.mp3"
+          },
+          {
+            "name": "The Wardrobe",
+            "from": "nigel-gatherer",
+            "genre": "Narnia",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zComposers/JKL/LionW/LionW.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/JKL/LionW/LionWt.pdf",
+            "audio": "${baseUrl}/tunes/zComposers/JKL/LionW/Nrnia%20set_M.mp3"
+          },
+          {
+            "name": "Silent Worship",
+            "from": "nigel-gatherer",
+            "genre": "Classical",
+            "type": "",
+            "composer": "Handel",
+            "score": "${baseUrl}/tunes/zClassical/GHI/Handel/SWrsh/SWrsh.pdf",
+            "tab": "${baseUrl}/tunes/zClassical/GHI/Handel/SWrsh/SWrsht.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Up Jumped the Devil (1)",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmp.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmpt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmp_M.mp3"
+          },
+          {
+            "name": "Up Jumped the Devil (2)",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmp.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmpt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmp_M.mp3"
+          },
+          {
+            "name": "Robinson Country",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCo.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCot.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCo-Kitty_M.mp3"
+          },
+          {
+            "name": "Kitty's Wedding",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCo.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCot.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCo-Kitty_M.mp3"
+          },
+          {
+            "name": "Gentle Annie",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Stephen Foster",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA2.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA2t.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Beautful Dreamer",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Stephen Foster",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA2.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA2t.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Fred Digs Up a Hornet's Nest",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Fred Keller",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/FredD/FredD.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/FredD/FredDt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/FredD/FredD_M.mp3"
+          },
+          {
+            "name": "Down Home Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "White",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/DownH/DownH.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/DownH/DownHt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/DownH/DownH_M.mp3"
+          },
+          {
+            "name": "Dill Pickles Rag",
+            "from": "nigel-gatherer",
+            "genre": "Ragtime",
+            "type": "",
+            "composer": "Charles L Johnson",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/DillP/DillP.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/DillP/DillPt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/DillP/DillP_M.mp3"
+          },
+          {
+            "name": "Cherry Orchard Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrW.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrWt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrW_M.mp3"
+          },
+          {
+            "name": "Down in the Old Cherry Orchard",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "S R Henry",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrW.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrWt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrW_M.mp3"
+          },
+          {
+            "name": "Willafjord",
+            "from": "nigel-gatherer",
+            "genre": "Shetland",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/W/Willa/Willa.pdf",
+            "tab": "${baseUrl}/tunes/W/Willa/Willa.pdf",
+            "audio": "${baseUrl}/tunes/S/Spoot/Spoot-Willa_M.mp3"
+          },
+          {
+            "name": "Spootiskerry",
+            "from": "nigel-gatherer",
+            "genre": "Shetland",
+            "type": "Reel",
+            "composer": "Ian Burns",
+            "score": "${baseUrl}/tunes/W/Willa/Willa.pdf",
+            "tab": "${baseUrl}/tunes/W/Willa/Willa.pdf",
+            "audio": "${baseUrl}/tunes/S/Spoot/Spoot-Willa_M.mp3"
+          },
+          {
+            "name": "Wee Murdie",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/W/WeeMu/WeeMu.pdf",
+            "tab": "${baseUrl}/tunes/W/WeeMu/WeeMut.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Lochiel's Welcome to Glasgow",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Alexander Cameron",
+            "score": "${baseUrl}/tunes/W/WeeMu/WeeMu.pdf",
+            "tab": "${baseUrl}/tunes/W/WeeMu/WeeMut.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Way Up in Clachan",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "John MacLean",
+            "score": "${baseUrl}/tunes/W/WayUp/WayUp.pdf",
+            "tab": "${baseUrl}/tunes/W/WayUp/WayUpt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "My Home",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Waltz",
+            "composer": "",
+            "score": "${baseUrl}/tunes/W/WayUp/WayUp.pdf",
+            "tab": "${baseUrl}/tunes/W/WayUp/WayUpt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Tomnahurich",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "",
+            "composer": "Bruce MacGregor",
+            "score": "${baseUrl}/tunes/T/Tomna/Tomna.pdf",
+            "tab": "${baseUrl}/tunes/T/Tomna/Tomnat.pdf",
+            "audio": "${baseUrl}/tunes/T/Tomna/Tomna-Millt_M.mp3"
+          },
+          {
+            "name": "The Milltimber Jig",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "Jig",
+            "composer": "Ian Crichton",
+            "score": "${baseUrl}/tunes/T/Tomna/Tomna.pdf",
+            "tab": "${baseUrl}/tunes/T/Tomna/Tomnat.pdf",
+            "audio": "${baseUrl}/tunes/T/Tomna/Tomna-Millt_M.mp3"
+          },
+          {
+            "name": "Tommy Bhetty's Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Waltz",
+            "composer": "Tommy Maguire",
+            "score": "${baseUrl}/tunes/T/TomBW/TomBW.pdf",
+            "tab": "${baseUrl}/tunes/T/TomBW/TomBWt.pdf",
+            "audio": "${baseUrl}/tunes/T/TomBW/TomBW_M.mp3"
+          },
+          {
+            "name": "Sarah",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Max Houliston",
+            "score": "${baseUrl}/tunes/S/Sarah/Sarah.pdf",
+            "tab": "${baseUrl}/tunes/S/Sarah/Saraht.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Sally Gardens",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SalyG/SalyG.pdf",
+            "tab": "${baseUrl}/tunes/S/SalyG/SalyGt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Maid Behind the Bar",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SalyG/SalyG.pdf",
+            "tab": "${baseUrl}/tunes/S/SalyG/SalyGt.pdf",
+            "audio": ""
+          },
           {
             "name": "Repeal the Poll Tax",
             "from": "nigel-gatherer",
@@ -767,36 +1100,6 @@
           },
 
           {
-            "name": "Gjevre-Valsen",
-            "from": "nigel-gatherer",
-            "genre": "Norway",
-            "type": "Waltz",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/GHI/GjevV/GjevV.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/GHI/GjevV/GjevVt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Brudemarsj fra Jelsa",
-            "from": "nigel-gatherer",
-            "genre": "Norway",
-            "type": "",
-            "composer": "Nigel Gatherer",
-            "score": "${baseUrl}/tunes/zWorld/GHI/GjevV/GjevV.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/GHI/GjevV/GjevVt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Despatsko Horo",
-            "from": "nigel-gatherer",
-            "genre": "Bulgaria",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/DEF/DospH/DospH.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/DEF/DospH/DospHt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/DEF/DospH/DospH_M.mp3"
-          },
-          {
             "name": "Deck the Halls",
             "from": "nigel-gatherer",
             "genre": "",
@@ -926,86 +1229,7 @@
             "tab": "${baseUrl}/tunes/A/ArrnB/ArrnBt.pdf",
             "audio": ""
           },
-          {
-            "name": "Rothbury Hills",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Air",
-            "composer": "Jack Armstrong",
-            "score": "${baseUrl}/tunes/zWorld/PQR/RothH/RothH.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/PQR/RothH/RothHt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Old Molly Oxford",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Fieldtown",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxf.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxft.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxf-BCamp_M.mp3"
-          },
-          {
-            "name": "Brighton Camp",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Bampton",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxf.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxft.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/MNO/OMOxf/OMOxf-BCamp_M.mp3"
-          },
-          {
-            "name": "Matilda",
-            "from": "nigel-gatherer",
-            "genre": "Trinidad & Tobago",
-            "type": "Calypso",
-            "composer": "Span",
-            "score": "${baseUrl}/tunes/zWorld/MNO/Matil/Matil.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/MNO/Matil/Matilt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/MNO/Matil/Matil_M.mp3"
-          },
-          {
-            "name": "Go Mango Walk",
-            "from": "nigel-gatherer",
-            "genre": "Trinidad & Tobago",
-            "type": "Calypso",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/MNO/MangW/MangW.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/MNO/MangW/MangWt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/MNO/MangW/MangW_M.mp3"
-          },
-          {
-            "name": "Holme's Fancy",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Rant",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmFt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF-set_M.mp3"
-          },
-          {
-            "name": "Stagshaw Bank Fair",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Rant",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmFt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF-set_M.mp3"
-          },
-          {
-            "name": "Lasses Pass the Brandy",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Rant",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmFt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/GHI/HolmF/HolmF-set_M.mp3"
-          },
+
           {
             "name": "Gentle Annie",
             "from": "nigel-gatherer",
@@ -1147,57 +1371,6 @@
             "audio": "${baseUrl}/tunes/M/MangV/MangV_M.mp3"
           },
           {
-            "name": "Salton De Candamu",
-            "from": "nigel-gatherer",
-            "genre": "Asturias",
-            "type": "",
-            "composer": "Ekuas Garcia",
-            "score": "${baseUrl}/tunes/zWorld/MNOSTU/SaltC/SaltC.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/STU/SaltC/SaltCt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/STU/SaltC/SaltC_M.mp3"
-          },
-          {
-            "name": "N'Alcordanza",
-            "from": "nigel-gatherer",
-            "genre": "Asturias",
-            "type": "",
-            "composer": "Javier Tejedor",
-            "score": "${baseUrl}/tunes/zWorld/MNO/NAlco/NAlco.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/MNO/NAlco/NAlcot.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/MNO/NAlco/NAlco_M.mp3"
-          },
-          {
-            "name": "Kalinka ('Snowberry')",
-            "from": "nigel-gatherer",
-            "genre": "Russian",
-            "type": "",
-            "composer": "Ivan Larionov",
-            "score": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalint.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin_M.mp3"
-          },
-          {
-            "name": "Katiusha ('Kathy')",
-            "from": "nigel-gatherer",
-            "genre": "Russian",
-            "type": "",
-            "composer": "Matvey Blanter",
-            "score": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalint.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin_M.mp3"
-          },
-          {
-            "name": "Obsaja Kadril",
-            "from": "nigel-gatherer",
-            "genre": "Russian",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalint.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/JKL/Kalin/Kalin_M.mp3"
-          },
-
-          {
             "name": "All of Me",
             "from": "nigel-gatherer",
             "genre": "jazz",
@@ -1235,16 +1408,6 @@
             "composer": "",
             "score": "${baseUrl}/tunes/CCM/STU/StMry/StMry.pdf",
             "tab": "${baseUrl}/tunes/CCM/STU/StMry/StMryt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Sarah",
-            "from": "nigel-gatherer",
-            "genre": "",
-            "type": "",
-            "composer": "Max Houliston",
-            "score": "${baseUrl}/tunes/CCM/STU/Sarah/Sarah.pdf",
-            "tab": "${baseUrl}/tunes/CCM/STU/Sarah/Saraht.pdf",
             "audio": ""
           },
           {
@@ -1327,26 +1490,7 @@
             "tab": "${baseUrl}/tunes/B/BonAn/BonAnt.pdf",
             "audio": "${baseUrl}/tunes/B/BonAn/BonAn_MW.mp3"
           },
-          {
-            "name": "Scottish a Virmous",
-            "from": "nigel-gatherer",
-            "genre": "French",
-            "type": "Scottish",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrm.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrmt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrm-PDeDe_M.mp3"
-          },
-          {
-            "name": "Polka du DeDe",
-            "from": "nigel-gatherer",
-            "genre": "French",
-            "type": "Polka",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrm.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrmt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/STU/ScVrm/ScVrm-PDeDe_M.mp3"
-          },
+
           {
             "name": "Gracelands",
             "from": "nigel-gatherer",
@@ -1378,66 +1522,6 @@
             "audio": "${baseUrl}/tunes/M/MrMrs/MrMrs_W.mp3"
           },
           {
-            "name": "Balsa Rastreira",
-            "from": "nigel-gatherer",
-            "genre": "Portugal",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsR.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsRt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Valsa a Dois Passos",
-            "from": "nigel-gatherer",
-            "genre": "Portugal",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsR.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsRt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Contra Danca",
-            "from": "nigel-gatherer",
-            "genre": "Portugal",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsR.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/ABC/BalsR/BalsRt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Emma's Waltz",
-            "from": "nigel-gatherer",
-            "genre": "Finnish",
-            "type": "Waltz",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSav.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSavt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSav-EmmaW_M.mp3"
-          },
-          {
-            "name": "Vals fran Savola",
-            "from": "nigel-gatherer",
-            "genre": "Finnish",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSav.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSavt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/VWXYZ/VfSav/VfSav-EmmaW_M.mp3"
-          },
-          {
-            "name": "Kantelemarssi",
-            "from": "nigel-gatherer",
-            "genre": "Finnish",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/JKL/KantM/KantM.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/KantM/KantMt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/JKL/KantM/KantM_M.mp3"
-          },
-          {
             "name": "The Gay Gordons",
             "from": "nigel-gatherer",
             "genre": "Scottish",
@@ -1467,46 +1551,7 @@
             "tab": "${baseUrl}/tunes/A/Athol/Athol2t.pdf",
             "audio": ""
           },
-          {
-            "name": "Return to Sorrento (Torna a Surriento)",
-            "from": "nigel-gatherer",
-            "genre": "Italy",
-            "type": "",
-            "composer": "Ernest De Curtis",
-            "score": "${baseUrl}/tunes/zWorld/PQR/RSorr/RSorr.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/PQR/RSorr/RSorrt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Dahlhoff Tanz I/107a",
-            "from": "nigel-gatherer",
-            "genre": "German",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanz.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanzt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Dahlhoff Tanz I/109b",
-            "from": "nigel-gatherer",
-            "genre": "German",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanz.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanzt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "The Bear Dance",
-            "from": "nigel-gatherer",
-            "genre": "Belgian",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/ABC/BearD/BearD.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/ABC/BearD/BearDt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/ABC/BearD/BearD_M.mp3"
-          },
+
           {
             "name": "Black Mountain Air",
             "from": "nigel-gatherer",
@@ -1658,16 +1703,6 @@
             "score": "${baseUrl}/tunes/C/CrawD/CrawD.pdf",
             "tab": "${baseUrl}/tunes/C/CrawD/CrawDt.pdf",
             "audio": "${baseUrl}/tunes/C/CrawD/CrawD-WatOt_M.mp3"
-          },
-          {
-            "name": "Josefins Dopvals",
-            "from": "nigel-gatherer",
-            "genre": "Swedish",
-            "type": "",
-            "composer": "Roger Tallroth",
-            "score": "${baseUrl}/tunes/zWorld/JKL/JosfW/JosfW.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/JosfW/JosfWt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/JKL/JosfW/JosfW_M.mp3"
           },
 
           {
@@ -1988,16 +2023,6 @@
             "audio": "${baseUrl}/tunes/zComposers/PQR/Recol/Recol.mp3"
           },
           {
-            "name": "Portugese Waltz #1",
-            "from": "nigel-gatherer",
-            "genre": "Canada",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/PQR/PorW1/PorW1.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/PQR/PorW1/PorW1t.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/PQR/PorW1/PorW1_M.mp3"
-          },
-          {
             "name": "Rocky Road Blues",
             "from": "nigel-gatherer",
             "genre": "Blues",
@@ -2246,217 +2271,7 @@
             "video": ""
           },
 
-          {
-            "name": "Shalom Aleichem",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "Israel Goldfarb",
-            "score": "${baseUrl}/tunes/zWorld/STU/Shalm/Shalm.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/STU/Shalm/Shalmt.pdf",
-            "audio": "https://soundcloud.com/nigel-gatherer/07-shalom-aleichem-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
-          {
-            "name": "Zemer Atik",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=8",
-            "audio": "https://soundcloud.com/nigel-gatherer/06-zemer-atik-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
-          {
-            "name": "Ose Shalom",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/MNO/OseSh/OseSh.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/MNO/OseSh/OseSht.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/MNO/OseSh/OseSh_M.mp3",
-            "video": ""
-          },
-          {
-            "name": "Orientalische Melody",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=7",
-            "audio": "https://soundcloud.com/nigel-gatherer/08-orientalische-melody-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
-          {
-            "name": "Hava Nagila",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=6",
-            "audio": "https://soundcloud.com/nigel-gatherer/09-hava-nagila-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
-          {
-            "name": "Freylekh Zain",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/DEF/FreyZ/FreyZ.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/DEF/FreyZ/FreyZt.pdf",
-            "audio": "https://soundcloud.com/nigel-gatherer/04-freylekh-zain-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
-          {
-            "name": "Bei Mir Bistu Shein",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=5",
-            "audio": "https://soundcloud.com/nigel-gatherer/03-bei-mir-bistu-shein-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
-          {
-            "name": "Siman Tov",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/MNO/OdYsh/OdYsh.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/MNO/OdYsh/OdYsht.pdf",
-            "audio": "https://soundcloud.com/nigel-gatherer/10-siman-tov-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
-          {
-            "name": "Mazel Tov",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=4",
-            "audio": "https://soundcloud.com/nigel-gatherer/02-mazel-tov-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
-          {
-            "name": "Dance From Maramaros",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=3",
-            "audio": "https://soundcloud.com/nigel-gatherer/13-dance-from-maramaros-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
-          {
-            "name": "Sachaki",
-            "from": "nigel-gatherer",
-            "genre": "Eastern European",
-            "type": "Klezmer",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/STU/ShaSh/ShaSh.pdf",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm09/MB16-Klezmer-Pr.pdf#page=3",
-            "audio": "https://soundcloud.com/nigel-gatherer/01-sachaki-1?in=nigel-gatherer/sets/mm09-klezmer-melodies",
-            "video": ""
-          },
 
-          {
-            "name": "Zorba's Dance",
-            "from": "nigel-gatherer",
-            "genre": "Greek",
-            "type": "",
-            "composer": "Mikis Theodorakis",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=14",
-            "audio": "https://soundcloud.com/nigel-gatherer/12-zorbas-dance?in=nigel-gatherer/sets/mm08-greek-music",
-            "video": ""
-          },
-          {
-            "name": "Karagouna",
-            "from": "nigel-gatherer",
-            "genre": "Greek",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/JKL/Karag/Karag.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/Karag/Karagt.pdf",
-            "audio": "https://soundcloud.com/nigel-gatherer/08-karagouna?in=nigel-gatherer/sets/mm08-greek-music",
-            "video": ""
-          },
-          {
-            "name": "Myrties tou Maiou",
-            "from": "nigel-gatherer",
-            "genre": "Greek",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/JKL/Karag/Karag.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/Karag/Karagt.pdf",
-            "audio": "",
-            "video": ""
-          },
-          {
-            "name": "I Petra",
-            "from": "nigel-gatherer",
-            "genre": "Greek",
-            "type": "",
-            "composer": "Manos Hadjidakis",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=9",
-            "audio": "https://soundcloud.com/nigel-gatherer/07-i-petra?in=nigel-gatherer/sets/mm08-greek-music",
-            "video": ""
-          },
-          {
-            "name": "Minore Tis Avgis",
-            "from": "nigel-gatherer",
-            "genre": "Greek",
-            "type": "",
-            "composer": "Spyros Peristeris",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=8",
-            "audio": "https://soundcloud.com/nigel-gatherer/06-minore-tis-avgis?in=nigel-gatherer/sets/mm08-greek-music",
-            "video": ""
-          },
-          {
-            "name": "Tsamikos",
-            "from": "nigel-gatherer",
-            "genre": "Greek",
-            "type": "",
-            "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=7",
-            "audio": "https://soundcloud.com/nigel-gatherer/05-tsamikos?in=nigel-gatherer/sets/mm08-greek-music",
-            "video": ""
-          },
-
-          {
-            "name": "Kritikos Syrtos",
-            "from": "nigel-gatherer",
-            "genre": "Greek",
-            "type": "",
-            "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm08/MB13-Greek-Dig.pdf#page=5",
-            "audio": "https://soundcloud.com/nigel-gatherer/03-kritikos-syrtos?in=nigel-gatherer/sets/mm08-greek-music",
-            "video": ""
-          },
-          {
-            "name": "A New Fangled Tango",
-            "from": "nigel-gatherer",
-            "genre": "",
-            "type": "Tango",
-            "composer": "Matt Dubay / Harold Karr",
-            "score": "${baseUrl}/tunes/CCMtunes/zWorld/MNO/NewFT/NewFT.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/MNO/NewFT/NewFTt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/MNO/NewFT/NewFT_M.mp3",
-            "video": ""
-          },
           {
             "name": "The 51st Highland Division",
             "from": "nigel-gatherer",
@@ -4205,86 +4020,7 @@
             "tab": "${baseUrl}/tunes/O/OTWRs/OTWRst.pdf",
             "audio": "${baseUrl}/tunes/O/OTWRs/OTWRs_M.mp3"
           },
-          {
-            "name": "I'll Go and Enlist",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Morris Dancy",
-            "composer": "Sherbourne",
-            "score": "${baseUrl}/tunes/zWorld/GHI/IllGo/IllGo.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/GHI/IllGo/IllGot.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/GHI/IllGo/IllGo_M.mp3"
-          },
-          {
-            "name": "Princess Royal (7 Springs)",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Morris Dance",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FTt.pdf",
-            "audio": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT_M.mp3"
-          },
-          {
-            "name": "The Nutting Girl (Fieldtown)",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Morris Dance",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FTt.pdf",
-            "audio": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT_M.mp3"
-          },
-          {
-            "name": "Reynardine",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Air",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/PQR/Reynr/Reynr.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/PQR/Reynr/Reynrt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/PQR/Reynr/Reynr_M.mp3"
-          },
-          {
-            "name": "Winster Galop",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Morris Dance",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/VWXYZ/WinsG/WinsG.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WinsG/WinsGt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/VWXYZ/WinsG/WinsG_M.mp3"
-          },
-          {
-            "name": "Jimmy Allan",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "2/4 Reel",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAlt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl-HerdH_M.mp3"
-          },
-          {
-            "name": "The Herd on the Hill",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "2/4 Reel",
-            "composer": "Tom Clough",
-            "score": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAlt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl-HerdH_M.mp3"
-          },
-          {
-            "name": "Jump At the Sun",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Jig",
-            "composer": "John Kirkpatrick",
-            "score": "${baseUrl}/tunes/zWorld/JKL/JAtSn/JAtSn.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/JAtSn/JAtSnt.pdf",
-            "audio": ""
-          },
+
           {
             "name": "The Railway Porter",
             "from": "nigel-gatherer",
@@ -4395,57 +4131,7 @@
             "tab": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostIt.pdf",
             "audio": "${baseUrl}/tunes/zAmerican/JKL/LostI/SnapB_M.mp3"
           },
-          {
-            "name": "The Ash Grove",
-            "from": "nigel-gatherer",
-            "genre": "Welsh",
-            "type": "Air",
-            "composer": "Llwyn Onn",
-            "score": "${baseUrl}/tunes/zWorld/ABC/AshGr/AshGr.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/ABC/AshGr/AshGrt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/ABC/AshGr/AshGr_M.mp3"
-          },
-          {
-            "name": "The Waltz of Happiness",
-            "from": "nigel-gatherer",
-            "genre": "Canadian",
-            "type": "Waltz",
-            "composer": "Cliff Hamilton",
-            "score": "${baseUrl}/tunes/zWorld/VWXYZ/WHapp/WHapp.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WHapp/WHappt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Stou Delivoria",
-            "from": "nigel-gatherer",
-            "genre": "Greek",
-            "type": "",
-            "composer": "Stavros Xarhakos",
-            "score": "",
-            "tab": "${baseUrl}/tunes/zWorld/STU/StouD/StouDt.pdf",
-            "audio": "https://soundcloud.com/nigel-gatherer/11-stou-delivoria?in=nigel-gatherer/sets/mm08-greek-music"
-          },
-          {
-            "name": "Tiritomba",
-            "from": "nigel-gatherer",
-            "genre": "Italian",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/STU/Tirit/Tirit.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/STU/Tirit/Tiritt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/STU/Tirit/Tirit_M.mp3"
-          },
 
-          {
-            "name": "Skovsöen: Serras No. 9",
-            "from": "nigel-gatherer",
-            "genre": "Swedish",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zWorld/STU/Skovs/Skovs.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/STU/Skovs/Skovst.pdf",
-            "audio": ""
-          },
           {
             "name": "How Much is that Doggie in the Window?",
             "from": "nigel-gatherer",
@@ -4924,17 +4610,6 @@
   },
 
 
-
-  {
-    "name": "The Long Road (Dorogoj Dlinnoyu)",
-    "from": "nigel-gatherer",
-    "genre": "Russia",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/JKL/LongR/LongR.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/JKL/LongR/LongRt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/JKL/LongR/LongR_M.mp3"
-  },
   {
     "name": "Mount Stewart House",
     "from": "nigel-gatherer",
@@ -5056,36 +4731,7 @@
     "tab": "${baseUrl}/tunes/zMisc/DEF/Dachs/Dachst.pdf",
     "audio": "${baseUrl}/tunes/zMisc/DEF/Dachs/Dachs.mp3"
   },
-  {
-    "name": "Parthenia",
-    "from": "nigel-gatherer",
-    "genre": "England",
-    "type": "Air",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/PQR/Parth/Parth.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/PQR/Parth/Partht.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/PQR/Parth/Parth_M.mp3"
-  },
-  {
-    "name": "Bellingham Boat",
-    "from": "nigel-gatherer",
-    "genre": "Northumberland",
-    "type": "Jig",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltL.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltLt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltL-BellB_M.mp3"
-  },
-  {
-    "name": "Felton Lonnen",
-    "from": "nigel-gatherer",
-    "genre": "Northumberland",
-    "type": "Air",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltL.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltLt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/DEF/FeltL/FeltL-BellB_M.mp3"
-  },
+
   {
     "name": "The Sun Whose Rays",
     "from": "nigel-gatherer",
@@ -6059,26 +5705,6 @@
     "score": "",
     "tab": "${baseUrl}/tab/tab6/aros1.html",
     "audio": ""
-  },
-  {
-    "name": "A Rosa Vermellha",
-    "from": "nigel-gatherer",
-    "genre": "Brazilian",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosV.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosVt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosV-MorBr_M.mp3"
-  },
-  {
-    "name": "Morenita do Brazil",
-    "from": "nigel-gatherer",
-    "genre": "Brazilian",
-    "type": "",
-    "composer": "Giuseooe Farrauto",
-    "score": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosV.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosVt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/ABC/ARosV/ARosV-MorBr_M.mp3"
   },
 
   {
@@ -7793,46 +7419,6 @@
   },
 
   {
-    "name": "Waltz for Polle",
-    "from": "nigel-gatherer",
-    "genre": "World",
-    "type": "Polka",
-    "composer": "Wals voor Polle",
-    "score": "${baseUrl}/tunes/zWorld/VWXYZ/WPoll/WPoll.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WPoll/WPoll.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/VWXYZ/WPoll/WPoll_M.mp3"
-  },
-  {
-    "name": "O Cravo e a Rosa",
-    "from": "nigel-gatherer",
-    "genre": "Brazil",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/ABC/Cravo/Cravo.pdf",
-    "tab": "",
-    "audio": ""
-  },
-  {
-    "name": "Samba Ole",
-    "from": "nigel-gatherer",
-    "genre": "Brazil",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/SambO/SambO.pdf",
-    "tab": "",
-    "audio": ""
-  },
-  {
-    "name": "Waltz of Happiness",
-    "from": "nigel-gatherer",
-    "genre": "Canada",
-    "type": "Waltz",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/VWXYZ/WHapp/WHapp.pdf",
-    "tab": "",
-    "audio": ""
-  },
-  {
     "name": "Memories of Father Angus MacDonnell",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -7864,615 +7450,7 @@
     "tab": "${baseUrl}/tunes/U/UnStS/UnStSt.pdf",
     "audio": "${baseUrl}/tunes/U/UnStS/UnStSw.pdf"
   },
-  {
-    "name": "Garoon <i>(Armenia)</i>",
-    "from": "nigel-gatherer",
-    "genre": "Eastern European",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/GHI/Garon/Garon.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/GHI/Garon/Garont.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/GHI/Garon/Garon_M.mp3"
-  },
-  {
-    "name": "Banbury Bill",
-    "from": "nigel-gatherer",
-    "genre": "English",
-    "type": "Morris Dance",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/ABC/BBill/BBill.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/BBill/BBillt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/ABC/BBill/BBill-HMary_M.mp3"
-  },
-  {
-    "name": "Highland Mary",
-    "from": "nigel-gatherer",
-    "genre": "English",
-    "type": "Morris Dance",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/ABC/BBill/BBill.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/BBill/BBillt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/ABC/BBill/BBill-HMary_M.mp3"
-  },
-  {
-    "name": "Maiden Lane",
-    "from": "nigel-gatherer",
-    "genre": "English",
-    "type": "",
-    "composer": "Playford",
-    "score": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepSt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS-MaidL_M.mp3"
-  },
-  {
-    "name": "Shepherd and the Shepherdess",
-    "from": "nigel-gatherer",
-    "genre": "English",
-    "type": "",
-    "composer": "Johnson",
-    "score": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepSt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS-MaidL_M.mp3"
-  },
-  {
-    "name": "Sweet Thames Flow Softly",
-    "from": "nigel-gatherer",
-    "genre": "England",
-    "type": "Air",
-    "composer": "Ewan MacColl",
-    "score": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTh.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTht.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTh_M.mp3"
-  },
-  {
-    "name": "Uncle's Jig",
-    "from": "nigel-gatherer",
-    "genre": "England",
-    "type": "West Country",
-    "composer": "Jig",
-    "score": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodF.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodFt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodF-UnclJ_M.mp3"
-  },
-  {
-    "name": "Woodland Flowers",
-    "from": "nigel-gatherer",
-    "genre": "England",
-    "type": "West Country",
-    "composer": "Jig",
-    "score": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodF.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodFt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/VWXYZ/WoodF/WoodF-UnclJ_M.mp3"
-  },
-  {
-    "name": "Bouree de Brand",
-    "from": "nigel-gatherer",
-    "genre": "World",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/ABC/Bours/Bours.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/Bours/Bourst.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Coccinelle",
-    "from": "nigel-gatherer",
-    "genre": "France",
-    "type": "Bourrée",
-    "composer": "Jean Blanchard",
-    "score": "${baseUrl}/tunes/zWorld/ABC/Cocci/Cocci.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/Cocci/Coccit.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Les Poules Huppées",
-    "from": "nigel-gatherer",
-    "genre": "France",
-    "type": "Bourrée",
-    "composer": "Gilles Chabenat",
-    "score": "${baseUrl}/tunes/zWorld/ABC/Cocci/Cocci.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/Cocci/Coccit.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Fil et Bobine",
-    "from": "nigel-gatherer",
-    "genre": "French",
-    "type": "",
-    "composer": "Jean Blanchard",
-    "score": "${baseUrl}/tunes/zWorld/PQR/Plknt/Plknt.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/PQR/Plknt/Plkntt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/PQR/Plknt/FileB_M.mp3"
-  },
-  {
-    "name": "Hymn L'Amour",
-    "from": "nigel-gatherer",
-    "genre": "French",
-    "type": "Air",
-    "composer": "Monnot/Piaf",
-    "score": "${baseUrl}/tunes/zWorld/GHI/HymnL/HymnL.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/GHI/HymnL/HymnLt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Polkinette",
-    "from": "nigel-gatherer",
-    "genre": "French",
-    "type": "",
-    "composer": "Jean Blanchard",
-    "score": "${baseUrl}/tunes/zWorld/PQR/Plknt/Plknt.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/PQR/Plknt/Plkntt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/PQR/Plknt/Plknt_M.mp3"
-  },
-  {
-    "name": "Vie En Rose, La",
-    "from": "nigel-gatherer",
-    "genre": "French",
-    "type": "Air",
-    "composer": "Louiguy/Piaf",
-    "score": "${baseUrl}/tunes/zWorld/VWXYZ/VRose/VRose.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/VWXYZ/VRose/VRoset.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Aprili Mou",
-    "from": "nigel-gatherer",
-    "genre": "Greek",
-    "type": "",
-    "composer": "Mikis Theodorakis",
-    "score": "",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/ApriM/ApriMt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Doxa To Theo",
-    "from": "nigel-gatherer",
-    "genre": "Greek",
-    "type": "",
-    "composer": "Mikis Theodorakis",
-    "score": "",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/DoxaT/DoxaTt.pdf",
-    "audio": "https://soundcloud.com/nigel-gatherer/01-doxa-to-theo?in=nigel-gatherer/sets/mm08-greek-music"
-  },
-  {
-    "name": "I Mirei",
-    "from": "nigel-gatherer",
-    "genre": "Greek",
-    "type": "",
-    "composer": "Mikis Theodorakis",
-    "score": "",
-    "tab": "${baseUrl}/tunes/zWorld/GHI/IMiri/IMirit.pdf",
-    "audio": "https://soundcloud.com/nigel-gatherer/10-i-mirei?in=nigel-gatherer/sets/mm08-greek-music"
-  },
-  {
-    "name": "Never On Sunday",
-    "from": "nigel-gatherer",
-    "genre": "Greek",
-    "type": "",
-    "composer": "Manos Hadjidakis",
-    "score": "${baseUrl}/tunes/zWorld/MNO/Never/Never.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/Never/Nevert.pdf",
-    "audio": "https://soundcloud.com/nigel-gatherer/04-never-on-sunday?in=nigel-gatherer/sets/mm08-greek-music"
-  },
-  {
-    "name": "Perigiali",
-    "from": "nigel-gatherer",
-    "genre": "Greek",
-    "type": "",
-    "composer": "Mikis Theodorakis",
-    "score": "",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/DoxaT/DoxaTt.pdf",
-    "audio": "https://soundcloud.com/nigel-gatherer/09-perigiali?in=nigel-gatherer/sets/mm08-greek-music"
-  },
-  {
-    "name": "Romio Agapise Romia",
-    "from": "nigel-gatherer",
-    "genre": "Greek",
-    "type": "",
-    "composer": "Giorgos Zampetas",
-    "score": "",
-    "tab": "${baseUrl}/tunes/zWorld/PQR/Romio/Romiot.pdf",
-    "audio": "https://soundcloud.com/nigel-gatherer/02-romio-agapise-romia?in=nigel-gatherer/sets/mm08-greek-music"
-  },
-  {
-    "name": "White Rose of Athens",
-    "from": "nigel-gatherer",
-    "genre": "Greek",
-    "type": "",
-    "composer": "Manos Hadjidakis",
-    "score": "${baseUrl}/tunes/zWorld/VWXYZ/WRose/WRose.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WRose/WRoset.pdf",
-    "audio": ""
-  },
-  {
-    "name": "The Flitter Dance",
-    "from": "nigel-gatherer",
-    "genre": "Isle of Man",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/DEF/FlitD/FlitD.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/FlitD/FlitDt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/DEF/FlitD/FlitD-POTav_M.mp3"
-  },
-  {
-    "name": "Mona's Delight",
-    "from": "nigel-gatherer",
-    "genre": "Isle of Man",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/MonaD/MonaD.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/MonaD/MonaDt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/MonaD/MonaD-StepD_M.mp3"
-  },
-  {
-    "name": "Peter O'Tavy",
-    "from": "nigel-gatherer",
-    "genre": "Isle of Man",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/DEF/FlitD/FlitD.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/FlitD/FlitDt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/DEF/FlitD/FlitD-POTav_M.mp3"
-  },
-  {
-    "name": "Step Dance",
-    "from": "nigel-gatherer",
-    "genre": "Isle of Man",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/MonaD/MonaD.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/MonaD/MonaDt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/MonaD/MonaD-StepD_M.mp3"
-  },
-  {
-    "name": "Bo e la r-bo",
-    "from": "nigel-gatherer",
-    "genre": "Sicilian",
-    "type": "Lullaby",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/ABC/Boela/Boela.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/Boela/Boelat.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/ABC/Boela/Boela_M.mp3"
-  },
-  {
-    "name": "Farfalla, La",
-    "from": "nigel-gatherer",
-    "genre": "Italian",
-    "type": "Mazurka",
-    "composer": "(A L Daniele",
-    "score": "${baseUrl}/tunes/zWorld/DEF/Farfa/Farfa.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/Farfa/Farfat.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/DEF/Farfa/Farfa_M.mp3"
-  },
-  {
-    "name": "Mezza Notte",
-    "from": "nigel-gatherer",
-    "genre": "Italian",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/Mezza/Mezza.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/Mezza/Mezzat.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/Mezza/Mezza_M.mp3"
-  },
-  {
-    "name": "Napoli China e Femmine",
-    "from": "nigel-gatherer",
-    "genre": "Italian",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/NapCF/NapCF.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/NapCF/NapCFt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Santa Lucia",
-    "from": "nigel-gatherer",
-    "genre": "Italian",
-    "type": "Neapolitan",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/SantL/SantL.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/SantL/SantLt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/SantL/SantL_M.mp3"
-  },
-  {
-    "name": "O Sole Mio",
-    "from": "nigel-gatherer",
-    "genre": "Italian",
-    "type": "Air",
-    "composer": "Eduardo di Capua",
-    "score": "${baseUrl}/tunes/zWorld/STU/SantL/SantL.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/SantL/SantLt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/SantL/SantL_M.mp3"
-  },
-  {
-    "name": "Tarantella",
-    "from": "nigel-gatherer",
-    "genre": "Italian",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/Taran/Taran.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/Taran/Tarant.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Furusato",
-    "from": "nigel-gatherer",
-    "genre": "Japan",
-    "type": "",
-    "composer": "Okano/Takano",
-    "score": "${baseUrl}/tunes/zWorld/DEF/Furus/Furus.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/Furus/Furust.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/DEF/Furus/Furus_M.mp3"
-  },
-  {
-    "name": "All My Love",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "Jolson/Waldteufel",
-    "score": "${baseUrl}/tunes/zWorld/ABC/AlMyL/AlMyL.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/AlMyL/AlMyLt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Dona Dona",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "",
-    "composer": "Aaron Zeitlin",
-    "score": "${baseUrl}/tunes/zWorld/DEF/DonaD/DonaD.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/DEF/DonaD/DonaDt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/DEF/DonaD/DonaD_M.mp3"
-  },
-  {
-    "name": "Im Eshkachech",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTv.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTvt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Mazl Tov",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTv.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/MzlTv/MzlTvt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Nakht in Gan Eydn, A",
-    "from": "nigel-gatherer",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/Nakht/Nakht.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/Nakht/Nakhtt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Od Yishama",
-    "from": "nigel-gatherer",
-    "genre": "Hebrew wedding tune",
-    "type": "",
-    "composer": "Rabbi Shlomo Carlebach",
-    "score": "${baseUrl}/tunes/zWorld/MNO/OdYsh/OdYsh.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/OdYsh/OdYsht.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Sha Shtil",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/ShaSh/ShaSh.pdf",
-    "tab": "",
-    "audio": ""
-  },
-  {
-    "name": "Golondrina, La",
-    "from": "nigel-gatherer",
-    "genre": "Mexican",
-    "type": "",
-    "composer": "Narciso Serradell",
-    "score": "${baseUrl}/tunes/zWorld/GHI/Golon/Golon.pdf",
-    "tab": "",
-    "audio": ""
-  },
-  {
-    "name": "Pokarekare Ana",
-    "from": "nigel-gatherer",
-    "genre": "New Zealand",
-    "type": "Maori",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAn.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAnt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAn_M.mp3"
-  },
-  {
-    "name": "The Lounge Bar",
-    "from": "nigel-gatherer",
-    "genre": "Norweigan",
-    "type": "Jig",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/JKL/LngeB/LngeB.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/JKL/LngeB/LngeBt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/JKL/LngeB/LngeB_M.mp3"
-  },
-  {
-    "name": "Norsk Reinlander",
-    "from": "nigel-gatherer",
-    "genre": "Norweigan",
-    "type": "Schottish",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/StepL/StepL.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/StepL/StepLt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/StepL/StepL-NRein_M.mp3"
-  },
-  {
-    "name": "Step Ladder Waltz",
-    "from": "nigel-gatherer",
-    "genre": "Norweigan",
-    "type": "Schottish",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/StepL/StepL.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/StepL/StepLt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/StepL/StepL-NRein_M.mp3"
-  },
-  {
-    "name": "The Gandzia Polka",
-    "from": "nigel-gatherer",
-    "genre": "Ukrainian",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/GHI/Gandz/Gandz.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/GHI/Gandz/Gandzt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/GHI/Gandz/Gandz_M.mp3"
-  },
-  {
-    "name": "Kamarinskaya 1",
-    "from": "nigel-gatherer",
-    "genre": "Russian",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/JKL/Kamar/Kamar.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/JKL/Kamar/Kamart.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Gardebylaten",
-    "from": "nigel-gatherer",
-    "genre": "Swedish",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/GHI/Gardy/Gardy.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/GHI/Gardy/Gardyt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/GHI/Gardy/Gardy-Trlln_M.mp3"
-  },
-  {
-    "name": "Trallern",
-    "from": "nigel-gatherer",
-    "genre": "Swedish",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/GHI/Gardy/Gardy.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/GHI/Gardy/Gardyt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/GHI/Gardy/Gardy-Trlln_M.mp3"
-  },
-  {
-    "name": "Niels Jorgensen's Polka",
-    "from": "nigel-gatherer",
-    "genre": "Swedish",
-    "type": "Polka",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/Niels/Niels.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/Niels/Nielst.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Polska Efter Spel Gulles",
-    "from": "nigel-gatherer",
-    "genre": "Swedish",
-    "type": "Polka",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/PQR/PESpG/PESpG.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/PQR/PESpG/PESpGt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Sjomansvisan fran Skattungbyn",
-    "from": "nigel-gatherer",
-    "genre": "Swedish",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/Sjomn/Sjomn.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/Sjomn/Sjomnt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/Sjomn/Sjomn_M.mp3"
-  },
-  {
-    "name": "Skovsoen: Serras No.9",
-    "from": "nigel-gatherer",
-    "genre": "Swedish",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/Skovs/Skovs.pdf",
-    "tab": "",
-    "audio": ""
-  },
-  {
-    "name": "A New Fashioned Tango",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "Tango",
-    "composer": "Dubay/Karr",
-    "score": "${baseUrl}/tunes/zWorld/MNO/NewFT/NewFT.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/NewFT/NewFTt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Isle of Capri",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "Tango",
-    "composer": "Will Grosz",
-    "score": "${baseUrl}/tunes/zWorld/GHI/IsleC/IsleC.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/GHI/IsleC/IsleCt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "My Jealous Eyes",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "Tango",
-    "composer": "Mack David/Martita",
-    "score": "${baseUrl}/tunes/zWorld/MNO/MyJEy/MyJEy.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/MyJEy/MyJEyt.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Dawns Y Pystyll",
-    "from": "nigel-gatherer",
-    "genre": "Welsh",
-    "type": "Air",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/MMegn/MMegn.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/MMegn/MMegnt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/MMegn/MMegn-Dawns_M.mp3"
-  },
-  {
-    "name": "Merch Megan",
-    "from": "nigel-gatherer",
-    "genre": "Welsh",
-    "type": "Air",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/MNO/MMegn/MMegn.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/MMegn/MMegnt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/MMegn/MMegn-Dawns_M.mp3"
-  },
-  {
-    "name": "Rhuddlan Marsh",
-    "from": "nigel-gatherer",
-    "genre": "Welsh",
-    "type": "Air",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/PQR/RhudM/RhudM.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/PQR/RhudM/RhudMt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/PQR/RhudM/RhudM_M.mp3"
-  },
-  {
-    "name": "Suo Gan",
-    "from": "nigel-gatherer",
-    "genre": "Welsh",
-    "type": "Lullaby",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/STU/SuoGn/SuoGn.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/SuoGn/SuoGnt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/SuoGn/SuoGn_W.mp3"
-  },
+
 
   {
     "name": "Da Auld Resting Chair",
@@ -10446,16 +9424,6 @@
     "audio": ""
   },
   {
-    "name": "Orkney",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "Gordon Gunn",
-    "score": "${baseUrl}/tunes/zWorld/MNO/Orkny/Orkny.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/Orkny/Orknyt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/Orkny/Orkny_M.mp3"
-  },
-  {
     "name": "The Peat Fire Flame",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -12184,15 +11152,6 @@
     },
 
     {
-      "name": "Calon Lan",
-      "from": "nigel-gatherer",
-      "genre": "World music",
-      "type": "",
-      "score": "${baseUrl}/tunes/zWorld/ABC/Calon/Calon.pdf",
-      "tab": "${baseUrl}/tunes/zWorld/ABC/Calon/Calont.pdf",
-      "audio": "${baseUrl}/tunes/zWorld/ABC/Calon/Calon_M.mp3"
-    },
-    {
       "name": "Carolan's Concerto",
       "from": "nigel-gatherer",
       "genre": "Irish",
@@ -12717,16 +11676,6 @@
       "audio": ""
     },
     {
-      "name": "Spootiskerry",
-      "from": "nigel-gatherer",
-      "genre": "Shetland",
-      "type": "Reel",
-      "composer": "Ian Burns",
-      "score": "${baseUrl}/tunes/S/Spoot/Spoot.pdf",
-      "tab": "${baseUrl}/tunes/S/Spoot/Spoott.pdf",
-      "audio": "${baseUrl}/tunes/S/Spoot/Spoot-Willa_M.mp3"
-    },
-    {
       "name": "Tennessee Blues",
       "key": "A",
       "from": "nigel-gatherer",
@@ -12821,16 +11770,6 @@
       "score": "${baseUrl}/tunes/zAmerican/VWXYZ/WHoss/WHoss.pdf",
       "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WHoss/WHosst.pdf",
       "audio": "${baseUrl}/tunes/zAmerican/VWXYZ/WHoss/WHoss_M.mp3"
-    },
-    {
-      "name": "Willafjord",
-      "from": "nigel-gatherer",
-      "genre": "Shetland",
-      "type": "Reel",
-      "composer": "",
-      "score": "${baseUrl}/tunes/S/Spoot/Spoot.pdf",
-      "tab": "${baseUrl}/tunes/S/Spoot/Spoott.pdf",
-      "audio": "${baseUrl}/tunes/S/Spoot/Spoot-Willa_M.mp3"
     },
     {
       "name": "Ye Banks and Braes",
