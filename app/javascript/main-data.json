@@ -1,119 +1,219 @@
 `
 [
 
-          {
-            "name": "The Great Scottish Composers",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Various",
-            "composer": "Various",
-            "score": "${baseUrl}/gsc/GSC1.pdf",
-            "tab": "${baseUrl}/gsc/GSC1t.pdf",
-            "audio": ""
-          },
-          {
-            "name": "MacKenzie Hay",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Strathspey",
-            "composer": "James Scott Skinner",
-            "score": "${baseUrl}/tunes/M/McHay/McHay.pdf",
-            "tab": "${baseUrl}/tunes/M/McHay/McHayt.pdf",
-            "audio": "${baseUrl}/tunes/M/McHay/McHay-KKebb_M.mp3"
-          },
-          {
-            "name": "The Kirrie Kebbuck",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Strathspey",
-            "composer": "James Scott Skinner",
-            "score": "${baseUrl}/tunes/M/McHay/McHay.pdf",
-            "tab": "${baseUrl}/tunes/M/McHay/McHayt.pdf",
-            "audio": "${baseUrl}/tunes/M/McHay/McHay-KKebb_M.mp3"
-          },
-          {
-            "name": "Shingly Beach",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Air",
-            "composer": "Tom Anderson",
-            "score": "${baseUrl}/tunes/S/ShngB/ShngB.pdf",
-            "tab": "${baseUrl}/tunes/S/ShngB/ShngBt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Crossing the Minch",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Pipe Hornpipe",
-            "composer": "P.M. Donald MacLeod, Lewis",
-            "score": "${baseUrl}/tunes/C/CMnch/CMnch.pdf",
-            "tab": "${baseUrl}/tunes/C/CMnch/CMncht.pdf",
-            "audio": "${baseUrl}/tunes/C/CMnch/CMnch_M.mp3"
-          },
-          {
-            "name": "The Rock on the Clyde",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Jig",
-            "composer": "Bobby MacLeod",
-            "score": "${baseUrl}/tunes/R/RockC/RockC.pdf",
-            "tab": "${baseUrl}/tunes/R/RockC/RockCt.pdf",
-            "audio": "${baseUrl}/tunes/R/RockC/RockC-CHunt_M.mp3"
-          },
-          {
-            "name": "Charlie Hunter",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Jig",
-            "composer": "Bobby MacLeod",
-            "score": "${baseUrl}/tunes/R/RockC/RockC.pdf",
-            "tab": "${baseUrl}/tunes/R/RockC/RockCt.pdf",
-            "audio": "${baseUrl}/tunes/R/RockC/RockC-CHunt_M.mp3"
-          },
-          {
-            "name": "Tigh na Gorm",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "March",
-            "composer": "Ian Powrie",
-            "score": "${baseUrl}/T/TighN/TighN.pdf",
-            "tab": "${baseUrl}/T/TighN/TighNt.pdf",
-            "audio": "${baseUrl}/T/TighN/TighN_M.mp3"
-          },
-          {
-            "name": "Jimmy Shand's Welcome to Corrieburn",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "March",
-            "composer": "Ian Powrie",
-            "score": "${baseUrl}/T/TighN/TighN.pdf",
-            "tab": "${baseUrl}/T/TighN/TighNt.pdf",
-            "audio": "${baseUrl}/T/TighN/TighN_M.mp3"
-          },
-          {
-            "name": "The Warlocks",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Strathspey",
-            "composer": "Robert Lowe",
-            "score": "${baseUrl}/W/Wrlks/Wrlks2.pdf",
-            "tab": "${baseUrl}/W/Wrlks/Wrlks2t.pdf",
-            "audio": "${baseUrl}/W/Wrlks/Wrlks-MrsCB_M.mp3"
-          },
-          {
-            "name": "Mrs Colonel Bailie of Red-Castle",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Reel",
-            "composer": "Joseph Lowe",
-            "score": "${baseUrl}/W/Wrlks/Wrlks2.pdf",
-            "tab": "${baseUrl}/W/Wrlks/Wrlks2t.pdf",
-            "audio": "${baseUrl}/W/Wrlks/Wrlks-MrsCB_M.mp3"
-          },
+  {
+    "name": "The Great Scottish Composers",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Various",
+    "composer": "Various",
+    "score": "${baseUrl}/gsc/GSC1.pdf",
+    "tab": "${baseUrl}/gsc/GSC1t.pdf",
+    "audio": ""
+  },
+  {
+    "name": "MacKenzie Hay",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Strathspey",
+    "composer": "James Scott Skinner",
+    "score": "${baseUrl}/tunes/M/McHay/McHay.pdf",
+    "tab": "${baseUrl}/tunes/M/McHay/McHayt.pdf",
+    "audio": "${baseUrl}/tunes/M/McHay/McHay-KKebb_M.mp3"
+  },
+  {
+    "name": "The Kirrie Kebbuck",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Strathspey",
+    "composer": "James Scott Skinner",
+    "score": "${baseUrl}/tunes/M/McHay/McHay.pdf",
+    "tab": "${baseUrl}/tunes/M/McHay/McHayt.pdf",
+    "audio": "${baseUrl}/tunes/M/McHay/McHay-KKebb_M.mp3"
+  },
+  {
+    "name": "Shingly Beach",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Tom Anderson",
+    "score": "${baseUrl}/tunes/S/ShngB/ShngB.pdf",
+    "tab": "${baseUrl}/tunes/S/ShngB/ShngBt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Crossing the Minch",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Pipe Hornpipe",
+    "composer": "P.M. Donald MacLeod, Lewis",
+    "score": "${baseUrl}/tunes/C/CMnch/CMnch.pdf",
+    "tab": "${baseUrl}/tunes/C/CMnch/CMncht.pdf",
+    "audio": "${baseUrl}/tunes/C/CMnch/CMnch_M.mp3"
+  },
+  {
+    "name": "The Rock on the Clyde",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Bobby MacLeod",
+    "score": "${baseUrl}/tunes/R/RockC/RockC.pdf",
+    "tab": "${baseUrl}/tunes/R/RockC/RockCt.pdf",
+    "audio": "${baseUrl}/tunes/R/RockC/RockC-CHunt_M.mp3"
+  },
+  {
+    "name": "Charlie Hunter",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Bobby MacLeod",
+    "score": "${baseUrl}/tunes/R/RockC/RockC.pdf",
+    "tab": "${baseUrl}/tunes/R/RockC/RockCt.pdf",
+    "audio": "${baseUrl}/tunes/R/RockC/RockC-CHunt_M.mp3"
+  },
+  {
+    "name": "Tigh na Gorm",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "Ian Powrie",
+    "score": "${baseUrl}/T/TighN/TighN.pdf",
+    "tab": "${baseUrl}/T/TighN/TighNt.pdf",
+    "audio": "${baseUrl}/T/TighN/TighN_M.mp3"
+  },
+  {
+    "name": "Jimmy Shand's Welcome to Corrieburn",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "Ian Powrie",
+    "score": "${baseUrl}/T/TighN/TighN.pdf",
+    "tab": "${baseUrl}/T/TighN/TighNt.pdf",
+    "audio": "${baseUrl}/T/TighN/TighN_M.mp3"
+  },
+  {
+    "name": "The Warlocks",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Strathspey",
+    "composer": "Robert Lowe",
+    "score": "${baseUrl}/W/Wrlks/Wrlks2.pdf",
+    "tab": "${baseUrl}/W/Wrlks/Wrlks2t.pdf",
+    "audio": "${baseUrl}/W/Wrlks/Wrlks-MrsCB_M.mp3"
+  },
+  {
+    "name": "Mrs Colonel Bailie of Red-Castle",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Joseph Lowe",
+    "score": "${baseUrl}/W/Wrlks/Wrlks2.pdf",
+    "tab": "${baseUrl}/W/Wrlks/Wrlks2t.pdf",
+    "audio": "${baseUrl}/W/Wrlks/Wrlks-MrsCB_M.mp3"
+  },
 
 
+{
+  "name": "Sheebeg Sheemore",
+  "from": "nigel-gatherer",
+  "genre": "Irish",
+  "type": "Carolan",
+  "composer": "Turlough O'Carolan",
+  "score": "${baseUrl}/tunes/zCarolan/Sheeb/Sheeb.pdf",
+  "tab": "${baseUrl}/tunes/zCarolan/Sheeb/Sheebt.pdf",
+  "audio": "${baseUrl}/tunes/S/Sheeb/Sheeb_M.mp3"
+},
 
+  {
+    "name": "Boyne Hunt, The",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/DrnkL/DrnkL.pdf",
+    "tab": "${baseUrl}/tunes/D/DrnkL/DrnkLt.pdf",
+    "audio": "${baseUrl}/tunes/D/DrnkL/DrnkL-Boyne_M.mp3"
+  },
+  {
+    "name": "Blackberry Bush, The",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "D MacLeod",
+    "score": "${baseUrl}/tunes/B/BBush/BBush.pdf",
+    "tab": "${baseUrl}/tunes/B/BBush/BBusht.pdf",
+    "audio": "${baseUrl}/tunes/B/BBush/BBush_M.mp3"
+  },
+  {
+    "name": "Tweedledum Reel",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Ian Hardie",
+    "score": "${baseUrl}/tunes/T/Twdum/Twdum.pdf",
+    "tab": "${baseUrl}/tunes/T/Twdum/Twdumt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Majore General Reel",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Ian Hardie",
+    "score": "${baseUrl}/tunes/T/Twdum/Twdum.pdf",
+    "tab": "${baseUrl}/tunes/T/Twdum/Twdumt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Skinner's Revenge",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "Gordon Skinner",
+    "score": "${baseUrl}/tunes/S/SkinR/SkinR.pdf",
+    "tab": "${baseUrl}/tunes/S/SkinR/SkinRt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "O Gin I Were a Baron's Heir",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "J W Holder",
+    "score": "${baseUrl}/tunes/O/OGinI/OGinI.pdf",
+    "tab": "${baseUrl}/tunes/O/OGinI/OGinIt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "When the Kye Comes Home",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OGinI/OGinI.pdf",
+    "tab": "${baseUrl}/tunes/O/OGinI/OGinIt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Ho Ro Shiubhlainn Fada",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HoRoS/HoRoS.pdf",
+    "tab": "${baseUrl}/tunes/H/HoRoS/HoRoSt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Domhnull Beag an t-Siucair",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HoRoS/HoRoS.pdf",
+    "tab": "${baseUrl}/tunes/H/HoRoS/HoRoSt.pdf",
+    "audio": ""
+  },
 
 
 
@@ -5354,7 +5454,7 @@
     "composer": "Phil Cunningham",
     "score": "${baseUrl}/tunes/C/Calum/Calum.pdf",
     "tab": "${baseUrl}/tunes/C/Calum/Calumt.pdf",
-    "audio": "${baseUrl}/tunes/C/Calum/Calum_M.mp3"
+    "audio": "${baseUrl}/tunes/C/Calum/Calum-HutSI_M.mp3"
   },
   {
     "name": "Calum's Road",
@@ -5364,7 +5464,7 @@
     "composer": "Donald Shaw",
     "score": "${baseUrl}/tunes/C/Calum/Calum.pdf",
     "tab": "${baseUrl}/tunes/C/Calum/Calumt.pdf",
-    "audio": "${baseUrl}/tunes/C/Calum/Calum_M.mp3"
+    "audio": "${baseUrl}/tunes/C/Calum/Calum-HutSI_M.mp3"
   },
   {
     "name": "The Brolum",
@@ -8360,16 +8460,6 @@
     "score": "${baseUrl}/tunes/M/MagtW/MagtW.pdf",
     "tab": "${baseUrl}/tunes/M/MagtW/MagtWt.pdf",
     "audio": "${baseUrl}/tunes/M/MagtW/MagtW-KateM_M.mp3"
-  },
-  {
-    "name": "Leaving Barra",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Waltz",
-    "composer": "N MacLean",
-    "score": "${baseUrl}/tunes/L/LBara/LBara.pdf",
-    "tab": "${baseUrl}/tunes/L/LBara/LBarat.pdf",
-    "audio": "${baseUrl}/tunes/L/LBara/LBara_M.mp3"
   },
   {
     "name": "Leaving Stornoway",

@@ -992,16 +992,6 @@ data = [
     "audio": "http://www.nigelgatherer.com/tunes/tunes/B/BBurn/BBurn-WMoon_M.mp3"
   },
   {
-    "name": "Blackberry Bush, The",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Reel",
-    "composer": "D MacLeod",
-    "score": "http://www.nigelgatherer.com/tunes/tunes/B/BBush/BBush.pdf",
-    "tab": "http://www.nigelgatherer.com/tunes/tunes/B/BBush/BBusht.pdf",
-    "audio": ""
-  },
-  {
     "name": "Brown-Haired Lad and the Milkmaid",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -3892,16 +3882,6 @@ data = [
     "audio": "http://www.nigelgatherer.com/tunes/tunes/B/BTipp/BTipp-NewCP_M.mp3"
   },
   {
-    "name": "Boyne Hunt, The",
-    "from": "nigel-gatherer",
-    "genre": "Irish",
-    "type": "Reel",
-    "composer": "",
-    "score": "http://www.nigelgatherer.com/tunes/tunes/D/DrnkL/DrnkL.pdf",
-    "tab": "http://www.nigelgatherer.com/tunes/tunes/D/DrnkL/DrnkLt.pdf",
-    "audio": ""
-  },
-  {
     "name": "Dick Gossip's Reel",
     "from": "nigel-gatherer",
     "genre": "Irish",
@@ -5075,16 +5055,6 @@ data = [
       "composer": "Robert Burns",
       "score": "http://www.nigelgatherer.com/tunes/tunes/F/ForAT/ForAT.pdf",
       "tab": "http://www.nigelgatherer.com/tunes/tunes/F/ForAT/ForATt.pdf",
-      "audio": ""
-    },
-    {
-      "name": "Sheebeg Sheemore",
-      "from": "nigel-gatherer",
-      "genre": "Irish",
-      "type": "Carolan",
-      "composer": "Turlough O'Carolan",
-      "score": "http://www.nigelgatherer.com/tunes/tunes/zCarolan/Sheeb/Sheeb.pdf",
-      "tab": "http://www.nigelgatherer.com/tunes/tunes/zCarolan/Sheeb/Sheebt.pdf",
       "audio": ""
     },
     {

@@ -1,6 +1,36 @@
 `
 [
   {
+    "name": "Cotillion des Marionettes",
+    "from": "nigel-gatherer",
+    "genre": "World",
+    "type": "French",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zWorldABC/CotMa/CotMa.pdf",
+    "tab": "${baseUrl}/tunes/zWorldABC/CotMa/CotMat.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Cotillion des Capitaine",
+    "from": "nigel-gatherer",
+    "genre": "World",
+    "type": "French",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zWorldABC/CotMa/CotMa.pdf",
+    "tab": "${baseUrl}/tunes/zWorldABC/CotMa/CotMat.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Bonny At Morn",
+    "from": "nigel-gatherer",
+    "genre": "World",
+    "type": "English",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zWorld/ABC/BMorn/BMorn.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/BMorn/BMornt.pdf",
+    "audio": ""
+  },
+  {
     "name": "Zi Zhu Diao (The Purple Bamboo Flute)",
     "from": "nigel-gatherer",
     "genre": "World",
@@ -1499,7 +1529,17 @@
     "composer": "",
     "score": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAn.pdf",
     "tab": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAnt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAn_M.mp3"
+    "audio": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAn-EPapa_M.mp3"
+  },
+  {
+    "name": "E Papa",
+    "from": "nigel-gatherer",
+    "genre": "New Zealand",
+    "type": "Maori",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAn.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAnt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/PQR/PokAn/PokAn-EPapa_M.mp3"
   },
   {
     "name": "The Lounge Bar",

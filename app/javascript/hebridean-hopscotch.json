@@ -24,6 +24,26 @@
 
 
   {
+    "name": "Leaving Barra",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "MacKinnon",
+    "score": "${baseUrl}/tunes/L/LBara/LBara.pdf",
+    "tab": "${baseUrl}/tunes/L/LBara/LBarat.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Fair Maid of Barra",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "Campbell",
+    "score": "${baseUrl}/tunes/L/LBara/LBara.pdf",
+    "tab": "${baseUrl}/tunes/L/LBara/LBarat.pdf",
+    "audio": ""
+  },
+  {
     "name": "Vatersay Bay",
     "from": "nigel-gatherer",
     "genre": "Scottish",
