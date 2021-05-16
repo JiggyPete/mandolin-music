@@ -74,9 +74,9 @@ var sortJSON = function(json) {
 
 var buildJSONFor = function(baseUrl) {
   let result = new Array();
-  result.push(buildJSONStringForFile(baseUrl, "main-data.json"));
-  result.push(buildJSONStringForFile(baseUrl, "hebridean-hopscotch.json"));
-  result.push(buildJSONStringForFile(baseUrl, "world-music.json"));
+  result.push(buildJSONStringForFile(baseUrl, "data-files/main-data.json"));
+  result.push(buildJSONStringForFile(baseUrl, "data-files/hebridean-hopscotch.json"));
+  result.push(buildJSONStringForFile(baseUrl, "data-files/world-music.json"));
 
   return result.reduce((acc, val) => acc.concat(val), []);;
 }
