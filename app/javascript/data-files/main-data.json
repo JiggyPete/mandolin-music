@@ -11454,6 +11454,16 @@
       "audio": "${baseUrl}/tunes/J/JonyT/JonyT-FarFH_M.mp3"
     },
     {
+      "name": "John McAlpine",
+      "from": "nigel-gatherer",
+      "genre": "Scottish",
+      "type": "Reel",
+      "composer": "",
+      "score": "${baseUrl}/tunes/J/JonMc/JonMc.pdf",
+      "tab": "${baseUrl}/tunes/J/JonMc/JonMct.pdf",
+      "audio": "${baseUrl}/tunes/J/JonMc/JonMc-KateD_M.mp3"
+    },
+    {
       "name": "Kate Dalrymple",
       "from": "nigel-gatherer",
       "genre": "Scottish",
