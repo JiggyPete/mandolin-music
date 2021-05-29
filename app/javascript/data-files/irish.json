@@ -1,0 +1,1595 @@
+`
+[
+
+
+    {
+      "name": "A Fig for a Kiss",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Slip jig",
+      "composer": "",
+      "score": "${baseUrl}/tunes/F/FigFK/FigFK.pdf",
+      "tab": "${baseUrl}/tunes/F/FigFK/FigFKt.pdf",
+      "audio": "${baseUrl}/tunes/F/FigFK/FigFK-AnJig_M.mp3"
+    },
+
+    {
+      "name": "George Brabazon 2nd Air",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/G/GeoB2/GeoB2.pdf",
+      "tab": "${baseUrl}/tunes/G/GeoB2/GeoB2t.pdf",
+      "audio": "${baseUrl}/tunes/G/GeoB2/GeoB2-Hewlt_M.mp3"
+    },
+    {
+      "name": "Hewlett",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/G/GeoB2/GeoB2.pdf",
+      "tab": "${baseUrl}/tunes/G/GeoB2/GeoB2t.pdf",
+      "audio": "${baseUrl}/tunes/G/GeoB2/GeoB2-Hewlt_M.mp3"
+    },
+    {
+      "name": "I'll Tell Me Ma",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Polka",
+      "composer": "",
+      "score": "${baseUrl}/tunes/I/IMeMa/IMeMa.pdf",
+      "tab": "${baseUrl}/tunes/I/IMeMa/IMeMat.pdf",
+      "audio": "${baseUrl}/tunes/I/IMeMa/IMeMa-RattB_M.mp3"
+    },
+    {
+      "name": "James Betagh No.1",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/J/JBet1/JBet1.pdf",
+      "tab": "${baseUrl}/tunes/J/JBet1/JBet1t.pdf",
+      "audio": ""
+    },
+    {
+      "name": "James Betagh No.2",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/J/JBet2/JBet2.pdf",
+      "tab": "${baseUrl}/tunes/J/JBet2/JBet2t.pdf",
+      "audio": ""
+    },
+    {
+      "name": "Carolan's Concerto",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/C/CConc/CConc.pdf",
+      "tab": "${baseUrl}/tunes/C/CConc/CConct.pdf",
+      "audio": "${baseUrl}/tunes/C/CConc/CConc_M.mp3"
+    },
+    {
+      "name": "Carolan's Draught",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/C/CDraf/CDraf.pdf",
+      "tab": "${baseUrl}/tunes/C/CDraf/CDraft.pdf",
+      "audio": "${baseUrl}/tunes/C/CDraf/CDraf_W.mp3"
+    },
+    {
+      "name": "Constantine Maguire",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/C/ConMg/ConMg.pdf",
+      "tab": "${baseUrl}/tunes/C/ConMg/ConMgt.pdf",
+      "audio": "${baseUrl}/tunes/C/ConMg/ConMg_M.mp3"
+    },
+    {
+      "name": "Blind Mary",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/B/BMary/BMary.pdf",
+      "tab": "${baseUrl}/tunes/B/BMary/BMaryt.pdf",
+      "audio": "${baseUrl}/tunes/B/BMary/BMary_M.mp3"
+    },
+
+    {
+      "name": "Another Jig Will Do",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Slip jig",
+      "composer": "",
+      "score": "${baseUrl}/tunes/F/FigFK/FigFK.pdf",
+      "tab": "${baseUrl}/tunes/F/FigFK/FigFKt.pdf",
+      "audio": "${baseUrl}/tunes/F/FigFK/FigFK-AnJig_M.mp3"
+    },
+  {
+    "name": "Far from Home",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/F/FarFH/FarFH.pdf",
+    "tab": "${baseUrl}/tunes/F/FarFH/FarFHt.pdf",
+    "audio": "${baseUrl}/tunes/F/FarFH/FarFH-RoadH_M.mp3"
+  },
+  {
+    "name": "New Copperplate, The (1)",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BTipp/BTipp.pdf",
+    "tab": "${baseUrl}/tunes/B/BTipp/BTippt.pdf",
+    "audio": "${baseUrl}/tunes/B/BTipp/BTipp-NewCP_M.mp3"
+  },
+  {
+    "name": "New Copperplate, The (2)",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/N/NCopp/NCopp.pdf",
+    "tab": "${baseUrl}/tunes/N/NCopp/NCoppt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Rakes of Mallow",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/R/RakeM/RakeMt.pdf",
+    "audio": "${baseUrl}/tunes/R/RakeM/RakeM_M.mp3"
+  },
+  {
+    "name": "The Silver Spear",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/N/NCopp/NCopp.pdf",
+    "tab": "${baseUrl}/tunes/N/NCopp/NCoppt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Windbroke",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "Michael McGoldrick",
+    "score": "${baseUrl}/tunes/S/ScCon/ScCon.pdf",
+    "tab": "${baseUrl}/tunes/S/ScCon/ScCont.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Whisky in the Jar",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WhJar/WhJar.pdf",
+    "tab": "${baseUrl}/tunes/W/WhJar/WhJart.pdf",
+    "audio": "${baseUrl}/tunes/W/WhJar/WhJar_M.mp3"
+  },
+  {
+    "name": "Wild Rover",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WldRv/WldRv.pdf",
+    "tab": "${baseUrl}/tunes/W/WldRv/WldRvt.pdf",
+    "audio": "${baseUrl}/tunes/W/WldRv/WldRv_M.mp3"
+  },
+  {
+    "name": "The Air Tune",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Air",
+    "composer": "Liz Carroll",
+    "score": "${baseUrl}/tunes/A/AirTu/AirTu.pdf",
+    "tab": "${baseUrl}/tunes/A/AirTu/AirTut.pdf",
+    "audio": "${baseUrl}/tunes/A/AirTu/AirTu_M.mp3"
+  },
+  {
+    "name": "Danny Boy",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/DanyB/DanyB.pdf",
+    "tab": "${baseUrl}/tunes/D/DanyB/DanyBt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Down By the Sally Gardens",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/DBSal/DBSal.pdf",
+    "tab": "${baseUrl}/tunes/D/DBSal/DBSalt.pdf",
+    "audio": "${baseUrl}/tunes/D/DBSal/DBSal_M.mp3"
+  },
+  {
+    "name": "Star of the County Down",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Air",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/S/StarC/StarCt.pdf",
+    "audio": "${baseUrl}/tunes/S/StarC/StarC_M.mp3"
+  },
+  {
+    "name": "Wild Colonial Boy",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WldCB/WldCB.pdf",
+    "tab": "${baseUrl}/tunes/W/WldCB/WldCBt.pdf",
+    "audio": "${baseUrl}/tunes/W/WldCB/WldCB_M.mp3"
+  },
+  {
+    "name": "The Galway Hornpipe",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Hornpipe",
+    "composer": "",
+    "score": "${baseUrl}/tunes/G/GalwH/GalwH.pdf",
+    "tab": "${baseUrl}/tunes/G/GalwH/GalwHt.pdf",
+    "audio": "${baseUrl}/tunes/G/GalwH/GalwH_M.mp3"
+  },
+  {
+    "name": "The Liverpool Hornpipe",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Hornpipe",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OffTC/OffTC.pdf",
+    "tab": "${baseUrl}/tunes/O/OffTC/OffTCt.pdf",
+    "audio": "${baseUrl}/tunes/O/OffTC/OffTC-LivHP_M.mp3"
+  },
+  {
+    "name": "Lucy Farr's Hornpipe",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Stack of Barley",
+    "composer": "",
+    "score": "${baseUrl}/tunes/L/LucFH/LucFH.pdf",
+    "tab": "${baseUrl}/tunes/L/LucFH/LucFHt.pdf",
+    "audio": "${baseUrl}/tunes/L/LucFH/LucFH-Stack_M.mp3"
+  },
+  {
+    "name": "Off to California",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Hornpipe",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OffTC/OffTC.pdf",
+    "tab": "${baseUrl}/tunes/O/OffTC/OffTCt.pdf",
+    "audio": "${baseUrl}/tunes/O/OffTC/OffTC-LivHP_M.mp3"
+  },
+  {
+    "name": "The Poppy Leaf",
+    "key": "G",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Hornpipe",
+    "composer": "",
+    "score": "${baseUrl}/tunes/P/PLeaf/PLeaf.pdf",
+    "tab": "${baseUrl}/tunes/P/PLeaf/PLeaft.pdf",
+    "audio": "${baseUrl}/tunes/P/PLeaf/PLeaf_M.mp3"
+  },
+  {
+    "name": "Stack of Barley",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Hornpipe",
+    "composer": "",
+    "score": "${baseUrl}/tunes/L/LucFH/LucFH.pdf",
+    "tab": "${baseUrl}/tunes/L/LucFH/LucFHt.pdf",
+    "audio": "${baseUrl}/tunes/L/LucFH/LucFH-Stack_M.mp3"
+  },
+  {
+    "name": "Banks of Lough Gowna",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/Saddl2/Saddl2.pdf",
+    "tab": "${baseUrl}/tunes/S/Saddl2/Saddl2t.pdf",
+    "audio": "${baseUrl}/tunes/S/Saddl2/Saddl2-BLGow_M.mp3"
+  },
+
+
+
+  {
+    "name": "The Lilting Banshee",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OutOO/OutOO.pdf",
+    "tab": "${baseUrl}/tunes/O/OutOO/OutOOt.pdf",
+    "audio": "${baseUrl}/tunes/O/OutOO/OutOO-LiltB_M.mp3"
+  },
+  {
+    "name": "Out On the Ocean",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/O/OutOO/OutOO.pdf",
+    "tab": "${baseUrl}/tunes/O/OutOO/OutOOt.pdf",
+    "audio": "${baseUrl}/tunes/O/OutOO/OutOO-LiltB_M.mp3"
+  },
+  {
+    "name": "The Rakes of Kildare",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/R/RakeK/RakeK.pdf",
+    "tab": "${baseUrl}/tunes/R/RakeK/RakeKt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Saddle the Pony",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/Saddl2/Saddl2.pdf",
+    "tab": "${baseUrl}/tunes/S/Saddl2/Saddl2t.pdf",
+    "audio": "${baseUrl}/tunes/S/Saddl2/Saddl2-BLGow_M.mp3"
+  },
+  {
+    "name": "Tobin's Favourite",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/T/Tobin/Tobin.pdf",
+    "tab": "${baseUrl}/tunes/T/Tobin/Tobint.pdf",
+    "audio": "${baseUrl}/tunes/T/Tobin/Tobin_M.mp3"
+  },
+  {
+    "name": "Tommy Mulhaire's",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/T/TMulh/TMulh.pdf",
+    "tab": "${baseUrl}/tunes/T/TMulh/TMulht.pdf",
+    "audio": "${baseUrl}/tunes/T/TMulh/TMulh-IdleR_W.mp3"
+  },
+  {
+    "name": "The Idle Road",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/T/TMulh/TMulh.pdf",
+    "tab": "${baseUrl}/tunes/T/TMulh/TMulht.pdf",
+    "audio": "${baseUrl}/tunes/T/TMulh/TMulh-IdleR_W.mp3"
+  },
+  {
+    "name": "Willie Clancy's",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/T/Tobin/Tobin.pdf",
+    "tab": "${baseUrl}/tunes/T/Tobin/Tobint.pdf",
+    "audio": "${baseUrl}/tunes/T/Tobin/Tobin_M.mp3"
+  },
+  {
+    "name": "Shoe the Donkey",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Mazurka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/ShoeD/ShoeD.pdf",
+    "tab": "${baseUrl}/tunes/S/ShoeD/ShoeDt.pdf",
+    "audio": "${baseUrl}/tunes/S/ShoeD/ShoeD-SonnM_M.mp3"
+  },
+  {
+    "name": "Sonny's Mazurka",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Mazurka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/ShoeD/ShoeD.pdf",
+    "tab": "${baseUrl}/tunes/S/ShoeD/ShoeDt.pdf",
+    "audio": "${baseUrl}/tunes/S/ShoeD/ShoeD-SonnM_M.mp3"
+  },
+  {
+    "name": "Brian Boru's March",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "March",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BBoru/BBoru.pdf",
+    "tab": "${baseUrl}/tunes/B/BBoru/BBorut.pdf",
+    "audio": "${baseUrl}/tunes/B/BBoru/BBoru_M.mp3"
+  },
+  {
+    "name": "The Downfall of Paris",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Set Dance",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/DPari/DPari.pdf",
+    "tab": "${baseUrl}/tunes/D/DPari/DParit.pdf",
+    "audio": "${baseUrl}/tunes/D/DPari/DPari.mp3"
+  },
+  {
+    "name": "Lord Mayo",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "March",
+    "composer": "Dáithi Ó Murchadha",
+    "score": "${baseUrl}/tunes/L/LMayo/LMayo.pdf",
+    "tab": "${baseUrl}/tunes/L/LMayo/LMayot.pdf",
+    "audio": "${baseUrl}/tunes/L/LMayo/LMayo_M.mp3"
+  },
+  {
+    "name": "The Three Sea Captains",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Set Dance",
+    "composer": "",
+    "score": "${baseUrl}/tunes/1-9/3SeaC/3SeaC.pdf",
+    "tab": "${baseUrl}/tunes/1-9/3SeaC/3SeaCt.pdf",
+    "audio": "${baseUrl}/tunes/1-9/3SeaC/3SeaC_M.mp3"
+  },
+  {
+    "name": "Ballyoran Polka No.1",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BalyO/BalyO.pdf",
+    "tab": "${baseUrl}/tunes/B/BalyO/BalyOt.pdf",
+    "audio": "${baseUrl}/tunes/B/BalyO/BalyO-DanOL_M.mp3"
+  },
+  {
+    "name": "Boys of the Town",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BoysT/BoysT.pdf",
+    "tab": "${baseUrl}/tunes/B/BoysT/BoysTt.pdf",
+    "audio": "${baseUrl}/tunes/B/BoysT/BoysT_M.mp3"
+  },
+  {
+    "name": "Britches Full of Stitches",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/B/Brtch/Brtcht.pdf",
+    "audio": "${baseUrl}/tunes/B/Brtch/Brtch_M.mp3"
+  },
+  {
+    "name": "Cuil Aodha Polka",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/J/JonKP/JonKP.pdf",
+    "tab": "",
+    "audio": ""
+  },
+  {
+    "name": "Dan O'Leary's Polka No.2",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BalyO/BalyO.pdf",
+    "tab": "${baseUrl}/tunes/B/BalyO/BalyOt.pdf",
+    "audio": "${baseUrl}/tunes/B/BalyO/BalyO-DanOL_M.mp3"
+  },
+  {
+    "name": "Egan's Polka",
+    "key": "D",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/E/EganP/EganP2.pdf",
+    "tab": "${baseUrl}/tunes/E/EganP/EganP2t.pdf",
+    "audio": "${baseUrl}/tunes/E/EganP/EganP_D_RyanP_M.mp3"
+  },
+  {
+    "name": "Egan's Polka",
+    "key": "G",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/E/EganP/EganPt.pdf",
+    "audio": "${baseUrl}/tunes/E/EganP/EganP_M.mp3"
+  },
+  {
+    "name": "If I Had Maggie in the Woods",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/I/IfIHM/IfIHM.pdf",
+    "tab": "${baseUrl}/tunes/I/IfIHM/IfIHMt.pdf",
+    "audio": "${baseUrl}/tunes/I/IfIHM/IfIHM-TralJ_M.mp3"
+  },
+  {
+    "name": "John Kelly's Polka",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/J/JonKP/JonKP.pdf",
+    "tab": "",
+    "audio": ""
+  },
+  {
+    "name": "Leather Away the Wattle O",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/SpanL/SpanL.pdf",
+    "tab": "${baseUrl}/tunes/S/SpanL/SpanLt.pdf",
+    "audio": "${baseUrl}/tunes/S/SpanL/SpanL-LWatt_M.mp3"
+  },
+  {
+    "name": "Ryan's Polka",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/E/EganP/EganP2.pdf",
+    "tab": "${baseUrl}/tunes/E/EganP/EganP2t.pdf",
+    "audio": "${baseUrl}/tunes/E/EganP/EganP_D_RyanP_M.mp3"
+  },
+  {
+    "name": "Spanish Ladies",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/S/SpanL/SpanL.pdf",
+    "tab": "${baseUrl}/tunes/S/SpanL/SpanLt.pdf",
+    "audio": "${baseUrl}/tunes/S/SpanL/SpanL-LWatt_M.mp3"
+  },
+  {
+    "name": "Tom Sullivan's",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BoysT/BoysT.pdf",
+    "tab": "${baseUrl}/tunes/B/BoysT/BoysTt.pdf",
+    "audio": "${baseUrl}/tunes/B/BoysT/BoysT_M.mp3"
+  },
+  {
+    "name": "Tralee Gaol",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/I/IfIHM/IfIHM.pdf",
+    "tab": "${baseUrl}/tunes/I/IfIHM/IfIHMt.pdf",
+    "audio": "${baseUrl}/tunes/I/IfIHM/IfIHM-TralJ_M.mp3"
+  },
+  {
+    "name": "Wren Polkas",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WrenP/WrenP.pdf",
+    "tab": "${baseUrl}/tunes/W/WrenP/WrenPt.pdf",
+    "audio": "${baseUrl}/tunes/W/WrenP/WrenP_M.mp3"
+  },
+  {
+    "name": "The Banshee",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BoyGp/BoyGp.pdf",
+    "tab": "${baseUrl}/tunes/B/BoyGp/BoyGpt.pdf",
+    "audio": "${baseUrl}/tunes/B/BoyGp/BoyGp-Bshee_M.mp3"
+  },
+  {
+    "name": "Boy in the Gap",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BoyGp/BoyGp.pdf",
+    "tab": "${baseUrl}/tunes/B/BoyGp/BoyGpt.pdf",
+    "audio": "${baseUrl}/tunes/B/BoyGp/BoyGp-Bshee_M.mp3"
+  },
+  {
+    "name": "Belles of Tipperary",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BTipp/BTipp.pdf",
+    "tab": "${baseUrl}/tunes/B/BTipp/BTippt.pdf",
+    "audio": "${baseUrl}/tunes/B/BTipp/BTipp-NewCP_M.mp3"
+  },
+  {
+    "name": "The Boyne Hunt",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/DrnkL/DrnkL.pdf",
+    "tab": "${baseUrl}/tunes/D/DrnkL/DrnkLt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Dick Gossip's Reel",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/Dinky/Dinky.pdf",
+    "tab": "${baseUrl}/tunes/D/Dinky/Dinkyt.pdf",
+    "audio": "${baseUrl}/tunes/D/Dinky/Dinky-DickG_M.mp3"
+  },
+  {
+    "name": "Dinky Dorian's",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/Dinky/Dinky.pdf",
+    "tab": "${baseUrl}/tunes/D/Dinky/Dinkyt.pdf",
+    "audio": "${baseUrl}/tunes/D/Dinky/Dinky-DickG_M.mp3"
+  },
+  {
+    "name": "The Drunken Landlady",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/DrnkL/DrnkL.pdf",
+    "tab": "${baseUrl}/tunes/D/DrnkL/DrnkLt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Da Road to Houll",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "Tom Anderson",
+    "score": "${baseUrl}/tunes/F/FarFH/FarFH.pdf",
+    "tab": "${baseUrl}/tunes/F/FarFH/FarFHt.pdf",
+    "audio": "${baseUrl}/tunes/F/FarFH/FarFH-RoadH_M.mp3"
+  },
+  {
+    "name": "Irish Jig",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab6/isld.html",
+    "audio": ""
+  },
+  {
+    "name": "Eibhlin",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/E/Eibhl/Eibhl.pdf",
+    "tab": "${baseUrl}/tunes/E/Eibhl/Eibhlt.pdf",
+    "audio": "${baseUrl}/tunes/E/Eibhl/Eibhl_M.mp3"
+  },
+  {
+    "name": "John Ryan's Polka",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/SSS/25-DenWv/25-DenWv.pdf",
+    "tab": "${baseUrl}/tunes/SSS/25-DenWv/25-DenWvt.pdf",
+    "audio": "${baseUrl}/tunes/SSS/25-DenWv/25-DenWv.mp3"
+  },
+  {
+    "name": "Denis Murphy's Polka",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/SSS/25-DenWv/25-DenWv.pdf",
+    "tab": "${baseUrl}/tunes/SSS/25-DenWv/25-DenWvt.pdf",
+    "audio": "${baseUrl}/tunes/SSS/25-DenWv/25-DenWv.mp3"
+  },
+  {
+    "name": "Bill Collins",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/E/EavsD/EavsD.pdf",
+    "tab": "${baseUrl}/tunes/E/EavsD/EavsDt.pdf",
+    "audio": "${baseUrl}/tunes/E/EavsD/EavsD-BillC_M.mp3"
+  },
+  {
+    "name": "Barbara's Jig",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/CCM/DEF/EastG/EastG.pdf",
+    "tab": "${baseUrl}/tunes/CCM/DEF/EastG/EastGt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/DEF/EastG/EastG-WillC_W.mp3"
+  },
+  {
+    "name": "Leaving Friday Harbor",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Slip Jig",
+    "composer": "John McCusker",
+    "score": "${baseUrl}/tunes/L/LFriH/LFriH.pdf",
+    "tab": "${baseUrl}/tunes/L/LFriH/LFriHt.pdf",
+    "audio": "${baseUrl}/tunes/L/LFriH/LFriH.mp3"
+  },
+  {
+    "name": "Kid on the Mountain",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Slip Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/K/KidMt/KidMt.pdf",
+    "tab": "${baseUrl}/tunes/K/KidMt/KidMtt.pdf",
+    "audio": "${baseUrl}/tunes/K/KidMt/KidMt_M.mp3"
+  },
+  {
+    "name": "The Humours of Tulla",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HTula/HTula.pdf",
+    "tab": "${baseUrl}/tunes/H/HTula/HTulat.pdf",
+    "audio": "${baseUrl}/tunes/H/HTula/HTula-OCTtP_M.mp3"
+  },
+  {
+    "name": "O'Connells's Trip to Parliament",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HTula/HTula.pdf",
+    "tab": "${baseUrl}/tunes/H/HTula/HTulat.pdf",
+    "audio": "${baseUrl}/tunes/H/HTula/HTula-OCTtP_M.mp3"
+  },
+
+
+  {
+    "name": "Larry the Beerdrinker",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/G/GirlB/GirlBt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Girls of Banbridge",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Jig",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/G/GirlB/GirlBt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Rolling in the Rye Grass",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/R/RRyeG/RRyeG.pdf",
+    "tab": "${baseUrl}/tunes/R/RRyeG/RRyeGt.pdf",
+    "audio": "${baseUrl}/tunes/R/RRyeG/RRyeG_M.mp3"
+  },
+  {
+    "name": "Patrick O'Connor",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/P/POCon/POCon.pdf",
+    "tab": "${baseUrl}/tunes/P/POCon/POCont.pdf",
+    "audio": "${baseUrl}/tunes/P/POCon/POCon_M.mp3"
+  },
+  {
+    "name": "Dennis Murphy's Polka",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Polka",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/DenMP/DenMP.pdf",
+    "tab": "${baseUrl}/tunes/D/DenMP/DenMPt.pdf",
+    "audio": "${baseUrl}/tunes/D/DenMP/DenMP-RyanP_M.mp3"
+  },
+
+          {
+            "name": "Larry Redican's Jig",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "Larry Redican",
+            "score": "${baseUrl}/tunes/TOW/TOW93_LaryR/TOW93_LaryR.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW93_LaryR/TOW93_LaryRt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW93_LaryR/TOW93_LaryR.mp3"
+          },
+          {
+            "name": "The Road to Lisdoonvarna",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slide",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RLisd/RLisd.pdf",
+            "tab": "${baseUrl}/tunes/R/RLisd/RLisdt.pdf",
+            "audio": "${baseUrl}/tunes/R/RLisd/RLisd-OKeef_M.mp3"
+          },
+          {
+            "name": "The Rights of Man",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RoMan/RoMan.pdf",
+            "tab": "${baseUrl}/tunes/R/RoMan/RoMant.pdf",
+            "audio": "${baseUrl}/tunes/R/RoMan/RoMan-ChOnF_M.mp3"
+          },
+          {
+            "name": "Chief O’Neill’s Favourite",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RoMan/RoMan.pdf",
+            "tab": "${baseUrl}/tunes/R/RoMan/RoMant.pdf",
+            "audio": "${baseUrl}/tunes/R/RoMan/RoMan-ChOnF_M.mp3"
+          },
+          {
+            "name": "The Rocky Road to Dublin",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slip Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RockR/RockR.pdf",
+            "tab": "${baseUrl}/tunes/R/RockR/RockRt.pdf",
+            "audio": "${baseUrl}/tunes/R/RockR/RockR-Foxhu_M.mp3"
+          },
+          {
+            "name": "The Foxhunter's",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slip Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RockR/RockR.pdf",
+            "tab": "${baseUrl}/tunes/R/RockR/RockRt.pdf",
+            "audio": "${baseUrl}/tunes/R/RockR/RockR-Foxhu_M.mp3"
+          },
+          {
+            "name": "Ger the Rigger",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Polka",
+            "composer": "",
+            "score": "${baseUrl}/tunes/G/GerRg/GerRg.pdf",
+            "tab": "${baseUrl}/tunes/G/GerRg/GerRgt.pdf",
+            "audio": "${baseUrl}/tunes/G/GerRg/GerRg-WWont_M.mp3"
+          },
+          {
+            "name": "We Won't Go Home Till Morning",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Polka",
+            "composer": "",
+            "score": "${baseUrl}/tunes/G/GerRg/GerRg.pdf",
+            "tab": "${baseUrl}/tunes/G/GerRg/GerRgt.pdf",
+            "audio": "${baseUrl}/tunes/G/GerRg/GerRg-WWont_M.mp3"
+          },
+          {
+            "name": "Scotsman Over the Border",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SOvrB/SOvrB.pdf",
+            "tab": "${baseUrl}/tunes/S/SOvrB/SOvrBt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Piper's Chair",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SOvrB/SOvrB.pdf",
+            "tab": "${baseUrl}/tunes/S/SOvrB/SOvrBt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "Sonny’s Mazurka",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Mazurka",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/ShoeD/ShoeD.pdf",
+            "tab": "${baseUrl}/tunes/S/ShoeD/ShoeD2t.pdf",
+            "audio": "${baseUrl}/tunes/S/ShoeD/ShoeD-SonnM_M.mp3"
+          },
+
+
+          {
+            "name": "St Mary’s Polka",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Polka",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/StMry/StMry.pdf",
+            "tab": "${baseUrl}/tunes/S/StMry/StMryt.pdf",
+            "audio": "${baseUrl}/tunes/S/StMry/StMry-ChuSt_M.mp3"
+          },
+          {
+            "name": "Church Street Polka",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Polka",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/StMry/StMry.pdf",
+            "tab": "${baseUrl}/tunes/S/StMry/StMryt.pdf",
+            "audio": "${baseUrl}/tunes/S/StMry/StMry-ChuSt_M.mp3"
+          },
+
+          {
+            "name": "St Patrick’s Cathedral",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Air",
+            "composer": "John Sheahan",
+            "score": "${baseUrl}/tunes/S/StPat/StPat.pdf",
+            "tab": "${baseUrl}/tunes/S/StPat/StPatt.pdf",
+            "audio": "${baseUrl}/tunes/S/StPat/StPaC-AmngF_M.mp3"
+          },
+          {
+            "name": "Christ Church Cathedral",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Air",
+            "composer": "John Sheahan",
+            "score": "${baseUrl}/tunes/S/StPat/StPat.pdf",
+            "tab": "${baseUrl}/tunes/S/StPat/StPatt.pdf",
+            "audio": "${baseUrl}/tunes/S/StPat/StPaC-ChChC_M.mp3"
+          },
+          {
+            "name": "The Ballydesmond Polka",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Polka",
+            "composer": "",
+            "score": "${baseUrl}/tunes/B/BalyP/BalyP.pdf",
+            "tab": "${baseUrl}/tunes/B/BalyP/BalyPt.pdf",
+            "audio": "${baseUrl}/tunes/B/BalyP/BalyP_M.mp3"
+          },
+          {
+            "name": "King of the Fairies",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/K/KingF/KingF.pdf",
+            "tab": "${baseUrl}/tunes/K/KingF/KingFt.pdf",
+            "audio": "${baseUrl}/tunes/K/KingF/KingF_M.mp3"
+          },
+          {
+            "name": "The Lark in the Morning",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/L/LarkM/LarkM.pdf",
+            "tab": "${baseUrl}/tunes/L/LarkM/LarkMt.pdf",
+            "audio": "${baseUrl}/tunes/L/LarkM/LarkM_W.mp3"
+          },
+
+          {
+            "name": "Flaherty’s Hornpipe",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/F/FlahH/FlahH.pdf",
+            "tab": "${baseUrl}/tunes/F/FlahH/FlahHt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "Old Hag, You Have Killed Me",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/O/OlHag/OlHag.pdf",
+            "tab": "${baseUrl}/tunes/O/OlHag/OlHagt.pdf",
+            "audio": "${baseUrl}/tunes/O/OlHag/OlHag-OlTip_M.mp3"
+          },
+          {
+            "name": "Sean Tiobrad Arann (Old Tipperary)",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/O/OlHag/OlHag.pdf",
+            "tab": "${baseUrl}/tunes/O/OlHag/OlHagt.pdf",
+            "audio": "${baseUrl}/tunes/O/OlHag/OlHag-OlTip_M.mp3"
+          },
+
+          {
+            "name": "Parnell and Ireland",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/O/OConT/OConT.pdf",
+            "tab": "${baseUrl}/tunes/O/OConT/OConTt.pdf",
+            "audio": "${baseUrl}/tunes/O/OConT/OConT-ParnI_M.mp3"
+          },
+          {
+            "name": "Her Mantle So Green",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/H/HMant/HMant.pdf",
+            "tab": "${baseUrl}/tunes/H/HMant/HMantt.pdf",
+            "audio": "${baseUrl}/tunes/H/HMant/HMant_M.mp3"
+          },
+          {
+            "name": "Miss McLeod’s Reel",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MsMcL/MsMcL.pdf",
+            "tab": "${baseUrl}/tunes/M/MsMcL/MsMcLt.pdf",
+            "audio": "${baseUrl}/tunes/M/MsMcL/MsMcL-MerrB_M.mp3"
+          },
+          {
+            "name": "The Merry Blacksmith",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MsMcL/MsMcL.pdf",
+            "tab": "${baseUrl}/tunes/M/MsMcL/MsMcLt.pdf",
+            "audio": "${baseUrl}/tunes/M/MsMcL/MsMcL-MerrB_M.mp3"
+          },
+          {
+            "name": "My Singing Bird",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Air",
+            "composer": "Edith Wheeler",
+            "score": "${baseUrl}/tunes/M/MySiB/MySiB.pdf",
+            "tab": "${baseUrl}/tunes/M/MySiB/MySiBt.pdf",
+            "audio": "${baseUrl}/tunes/M/MySiB/MySiB_W.mp3"
+          },
+
+          {
+            "name": "Joe Bane's Barndance",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Barndance",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JoeBB/JoeBB.pdf",
+            "tab": "${baseUrl}/tunes/J/JoeBB/JoeBBt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Gypsy Princess",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Barndance",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JoeBB/JoeBB.pdf",
+            "tab": "${baseUrl}/tunes/J/JoeBB/JoeBBt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Christ Church Cathedral",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Air",
+            "composer": "John Sheahan",
+            "score": "${baseUrl}/tunes/C/ChChC/ChChC.pdf",
+            "tab": "${baseUrl}/tunes/C/ChChC/ChChCt.pdf",
+            "audio": "${baseUrl}/tunes/C/ChChC/ChChC_M.mp3"
+          },
+
+          {
+            "name": "The Dancing Master",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Hornpipe",
+            "composer": "Sean Ryan",
+            "score": "${baseUrl}/tunes/D/DancM/DancM.pdf",
+            "tab": "${baseUrl}/tunes/D/DancM/DancMt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Eavesdropper",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/EavsD/EavsD.pdf",
+            "tab": "${baseUrl}/tunes/E/EavsD/EavsDt.pdf",
+            "audio": "${baseUrl}/tunes/E/EavsD/EavsD-BillC_M.mp3"
+          },
+          {
+            "name": "Banish Misfortune",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/B/BMisf/BMisf.pdf",
+            "tab": "${baseUrl}/tunes/B/BMisf/BMisft.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Beautiful Gortree",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "Tommy Peoples",
+            "score": "${baseUrl}/tunes/B/BGort/BGort.pdf",
+            "tab": "${baseUrl}/tunes/B/BGort/BGortt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Oak Reel",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/B/BGort/BGort.pdf",
+            "tab": "${baseUrl}/tunes/B/BGort/BGortt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "The King of the Fairies",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/SSS/42-KingF/42-KingF.pdf",
+            "tab": "${baseUrl}/tunes/SSS/42-KingF/42-KingFt.pdf",
+            "audio": "${baseUrl}/tunes/SSS/42-KingF/42-KingF.mp3"
+          },
+
+          {
+            "name": "The Scattery Island Slide",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/SSS/67-BBush/67-BBush.pdf",
+            "tab": "${baseUrl}/tunes/SSS/67-BBush/67-BBusht.pdf",
+            "audio": "${baseUrl}/tunes/SSS/67-BBush/67-BBush.mp3"
+          },
+          {
+            "name": "Behind the Bush in the Garden",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/SSS/67-BBush/67-BBush.pdf",
+            "tab": "${baseUrl}/tunes/SSS/67-BBush/67-BBusht.pdf",
+            "audio": "${baseUrl}/tunes/SSS/67-BBush/67-BBush.mp3"
+          },
+          {
+            "name": "Fanny Power",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "Turlough O'Carolan",
+            "score": "${baseUrl}/tunes/F/FanyP/FanyP.pdf",
+            "tab": "${baseUrl}/tunes/F/FanyP/FanyPt.pdf",
+            "audio": "${baseUrl}/tunes/F/FanyP/FanyP_H.mp3"
+          },
+
+          {
+            "name": "The Red Haired Boy",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RedHB/RedHB.pdf",
+            "tab": "${baseUrl}/tunes/R/RedHB/RedHBt.pdf",
+            "audio": "${baseUrl}/tunes/R/RedHB/RedHB_M.mp3",
+            "video": ""
+          },
+
+          {
+            "name": "A Scarce o' Tatties",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Norman MacLean",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SnugB/SnugB.pdf",
+            "tab": "${baseUrl}/tunes/S/SnugB/SnugBt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "The Old Favourite",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slide",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/ScatI/ScatI.pdf",
+            "tab": "${baseUrl}/tunes/S/ScatI/ScatIt.pdf",
+            "audio": "${baseUrl}/tunes/S/ScatI/ScatI-OlFav_M.mp3"
+          },
+          {
+            "name": "A Pinch of Snuff",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/P/Pinch/Pinch.pdf",
+            "tab": "${baseUrl}/tunes/P/Pinch/Pincht.pdf",
+            "audio": "${baseUrl}/tunes/P/Pinch/Pinch_M.mp3"
+          },
+          {
+            "name": "Johnny McIljohn's No. 1",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JonyM/JonyM.pdf",
+            "tab": "${baseUrl}/tunes/J/JonyM/JonyMt.pdf",
+            "audio": "${baseUrl}/tunes/J/JonyM/JonyM1-JonyM2_M.mp3"
+          },
+          {
+            "name": "Johnny McIljohn's No. 2",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/J/JonyM/JonyM.pdf",
+            "tab": "${baseUrl}/tunes/J/JonyM/JonyMt.pdf",
+            "audio": "${baseUrl}/tunes/J/JonyM/JonyM1-JonyM2_M.mp3"
+          },
+
+          {
+            "name": "Jerry O'Sullivan's",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/J/JOSul/JOSul.pdf",
+            "tab": "${baseUrl}/J/JOSul/JOSult.pdf",
+            "audio": "${baseUrl}/J/JOSul/JOSul_M.mp3"
+          },
+          {
+            "name": "The Dimmers",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/J/JOSul/JOSul.pdf",
+            "tab": "${baseUrl}/J/JOSul/JOSult.pdf",
+            "audio": "${baseUrl}/J/JOSul/JOSul_M.mp3"
+          },
+
+          {
+            "name": "Carolan 174",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "Turlough O'Carolan",
+            "score": "${baseUrl}/tunes/C/Ca174/Ca174.pdf",
+            "tab": "${baseUrl}/tunes/C/Ca174/Ca174t.pdf",
+            "audio": "${baseUrl}/tunes/C/Ca174/C174_Mm.mp3"
+          },
+          {
+            "name": "Carolan 175",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "Turlough O'Carolan",
+            "score": "${baseUrl}/tunes/C/Ca175/Ca175.pdf",
+            "tab": "${baseUrl}/tunes/C/Ca175/Ca175t.pdf",
+            "audio": "${baseUrl}/tunes/C/Ca175/Ca175_M.mp3"
+          },
+          {
+            "name": "Bedford Cross",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slide",
+            "composer": "",
+            "score": "${baseUrl}/tunes/B/BedfC/BedfC.pdf",
+            "tab": "${baseUrl}/tunes/B/BedfC/BedfCt.pdf",
+            "audio": "${baseUrl}/tunes/B/BedfC/BedfC-BiddD_M.mp3"
+          },
+          {
+            "name": "Biddy the Darling",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Slide",
+            "composer": "",
+            "score": "${baseUrl}/tunes/B/BedfC/BedfC.pdf",
+            "tab": "${baseUrl}/tunes/B/BedfC/BedfCt.pdf",
+            "audio": "${baseUrl}/tunes/B/BedfC/BedfC-BiddD_M.mp3"
+          },
+
+
+        {
+            "name": "East at Glendart",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/EastG/EastG.pdf",
+            "tab": "${baseUrl}/tunes/E/EastG/EastGt.pdf",
+            "audio": "${baseUrl}/tunes/E/EastG/EastG-KeshJ_M.mp3"
+          },
+        {
+            "name": "The Kesh Jig",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/EastG/EastG.pdf",
+            "tab": "${baseUrl}/tunes/E/EastG/EastGt.pdf",
+            "audio": "${baseUrl}/tunes/E/EastG/EastG-KeshJ_M.mp3"
+          },
+        {
+            "name": "The Haunted House",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "Vincent Broderick",
+            "score": "${baseUrl}/tunes/H/Haunt/Haunt.pdf",
+            "tab": "${baseUrl}/tunes/H/Haunt/Haunt.pdf",
+            "audio": "${baseUrl}/tunes/H/Haunt/Haunt_M.mp3"
+          },
+        {
+            "name": "Willlie Coleman's",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/E/EastG2/EastG2.pdf",
+            "tab": "${baseUrl}/tunes/E/EastG2/EastG2t.pdf",
+            "audio": "${baseUrl}/tunes/E/EastG2/EastG-WCole_MWU.mp3"
+          },
+
+          {
+            "name": "Tommy Bhetty's Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Waltz",
+            "composer": "Tommy Maguire",
+            "score": "${baseUrl}/tunes/T/TomBW/TomBW.pdf",
+            "tab": "${baseUrl}/tunes/T/TomBW/TomBWt.pdf",
+            "audio": "${baseUrl}/tunes/T/TomBW/TomBW_M.mp3"
+          },
+          {
+            "name": "The Sally Gardens",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SalyG/SalyG.pdf",
+            "tab": "${baseUrl}/tunes/S/SalyG/SalyGt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Maid Behind the Bar",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SalyG/SalyG.pdf",
+            "tab": "${baseUrl}/tunes/S/SalyG/SalyGt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Richard Brennan's Favourite",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/R/RBren/RBren.pdf",
+            "tab": "${baseUrl}/tunes/R/RBren/RBrent.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Donegal Lass",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Jig",
+            "composer": "Brian Finnegan",
+            "score": "${baseUrl}/tunes/R/RBren/RBren.pdf",
+            "tab": "${baseUrl}/tunes/R/RBren/RBrent.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Pachelbel's Frolics",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/P/PachF/PachF.pdf",
+            "tab": "${baseUrl}/tunes/P/PachF/PachFt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "Minstrel Boy",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MinsB/MinsB.pdf",
+            "tab": "${baseUrl}/tunes/M/MinsB/MinsBt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Kelly the Boy from Killane",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Air",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MinsB/MinsB.pdf",
+            "tab": "${baseUrl}/tunes/M/MinsB/MinsBt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "Master McDermott's",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MMcDr/MMcDr.pdf",
+            "tab": "${baseUrl}/tunes/M/MMcDr/MMcDrt.pdf",
+            "audio": "${baseUrl}/tunes/M/MMcDr/MMcDr-Geogh_M.mp3"
+          },
+          {
+            "name": "Geoghegan's Fancy",
+            "from": "nigel-gatherer",
+            "genre": "Irish",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/M/MMcDr/MMcDr.pdf",
+            "tab": "${baseUrl}/tunes/M/MMcDr/MMcDrt.pdf",
+            "audio": "${baseUrl}/tunes/M/MMcDr/MMcDr-Geogh_M.mp3"
+          },
+
+  {
+    "name": "Scottish Concerto",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "Reel",
+    "composer": "Charlie Lennon",
+    "score": "${baseUrl}/tunes/S/ScCon/ScCon.pdf",
+    "tab": "${baseUrl}/tunes/S/ScCon/ScCont.pdf",
+    "audio": ""
+  },
+    {
+      "name": "Maurice O'Connor",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/M/MOCon/MOCon.pdf",
+      "tab": "${baseUrl}/tunes/M/MOCon/MOCont.pdf",
+      "audio": ""
+    },
+    {
+     "name": "Morgan Magan",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/M/MorgM/MorgM.pdf",
+      "tab": "${baseUrl}/tunes/M/MorgM/MorgMt.pdf",
+      "audio": "${baseUrl}/tunes/M/MorgM/MorgM_Mw.mp3"
+    },
+    {
+      "name": "The O'Rourkes' Feast",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/O/ORouF/ORouF.pdf",
+      "tab": "${baseUrl}/tunes/O/ORouF/ORouFt.pdf",
+      "audio": "${baseUrl}/tunes/O/ORouF/ORouF_W.mp3"
+    },
+    {
+      "name": "Planxty Irwin",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/P/PIrwn/PIrwn.pdf",
+      "tab": "${baseUrl}/tunes/P/PIrwn/PIrwnt.pdf",
+      "audio": "${baseUrl}/tunes/P/PIrwn/PIrwn_M.mp3"
+    },
+
+    {
+      "name": "Rocking the Baby",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Jig",
+      "composer": "",
+      "score": "${baseUrl}/tunes/R/RockB/RockB.pdf",
+      "tab": "${baseUrl}/tunes/R/RockB/RockBt.pdf",
+      "audio": "${baseUrl}/tunes/R/RockB/RockB_M.mp3"
+    },
+
+
+    {
+      "name": "Sheebeg Sheemore",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Carolan",
+      "composer": "Turlough O'Carolan",
+      "score": "${baseUrl}/tunes/S/Sheeb/Sheeb.pdf",
+      "tab": "${baseUrl}/tunes/S/Sheeb/Sheebt.pdf",
+      "audio": ""
+    },
+
+    {
+      "name": "The Rattlin' Bog",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Polka",
+      "composer": "",
+      "score": "http://www.nigelgatherer.com/tunes/tunes/I/IMeMa/IMeMa.pdf",
+      "tab": "http://www.nigelgatherer.com/tunes/tunes/I/IMeMa/IMeMat.pdf",
+      "audio": "http://www.nigelgatherer.com/tunes/tunes/I/IMeMa/IMeMa-RattB_M.mp3"
+    }
+
+  ]
+`

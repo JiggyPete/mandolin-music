@@ -1,14 +1,253 @@
 `
 [
+
+  {
+    "name": "Cape Breton Jig #2",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tab/tab3/capeb.html",
+    "audio": ""
+  },
+          {
+            "name": "Hannun Hambo",
+            "from": "nigel-gatherer",
+            "genre": "Swedish",
+            "type": "",
+            "composer": "Hannu Seppanen",
+            "score": "${baseUrl}/tunes/TOW/TOW91_HannH/TOW91_HannH.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW91_HannH/TOW91_HannHt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW91_HannH/TOW91_HannH.mp3"
+          },
+
+          {
+            "name": "The Bear Dance",
+            "from": "nigel-gatherer",
+            "genre": "Belgian",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/B/BearD/BearD.pdf",
+            "tab": "${baseUrl}/tunes/B/BearD/BearDt.pdf",
+            "audio": "${baseUrl}/tunes/B/BearD/BearD-DBear_M.mp3"
+          },
+
+          {
+            "name": "Reel Pays d'en Haut",
+            "from": "nigel-gatherer",
+            "genre": "French",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/SSS/46-Frnch/46-Frnch.pdf",
+            "tab": "${baseUrl}/tunes/SSS/46-Frnch/46-Frncht.pdf",
+            "audio": "${baseUrl}/tunes/SSS/46-Frnch/46-Frnch.mp3"
+          },
+          {
+            "name": "St Antoine",
+            "from": "nigel-gatherer",
+            "genre": "French",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/SSS/46-Frnch/46-Frnch.pdf",
+            "tab": "${baseUrl}/tunes/SSS/46-Frnch/46-Frncht.pdf",
+            "audio": "${baseUrl}/tunes/SSS/46-Frnch/46-Frnch.mp3"
+          },
+          {
+            "name": "St Joseph",
+            "from": "nigel-gatherer",
+            "genre": "French",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/SSS/46-Frnch/46-Frnch.pdf",
+            "tab": "${baseUrl}/tunes/SSS/46-Frnch/46-Frncht.pdf",
+            "audio": "${baseUrl}/tunes/SSS/46-Frnch/46-Frnch.mp3"
+          },
+          {
+            "name": "Itele",
+            "from": "nigel-gatherer",
+            "genre": "Romania",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=14",
+            "audio": "https://soundcloud.com/nigel-gatherer/12-itele?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Kulsko Horo",
+            "from": "nigel-gatherer",
+            "genre": "Bulgaria",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=13",
+            "audio": "https://soundcloud.com/nigel-gatherer/11-kulsko-horo?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Bufchansko",
+            "from": "nigel-gatherer",
+            "genre": "Macedonia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=12",
+            "audio": "https://soundcloud.com/nigel-gatherer/10-bufchansko?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Cerdetshni",
+            "from": "nigel-gatherer",
+            "genre": "Russia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=11",
+            "audio": "https://soundcloud.com/nigel-gatherer/09-cerdetshni?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Ambee Dageets",
+            "from": "nigel-gatherer",
+            "genre": "Armenia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=10",
+            "audio": "https://soundcloud.com/nigel-gatherer/08-ambee-dageets?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Cocek Kursturica",
+            "from": "nigel-gatherer",
+            "genre": "Serbia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=9",
+            "audio": "https://soundcloud.com/nigel-gatherer/07-cocek-kursturica?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Hai Zumba Zei",
+            "from": "nigel-gatherer",
+            "genre": "Lithuania",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=8",
+            "audio": "https://soundcloud.com/nigel-gatherer/06-polonez-warszawski?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Polonez Warszawski",
+            "from": "nigel-gatherer",
+            "genre": "Poland",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=7",
+            "audio": "https://soundcloud.com/nigel-gatherer/05-polonez-warszawski?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Lithuanian Polka",
+            "from": "nigel-gatherer",
+            "genre": "Lithuania",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=6",
+            "audio": "https://soundcloud.com/nigel-gatherer/04-lithuanian-polka?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Ali Pasa",
+            "from": "nigel-gatherer",
+            "genre": "Armenia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=5",
+            "audio": "https://soundcloud.com/nigel-gatherer/03-ali-pasa?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Drmes Iz Zdencine",
+            "from": "nigel-gatherer",
+            "genre": "Croatia",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=4",
+            "audio": "https://soundcloud.com/nigel-gatherer/02-drmes-iz-zdencine?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+          {
+            "name": "Promoroaca",
+            "from": "nigel-gatherer",
+            "genre": "Romania",
+            "type": "",
+            "composer": "",
+            "score": "",
+            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=3",
+            "audio": "https://soundcloud.com/nigel-gatherer/01-promoroaca?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
+            "video": ""
+          },
+
+
+          {
+            "name": "My Cape Breton Home",
+            "from": "nigel-gatherer",
+            "genre": "Cape Breton",
+            "type": "Slow Air",
+            "composer": "Jerry Holland",
+            "score": "${baseUrl}/tunes/M/MyCBH/MyCBH.pdf",
+            "tab": "${baseUrl}/tunes/M/MyCBH/MyCBHt.pdf",
+            "audio": "${baseUrl}/tunes/M/MyCBH/MyCBH_M.mp3",
+            "video": ""
+          },
+  {
+    "name": "Romios Agapise Romia",
+    "from": "nigel-gatherer",
+    "genre": "Greek",
+    "type": "",
+    "composer": "Giorgos Zampetas",
+    "score": "",
+    "tab": "http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/Romio/Romiot.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Gandzia Polka, The",
+    "from": "nigel-gatherer",
+    "genre": "Ukrainian",
+    "type": "",
+    "composer": "",
+    "score": "http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/Gandz/Gandz.pdf",
+    "tab": "http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/Gandz/Gandzt.pdf",
+    "audio": "http://www.nigelgatherer.com/tunes/tunes/zWorld/GHI/Gandz/Gandz_M.mp3"
+  },
+  {
+    "name": "Ash Grove, The",
+    "from": "nigel-gatherer",
+    "genre": "Welsh",
+    "type": "Air",
+    "composer": "Llwyn Onn",
+    "score": "http://www.nigelgatherer.com/tunes/tunes/zWorld/ABC/AshGr/AshGr.pdf",
+    "tab": "",
+    "audio": ""
+  },
+
   {
     "name": "Cotillion des Marionettes",
     "from": "nigel-gatherer",
     "genre": "World",
     "type": "French",
     "composer": "",
-    "score": "${baseUrl}/tunes/zWorldABC/CotMa/CotMa.pdf",
-    "tab": "${baseUrl}/tunes/zWorldABC/CotMa/CotMat.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/zWorld/ABC/CotMa/CotMa.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/CotMa/CotMat.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/ABC/CotMa/CotMa_M.mp3"
   },
   {
     "name": "Cotillion des Capitaine",
@@ -16,9 +255,9 @@
     "genre": "World",
     "type": "French",
     "composer": "",
-    "score": "${baseUrl}/tunes/zWorldABC/CotMa/CotMa.pdf",
-    "tab": "${baseUrl}/tunes/zWorldABC/CotMa/CotMat.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/zWorld/ABC/CotMa/CotMa.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/CotMa/CotMat.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/ABC/CotMa/CotMa_M.mp3"
   },
   {
     "name": "Bonny At Morn",
@@ -298,7 +537,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/zWorld/MNO/Mugee/Mugee.pdf",
     "tab": "${baseUrl}/tunes/zWorld/MNO/Mugee/Mugeet.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/Mugee/WzMat.mp3"
+    "audio": "${baseUrl}/tunes/zWorld/MNO/Mugee/WzMat_M.mp3"
   },
   {
     "name": "Korobushka",

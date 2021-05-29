@@ -1,0 +1,290 @@
+`
+[
+
+    {
+      "name": "Wheel Hoss",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "${baseUrl}/tunes/zAmerican/VWXYZ/WHoss/WHoss.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WHoss/WHosst.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/VWXYZ/WHoss/WHoss_M.mp3"
+    },
+
+    {
+      "name": "Tennessee Blues",
+      "key": "A",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "${baseUrl}/tunes/zAmerican/STU/TennB/TennB.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/STU/TennB/TennBt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/STU/TennB/TennB_M.mp3"
+    },
+    {
+      "name": "Tennessee Blues",
+      "key": "D",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "",
+      "tab": "${baseUrl}/tunes/zAmerican/STU/TennB/TennB-Dt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/STU/TennB/TennB-D_M.mp3"
+    },
+
+    {
+      "name": "Pike County Breakdown",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "${baseUrl}/tunes/zAmerican/PQR/PikeC/PikeC.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/PQR/PikeC/PikeCt.pdf",
+      "audio": ""
+    },
+    {
+      "name": "The Old Spinning Wheel",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Billy Hill",
+      "score": "${baseUrl}/tunes/zAmerican/MNO/OldSW/OldSW.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/MNO/OldSW/OldSWt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/MNO/OldSW/OldSW_M.mp3"
+    },
+    {
+      "name": "Long Journey Home",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "${baseUrl}/tunes/zAmerican/JKL/LongJ/LongJ.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/JKL/LongJ/LongJt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/JKL/LongJ/LongJ_M.mp3"
+    },
+
+    {
+      "name": "Jerusalem Ridge",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "${baseUrl}/tunes/zAmerican/JKL/JRdge/JRdge.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/JKL/JRdge/JRdget.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/JKL/JRdge/JRdge_M.mp3"
+    },
+    {
+
+      "name": "Kentucky Mandolin",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "${baseUrl}/tunes/zAmerican/JKL/KentM/KentM.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/JKL/KentM/KentMt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/JKL/KentM/KentM_M.mp3"
+    },
+   {
+      "name": "Big Sandy River",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe / Kenny Baker",
+      "score": "${baseUrl}/tunes/zAmerican/ABC/BigSR/BigSR.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/BigSR/BigSRt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/BigSR/BigSR_M.mp3"
+    },
+    {
+      "name": "Bill's Dream",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "${baseUrl}/tunes/zAmerican/ABC/BillD/BillD.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/BillD/BillDt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/BillD/BillD-BB.mp3"
+    },
+    {
+      "name": "Black Mountain Rag",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Leslie Keith",
+      "score": "${baseUrl}/tunes/zAmerican/ABC/BMRag/BMRag.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/BMRag/BMRagt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/BMRag/BMRag_M.mp3"
+    },
+    {
+      "name": "Bluegrass Stomp",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Bill Monroe",
+      "score": "${baseUrl}/tunes/zAmerican/ABC/BStmp/BStmp.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/BStmp/BStmpt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/BStmp/BStmp_M.mp3"
+    },
+
+          {
+            "name": "Clinch Mountain Backstep",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "Ralph Stanley",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/Clnch/Clnch.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/Clnch/Clncht.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/Clnch/Clnch_M.mp3"
+          },
+          {
+            "name": "Bluegrass Chime",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "Dixie Bruce",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BluCh/BluCh.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BluCh/BluCht.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BluCh/BluCh.mp3"
+          },
+          {
+            "name": "Blackberry Blossom",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BBlos/BBlos.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BBlos/BBlost.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BBlos/BBlos_M.mp3"
+          },
+          {
+            "name": "The GFW Mando Stomp",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "Laura-Beth Salter",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GFWMS/GFWMS.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GFWMS/GFWMSt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/GHI/GFWMS/GFWMS_M.mp3"
+          },
+          {
+            "name": "Red Wing",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "Kerry Mills",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RWing/RWing.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RWing/RWingt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/RWing/RWing_M.mp3"
+          },
+          {
+            "name": "Dixie Hoedown",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/DixiH/DixiH.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/DixiH/DixiHt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/DixiH/DixiH_M.mp3"
+          },
+          {
+            "name": "Fire On the Mountain",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/FireM/FireM.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/FireM/FireMt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/FireM/FireM_M.mp3"
+          },
+          {
+            "name": "Monroesque",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zAmerican/MNO/Monro/Monro.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/MNO/Monro/Monrot.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/MNO/Monro/Monro_M.mp3"
+          },
+          {
+            "name": "Lime Rock",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "Peacock",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LimeR/LimeR.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LimeR/LimeRt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Little Maggie",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LMagg/LMagg.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LMagg/LMaggt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Snowflake Reel",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/STU/SnowF/SnowF.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/STU/SnowF/SnowFt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/STU/SnowF/SnowF.mp3"
+          },
+
+
+          {
+            "name": "Up Jumped the Devil (1)",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmp.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmpt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmp_M.mp3"
+          },
+          {
+            "name": "Up Jumped the Devil (2)",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmp.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmpt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/STU/UpJmp/UpJmp_M.mp3"
+          },
+
+          {
+            "name": "Black Mountain Air",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "",
+            "composer": "Mark Schatz",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BMAir/BMAir.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BMAir/BMAirt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BMAir/BMAir_M.mp3"
+          },
+
+
+
+
+          {
+            "name": "Boston Boy",
+            "from": "nigel-gatherer",
+            "genre": "Bluegrass",
+            "type": "Reel",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BostB/BostB.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BostB/BostBt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/BostB/BostB_M.mp3"
+          }
+
+]
+`

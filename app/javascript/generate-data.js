@@ -76,6 +76,11 @@ var buildJSONFor = function(baseUrl) {
   let result = new Array();
   result.push(buildJSONStringForFile(baseUrl, "data-files/main-data.json"));
   result.push(buildJSONStringForFile(baseUrl, "data-files/hebridean-hopscotch.json"));
+  result.push(buildJSONStringForFile(baseUrl, "data-files/scottish.json"));
+  result.push(buildJSONStringForFile(baseUrl, "data-files/irish.json"));
+  result.push(buildJSONStringForFile(baseUrl, "data-files/old-time.json"));
+  result.push(buildJSONStringForFile(baseUrl, "data-files/bluegrass.json"));
+  result.push(buildJSONStringForFile(baseUrl, "data-files/classical.json"));
   result.push(buildJSONStringForFile(baseUrl, "data-files/world-music.json"));
 
   return result.reduce((acc, val) => acc.concat(val), []);;

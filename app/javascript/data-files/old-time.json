@@ -1,0 +1,479 @@
+`
+[
+
+          {
+            "name": "Cherry Orchard Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrW.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrWt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrW_M.mp3"
+          },
+          {
+            "name": "Down in the Old Cherry Orchard",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "S R Henry",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrW.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrWt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/ChOrW/ChOrW_M.mp3"
+          },
+          {
+            "name": "Gentle Annie",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Stephen Foster",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentAt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Beautiful Dreamer",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Stephen Foster",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentAt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Robinson Country",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCo.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCot.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCo-Kitty_M.mp3"
+          },
+          {
+            "name": "Kitty's Wedding",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCo.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCot.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCo-Kitty_M.mp3"
+          },
+          {
+            "name": "Gentle Annie",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Stephen Foster",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA2.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA2t.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Beautful Dreamer",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Stephen Foster",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA2.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GentA/GentA2t.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Fred Digs Up a Hornet's Nest",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Fred Keller",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/FredD/FredD.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/FredD/FredDt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/FredD/FredD_M.mp3"
+          },
+          {
+            "name": "Down Home Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "White",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/DownH/DownH.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/DownH/DownHt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/DownH/DownH_M.mp3"
+          },
+
+          {
+            "name": "Old Time Wedding Reel",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/O/OTWRs/OTWRs.pdf",
+            "tab": "${baseUrl}/tunes/O/OTWRs/OTWRst.pdf",
+            "audio": "${baseUrl}/tunes/O/OTWRs/OTWRs_M.mp3"
+          },
+
+          {
+            "name": "Pretty Little Cat",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/PLCat/PLCat.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/PLCat/PLCatt.pdf",
+            "audio": ""
+          },
+
+    {
+      "name": "Angeline the Baker",
+      "from": "nigel-gatherer",
+      "genre": "Old Time",
+      "type": "",
+      "score": "${baseUrl}/tunes/zAmerican/ABC/AngBk/AngBk.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/AngBk/AngBkt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/ABC/AngBk/AngBk_M.mp3"
+    },
+
+  {
+    "name": "All Around the Mountain",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/AAtMt/AAtMt.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/AAtMt/AAtMtt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "All-Go-Hungry Hash House",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/AGHHH/AGHHH.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/AGHHH/AGHHHt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Amazing Grace",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "Walker",
+    "score": "",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/AmazG/AmazGt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/AmazG/AmazG_W.mp3"
+  },
+  {
+    "name": "Annie Laurie",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/AnniL/AnniL.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/AnniL/AnniLt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/AnniL/AnniL_M.mp3"
+  },
+
+  {
+    "name": "Billy in the Low Ground",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/BLowg/BLowg.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/BLowg/BLowgt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/BLowg/BLowg_M.mp3"
+  },
+
+  {
+    "name": "Cripple Creek",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/CripC/CripC.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/CripC/CripCt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/CripC/CripC_M.mp3"
+  },
+  {
+    "name": "Ever See a Devil, Uncle Joe?",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/DEF/EvSee/EvSee.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/DEF/EvSee/EvSeet.pdf",
+    "audio": ""
+  },
+
+
+
+
+  {
+    "name": "Georgia Black Bottom",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/GHI/GaBlB/GaBlB.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/GHI/GaBlB/GaBlBt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Hop Lite Ladies",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/GHI/HopLL/HopLL.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/GHI/HopLL/HopLLt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/GHI/HopLL/HopLL_M.mp3"
+  },
+  {
+    "name": "Maple Sugar",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/MNO/MaplS/MaplS.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/MNO/MaplS/MaplSt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Old Joe Clark",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/MNO/OldJC/OldJC1.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/MNO/OldJC/OldJC1t.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/MNO/OldJC/OldJC1_M.mp3"
+  },
+  {
+    "name": "Ragtime Annie",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/PQR/RagtA/RagtA.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/PQR/RagtA/RagtA.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Seneca Square Dance",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zAmerican/STU/Senec/Senec.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/STU/Senec/Senect.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/STU/Senec/Senec_M.mp3"
+  },
+  {
+    "name": "When the Saints Go Marching In",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "",
+    "score": "",
+    "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WhenS/WhenSt.pdf",
+    "audio": ""
+  },
+
+  {
+    "name": "Battle Hymn of the Republic",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "Julia Ward Howe",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1t.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3"
+  },
+  {
+    "name": "Marching Through Georgia",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "Henry Clay Work",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1t.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3"
+  },
+  {
+    "name": "Dixie",
+    "from": "nigel-gatherer",
+    "genre": "Old Time",
+    "type": "",
+    "composer": "Dan Emmett",
+    "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1.pdf",
+    "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1t.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3"
+  },
+          {
+            "name": "Salt Creek",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/TOW/TOW87_SaltC/TOW87_SaltC.pdf",
+            "tab": "${baseUrl}/tunes/TOW/TOW87_SaltC/TOW87_SaltCt.pdf",
+            "audio": "${baseUrl}/tunes/TOW/TOW87_SaltC/TOW87_SaltC.mp3"
+          },
+          {
+            "name": "Cornstalk Fiddel and a Shoestring Bow",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornF.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornFt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornF-BarlK_M.mp3"
+          },
+          {
+            "name": "Barlow Knife",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornF.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornFt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/CornF/CornF-BarlK_M.mp3"
+          },
+          {
+            "name": "Home With the Girls in the Morning",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/HomeG/HomeG.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/HomeG/HomeGt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/GHI/HomeG/HomeG_M.mp3"
+          },
+          {
+            "name": "Georgiana Moon",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "Waltz",
+            "composer": "McMichen/Bryant",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/GMoon/GMoon.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/GMoon/GMoont.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Railroad Runs Through Georgia",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RRTGA/RRTGA.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RRTGA/RRTGAt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Walkin' in the Parlour",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/VWXYZ/WalkP/WalkP.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WalkP/WalkPt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/VWXYZ/WalkP/WalkP_M.mp3"
+          },
+          {
+            "name": "Little Liza Jane",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LLizJ/LLizJ.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LLizJ/LLizJt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/JKL/LLizJ/LLizJ1_M.mp3"
+          },
+          {
+            "name": "Liza Jane",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LizJ/LizJ.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LizJ/LizJt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/JKL/LizJ/LizJ_M.mp3"
+          },
+          {
+            "name": "Jaybird",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/JBird/JBird.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/JBird/JBirdt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Fiddle Head Reel",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/JBird/JBird.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/JBird/JBirdt.pdf",
+            "audio": ""
+          },
+
+          {
+            "name": "Lost Indian",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostI.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostIt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostI_M.mp3"
+          },
+          {
+            "name": "Snappin' Bug",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostI.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LostI/LostIt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/JKL/LostI/SnapB_M.mp3"
+          },
+          {
+            "name": "Wayfairing Stranger",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/VWXYZ/WayfS/WayfS.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WayfS/WayfSt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/VWXYZ/WayfS/WayfS_M.mp3",
+            "video": "https://www.youtube.com/watch?v=gIlbZAP8ASQ"
+          },
+
+    {
+      "name": "My Home's Across the Blue Ridge Mountains",
+      "from": "nigel-gatherer",
+      "genre": "Old Time",
+      "type": "",
+      "composer": "",
+      "score": "${baseUrl}/tunes/zAmerican/MNO/MHABR/MHABR.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/MNO/MHABR/MHABRt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/MNO/MHABR/MHABR_M.mp3"
+    },
+    {
+      "name": "The Tennessee Waltz",
+      "key": "D",
+      "from": "nigel-gatherer",
+      "genre": "Old Time",
+      "type": "Waltz",
+      "score": "http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWD.pdf",
+      "tab": "http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWDt.pdf",
+      "audio": "http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWD_M.mp3"
+    }
+
+  ]
+`
