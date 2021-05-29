@@ -5,6 +5,16 @@
 
 
           {
+            "name": "Dallas Rag",
+            "from": "nigel-gatherer",
+            "genre": "Ragtime",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/DallR/DallR.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/DallR/DallRt.pdf",
+            "audio": ""
+          },
+          {
             "name": "Star Wars Main Theme",
             "from": "nigel-gatherer",
             "genre": "Movie Soundtrack",
@@ -921,16 +931,6 @@
   },
 
   {
-    "name": "The Ale Is Dear",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab10/alede.html",
-    "audio": ""
-  },
-  {
     "name": "American Hornpipe",
     "from": "nigel-gatherer",
     "genre": "",
@@ -978,16 +978,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab3/auldl.html",
-    "audio": ""
-  },
-  {
-    "name": "The Back o' Benachie",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab3/backb.html",
     "audio": ""
   },
   {
@@ -1595,16 +1585,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab4/johno.html",
-    "audio": ""
-  },
-  {
-    "name": "John Stephen of Chance Inn",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab9/jonsc.html",
     "audio": ""
   },
   {
@@ -2389,16 +2369,6 @@
     "audio": ""
   },
   {
-    "name": "Wha Wadna Fecht for Charlie",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab8/whawf.html",
-    "audio": ""
-  },
-  {
     "name": "Within a Mile",
     "from": "nigel-gatherer",
     "genre": "",
@@ -2506,18 +2476,6 @@
     "tab": "${baseUrl}/tunes/zAmerican/STU/Take5/Take5t.pdf",
     "audio": ""
   },
-  {
-    "name": "Lara's Theme",
-    "from": "nigel-gatherer",
-    "genre": "Movie",
-    "type": "",
-    "composer": "Maurice Jarre",
-    "score": "${baseUrl}/tunes/zMisc/JKL/LaraT/LaraT.pdf",
-    "tab": "${baseUrl}/tunes/zMisc/JKL/LaraT/LaraTt.pdf",
-    "audio": "${baseUrl}/tunes/zMisc/JKL/LaraT/LaraT1-2_M.mp3"
-  },
-
-
   {
     "name": "Harry Lauder Medley No.1",
     "from": "nigel-gatherer",

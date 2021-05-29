@@ -2,6 +2,16 @@
 [
 
   {
+    "name": "Roly Gentle",
+    "from": "nigel-gatherer",
+    "genre": "England",
+    "type": "Air",
+    "composer": "Kathryn Tickell",
+    "score": "${baseUrl}/tunes/zWorld/PQR/RolyG/RolyG.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/PQR/RolyG/RolyGt.pdf",
+    "audio": ""
+  },
+  {
     "name": "Cape Breton Jig #2",
     "from": "nigel-gatherer",
     "genre": "",
@@ -184,18 +194,6 @@
             "audio": "https://soundcloud.com/nigel-gatherer/02-drmes-iz-zdencine?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
             "video": ""
           },
-          {
-            "name": "Promoroaca",
-            "from": "nigel-gatherer",
-            "genre": "Romania",
-            "type": "",
-            "composer": "",
-            "score": "",
-            "tab": "http://www.nigelgatherer.com/workshops/mandomania/mm10/MB17-EEurope-Dig.pdf#page=3",
-            "audio": "https://soundcloud.com/nigel-gatherer/01-promoroaca?in=nigel-gatherer/sets/mm10-eastern-european-melodies",
-            "video": ""
-          },
-
 
           {
             "name": "My Cape Breton Home",

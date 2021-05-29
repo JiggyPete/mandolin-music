@@ -479,16 +479,6 @@
     "audio": "${baseUrl}/tunes/B/BoysT/BoysT_M.mp3"
   },
   {
-    "name": "Britches Full of Stitches",
-    "from": "nigel-gatherer",
-    "genre": "Irish",
-    "type": "Polka",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tunes/B/Brtch/Brtcht.pdf",
-    "audio": "${baseUrl}/tunes/B/Brtch/Brtch_M.mp3"
-  },
-  {
     "name": "Cuil Aodha Polka",
     "from": "nigel-gatherer",
     "genre": "Irish",
@@ -986,16 +976,6 @@
             "score": "${baseUrl}/tunes/S/StPat/StPat.pdf",
             "tab": "${baseUrl}/tunes/S/StPat/StPatt.pdf",
             "audio": "${baseUrl}/tunes/S/StPat/StPaC-AmngF_M.mp3"
-          },
-          {
-            "name": "Christ Church Cathedral",
-            "from": "nigel-gatherer",
-            "genre": "Irish",
-            "type": "Air",
-            "composer": "John Sheahan",
-            "score": "${baseUrl}/tunes/S/StPat/StPat.pdf",
-            "tab": "${baseUrl}/tunes/S/StPat/StPatt.pdf",
-            "audio": "${baseUrl}/tunes/S/StPat/StPaC-ChChC_M.mp3"
           },
           {
             "name": "The Ballydesmond Polka",
