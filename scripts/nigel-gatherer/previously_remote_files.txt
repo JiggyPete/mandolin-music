@@ -2277,6 +2277,8 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/CripC/CripC.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/CripC/CripCt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DCowB/DCowBu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DSknk/DSknku.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DallR/DallR.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DallR/DallRt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DillP/DillP.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DillP/DillPt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DixiH/DixiH.pdf
@@ -3105,6 +3107,8 @@ http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/Reynr/Reynrt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RhudM/RhudM.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RhudM/RhudMt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RhudM/RhudMw.pdf
+http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RolyG/RolyG.pdf
+http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RolyG/RolyGt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/Romio/Romiot.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RothH/RothH.pdf
 http://www.nigelgatherer.com/tunes/tunes/zWorld/PQR/RothH/RothHt.pdf

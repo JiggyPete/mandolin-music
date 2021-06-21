@@ -2,6 +2,46 @@
 [
 
           {
+            "name": "Hermine",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Johan B Kok",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/Kok/Hermi/Hermi.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/Kok/Hermi/Hermit.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Rock the Cradle Joe",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RCJoe/RCJoe.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RCJoe/RCJoet.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Harry Reed's Breakdown",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/GHI/HReed/HReed.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/GHI/HReed/HReedt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Dry and Dusty",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/DryDu/DryDu.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/DryDu/DryDut.pdf",
+            "audio": ""
+          },
+          {
             "name": "Cherry Orchard Waltz",
             "from": "nigel-gatherer",
             "genre": "Old Time",
