@@ -2,6 +2,56 @@
 [
 
           {
+            "name": "Kitchen Girl",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/KGirl/KGirl.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/KGirl/KGirlt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/JKL/KGirl/KGirl_M.mp3"
+          },
+          {
+            "name": "Grandma Blair",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/MNO/OMolH/OMolH.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/MNO/OMolH/OMolHt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Old Molly Hare",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/MNO/OMolH/OMolH.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/MNO/OMolH/OMolHt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Over the Waterfall",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/MNO/OverW/OverW.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/MNO/OverW/OverWt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Soldier's Joy",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/STU/SoJoy/SoJoy.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/STU/SoJoy/SoJoyt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/STU/SoJoy/SoJoy_M.mp3"
+          },
+          {
             "name": "Hermine",
             "from": "nigel-gatherer",
             "genre": "Old Time",
@@ -22,14 +72,14 @@
             "audio": ""
           },
           {
-            "name": "Harry Reed's Breakdown",
+            "name": "Henry Reed's Breakdown",
             "from": "nigel-gatherer",
             "genre": "Old Time",
             "type": "",
             "composer": "",
             "score": "${baseUrl}/tunes/zAmerican/GHI/HReed/HReed.pdf",
             "tab": "${baseUrl}/tunes/zAmerican/GHI/HReed/HReedt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/zAmerican/GHI/HReed/HReed_M.mp3"
           },
           {
             "name": "Dry and Dusty",
@@ -39,7 +89,7 @@
             "composer": "",
             "score": "${baseUrl}/tunes/zAmerican/DEF/DryDu/DryDu.pdf",
             "tab": "${baseUrl}/tunes/zAmerican/DEF/DryDu/DryDut.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/DryDu/DryDu_M.mp3"
           },
           {
             "name": "Cherry Orchard Waltz",

@@ -2219,7 +2219,10 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AmazG/AmazGt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AmazG/AmazGu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AmazG/AmazGw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AngBk/AngBk.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AngBk/AngBkb.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AngBk/AngBkf.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AngBk/AngBkt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AngBk/AngBku.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AnniL/AnniL.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AnniL/AnniLt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AutLv/AutLv.pdf
@@ -2285,6 +2288,11 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DixiH/DixiH.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DixiH/DixiHt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DownH/DownH.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DownH/DownHt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DryDu/DryDu.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DryDu/DryDub.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DryDu/DryDuf.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DryDu/DryDut.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DryDu/DryDuu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/EvSee/EvSee.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/EvSee/EvSeet.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/FireM/FireM.pdf
@@ -2308,6 +2316,11 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/GentA/GentAt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/GentA/GentAw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/GentM/GentMu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/Glory/Gloryu.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HReed/HReed.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HReed/HReedb.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HReed/HReedf.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HReed/HReedt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HReed/HReedu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HeyGL/HeyGLu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HomeG/HomeG.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/GHI/HomeG/HomeGt.pdf
@@ -2372,6 +2385,11 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/Paper/Paperu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/PassK/PassKu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/PikeC/PikeC.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/PikeC/PikeCt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/RCJoe/RCJoe.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/RCJoe/RCJoeb.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/RCJoe/RCJoef.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/RCJoe/RCJoet.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/RCJoe/RCJoeu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/RRTGA/RRTGA.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/RRTGA/RRTGAt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/PQR/RWing/RWing.pdf
@@ -2478,6 +2496,8 @@ http://www.nigelgatherer.com/tunes/tunes/zClassical/GHI/Handel/SWrsh/SWrsht.pdf
 http://www.nigelgatherer.com/tunes/tunes/zClassical/GHI/Handel/SWrsh/SWrshw.pdf
 http://www.nigelgatherer.com/tunes/tunes/zClassical/GHI/Haydn/Surpr/Surpr.pdf
 http://www.nigelgatherer.com/tunes/tunes/zClassical/GHI/Haydn/Surpr/Surprt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zClassical/JKL/Kok/Hermi/Hermi.pdf
+http://www.nigelgatherer.com/tunes/tunes/zClassical/JKL/Kok/Hermi/Hermit.pdf
 http://www.nigelgatherer.com/tunes/tunes/zClassical/JKL/Leone/Bizar/Bizar.pdf
 http://www.nigelgatherer.com/tunes/tunes/zClassical/JKL/Leone/Bizar/Bizart.pdf
 http://www.nigelgatherer.com/tunes/tunes/zClassical/JKL/Leone/Chang/Chang.pdf
@@ -4037,7 +4057,7 @@ http://www.nigelgatherer.com/tunes/tunes/zComposers/DEF/FOcto/FOcto_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/GHI/GathW/GathW_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/JKL/JamLW/JamLW-JamiR_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/JKL/LBPlk/LBPlk-JennP_M.mp3
-http://www.nigelgatherer.com/tunes/tunes/zComposers/JKL/LionW/Nrnia%20set_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/zComposers/JKL/LionW/Nrnia-set_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/MNO/MaGFW/MaGFW_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/MNO/MonzH/MonzH_W.mp3
 http://www.nigelgatherer.com/tunes/tunes/zComposers/MNO/MsLud/MsLud.mp3
