@@ -819,26 +819,6 @@
   },
 
   {
-    "name": "Hoch Hey Johnnie Lad",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/std/std1/hochh.html",
-    "tab": "",
-    "audio": ""
-  },
-  {
-    "name": "Lord Drummond",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/std/std1/lordd.html",
-    "tab": "",
-    "audio": ""
-  },
-  {
     "name": "Mrs General Maxwell",
     "from": "nigel-gatherer",
     "genre": "",

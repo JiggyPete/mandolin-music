@@ -2,6 +2,16 @@
 [
 
   {
+    "name": "The Midwinter Waltz",
+    "from": "nigel-gatherer",
+    "genre": "England",
+    "type": "Waltz",
+    "composer": "Dave Richardson",
+    "score": "${baseUrl}/tunes/zWorld/MNO/MidwW/MidwW.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/MNO/MidwW/MidwW.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/MNO/MidwW/MidwW_W.mp3"
+  },
+  {
     "name": "Roly Gentle",
     "from": "nigel-gatherer",
     "genre": "England",

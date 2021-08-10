@@ -505,9 +505,9 @@
     "genre": "Irish",
     "type": "Polka",
     "composer": "",
-    "score": "${baseUrl}/tunes/E/EganP/EganP2.pdf",
-    "tab": "${baseUrl}/tunes/E/EganP/EganP2t.pdf",
-    "audio": "${baseUrl}/tunes/E/EganP/EganP_D_RyanP_M.mp3"
+    "score": "${baseUrl}/tunes/E/EganP2/EganP2.pdf",
+    "tab": "${baseUrl}/tunes/E/EganP2/EganP2t.pdf",
+    "audio": ""
   },
   {
     "name": "Egan's Polka",

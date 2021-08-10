@@ -1,6 +1,116 @@
 `
 [
   {
+    "name": "Jenny Tyed the Bonnet Tight",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/M/MsDru/MsDrP.pdf",
+    "tab": "${baseUrl}/tunes/M/MsDru/MsDrPt.pdf",
+    "audio": "${baseUrl}/tunes/M/MsDru/MsDru-DrumC_M.mp3"
+  },
+  {
+    "name": "Leaving Lismore",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "",
+    "score": "${baseUrl}/tunes/L/LLism/LLism.pdf",
+    "tab": "${baseUrl}/tunes/L/LLism/LLismt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Fil O Ro",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "",
+    "score": "${baseUrl}/tunes/L/LLism/LLism.pdf",
+    "tab": "${baseUrl}/tunes/L/LLism/LLismt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Jessie Smith",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Strathspey",
+    "composer": "",
+    "score": "${baseUrl}/tunes/J/JessS/JessS.pdf",
+    "tab": "${baseUrl}/tunes/J/JessS/JessSt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Lads o' Dunse",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/ILMyL/ILMyL.pdf",
+    "tab": "${baseUrl}/tunes/ILMyL/ILMyLt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Hoch Hey Johnnie Lad",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HochH/HochH.pdf",
+    "tab": "${baseUrl}/tunes/H/HochH/HochHt.pdf",
+    "audio": "${baseUrl}/tunes/H/HochH/HochH-LDrum_M.mp3"
+  },
+  {
+    "name": "Lord Drummond",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HochH/HochH.pdf",
+    "tab": "${baseUrl}/tunes/H/HochH/HochHt.pdf",
+    "audio": "${baseUrl}/tunes/H/HochH/HochH-LDrum_M.mp3"
+  },
+  {
+    "name": "The Great Eastern Strathspey",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Strathspey",
+    "composer": "A W Doig",
+    "score": "${baseUrl}/tunes/G/GEast/GEast.pdf",
+    "tab": "${baseUrl}/tunes/G/GEast/GEastt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Battle of Waterloo",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BattW/BattW.pdf",
+    "tab": "${baseUrl}/tunes/B/BattW/BattWt.pdf",
+    "audio": "${baseUrl}/tunes/B/BattW/BattW-WeeHL_M.mp3"
+  },
+  {
+    "name": "The Wee Highland Laddie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BattW/BattW.pdf",
+    "tab": "${baseUrl}/tunes/B/BattW/BattWt.pdf",
+    "audio": "${baseUrl}/tunes/B/BattW/BattW-WeeHL_M.mp3"
+  },
+  {
+    "name": "At Work on the Land",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "William Jackson",
+    "score": "${baseUrl}/tunes/A/AtWrk/AtWrk.pdf",
+    "tab": "${baseUrl}/tunes/A/AtWrk/AtWrkt.pdf",
+    "audio": ""
+  },
+  {
     "name": "Looking for a Partner",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -3565,7 +3675,7 @@
             "composer": "",
             "score": "${baseUrl}/tunes/Y/YelHL/YelHL.pdf",
             "tab": "${baseUrl}/tunes/Y/YelHL/YelHLt.pdf",
-            "audio": "${baseUrl}/tunes/Y/YelHL/YellH_M.mp3"
+            "audio": "${baseUrl}/tunes/Y/YHLad/YHLad_M.mp3"
           },
           {
             "name": "The Padlock",
