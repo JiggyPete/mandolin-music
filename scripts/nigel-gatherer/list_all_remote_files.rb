@@ -6,6 +6,7 @@ def fetch_website_dir_contents(url, data_bag)
   html = Net::HTTP.get(uri)
 
   process_html url, html, data_bag
+  print "."
 end
 
 def process_html(url, html, data_bag)
