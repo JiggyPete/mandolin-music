@@ -3,6 +3,26 @@
 
 
     {
+      "name": "Slieve Russell",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Jig",
+      "composer": "",
+      "score": "${baseUrl}/tunes/S/SlRus/SlRus.pdf",
+      "tab": "${baseUrl}/tunes/S/SlRus/SlRust.pdf",
+      "audio": ""
+    },
+    {
+      "name": "Jimmy Ward's",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Jig",
+      "composer": "",
+      "score": "${baseUrl}/tunes/S/SlRus/SlRus.pdf",
+      "tab": "${baseUrl}/tunes/S/SlRus/SlRust.pdf",
+      "audio": ""
+    },
+    {
       "name": "A Fig for a Kiss",
       "from": "nigel-gatherer",
       "genre": "Irish",

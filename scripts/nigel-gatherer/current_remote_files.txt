@@ -684,6 +684,8 @@ http://www.nigelgatherer.com/tunes/tunes/D/DBSal/DBSalw.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DDawn/DDawn.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DDawn/DDawnt.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DDawn/DDawnw.pdf
+http://www.nigelgatherer.com/tunes/tunes/D/DHump/DHump.pdf
+http://www.nigelgatherer.com/tunes/tunes/D/DHump/DHumpt.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DLuth/DLuth.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DLuth/DLuthc.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DLuth/DLutht.pdf
@@ -759,6 +761,8 @@ http://www.nigelgatherer.com/tunes/tunes/D/DrnkP/DrnkPt.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DrnkP/DrnkPw.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/Drunk/Drunk.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/Drunk/Drunkt.pdf
+http://www.nigelgatherer.com/tunes/tunes/D/DukeG/DukeG.pdf
+http://www.nigelgatherer.com/tunes/tunes/D/DukeG/DukeGt.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DukeP/DukeP.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DukeP/DukePc.pdf
 http://www.nigelgatherer.com/tunes/tunes/D/DukeP/DukePt.pdf
@@ -1530,6 +1534,8 @@ http://www.nigelgatherer.com/tunes/tunes/N/NLass/NLassc.pdf
 http://www.nigelgatherer.com/tunes/tunes/N/NLass/NLasst.pdf
 http://www.nigelgatherer.com/tunes/tunes/N/NLass/NLassu.pdf
 http://www.nigelgatherer.com/tunes/tunes/N/NLass/NLassw.pdf
+http://www.nigelgatherer.com/tunes/tunes/N/NMeet/NMeet.pdf
+http://www.nigelgatherer.com/tunes/tunes/N/NMeet/NMeett.pdf
 http://www.nigelgatherer.com/tunes/tunes/N/North/North.pdf
 http://www.nigelgatherer.com/tunes/tunes/N/North/Northc.pdf
 http://www.nigelgatherer.com/tunes/tunes/N/North/Northt.pdf
@@ -1855,6 +1861,8 @@ http://www.nigelgatherer.com/tunes/tunes/S/SkylS/SkylSc.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SkylS/SkylSt.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SkylS/SkylSu.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SkylS/SkylSw.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/SlRus/SlRus.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/SlRus/SlRust.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/Sleat/Sleat.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/Sleat/Sleatt.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/Sleep/Sleep.pdf
