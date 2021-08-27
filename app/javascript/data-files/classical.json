@@ -1,6 +1,26 @@
 `
 [
   {
+    "name": "Life Let Us Cherish",
+    "from": "nigel-gatherer",
+    "genre": "Classical",
+    "type": "",
+    "composer": "W A Mozart",
+    "score": "${baseUrl}/tunes/zClassical/MNO/Mozart/LifeL/LifeL.pdf",
+    "tab": "${baseUrl}/tunes/zClassical/MNO/Mozart/LifeL/LifeLt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Mazurka in A minor",
+    "from": "nigel-gatherer",
+    "genre": "Classical",
+    "type": "",
+    "composer": "Frederic Chopin",
+    "score": "${baseUrl}/tunes/zClassical/ABC/Chopin/MazAm/MazAm.pdf",
+    "tab": "${baseUrl}/tunes/zClassical/ABC/Chopin/MazAm/MazAmt.pdf",
+    "audio": ""
+  },
+  {
     "name": "The Sun Whose Rays",
     "from": "nigel-gatherer",
     "genre": "Classical",

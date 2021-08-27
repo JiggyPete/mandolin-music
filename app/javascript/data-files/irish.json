@@ -1,7 +1,25 @@
 `
 [
-
-
+    {
+      "name": "Lucy Farr's Barndance",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Barndance/Hornpipe",
+      "composer": "",
+      "score": "${baseUrl}/tunes/L/LucFB/LucFB.pdf",
+      "tab": "${baseUrl}/tunes/L/LucFB/LucFBt.pdf",
+      "audio": ""
+    },
+    {
+      "name": "Rocking the Baby",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Barndance/Hornpipe",
+      "composer": "",
+      "score": "${baseUrl}/tunes/L/LucFB/LucFB.pdf",
+      "tab": "${baseUrl}/tunes/L/LucFB/LucFBt.pdf",
+      "audio": ""
+    },
     {
       "name": "Slieve Russell",
       "from": "nigel-gatherer",

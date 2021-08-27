@@ -2,6 +2,26 @@
 [
 
           {
+            "name": "Chicken Reel",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/Chckn/Chckn.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/Chckn/Chcknt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Dusty Miller",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/Chckn/Chckn.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/Chckn/Chcknt.pdf",
+            "audio": ""
+          },
+          {
             "name": "Kitchen Girl",
             "from": "nigel-gatherer",
             "genre": "Old Time",

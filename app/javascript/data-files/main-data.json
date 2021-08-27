@@ -1788,16 +1788,6 @@
     "audio": "${baseUrl}/tunes/zAmerican/MNO/MidnW/MidnW_M.mp3"
   },
   {
-    "name": "Michael's Mazurka",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab5/mmaz1.html",
-    "audio": ""
-  },
-  {
     "name": "Miss Oliphant",
     "from": "nigel-gatherer",
     "genre": "",

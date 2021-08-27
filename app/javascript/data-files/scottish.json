@@ -1,6 +1,96 @@
 `
 [
   {
+    "name": "Many a Thing I Saw",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/M/ManyT/ManyT.pdf",
+    "tab": "${baseUrl}/tunes/M/ManyT/ManyTt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Tatties an' Herrin'",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Allan MacDonald",
+    "score": "${baseUrl}/tunes/M/ManyT/ManyT.pdf",
+    "tab": "${baseUrl}/tunes/M/ManyT/ManyTt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Island I Left",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "",
+    "score": "${baseUrl}/tunes/I/ILeft/ILeft.pdf",
+    "tab": "${baseUrl}/tunes/I/ILeft/ILeftt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Westering Home",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "",
+    "score": "${baseUrl}/tunes/I/ILeft/ILeft.pdf",
+    "tab": "${baseUrl}/tunes/I/ILeft/ILeftt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "I Bhi Ada",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Schottische",
+    "composer": "",
+    "score": "${baseUrl}/tunes/I/IBhiA/IBhiA.pdf",
+    "tab": "${baseUrl}/tunes/I/IBhiA/IBhiAt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Highlander's Revenge",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Bruce MacGregor",
+    "score": "${baseUrl}/tunes/H/HiRev/HiRev.pdf",
+    "tab": "${baseUrl}/tunes/H/HiRev/HiRevt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Clanranald",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Strathspey",
+    "composer": "",
+    "score": "${baseUrl}/tunes/C/ClanR/ClanR.pdf",
+    "tab": "${baseUrl}/tunes/C/ClanR/ClanRt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Ballachulish Glen",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BallG/BallG.pdf",
+    "tab": "${baseUrl}/tunes/B/BallG/BallGt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Aly's Waltz",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "Terry Rasmussen",
+    "score": "${baseUrl}/tunes/A/AlysW/AlysW.pdf",
+    "tab": "${baseUrl}/tunes/A/AlysW/AlysWt.pdf",
+    "audio": ""
+  },
+  {
     "name": "The Northern Meeting",
     "from": "nigel-gatherer",
     "genre": "Scottish",
