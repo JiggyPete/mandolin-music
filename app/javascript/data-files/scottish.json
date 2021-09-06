@@ -1,6 +1,56 @@
 `
 [
   {
+    "name": "Ronas Voe",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "Ronnie Cooper",
+    "score": "${baseUrl}/tunes/R/RnasV/RnasV.pdf",
+    "tab": "${baseUrl}/tunes/R/RnasV/RnasVt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Starry Nights o' Shetland",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "",
+    "score": "${baseUrl}/tunes/R/RnasV/RnasV.pdf",
+    "tab": "${baseUrl}/tunes/R/RnasV/RnasVt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Lament for Abercairney",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Lament",
+    "composer": "Neil Gow",
+    "score": "${baseUrl}/tunes/L/LmntA/LmntA.pdf",
+    "tab": "${baseUrl}/tunes/L/LmntA/LmntAt.pdf",
+    "audio": "${baseUrl}/tunes/L/LmntA/LmntA_M.mp3"
+  },
+  {
+    "name": "Lament for Abercairney (decorated)",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Lament",
+    "composer": "Neil Gow",
+    "score": "${baseUrl}/tunes/L/LmntA/LmntA.pdf",
+    "tab": "${baseUrl}/tunes/L/LmntA/LmntAt.pdf",
+    "audio": "${baseUrl}/tunes/L/LmntA/LmntA2_M.mp3"
+  },
+  {
+    "name": "Sally Hunter of Thurston",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Nathaniel Gow",
+    "score": "${baseUrl}/tunes/C/CHunt/CHunt.pdf",
+    "tab": "${baseUrl}/tunes/C/CHunt/CHuntt.pdf",
+    "audio": ""
+  },
+  {
     "name": "Many a Thing I Saw",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -8,7 +58,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/M/ManyT/ManyT.pdf",
     "tab": "${baseUrl}/tunes/M/ManyT/ManyTt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/M/ManyT/ManyT-TattH_M.mp3"
   },
   {
     "name": "Tatties an' Herrin'",
@@ -18,7 +68,7 @@
     "composer": "Allan MacDonald",
     "score": "${baseUrl}/tunes/M/ManyT/ManyT.pdf",
     "tab": "${baseUrl}/tunes/M/ManyT/ManyTt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/M/ManyT/ManyT-TattH_M.mp3"
   },
   {
     "name": "The Island I Left",
@@ -58,7 +108,7 @@
     "composer": "Bruce MacGregor",
     "score": "${baseUrl}/tunes/H/HiRev/HiRev.pdf",
     "tab": "${baseUrl}/tunes/H/HiRev/HiRevt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/H/HiRev/HiRev-MuttF_M.mp3"
   },
   {
     "name": "Clanranald",
@@ -118,7 +168,7 @@
     "composer": "Wm Marshall",
     "score": "${baseUrl}/tunes/D/DukeG/DukeG.pdf",
     "tab": "${baseUrl}/tunes/D/DukeG/DukeGt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/D/DukeG/DukeG-LordL_M.mp3"
   },
   {
     "name": "Lord Lyndoch",
@@ -128,7 +178,7 @@
     "composer": "P Agnew",
     "score": "${baseUrl}/tunes/D/DukeG/DukeG.pdf",
     "tab": "${baseUrl}/tunes/D/DukeG/DukeGt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/D/DukeG/DukeG-LordL_M.mp3"
   },
   {
     "name": "Daughter of the Humpbacked Woman",
@@ -138,7 +188,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/D/DHump/DHump.pdf",
     "tab": "${baseUrl}/tunes/D/DHump/DHumpt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/D/DHump/DHump-THead_M.mp3"
   },
   {
     "name": "Thunderhead",
@@ -148,7 +198,7 @@
     "composer": "Gray Larsen",
     "score": "${baseUrl}/tunes/D/DHump/DHump.pdf",
     "tab": "${baseUrl}/tunes/D/DHump/DHumpt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/D/DHump/DHump-THead_M.mp3"
   },
   {
     "name": "Jenny Tyed the Bonnet Tight",
@@ -158,7 +208,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/M/MsDru/MsDrP.pdf",
     "tab": "${baseUrl}/tunes/M/MsDru/MsDrPt.pdf",
-    "audio": "${baseUrl}/tunes/M/MsDru/MsDru-DrumC_M.mp3"
+    "audio": "${baseUrl}/tunes/M/MsDru/MsDrP-Janet_M.mp3"
   },
   {
     "name": "Leaving Lismore",
@@ -168,7 +218,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/L/LLism/LLism.pdf",
     "tab": "${baseUrl}/tunes/L/LLism/LLismt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/L/LLism/LLism-FilOR_M.mp3"
   },
   {
     "name": "Fil O Ro",
@@ -178,7 +228,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/L/LLism/LLism.pdf",
     "tab": "${baseUrl}/tunes/L/LLism/LLismt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/L/LLism/LLism-FilOR_M.mp3"
   },
   {
     "name": "Jessie Smith",
@@ -188,7 +238,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/J/JessS/JessS.pdf",
     "tab": "${baseUrl}/tunes/J/JessS/JessSt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/J/JessS/JessS-RachR_M.mp3"
   },
   {
     "name": "Lads o' Dunse",
@@ -3825,7 +3875,7 @@
             "composer": "",
             "score": "${baseUrl}/tunes/Y/YelHL/YelHL.pdf",
             "tab": "${baseUrl}/tunes/Y/YelHL/YelHLt.pdf",
-            "audio": "${baseUrl}/tunes/Y/YHLad/YHLad_M.mp3"
+            "audio": "${baseUrl}/tunes/Y/YHLad/YellH_M.mp3"
           },
           {
             "name": "The Padlock",

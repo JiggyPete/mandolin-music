@@ -1,6 +1,16 @@
 `
 [
   {
+    "name": "Toreador Song",
+    "from": "nigel-gatherer",
+    "genre": "Classical",
+    "type": "",
+    "composer": "Georges Bizet",
+    "score": "${baseUrl}/tunes/zClassical/ABC/Bizet/Torea/Torea.pdf",
+    "tab": "${baseUrl}/tunes/zClassical/ABC/Bizet/Torea/Toreat.pdf",
+    "audio": "${baseUrl}/tunes/zClassical/ABC/Bizet/Torea/Torea_W.mp3"
+  },
+  {
     "name": "Life Let Us Cherish",
     "from": "nigel-gatherer",
     "genre": "Classical",

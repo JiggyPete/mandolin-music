@@ -613,7 +613,7 @@
     "composer": "Paul Anderson",
     "score": "${baseUrl}/tunes/F/FngCv/FngCv.pdf",
     "tab": "${baseUrl}/tunes/F/FngCv/FngCvt.pdf",
-    "audio": "${baseUrl}/tunes/F/FngCv/FngCv-FingC_M.mp3"
+    "audio": "${baseUrl}/tunes/F/FngCv/FngCv3-FngCv1_M.mp3"
   },
   {
     "name": "Fingal's Cave (1)",
@@ -623,7 +623,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/F/FngCv/FngCv.pdf",
     "tab": "${baseUrl}/tunes/F/FngCv/FngCvt.pdf",
-    "audio": "${baseUrl}/tunes/F/FngCv/FngCv-FingC_M.mp3"
+    "audio": "${baseUrl}/tunes/F/FngCv/FngCv3-FngCv1_M.mp3"
   },
   {
     "name": "The Dark Island",

@@ -1,6 +1,16 @@
 `
 [
     {
+      "name": "The Crow in the Sun",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Air",
+      "composer": "Daithi Sproule",
+      "score": "${baseUrl}/tunes/C/CrowS/CrowS.pdf",
+      "tab": "${baseUrl}/tunes/C/CrowS/CrowSt.pdf",
+      "audio": "${baseUrl}/tunes/C/CrowS/CrowS_M.mp3"
+    },
+    {
       "name": "Lucy Farr's Barndance",
       "from": "nigel-gatherer",
       "genre": "Irish",
@@ -28,7 +38,7 @@
       "composer": "",
       "score": "${baseUrl}/tunes/S/SlRus/SlRus.pdf",
       "tab": "${baseUrl}/tunes/S/SlRus/SlRust.pdf",
-      "audio": ""
+      "audio": "${baseUrl}/tunes/S/SlRus/SlRus-JimyW_M.mp3"
     },
     {
       "name": "Jimmy Ward's",
@@ -38,7 +48,7 @@
       "composer": "",
       "score": "${baseUrl}/tunes/S/SlRus/SlRus.pdf",
       "tab": "${baseUrl}/tunes/S/SlRus/SlRust.pdf",
-      "audio": ""
+      "audio": "${baseUrl}/tunes/S/SlRus/SlRus-JimyW_M.mp3"
     },
     {
       "name": "A Fig for a Kiss",

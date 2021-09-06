@@ -1,9 +1,26 @@
 `
 [
 
-
-
-
+          {
+            "name": "Speak Softly, Love (The Godfather Theme",
+            "from": "nigel-gatherer",
+            "genre": "Soundtrack",
+            "type": "",
+            "composer": "Nino Rota",
+            "score": "${baseUrl}/tunes/zMisc/STU/SpSoL/SpSoL.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/STU/SpSoL/SpSoLt.pdf",
+            "audio": "${baseUrl}/tunes/zMisc/STU/SpSoL/SpSoL.pdf"
+          },
+          {
+            "name": "Pig Ankle Rag",
+            "from": "nigel-gatherer",
+            "genre": "Ragtime",
+            "type": "",
+            "composer": "Maimie E Williams",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/PigAR/PigAR.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/PigAR/PigARt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/PigAR/PigAR_MG.mp3"
+          },
           {
             "name": "Dallas Rag",
             "from": "nigel-gatherer",
@@ -1170,16 +1187,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab6/cenn.html",
-    "audio": ""
-  },
-  {
-    "name": "Charlie Hunter",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/abc/abc1/charli.abc",
     "audio": ""
   },
   {

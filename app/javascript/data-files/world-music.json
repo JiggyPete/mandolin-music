@@ -2,6 +2,16 @@
 [
 
   {
+    "name": "Como Ilora una Estrella",
+    "from": "nigel-gatherer",
+    "genre": "Venezuela",
+    "type": "Waltz",
+    "composer": "Antonio Carrillo",
+    "score": "${baseUrl}/tunes/zWorld/ABC/ComoL/ComoL.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/ComoL/ComoLt.pdf",
+    "audio": ""
+  },
+  {
     "name": "The Midwinter Waltz",
     "from": "nigel-gatherer",
     "genre": "England",

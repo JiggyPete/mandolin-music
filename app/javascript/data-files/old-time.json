@@ -9,7 +9,7 @@
             "composer": "",
             "score": "${baseUrl}/tunes/zAmerican/ABC/Chckn/Chckn.pdf",
             "tab": "${baseUrl}/tunes/zAmerican/ABC/Chckn/Chcknt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/Chckn/Chckn_M.mp3"
           },
           {
             "name": "Dusty Miller",
@@ -19,7 +19,7 @@
             "composer": "",
             "score": "${baseUrl}/tunes/zAmerican/ABC/Chckn/Chckn.pdf",
             "tab": "${baseUrl}/tunes/zAmerican/ABC/Chckn/Chcknt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/Chckn/DustM_M.mp3"
           },
           {
             "name": "Kitchen Girl",
