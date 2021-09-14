@@ -2,6 +2,26 @@
 [
 
     {
+      "name": "Dawg's Waltz",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "Waltz",
+      "composer": "David Grisman",
+      "score": "${baseUrl}/tunes/zAmerican/DEF/DawgW/DawgW.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/DEF/DawgW/DawgWt.pdf",
+      "audio": ""
+    },
+    {
+      "name": "Azalea Waltz",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "Waltz",
+      "composer": "K Chiavola",
+      "score": "${baseUrl}/tunes/zAmerican/ABC/AzalW/AzalW.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/ABC/AzalW/AzalWt.pdf",
+      "audio": ""
+    },
+    {
       "name": "Wheel Hoss",
       "from": "nigel-gatherer",
       "genre": "Bluegrass",

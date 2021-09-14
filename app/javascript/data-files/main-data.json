@@ -2,7 +2,37 @@
 [
 
           {
-            "name": "Speak Softly, Love (The Godfather Theme",
+            "name": "The Navvy On the Line",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Hornpipe",
+            "composer": "James Hill",
+            "score": "${baseUrl}/tunes/N/Navvy/Navvy.pdf",
+            "tab": "${baseUrl}/tunes/N/Navvy/Navvyt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Lochmaben Hornpipe",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/N/Navvy/Navvy.pdf",
+            "tab": "${baseUrl}/tunes/N/Navvy/Navvyt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Smith's Hornpipe",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Hornpipe",
+            "composer": "",
+            "score": "${baseUrl}/tunes/S/SmthH/SmthH.pdf",
+            "tab": "${baseUrl}/tunes/S/SmthH/SmthHt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Speak Softly, Love (The Godfather Theme)",
             "from": "nigel-gatherer",
             "genre": "Soundtrack",
             "type": "",

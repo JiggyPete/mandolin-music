@@ -1,6 +1,26 @@
 `
 [
   {
+    "name": "Gin Ye Kiss My Wife",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Strathspey",
+    "composer": "",
+    "score": "${baseUrl}/tunes/G/GinYe/GinYe.pdf",
+    "tab": "${baseUrl}/tunes/G/GinYe/GinYet.pdf",
+    "audio": "${baseUrl}/tunes/G/GinYe/GinYe-GillR_M.mp3"
+  },
+  {
+    "name": "Gillian's Reel",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Peter Milne",
+    "score": "${baseUrl}/tunes/G/GinYe/GinYe.pdf",
+    "tab": "${baseUrl}/tunes/G/GinYe/GinYet.pdf",
+    "audio": "${baseUrl}/tunes/G/GinYe/GinYe-GillR_M.mp3"
+  },
+  {
     "name": "Ronas Voe",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -138,7 +158,7 @@
     "composer": "Terry Rasmussen",
     "score": "${baseUrl}/tunes/A/AlysW/AlysW.pdf",
     "tab": "${baseUrl}/tunes/A/AlysW/AlysWt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/A/AlysW/AlysW_M.mp3"
   },
   {
     "name": "The Northern Meeting",

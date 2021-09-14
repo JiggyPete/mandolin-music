@@ -1011,6 +1011,8 @@ http://www.nigelgatherer.com/tunes/tunes/G/GerRg/GerRgw.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/GieUs/GieUs.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/GieUs/GieUst.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/GieUs/GieUsw.pdf
+http://www.nigelgatherer.com/tunes/tunes/G/GinYe/GinYe.pdf
+http://www.nigelgatherer.com/tunes/tunes/G/GinYe/GinYet.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/GirlB/GirlBt.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/GlasH/GlasH.pdf
 http://www.nigelgatherer.com/tunes/tunes/G/GlasH/GlasHc.pdf
@@ -1534,8 +1536,8 @@ http://www.nigelgatherer.com/tunes/tunes/M/MsDru/MsDru.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MsDru/MsDrut.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MsGay/MsGay.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MsGay/MsGayt.pdf
-http://www.nigelgatherer.com/tunes/tunes/M/MsHay/MsHaY.pdf
-http://www.nigelgatherer.com/tunes/tunes/M/MsHay/MsHaYw.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MsHay/MsHay.pdf
+http://www.nigelgatherer.com/tunes/tunes/M/MsHay/MsHayw.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MsMcK/MsMcK.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MsMcK/MsMcKt.pdf
 http://www.nigelgatherer.com/tunes/tunes/M/MsMcL/MsMcL.pdf
@@ -1915,6 +1917,8 @@ http://www.nigelgatherer.com/tunes/tunes/S/Slock/Slocku.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/Slock/Slockw.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/Smith/Smith.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/Smith/Smitht.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/SmthH/SmthH.pdf
+http://www.nigelgatherer.com/tunes/tunes/S/SmthH/SmthHt.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SnugB/SnugB.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SnugB/SnugBc.pdf
 http://www.nigelgatherer.com/tunes/tunes/S/SnugB/SnugBt.pdf
@@ -2308,6 +2312,8 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AnniL/AnniL.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AnniL/AnniLt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AutLv/AutLv.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AutLv/AutLvt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AzalW/AzalW.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/AzalW/AzalWt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BBRag/BBRag.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BBRag/BBRagt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/ABC/BBlos/BBlos.pdf
@@ -2365,6 +2371,8 @@ http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DCowB/DCowBu.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DSknk/DSknku.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DallR/DallR.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DallR/DallRt.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DawgW/DawgW.pdf
+http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DawgW/DawgWt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DillP/DillP.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DillP/DillPt.pdf
 http://www.nigelgatherer.com/tunes/tunes/zAmerican/DEF/DixiH/DixiH.pdf
@@ -3534,6 +3542,7 @@ http://www.nigelgatherer.com/tunes/tunes/A/AirTu/AirTu_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AirdR/AirdR-PutMe_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AlDun/AlDun-CockG_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AlesD/AlesD-HRoad_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/A/AlysW/AlysW_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AmngF/AmngF_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AndyR/AndyR_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/A/AngMc/AngMc-BonTS_M.mp3
@@ -3747,6 +3756,7 @@ http://www.nigelgatherer.com/tunes/tunes/G/GentL/GentL_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GeoB2/GeoB2-Hewlt_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GerRg/GerRg-WWont_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GieUs/GieUs-Lexie_M.mp3
+http://www.nigelgatherer.com/tunes/tunes/G/GinYe/GinYe-GillR_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GlasH/GlasH-CropS_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GlenH/GlenH-LDuck_M.mp3
 http://www.nigelgatherer.com/tunes/tunes/G/GlenP/GlenP_W.mp3
