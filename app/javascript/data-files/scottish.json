@@ -5586,36 +5586,6 @@
             "audio": ""
           },
           {
-            "name": "Why Left I My Home",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Air",
-            "composer": "",
-            "score": "${baseUrl}/tunes/W/WhyLI/WhyLI.pdf",
-            "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
-            "audio": "${baseUrl}/tunes/W/WhyLI/WhyLI-set_M.mp3"
-          },
-          {
-            "name": "There Was a Lad",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Air",
-            "composer": "",
-            "score": "${baseUrl}/tunes/W/WhyLI/WhyLI.pdf",
-            "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
-            "audio": "${baseUrl}/tunes/W/WhyLI/WhyLI-set_M.mp3"
-          },
-          {
-            "name": "A Man's a Man",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Air",
-            "composer": "Robert Burns",
-            "score": "${baseUrl}/tunes/W/WhyLI/WhyLI.pdf",
-            "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
-            "audio": "${baseUrl}/tunes/W/WhyLI/WhyLI-set_M.mp3"
-          },
-          {
             "name": "Bayble Island",
             "from": "nigel-gatherer",
             "genre": "Scottish",

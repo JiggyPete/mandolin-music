@@ -1,6 +1,26 @@
 `
 [
   {
+    "name": "September's End",
+    "from": "nigel-gatherer",
+    "genre": "",
+    "type": "",
+    "composer": "Nigel Gatherer",
+    "score": "${baseUrl}/tunes/zComposers/STU/SeptE/SeptE.pdf",
+    "tab": "",
+    "audio": ""
+  },
+  {
+    "name": "Buttercups and Daisies",
+    "from": "nigel-gatherer",
+    "genre": "Classical",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zClassical/ABC/BizetAnon/Bcups/Bcups.pdf",
+    "tab": "${baseUrl}/tunes/zClassical/ABC/Anon/Bcups/Bcupst.pdf",
+    "audio": ""
+  },
+  {
     "name": "Toreador Song",
     "from": "nigel-gatherer",
     "genre": "Classical",
