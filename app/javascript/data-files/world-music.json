@@ -9,7 +9,7 @@
     "composer": "Antonio Carrillo",
     "score": "${baseUrl}/tunes/zWorld/ABC/ComoL/ComoL.pdf",
     "tab": "${baseUrl}/tunes/zWorld/ABC/ComoL/ComoLt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/zWorld/ABC/ComoL/ComoL_M.mp3"
   },
   {
     "name": "The Midwinter Waltz",

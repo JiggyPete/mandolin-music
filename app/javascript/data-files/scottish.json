@@ -68,7 +68,7 @@
     "composer": "Nathaniel Gow",
     "score": "${baseUrl}/tunes/C/CHunt/CHunt.pdf",
     "tab": "${baseUrl}/tunes/C/CHunt/CHuntt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/C/CHunt/CHunt-SallH_M.mp3"
   },
   {
     "name": "Many a Thing I Saw",
@@ -138,7 +138,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/C/ClanR/ClanR.pdf",
     "tab": "${baseUrl}/tunes/C/ClanR/ClanRt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/C/ClanR/ClanR_M.mp3"
   },
   {
     "name": "Ballachulish Glen",
@@ -6619,7 +6619,7 @@
     "type": "Jig",
     "composer": "Bobby MacLeod",
     "score": "${baseUrl}/tunes/R/RockC/RockC.pdf",
-    "tab": "${baseUrl}/tunes/R/RockC/RockCt.pdf",
+    "tab": "${baseUrl}/tunes/R/RockC/RockCt.pd",
     "audio": "${baseUrl}/tunes/R/RockC/RockC-CHunt_M.mp3"
   },
   {
