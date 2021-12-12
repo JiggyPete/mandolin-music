@@ -1,6 +1,76 @@
 `
 [
   {
+    "name": "Why Left I My Home",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WhyLI/WhyLI.pdf",
+    "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "There Was a lad",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WhyLI/WhyLI.pdf",
+    "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "A Man's a Man for A'  That",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WhyLI/WhyLI.pdf",
+    "tab": "${baseUrl}/tunes/W/WhyLI/WhyLIt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "My Love She's But a Lassie Yet",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/M/MyLov/MyLov.pdf",
+    "tab": "${baseUrl}/tunes/M/MyLov/MyLovt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Davie Davie Knick Knack",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/M/MyLov/MyLov.pdf",
+    "tab": "${baseUrl}/tunes/M/MyLov/MyLovt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "High Road to Gairloch",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HGair/HGair.pdf",
+    "tab": "${baseUrl}/tunes/H/HGair/HGairt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Highland Laddie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HGair/HGair.pdf",
+    "tab": "${baseUrl}/tunes/H/HGair/HGairt.pdf",
+    "audio": ""
+  },
+  {
     "name": "Gin Ye Kiss My Wife",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -4428,9 +4498,19 @@
             "genre": "Scottish",
             "type": "March",
             "composer": "James Mitchell",
-            "score": "${baseUrl}/tunes/SSS/61-HauHo/61-HauHo.pdf",
-            "tab": "${baseUrl}/tunes/SSS/61-HauHo/61-HauHot.pdf",
+            "score": "${baseUrl}/tunes/H/HauHo/HauHo.pdf",
+            "tab": "${baseUrl}/tunes/H/HauHo/HauHot.pdf",
             "audio": "${baseUrl}/tunes/SSS/61-HauHo/61-HauHo.mp3"
+          },
+          {
+            "name": "Jane at Leslie's Bar",
+            "from": "nigel-gatherer",
+            "genre": "Scottish",
+            "type": "March",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/H/HauHo/HauHo.pdf",
+            "tab": "${baseUrl}/tunes/H/HauHo/HauHot.pdf",
+            "audio": ""
           },
           {
             "name": "Lochiel's Welcome to Glasgow",

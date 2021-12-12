@@ -2,6 +2,16 @@
 [
 
           {
+            "name": "Whiskey Before Breakfast",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/VWXYZ/WBefB/WBefB.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/WBefB/WBefBt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/VWXYZ/WBefB/WBefB_M.mp3"
+          },
+          {
             "name": "Chicken Reel",
             "from": "nigel-gatherer",
             "genre": "Old Time",

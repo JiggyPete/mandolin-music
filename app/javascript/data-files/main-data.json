@@ -2,6 +2,106 @@
 [
 
           {
+            "name": "Wooden Heart",
+            "from": "nigel-gatherer",
+            "genre": "60s",
+            "type": "",
+            "composer": "Fred Wise, Ben Weisman, Kay Twomey, Bert Kaempfert",
+            "score": "${baseUrl}/tunes/zPopRock/VWXYZ/WoodH/WoodH.pdf",
+            "tab": "",
+            "audio": "${baseUrl}/tunes/zPopRock/VWXYZ/WoodH/WoodH_W.mp3"
+          },
+          {
+            "name": "White Christmas",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Irving Berlin",
+            "score": "${baseUrl}/tunes/zMisc/VWXYZ/White/White.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/VWXYZ/White/Whitet.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Silent Night",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Franz Xaver Gruber",
+            "score": "${baseUrl}/tunes/zMisc/STU/Silnt/Silnt.pdf.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/STU/Silnt/Silnt.pdftt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Fairytale of New York",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "Jem Finer/Shane MacGowan",
+            "score": "${baseUrl}/tunes/zMisc/DEF/FToNY/FToNY.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/DEF/FToNY/FToNYt.pdf",
+            "audio": "${baseUrl}/tunes/zMisc/DEF/FToNY/FToNY_M.mp3"
+          },
+          {
+            "name": "Ding Dong Merrily On High",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zMisc/DEF/DingD/DingD.pdf",
+            "tab": "${baseUrl}/tunes/zMisc/DEF/DingD/DingDt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Sarah Nelson O.B.E.",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Strathspey",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zComposers/STU/SNels/SNels.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/STU/SNels/SNelst.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Willow Street Reel",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Reel",
+            "composer": "Nigel Gatherer",
+            "score": "${baseUrl}/tunes/zComposers/STU/SNels/SNels.pdf",
+            "tab": "${baseUrl}/tunes/zComposers/STU/SNels/SNelst.pdf",
+            "audio": ""
+          },
+          {
+            "name": "On the Seventh Day",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Blues",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/MNO/On7th/On7th.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/MNO/On7th/On7tht.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Holy Corner Blues",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Blues",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/MNO/On7th/On7th.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/MNO/On7th/On7tht.pdf",
+            "audio": ""
+          },
+          {
+            "name": "Blues Ain't Nothing",
+            "from": "nigel-gatherer",
+            "genre": "",
+            "type": "Blues",
+            "composer": "Georgia White",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/BAint/BAint.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/BAint/BAintt.pdf",
+            "audio": ""
+          },
+          {
             "name": "The Navvy On the Line",
             "from": "nigel-gatherer",
             "genre": "",
@@ -2401,9 +2501,29 @@
     "genre": "Christmas",
     "type": "Carol",
     "composer": "",
-    "score": "${baseUrl}/tunes/C/ChChL/ChChL.pdf",
-    "tab": "${baseUrl}/tunes/C/ChChL/ChChLt.pdf",
-    "audio": "${baseUrl}/tunes/C/ChChL/ChChL_M.mp3"
+    "score": "${baseUrl}/tunes/C/ChChL/ChChL1.pdf",
+    "tab": "${baseUrl}/tunes/C/ChChL/ChChL1t.pdf",
+    "audio": "${baseUrl}/tunes/C/ChChL/ChChL1_W.mp3"
+  },
+  {
+    "name": "The Christ Child's Lullaby (2)",
+    "from": "nigel-gatherer",
+    "genre": "Christmas",
+    "type": "Carol",
+    "composer": "",
+    "score": "${baseUrl}/tunes/C/ChChL/ChChL2.pdf",
+    "tab": "${baseUrl}/tunes/C/ChChL/ChChL2t.pdf",
+    "audio": "${baseUrl}/tunes/C/ChChL/ChChL2_M.mp3"
+  },
+  {
+    "name": "The Christ Child's Lullaby (3)",
+    "from": "nigel-gatherer",
+    "genre": "Christmas",
+    "type": "Carol",
+    "composer": "",
+    "score": "${baseUrl}/tunes/C/ChChL/ChChL3.pdf",
+    "tab": "${baseUrl}/tunes/C/ChChL/ChChL3t.pdf",
+    "audio": "${baseUrl}/tunes/C/ChChL/ChChL3_M.mp3"
   },
     {
       "name": "Fear a' Phige",

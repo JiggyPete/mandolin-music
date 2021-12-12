@@ -1,6 +1,36 @@
 `
 [
     {
+      "name": "Morrion's Jig",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Jig",
+      "composer": "",
+      "score": "${baseUrl}/tunes/M/MorrJ/MorrJ.pdf",
+      "tab": "${baseUrl}/tunes/M/MorrJ/MorrJt.pdf",
+      "audio": "${baseUrl}/tunes/M/MorrJ/MorrJ_M.mp3"
+    },
+    {
+      "name": "The Chanter's Song",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Air",
+      "composer": "",
+      "score": "${baseUrl}/tunes/C/ChntS/ChntS.pdf",
+      "tab": "${baseUrl}/tunes/C/ChntS/ChntSt.pdf",
+      "audio": "${baseUrl}/tunes/C/ChntS/ChntS_M.mp3"
+    },
+    {
+      "name": "Buachaill on Eirne (Lad from the Erne)",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Air",
+      "composer": "",
+      "score": "${baseUrl}/tunes/B/BuchE/BuchE.pdf",
+      "tab": "${baseUrl}/tunes/B/BuchE/BuchEt.pdf",
+      "audio": "${baseUrl}/tunes/B/BuchE/BuchE_w.mp3"
+    },
+    {
       "name": "The Crow in the Sun",
       "from": "nigel-gatherer",
       "genre": "Irish",
@@ -475,6 +505,16 @@
     "score": "${baseUrl}/tunes/B/BBoru/BBoru.pdf",
     "tab": "${baseUrl}/tunes/B/BBoru/BBorut.pdf",
     "audio": "${baseUrl}/tunes/B/BBoru/BBoru_M.mp3"
+  },
+  {
+    "name": "Brian Boru's March (2)",
+    "from": "nigel-gatherer",
+    "genre": "Irish",
+    "type": "March",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BBoru/BBoru2.pdf",
+    "tab": "${baseUrl}/tunes/B/BBoru/BBoru2t.pdf",
+    "audio": "${baseUrl}/tunes/B/BBoru/BBoru2_W.mp3"
   },
   {
     "name": "The Downfall of Paris",

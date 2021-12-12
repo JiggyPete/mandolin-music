@@ -2,6 +2,16 @@
 [
 
   {
+    "name": "Trottolina",
+    "from": "nigel-gatherer",
+    "genre": "Italian",
+    "type": "Polka",
+    "composer": "F Mantini",
+    "score": "${baseUrl}/tunes/zWorld/STU/Trott/Trott.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/STU/Trott/Trottt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/STU/Trott/Trott_M.mp3"
+  },
+  {
     "name": "Como Ilora una Estrella",
     "from": "nigel-gatherer",
     "genre": "Venezuela",
