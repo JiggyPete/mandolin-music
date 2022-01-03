@@ -49,7 +49,7 @@
             "composer": "",
             "score": "${baseUrl}/tunes/zMisc/DEF/DingD/DingD.pdf",
             "tab": "${baseUrl}/tunes/zMisc/DEF/DingD/DingDt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/zMisc/DEF/DingD/DingD_U.mp3"
           },
           {
             "name": "Sarah Nelson O.B.E.",
@@ -259,7 +259,7 @@
             "composer": "",
             "score": "${baseUrl}/tunes/zMisc/DEF/DeckH/DeckH.pdf",
             "tab": "${baseUrl}/tunes/zMisc/DEF/DeckH/DeckHt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/zMisc/DEF/DeckH/DeckH_U.mp3"
           },
           {
             "name": "The Gathering Waltz",
