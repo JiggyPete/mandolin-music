@@ -2,6 +2,25 @@
 [
 
           {
+            "name": "Last of the Summer Wine",
+            "from": "nigel-gatherer",
+            "genre": "Movie Theme",
+            "type": "",
+            "composer": "Ronnie Hazlehurst",
+            "score": "${baseUrl}/tunes/zMisc/JKL/LastS/LastS.pdf",
+            "tab": "",
+            "audio": "${baseUrl}/tunes/zMisc/JKL/LastS/LastS_W.mp3"
+          },
+          {
+            "name": "Robin Hood",
+            "from": "nigel-gatherer",
+            "genre": "Movie Theme",
+            "type": "",
+            "composer": "Edwin Astley",
+            "score": "${baseUrl}/tunes/zMisc/JKL/LastS/LastS.pdf",
+            "tab": "",
+            "audio": "${baseUrl}/tunes/zMisc/JKL/LastS/RobnH_W.mp3"
+          },          {
             "name": "Wooden Heart",
             "from": "nigel-gatherer",
             "genre": "60s",
@@ -2451,8 +2470,8 @@
     "genre": "",
     "type": "",
     "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab4/trump.html",
+    "score": "${baseUrl}/tunes/T/Trump/Trump.pdf",
+    "tab": "${baseUrl}/tunes/T/Trump/Trumpt.pdf",
     "audio": ""
   },
   {
@@ -2791,9 +2810,9 @@
     "genre": "60s",
     "type": "",
     "composer": "Lennon/McCartney",
-    "score": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.pdf",
-    "tab": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1t.pdf",
-    "audio": "${baseUrl}/tunes/zPopRock/ABC/BeatM/BeatM1.mp3"
+    "score": "${baseUrl}/tunes/zPopRock/DEF/FromM/FromM.pdf",
+    "tab": "${baseUrl}/tunes/zPopRock/DEF/FromM/FromMt.pdf",
+    "audio": "${baseUrl}/tunes/zPopRock/DEF/FromM/FromM_W.mp3"
   },
   {
     "name": "For No One",

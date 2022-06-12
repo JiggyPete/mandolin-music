@@ -2,6 +2,27 @@
 [
 
   {
+    "name": "Comecou de Braincadeira (It Started as a Joke)",
+    "from": "nigel-gatherer",
+    "genre": "Brazilian",
+    "type": "Bossa nova",
+    "composer": "Mascarenhas",
+    "score": "${baseUrl}/tunes/zWorld/ABC/Comec/Comec.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/Comec/Comect.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/ABC/Comec/Comec_M.mp3"
+  },
+  {
+    "name": "Razao de Viver (Reason for Living)",
+    "from": "nigel-gatherer",
+    "genre": "Brazilian",
+    "type": "Bossa nova",
+    "composer": "Deodata/Valle",
+    "score": "${baseUrl}/tunes/zWorld/ABC/Comec/Comec.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/ABC/Comec/Comect.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/ABC/Comec/Comec_M.mp3"
+  },
+
+  {
     "name": "Trottolina",
     "from": "nigel-gatherer",
     "genre": "Italian",
@@ -513,9 +534,9 @@
     "genre": "World",
     "type": "Quebec",
     "composer": "Bouchard",
-    "score": "",
+    "score": "{baseUrl}/tunes/zWorld/PQR/RMalb/RMalb.pdf",
     "tab": "${baseUrl}/tunes/zWorld/PQR/RMalb/RMalbt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/zWorld/PQR/RMalb/RMalb-REugn_W.mp3"
   },
   {
     "name": "Promoroaca",
@@ -1204,9 +1225,19 @@
             "genre": "English",
             "type": "2/4 Reel",
             "composer": "Tom Clough",
-            "score": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl.pdf",
-            "tab": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAlt.pdf",
-            "audio": "${baseUrl}/tunes/zWorld/JKL/JimAl/JimAl-HerdH_M.mp3"
+            "score": "${baseUrl}/tunes/zWorld/GHI/HerdH/HerdH.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/GHI/HerdH/HerdHt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/GHI/HerdH/HerdH-ElsyM_M.mp3"
+          },
+          {
+            "name": "Elsie Marley",
+            "from": "nigel-gatherer",
+            "genre": "English",
+            "type": "Jig",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zWorld/GHI/HerdH/HerdH.pdf",
+            "tab": "${baseUrl}/tunes/zWorld/GHI/HerdH/HerdHt.pdf",
+            "audio": "${baseUrl}/tunes/zWorld/GHI/HerdH/HerdH-ElsyM_M.mp3"
           },
           {
             "name": "Jump At the Sun",

@@ -2,6 +2,36 @@
 [
 
     {
+      "name": "Jitterbug Waltz",
+      "from": "nigel-gatherer",
+      "genre": "Jazz",
+      "type": "",
+      "composer": "Fats Waller",
+      "score": "${baseUrl}/tunes/zAmerican/JKL/JitbW/JitbW.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/JKL/JitbW/JitbWt.pdf",
+      "audio": "${baseUrl}/tunes/zAmerican/JKL/JitbW/JitBW_M.mp3"
+    },
+    {
+      "name": "In the Pines (1)",
+      "from": "nigel-gatherer",
+      "genre": "Blues",
+      "type": "",
+      "composer": "",
+      "score": "${baseUrl}/tunes/zAmerican/GHI/InPns/InPns1.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/GHI/InPns/InPns1t.pdf",
+      "audio": ""
+    },
+    {
+      "name": "In the Pines (2)",
+      "from": "nigel-gatherer",
+      "genre": "Blues",
+      "type": "",
+      "composer": "",
+      "score": "${baseUrl}/tunes/zAmerican/GHI/InPns/InPns2.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/GHI/InPns/InPns2t.pdf",
+      "audio": ""
+    },
+    {
       "name": "Dawg's Waltz",
       "from": "nigel-gatherer",
       "genre": "Bluegrass",

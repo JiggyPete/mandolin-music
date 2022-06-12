@@ -1,6 +1,16 @@
 `
 [
     {
+      "name": "Music in the Glen",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Reel",
+      "composer": "",
+      "score": "${baseUrl}/tunes/M/MGlen/MGlen.pdf",
+      "tab": "${baseUrl}/tunes/M/MGlen/MGlent.pdf",
+      "audio": ""
+    },
+    {
       "name": "Morrion's Jig",
       "from": "nigel-gatherer",
       "genre": "Irish",

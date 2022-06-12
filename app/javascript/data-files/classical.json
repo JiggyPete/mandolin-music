@@ -1,6 +1,26 @@
 `
 [
   {
+    "name": "Orlando Sleepeth",
+    "from": "nigel-gatherer",
+    "genre": "Classical",
+    "type": "",
+    "composer": "John Dowland",
+    "score": "${baseUrl}/tunes/zClassical/DEF/Dowland/Orlan/Orlan.pdf",
+    "tab": "${baseUrl}/tunes/zClassical/DEF/Dowland/Orlan/Orlant.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Mr Downland's Midnight",
+    "from": "nigel-gatherer",
+    "genre": "Classical",
+    "type": "",
+    "composer": "John Dowland",
+    "score": "${baseUrl}/tunes/zClassical/DEF/Dowland/Orlan/Orlan.pdf",
+    "tab": "${baseUrl}/tunes/zClassical/DEF/Dowland/Orlan/Orlant.pdf",
+    "audio": ""
+  },
+  {
     "name": "Brandenburg Concerto No.2 1st Movement",
     "from": "nigel-gatherer",
     "genre": "Classical",

@@ -2,6 +2,118 @@
 `
 [
   {
+    "name": "Tulchan Lodge",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "James Scott Skinner",
+    "score": "${baseUrl}/tunes/T/Tulch/Tulch.pdf",
+    "tab": "${baseUrl}/tunes/T/Tulch/Tulcht.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Spey in Spate",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "James Scott Skinner",
+    "score": "${baseUrl}/tunes/S/SpeyS/SpeyS.pdf",
+    "tab": "${baseUrl}/tunes/S/SpeyS/SpeySt.pdf",
+    "audio": "${baseUrl}/tunes/S/SpeyS/SpeyS_M.mp3"
+  },
+
+  {
+    "name": "The Sound of Mull",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Waltz",
+    "composer": "",
+    "score": "${baseUrl}/tunes/tunes/S/SMull/SMull.pdf",
+    "tab": "${baseUrl}/tunes/tunes/S/SMull/SMullt.pdf",
+    "audio": "${baseUrl}/tunes/tunes/S/SMull/SMull_M.mp3"
+  },
+  {
+    "name": "The Milltimber Jig",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Ian Crichton",
+    "score": "${baseUrl}/tunes/tunes/M/MillT/MillT.pdf",
+    "tab": "${baseUrl}/tunes/tunes/M/MillT/MillTt.pdf",
+    "audio": "${baseUrl}/tunes/tunes/M/MillT/MillT-BonCB_M.mp3"
+  },
+  {
+    "name": "Bonnie Cluden Mill",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Max Houliston",
+    "score": "${baseUrl}/tunes/tunes/M/MillT/MillT.pdf",
+    "tab": "${baseUrl}/tunes/tunes/M/MillT/MillTt.pdf",
+    "audio": "${baseUrl}/tunes/tunes/M/MillT/MillT-BonCB_M.mp3"
+  },
+  {
+    "name": "Largo Law",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/tunes/L/Largo/Largo.pdf",
+    "tab": "${baseUrl}/tunes/tunes/L/Largo/Largot.pdf",
+    "audio": "${baseUrl}/tunes/tunes/L/Largo/Largo-AinKD_W.mp3"
+  },
+  {
+    "name": "Ain Kind Dearie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/tunes/L/Largo/Largo.pdf",
+    "tab": "${baseUrl}/tunes/tunes/L/Largo/Largot.pdf",
+    "audio": "${baseUrl}/tunes/tunes/L/Largo/Largo-AinKD_W.mp3"
+  },
+  {
+    "name": "Forneth House",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Robert Petrie",
+    "score": "${baseUrl}/tunes/tunes/F/FornH/FornH.pdf",
+    "tab": "${baseUrl}/tunes/tunes/F/FornH/FornHt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Farewell to Fiunary",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/tunes/F/FFiun/FFiun.pdf",
+    "tab": "${baseUrl}/tunes/tunes/F/FFiun/FFiunt.pdf",
+    "audio": "${baseUrl}/F/FFiun/FFiun_W.mp3"
+  },
+  {
+    "name": "Eriskay Love Lilt",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/tunes/F/FFiun/FFiun.pdf",
+    "tab": "${baseUrl}/tunes/tunes/F/FFiun/FFiunt.pdf",
+    "audio": "${baseUrl}/F/FFiun/ErskL_W.mp3"
+  },
+  {
+    "name": "Annie Laurie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/tunes/A/AnniL/AnniL.pdf",
+    "tab": "${baseUrl}/tunes/tunes/A/AnniL/AnniLt.pdf",
+    "audio": "${baseUrl}/tunes/zAmerican/ABC/AnniL/AnniL_M.mp3"
+  },
+
+  {
     "name": "Whittamore Road",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -9,7 +121,7 @@
     "composer": "Donald Shaw",
     "score": "${baseUrl}/tunes/W/WhitR/WhitR.pdf",
     "tab": "${baseUrl}/tunes/W/WhitR/WhitRt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/W/WhitR/WhitR_M.mp3"
   },
   {
     "name": "William's Ghost",
@@ -19,7 +131,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/W/WillG/WillG.pdf",
     "tab": "${baseUrl}/tunes/W/WillG/WillGt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/W/WillG/WillG-CockL_M.mp3"
   },
   {
     "name": "The Cock Laird",
@@ -29,7 +141,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/W/WillG/WillG.pdf",
     "tab": "${baseUrl}/tunes/W/WillG/WillGt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/W/WillG/WillG-CockL_M.mp3"
   },
   {
     "name": "The Thistle and the Rose",
@@ -39,7 +151,7 @@
     "composer": "Bert Murray",
     "score": "${baseUrl}/tunes/T/ThisR/ThisR.pdf",
     "tab": "${baseUrl}/tunes/T/ThisR/ThisRt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/T/ThisR/ThisR_M.mp3"
   },
   {
     "name": "The Stroopie Brae",
@@ -49,7 +161,7 @@
     "composer": "Ian Duncan",
     "score": "${baseUrl}/tunes/S/StrpB/StrpB.pdf",
     "tab": "${baseUrl}/tunes/S/StrpB/StrpBt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/S/StrpB/StrpB-CrosW_M.mp3"
   },
   {
     "name": "Crossing Warness",
@@ -59,7 +171,7 @@
     "composer": "Stewart Shearer",
     "score": "${baseUrl}/tunes/S/StrpB/StrpB.pdf",
     "tab": "${baseUrl}/tunes/S/StrpB/StrpBt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/S/StrpB/StrpB-CrosW_M.mp3"
   },
   {
     "name": "The Steamboat",
@@ -69,7 +181,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/S/Steam/Steam.pdf",
     "tab": "${baseUrl}/tunes/S/Steam/Steamt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/S/Steam/Steam-AnchS_M.mp3"
   },
   {
     "name": "The Anchor Steam Reel",
@@ -79,7 +191,7 @@
     "composer": "Brian McNeill",
     "score": "${baseUrl}/tunes/S/Steam/Steam.pdf",
     "tab": "${baseUrl}/tunes/S/Steam/Steamt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/S/Steam/Steam-AnchS_M.mp3"
   },
   {
     "name": "St Patrick Was a Gentleman",
@@ -89,7 +201,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/S/SntPG/SntPG.pdf",
     "tab": "${baseUrl}/tunes/S/SntPG/SntPGt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/S/SntPG/SntPG-StPtR_M.mp3"
   },
   {
     "name": "St Patrick's Reel",
@@ -99,7 +211,7 @@
     "composer": "Dan Hugh MacEachern",
     "score": "${baseUrl}/tunes/S/SntPG/SntPG.pdf",
     "tab": "${baseUrl}/tunes/S/SntPG/SntPGt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/S/SntPG/SntPG-StPtR_M.mp3"
   },
   {
     "name": "Shake a Leg",
@@ -129,7 +241,7 @@
     "composer": "Brian McNeill",
     "score": "${baseUrl}/tunes/M/Montr/Montr.pdf",
     "tab": "${baseUrl}/tunes/M/Montr/Montrt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/M/Montr/Montr_M.mp3"
   },
   {
     "name": "MacLeods's Farewell",
@@ -139,7 +251,7 @@
     "composer": "Donald Shaw",
     "score": "${baseUrl}/tunes/M/McLFw/McLFw.pdf",
     "tab": "${baseUrl}/tunes/M/McLFw/McLFwt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/M/McLFw/McLFw-CrTay_M.mp3"
   },
   {
     "name": "Crossing the Tay",
@@ -149,7 +261,7 @@
     "composer": "Emily Smith",
     "score": "${baseUrl}/tunes/M/McLFw/McLFw.pdf",
     "tab": "${baseUrl}/tunes/M/McLFw/McLFwt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/M/McLFw/McLFw-CrTay_M.mp3"
   },
   {
     "name": "The Lady of Ardross",
@@ -159,7 +271,7 @@
     "composer": "Stuart Eaglesham",
     "score": "${baseUrl}/tunes/L/LArdr/LArdr.pdf",
     "tab": "${baseUrl}/tunes/L/LArdr/LArdrt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/L/LArdr/LArdr_M.mp3"
   },
   {
     "name": "King Robert the Bruce (2)",
@@ -169,7 +281,7 @@
     "composer": "Archibald Morrison",
     "score": "${baseUrl}/tunes/K/KingR/KingR.pdf",
     "tab": "${baseUrl}/tunes/K/KingR/KingRt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/K/KingR/KingR_M.mp3"
   },
   {
     "name": "Johnstown Reel",
@@ -179,7 +291,7 @@
     "composer": "Rebecca Knorr",
     "score": "${baseUrl}/tunes/J/JnstR/JnstR.pdf",
     "tab": "${baseUrl}/tunes/J/JnstR/JnstRt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/J/JnstR/JnstR-UndrW_M.mp3"
   },
   {
     "name": "The Underwater Gardener",
@@ -189,7 +301,7 @@
     "composer": "Sarah Northcott",
     "score": "${baseUrl}/tunes/J/JnstR/JnstR.pdf",
     "tab": "${baseUrl}/tunes/J/JnstR/JnstRt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/J/JnstR/JnstR-UndrW_M.mp3"
   },
   {
     "name": "The Hills of Atholl",
@@ -199,7 +311,7 @@
     "composer": "Freeland Barbour",
     "score": "${baseUrl}/tunes/H/HilsA/HilsA.pdf",
     "tab": "${baseUrl}/tunes/H/HilsA/HilsAt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/H/HilsA/HilsA_M.mp3"
   },
   {
     "name": "The Grey Widow's Song",
@@ -209,7 +321,7 @@
     "composer": "Michael Bennett",
     "score": "${baseUrl}/tunes/G/GreyW/GreyW.pdf",
     "tab": "${baseUrl}/tunes/G/GreyW/GreyWt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/G/GreyW/GreyW-GravY_M.mp3"
   },
   {
     "name": "The Graveyard",
@@ -219,7 +331,7 @@
     "composer": "Nigel Gatherer",
     "score": "${baseUrl}/tunes/G/GreyW/GreyW.pdf",
     "tab": "${baseUrl}/tunes/G/GreyW/GreyWt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/G/GreyW/GreyW-GravY_M.mp3"
   },
   {
     "name": "The Declaration of Arbroath",
@@ -229,7 +341,7 @@
     "composer": "Michael Bennett",
     "score": "${baseUrl}/tunes/D/DArbr/DArbr.pdf",
     "tab": "${baseUrl}/tunes/D/DArbr/DArbrt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/D/DArbr/DArbr-DeclJ_M.mp3"
   },
   {
     "name": "The Declaration Jig",
@@ -239,7 +351,7 @@
     "composer": "Michael Bennett",
     "score": "${baseUrl}/tunes/D/DArbr/DArbr.pdf",
     "tab": "${baseUrl}/tunes/D/DArbr/DArbrt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/D/DArbr/DArbr-DeclJ_M.mp3"
   },
   {
     "name": "The Christening Piece",
@@ -249,7 +361,7 @@
     "composer": "Stuart Eydmann",
     "score": "${baseUrl}/tunes/C/ChrsP/ChrsP.pdf",
     "tab": "${baseUrl}/tunes/C/ChrsP/ChrsPt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/C/ChrsP/ChrsP_M.mp3"
   },
   {
     "name": "Fred's Advice",
@@ -259,7 +371,7 @@
     "composer": "Ross Ainslie",
     "score": "${baseUrl}/tunes/C/ChrsP/ChrsP.pdf",
     "tab": "${baseUrl}/tunes/C/ChrsP/ChrsPt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/C/ChrsP/FredA_M.mp3"
   },
   {
     "name": "The Farmer's Daughter",
@@ -269,7 +381,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/C/CFrmr/CFrmr.pdf",
     "tab": "${baseUrl}/tunes/C/CFrmr/CFrmr.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/C/CFrmr/CFrmr-FarmD_M.mp3"
   },
   {
     "name": "The Broomielaw",
@@ -279,7 +391,7 @@
     "composer": "William Jackson",
     "score": "${baseUrl}/tunes/B/Broom/Broom.pdf",
     "tab": "${baseUrl}/tunes/B/Broom/Broomt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/Broom/Broom-NewBG_M.mp3"
   },
   {
     "name": "The New Bridge of Glasgow",
@@ -289,7 +401,7 @@
     "composer": "T Porteous",
     "score": "${baseUrl}/tunes/B/Broom/Broom.pdf",
     "tab": "${baseUrl}/tunes/B/Broom/Broomt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/Broom/Broom-NewBG_M.mp3"
   },
   {
     "name": "Braeroy Road",
@@ -299,7 +411,7 @@
     "composer": "Donald Grant",
     "score": "${baseUrl}/tunes/B/BraeR/BraeR.pdf",
     "tab": "${baseUrl}/tunes/B/BraeR/BraeRt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/BraeR/BraeR-MyraJ_M.mp3"
   },
   {
     "name": "Myra's Jig",
@@ -309,7 +421,7 @@
     "composer": "Ian Lowthian",
     "score": "${baseUrl}/tunes/B/BraeR/BraeR.pdf",
     "tab": "${baseUrl}/tunes/B/BraeR/BraeRt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/BraeR/BraeR-MyraJ_M.mp3"
   },
   {
     "name": "Blackness Castle",
@@ -319,7 +431,7 @@
     "composer": "Marie Fielding",
     "score": "${baseUrl}/tunes/B/Bness/Bness.pdf",
     "tab": "${baseUrl}/tunes/B/Bness/Bnesst.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/Bness/Bness-LexiM_M.mp3"
   },
   {
     "name": "Lexi's March",
@@ -329,7 +441,7 @@
     "composer": "Carla Blain",
     "score": "${baseUrl}/tunes/B/Bness/Bness.pdf",
     "tab": "${baseUrl}/tunes/B/Bness/Bnesst.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/Bness/Bness-LexiM_M.mp3"
   },
   {
     "name": "Belle Mere's Waltz",
@@ -339,7 +451,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/B/BelMW/BelMW.pdf",
     "tab": "${baseUrl}/tunes/B/BelMW/BelMWt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/BelMW/BelMW_M.mp3"
   },
   {
     "name": "Banks o’ Clyde",
@@ -349,7 +461,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/B/BankC/BankC.pdf",
     "tab": "${baseUrl}/tunes/B/BankC/BankCt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/BankC/BankC_M.mp3"
   },
   {
     "name": "The Back Peddling Mudgaurd",
@@ -359,7 +471,7 @@
     "composer": "Mickie Ainsworth",
     "score": "${baseUrl}/tunes/B/BackP/BackP.pdf",
     "tab": "${baseUrl}/tunes/B/BackP/BackPt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/BackP/BackP-TBell_M.mp3"
   },
   {
     "name": "The Bell",
@@ -589,7 +701,7 @@
     "composer": "",
     "score": "${baseUrl}/tunes/B/BallG/BallG.pdf",
     "tab": "${baseUrl}/tunes/B/BallG/BallGt.pdf",
-    "audio": ""
+    "audio": "${baseUrl}/tunes/B/BallG/BallG_W.mp3"
   },
   {
     "name": "Aly's Waltz",
@@ -1050,9 +1162,9 @@
       "from": "nigel-gatherer",
       "genre": "Scottish",
       "type": "",
-      "score": "${baseUrl}/tunes/E/EganP/EganP.pdf",
-      "tab": "${baseUrl}/tunes/E/EganP/EganPt.pdf",
-      "audio": "${baseUrl}/tunes/E/EganP/EganP_M.mp3"
+      "score": "${baseUrl}/tunes/B/Brtch/Brtch.pdf",
+      "tab": "${baseUrl}/tunes/B/Brtch/Brtcht.pdf",
+      "audio": "${baseUrl}/tunes/B/Brtch/Brtch_M.mp3"
     },
     {
       "name": "Cropie's Strathspey",
@@ -5780,7 +5892,7 @@
             "composer": "Jenna Reid",
             "score": "${baseUrl}/tunes/B/BethW/BethW.pdf",
             "tab": "${baseUrl}/tunes/B/BethW/BethWt.pdf",
-            "audio": ""
+            "audio": "${baseUrl}/tunes/B/BethW/BethW_M.mp3"
           },
           {
             "name": "Balchraggan",
@@ -6904,36 +7016,6 @@
     "audio": ""
   },
   {
-    "name": "Captain Byng",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/C/Corpl/Corpl.pdf",
-    "tab": "${baseUrl}/tunes/C/Corpl/Corplt.pdf",
-    "audio": "${baseUrl}/tunes/C/Corpl/Corpl-set_M.mp3"
-  },
-  {
-    "name": "Colonel Lumsden D.S.O.",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Reel",
-    "composer": "M Ferguson",
-    "score": "",
-    "tab": "${baseUrl}/tunes/B/BFFla/BFFlat.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Corporal, The",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/C/Corpl/Corpl.pdf",
-    "tab": "${baseUrl}/tunes/C/Corpl/Corplt.pdf",
-    "audio": "${baseUrl}/tunes/C/Corpl/Corpl-set_M.mp3"
-  },
-  {
     "name": "Davie Davie Knick Knack",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -7554,15 +7636,6 @@
     "audio": ""
   },
   {
-    "name": "You're Welcome Home",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Reel",
-    "composer": "O’Farrell’s",
-    "score": "${baseUrl}/tunes/C/Corpl/Corpl.pdf",
-    "tab": "${baseUrl}/tunes/C/Corpl/Corplt.pdf",
-    "audio": "${baseUrl}/tunes/C/Corpl/Corpl-set_M.mp3"
-  },  {
     "name": "Drummond Castle",
     "from": "nigel-gatherer",
     "genre": "Scottish",
