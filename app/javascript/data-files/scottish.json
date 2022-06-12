@@ -2,6 +2,248 @@
 `
 [
   {
+    "name": "Welcome Royal Charlie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WelcR/WelcR.pdf",
+    "tab": "${baseUrl}/tunes/W/WelcR/WelcRt.pdf",
+    "audio": "${baseUrl}/W/WelcR/WelcR-AulWf_M.mp3"
+  },
+  {
+    "name": "Auld Wide Ayont the Fire",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/W/WelcR/WelcR.pdf",
+    "tab": "${baseUrl}/tunes/W/WelcR/WelcRt.pdf",
+    "audio": "${baseUrl}/W/WelcR/WelcR-AulWf_M.mp3"
+  },
+  {
+    "name": "Les Trois Grands Luthiers",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "James Scott Skinner",
+    "score": "${baseUrl}/tunes/T/Trois/Trois.pdf",
+    "tab": "${baseUrl}/tunes/T/Trois/Troist.pdf",
+    "audio": "${baseUrl}/T/Trois/Trois_W.mp3"
+  },
+  {
+    "name": "Da Sixreen",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Hornpipe",
+    "composer": "Tom Anderson",
+    "score": "${baseUrl}/tunes/S/Sixer/Sixer.pdf",
+    "tab": "${baseUrl}/tunes/S/Sixer/Sixert.pdf",
+    "audio": "${baseUrl}/S/Sixer/Sixer_M.mp3"
+  },
+  {
+    "name": "Smith o' Couster",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Tom Anderson",
+    "score": "${baseUrl}/tunes/S/Sixer/Sixer.pdf",
+    "tab": "${baseUrl}/tunes/S/Sixer/Sixert.pdf",
+    "audio": "${baseUrl}/S/Sixer/Sixer_M.mp3"
+  },
+  {
+    "name": "The Rose of Kelvingrove",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "David Knox",
+    "score": "${baseUrl}/tunes/R/RoseK/RoseK.pdf",
+    "tab": "${baseUrl}/tunes/R/RoseK/RoseKt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Rory MacLeod",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "PM Donalid MacLeod",
+    "score": "${baseUrl}/tunes/R/RoryM/RoryM.pdf",
+    "tab": "${baseUrl}/tunes/R/RoryM/RoryMt.pdf",
+    "audio": "${baseUrl}/tunes/R/RoryM/RoryM_M.mp3"
+  },
+  {
+    "name": "Outside the Circle",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Calum McCrimmon",
+    "score": "${baseUrl}/tunes/O/OCirc/OCirc.pdf",
+    "tab": "${baseUrl}/tunes/O/OCirc/OCirct.pdf",
+    "audio": "${baseUrl}/tunes/O/OCirc/OCirc_M.mp3"
+  },
+  {
+    "name": "Knees Up in Hanoi",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Calum McCrimmon",
+    "score": "${baseUrl}/tunes/O/OCirc/OCirc.pdf",
+    "tab": "${baseUrl}/tunes/O/OCirc/OCirct.pdf",
+    "audio": "${baseUrl}/tunes/O/OCirc/OCirc_M.mp3"
+  },
+  {
+    "name": "Mrs Ferguson",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/M/MrsFR/MrsFR.pdf",
+    "tab": "${baseUrl}/tunes/M/MrsFR/MrsFRt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Love o' the Isles",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Willie Hunter",
+    "score": "${baseUrl}/tunes/L/LoveI/LoveI.pdf",
+    "tab": "${baseUrl}/tunes/L/LoveI/LoveIt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Itchy Fingers",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "Pinkman",
+    "score": "${baseUrl}/tunes/I/Itchy/Itchy.pdf",
+    "tab": "${baseUrl}/tunes/I/Itchy/Itchyt.pdf",
+    "audio": "${baseUrl}/tunes/I/Itchy/Itchy_M.mp3"
+  },
+
+  {
+    "name": "The Haughs of Cromdale",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Strathspey",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/Haugh/Haugh.pdf",
+    "tab": "${baseUrl}/tunes/H/Haugh/Haught.pdf",
+    "audio": ""
+  },
+  {
+    "name": "High Road to Linton",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HLint/HLint.pdf",
+    "tab": "${baseUrl}/tunes/H/HLint/HLintt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "The Wind That Shakes the Barley",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Reel",
+    "composer": "",
+    "score": "${baseUrl}/tunes/H/HLint/HLint.pdf",
+    "tab": "${baseUrl}/tunes/H/HLint/HLintt.pdf",
+    "audio": ""
+  },
+
+  {
+    "name": "Everyday Heroes",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Martin Gillespie",
+    "score": "${baseUrl}/tunes/E/EHero/EHero.pdf",
+    "tab": "${baseUrl}/tunes/E/EHero/EHerot.pdf",
+    "audio": "${baseUrl}/tunes/E/EHero/EHero_M.mp3"
+  },
+  {
+    "name": "Dainty Davie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/D/DDavy/DDavy.pdf",
+    "tab": "${baseUrl}/tunes/D/DDavy/DDavyt.pdf",
+    "audio": "${baseUrl}/tunes/D/DDavy/DDavy_MW.mp3"
+  },
+  {
+    "name": "The Crags of Tumbledown Mountain",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "P M James Riddell",
+    "score": "${baseUrl}/tunes/C/CragT/CragT.pdf",
+    "tab": "${baseUrl}/tunes/C/CragT/CragTt.pdf",
+    "audio": "${baseUrl}/tunes/C/CragT/CragT_M.mp3"
+  },
+  {
+    "name": "Brinkie's Brae",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "March",
+    "composer": "Ally Windwick",
+    "score": "${baseUrl}/tunes/B/Brink/Brink.pdf",
+    "tab": "${baseUrl}/tunes/B/Brink/Brinkt.pdf",
+    "audio": "${baseUrl}/tunes/B/Brink/Brink_M.mp3"
+  },
+  {
+    "name": "Bratach Bana",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Eliot/Kennedy",
+    "score": "${baseUrl}/tunes/B/BratB/BratB.pdf",
+    "tab": "${baseUrl}/tunes/B/BratB/BratBt.pdf",
+    "audio": "${baseUrl}/tunes/B/BratB/BratB_W.mp3"
+  },
+  {
+    "name": "The Wee Toon Clerk",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/BratB/BratB.pdf",
+    "tab": "${baseUrl}/tunes/B/BratB/BratBt.pdf",
+    "audio": "${baseUrl}/tunes/B/BratB/BratB_W.mp3"
+  },
+  {
+    "name": "Blow My Chanter",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Gordon Duncan",
+    "score": "${baseUrl}/tunes/B/BlowC/BlowC.pdf",
+    "tab": "${baseUrl}/tunes/B/BlowC/BlowCt.pdf",
+    "audio": "${baseUrl}/tunes/B/BlowC/BlowC-FBara_M.mp3"
+  },
+  {
+    "name": "The Famous Baravan",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "Gordon Duncan",
+    "score": "${baseUrl}/tunes/B/BlowC/BlowC.pdf",
+    "tab": "${baseUrl}/tunes/B/BlowC/BlowCt.pdf",
+    "audio": "${baseUrl}/tunes/B/BlowC/BlowC-FBara_M.mp3"
+  },
+  {
+    "name": "Banjo Breakdown",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Jig",
+    "composer": "",
+    "score": "${baseUrl}/tunes/B/Banjo/Banjo.pdf",
+    "tab": "${baseUrl}/tunes/B/Banjo/Banjot.pdf",
+    "audio": ""
+  },
+  {
     "name": "Tulchan Lodge",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -1545,9 +1787,9 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "Ruaidhrí Dall Ó Catháin",
-    "score": "${baseUrl}/tunes/P/PLnox/PLnox.pdf",
-    "tab": "${baseUrl}/tunes/P/PLnox/PLnoxt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/P/PLnex/PLnex.pdf",
+    "tab": "${baseUrl}/tunes/P/PLnex/PLnext.pdf",
+    "audio": "${baseUrl}/tunes/P/PLnex/PLenx.mp3"
   },
   {
     "name": "Professor Blackie",
@@ -2804,16 +3046,6 @@
     "score": "${baseUrl}/tunes/H/HangO/HangO.pdf",
     "tab": "${baseUrl}/tunes/H/HangO/HangOt.pdf",
     "audio": "${baseUrl}/tunes/H/HangO/HangO-GWTry_M.mp3"
-  },
-  {
-    "name": "The High Road to Linton",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/A/AlesD/AlesD.pdf",
-    "tab": "${baseUrl}/tunes/A/AlesD/AlesDt.pdf",
-    "audio": "${baseUrl}/tunes/A/AlesD/AlesD-HRoad_M.mp3"
   },
   {
     "name": "Ian Powrie's Compliments to Willie Hunter",
@@ -5345,7 +5577,7 @@
             "from": "nigel-gatherer",
             "genre": "Scottish",
             "type": "Reel",
-            "composer": "Calum MacCrimmon",
+            "composer": "Calum McCrimmon",
             "score": "${baseUrl}/tunes/C/CSBay/CSBay.pdf",
             "tab": "${baseUrl}/tunes/C/CSBay/CSBayt.pdf",
             "audio": "${baseUrl}/tunes/C/CSBay/CSBay-Houli_M.mp3"
@@ -5355,7 +5587,7 @@
             "from": "nigel-gatherer",
             "genre": "Scottish",
             "type": "March",
-            "composer": "Calum MacCrimmon",
+            "composer": "Calum McCrimmon",
             "score": "${baseUrl}/tunes/C/CSBay/CSBay.pdf",
             "tab": "${baseUrl}/tunes/C/CSBay/CSBayt.pdf",
             "audio": "${baseUrl}/tunes/C/CSBay/CSBay-Houli_M.mp3"
@@ -7369,20 +7601,6 @@
     "audio": ""
   },
 
-
-
-
-
-  {
-    "name": "High Road to Linton, The",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/A/AlesD/AlesD.pdf",
-    "tab": "${baseUrl}/tunes/A/AlesD/AlesDt.pdf",
-    "audio": "${baseUrl}/tunes/A/AlesD/AlesD-HRoad_M.mp3"
-  },
   {
     "name": "Ian Powrie's Compliments to Willie Hunter",
     "from": "nigel-gatherer",
@@ -8272,16 +8490,6 @@
     "score": "${baseUrl}/tunes/P/PeatF/PeatF.pdf",
     "tab": "${baseUrl}/tunes/P/PeatF/PeatFt.pdf",
     "audio": "${baseUrl}/tunes/P/PeatF/PeatF_M.mp3"
-  },
-  {
-    "name": "Port Lenox",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "Ruaidhrí Dall Ó Catháin",
-    "score": "${baseUrl}/tunes/P/PLnox/PLnox.pdf",
-    "tab": "${baseUrl}/tunes/P/PLnox/PLnoxt.pdf",
-    "audio": ""
   },
   {
     "name": "Pulling Bracken",

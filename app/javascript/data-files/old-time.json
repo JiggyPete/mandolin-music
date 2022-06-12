@@ -1,5 +1,117 @@
 `
 [
+          {
+            "name": "Rad Apple Rag",
+            "from": "nigel-gatherer",
+            "genre": "Ragtime",
+            "type": "",
+            "composer": "Arthur Smith",
+            "score": "${baseUrl}/tunes/zAmerican/PQR/RedAR/RedAR.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/PQR/RedAR/RedARt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/PQR/RedAR/RedAR_M.mp3"
+          },
+          {
+            "name": "Waltzing With the One I Love",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "Waltz",
+            "composer": "Sarah Gray Armstring",
+            "score": "${baseUrl}/tunes/zAmerican/VWXYZ/W1Lov/W1Lov.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/VWXYZ/W1Lov/W1Lovt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/VWXYZ/W1Lov/W1Lov_M.mp3"
+          },
+          {
+            "name": "Lonesome Moonlight Waltz",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Bill Monroe",
+            "score": "${baseUrl}/tunes/zAmerican/JKL/LonMW/LonMW.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/JKL/LonMW/LonMWt.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Eight of January",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/8Jany/8Jany.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/8Jany/8Janyt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/8Jany/8Jany_M.mp3"
+          },
+          {
+            "name": "Sugarfoot Rag",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Garland/Vaughn",
+            "score": "${baseUrl}/tunes/zAmerican/DEF/8Jany/8Jany.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/DEF/8Jany/8Janyt.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/DEF/8Jany/Sugft_M.mp3"
+          },
+          {
+            "name": "Johnny Has Gone For A Soldier",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed2.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed2t.pdf",
+            "audio": ""
+          },
+          {
+            "name": "The Bonnie Blue Flag",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Harry McCarthy",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed2.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed2t.pdf",
+            "audio": ""
+          },
+          {
+            "name": "When Johnny Comes Marching Home",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Patrick Gilmore",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed2.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed2t.pdf",
+            "audio": ""
+          },
+
+
+          {
+            "name": "Dixie",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Dan Emmett",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed1.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed1t.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed1_M.mp3"
+          },
+          {
+            "name": "Marching Through Georgia",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Henry Clay Work",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed1.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed1t.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed1_M.mp3"
+          },
+          {
+            "name": "Battle Hynm of the Republic",
+            "from": "nigel-gatherer",
+            "genre": "Old Time",
+            "type": "",
+            "composer": "Henry Clay Work",
+            "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed1.pdf",
+            "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed1t.pdf",
+            "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed/CWMed1_M.mp3"
+          },
 
           {
             "name": "The Boy with the Axles in His Hands",
@@ -401,36 +513,6 @@
     "audio": ""
   },
 
-  {
-    "name": "Battle Hymn of the Republic",
-    "from": "nigel-gatherer",
-    "genre": "Old Time",
-    "type": "",
-    "composer": "Julia Ward Howe",
-    "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1.pdf",
-    "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1t.pdf",
-    "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3"
-  },
-  {
-    "name": "Marching Through Georgia",
-    "from": "nigel-gatherer",
-    "genre": "Old Time",
-    "type": "",
-    "composer": "Henry Clay Work",
-    "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1.pdf",
-    "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1t.pdf",
-    "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3"
-  },
-  {
-    "name": "Dixie",
-    "from": "nigel-gatherer",
-    "genre": "Old Time",
-    "type": "",
-    "composer": "Dan Emmett",
-    "score": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1.pdf",
-    "tab": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1t.pdf",
-    "audio": "${baseUrl}/tunes/zAmerican/ABC/CWMed1/CWMed1_M.mp3"
-  },
           {
             "name": "Salt Creek",
             "from": "nigel-gatherer",

@@ -1,6 +1,16 @@
 `
 [
   {
+    "name": "Canon in D",
+    "from": "nigel-gatherer",
+    "genre": "Classical",
+    "type": "",
+    "composer": "Johann Pachelbel",
+    "score": "${baseUrl}/tunes/zClassical/PQR/Pachelbel/Canon/Canon.pdf",
+    "tab": "${baseUrl}/tunes/zClassical/PQR/Pachelbel/Canon/Canont.pdf",
+    "audio": ""
+  },
+  {
     "name": "Orlando Sleepeth",
     "from": "nigel-gatherer",
     "genre": "Classical",
@@ -552,14 +562,24 @@
       "audio": ""
     },
     {
-      "name": "Minuet in F major",
+      "name": "Minuet in F major (1)",
       "from": "nigel-gatherer",
       "genre": "Classical",
       "type": "",
       "composer": "Johann Sebastian Back",
-      "score": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF/BchMiF.pdf",
-      "tab": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF/BchMiFt.pdf",
-      "audio": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF/BchMiF_M.mp3"
+      "score": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF1/BchMiF1.pdf",
+      "tab": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF1/BchMiF1t.pdf",
+      "audio": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF1/BchMiF1_M.mp3"
+    },
+    {
+      "name": "Minuet in F major (2)",
+      "from": "nigel-gatherer",
+      "genre": "Classical",
+      "type": "",
+      "composer": "Johann Sebastian Back",
+      "score": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF2/BchMiF2.pdf",
+      "tab": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF2/BchMiF2t.pdf",
+      "audio": ""
     },
     {
       "name": "Minuet in G major (1)",

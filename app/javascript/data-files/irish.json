@@ -1,6 +1,56 @@
 `
 [
     {
+      "name": "Midsummers Night",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Reel",
+      "composer": "Vincent Broderick",
+      "score": "${baseUrl}/tunes/M/MidsN/MidsN.pdf",
+      "tab": "${baseUrl}/tunes/M/MidsN/MidsNt.pdf",
+      "audio": ""
+    },
+    {
+      "name": "The Tinker's Daughter",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Reel",
+      "composer": "Vincent Broderick",
+      "score": "${baseUrl}/tunes/M/MidsN/MidsN.pdf",
+      "tab": "${baseUrl}/tunes/M/MidsN/MidsNt.pdf",
+      "audio": ""
+    },
+    {
+      "name": "Isle of Innisfree",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Air",
+      "composer": "Dick Farrelly",
+      "score": "${baseUrl}/tunes/I/IsleI/IsleI.pdf",
+      "tab": "${baseUrl}/tunes/I/IsleI/IsleIt.pdf",
+      "audio": ""
+    },
+    {
+      "name": "The Irish Washerwoman",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Jig",
+      "composer": "",
+      "score": "${baseUrl}/tunes/I/IWash/IWash.pdf",
+      "tab": "${baseUrl}/tunes/I/IWash/IWasht.pdf",
+      "audio": ""
+    },
+    {
+      "name": "The Rollicking Irishman",
+      "from": "nigel-gatherer",
+      "genre": "Irish",
+      "type": "Reel",
+      "composer": "",
+      "score": "${baseUrl}/tunes/I/IWash/IWash.pdf",
+      "tab": "${baseUrl}/tunes/I/IWash/IWasht.pdf",
+      "audio": ""
+    },
+    {
       "name": "Music in the Glen",
       "from": "nigel-gatherer",
       "genre": "Irish",

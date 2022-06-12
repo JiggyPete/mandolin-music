@@ -1,6 +1,66 @@
 `
 [
+  {
+    "name": "Soon May the Wellerman Come",
+    "from": "nigel-gatherer",
+    "genre": "New Zealand",
+    "type": "Sea Shanty",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zWorld/VWXYZ/WellM/WellM.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/VWXYZ/WellM/WellMt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/VWXYZ/WellM/WellM_M.mp3"
+  },
+  {
+    "name": "Sweet Thames Flow Softly",
+    "from": "nigel-gatherer",
+    "genre": "England",
+    "type": "Air",
+    "composer": "Ewan MacColl",
+    "score": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTh.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTht.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTh_MW.mp3"
+  },
+  {
+    "name": "The Road North",
+    "from": "nigel-gatherer",
+    "genre": "England",
+    "type": "Air",
+    "composer": "Alistair Anderson",
+    "score": "${baseUrl}/tunes/zWorld/PQR/RoadN/RoadN.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/PQR/RoadN/RoadNt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/PQR/RoadN/RoadN_MWU.mp3"
+  },
+  {
+    "name": "Greensleeves",
+    "from": "nigel-gatherer",
+    "genre": "England",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zWorld/GHI/GrnSl/GrnSl.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/GHI/GrnSl/GrnSlt.pdf",
+    "audio": ""
+  },
+  {
+    "name": "Ookpik Waltz",
+    "from": "nigel-gatherer",
+    "genre": "Canadian",
+    "type": "",
+    "composer": "Frankie Rogers",
+    "score": "${baseUrl}/tunes/zWorld/MNO/OokpW/OokpW.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/MNO/OokpW/OokpWt.pdf",
+    "audio": "${baseUrl}/tunes/zWorld/MNO/OokpW/OokpW_M.mp3"
+  },
 
+  {
+    "name": "The Night is so Moonlit",
+    "from": "nigel-gatherer",
+    "genre": "Ukrainian",
+    "type": "",
+    "composer": "",
+    "score": "${baseUrl}/tunes/zWorld/MNO/Night/Night.pdf",
+    "tab": "${baseUrl}/tunes/zWorld/MNO/Night/Nightt.pdf",
+    "audio": ""
+  },
   {
     "name": "Comecou de Braincadeira (It Started as a Joke)",
     "from": "nigel-gatherer",

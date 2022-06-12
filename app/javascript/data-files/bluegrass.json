@@ -2,6 +2,57 @@
 [
 
     {
+      "name": "Summertime (as played by Andrew Marlin)",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "George Gershwin",
+      "score": "${baseUrl}/tunes/zAmerican/STU/Stime/Stime.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/STU/Stime/Stimet.pdf",
+      "audio": ""
+    },
+    {
+      "name": "Summertime (as played by Jack Tuttle)",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "George Gershwin",
+      "score": "${baseUrl}/tunes/zAmerican/STU/Stime/Stime.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/STU/Stime/Stimet.pdf",
+      "audio": ""
+    },
+
+    {
+      "name": "St Louis Blues",
+      "from": "nigel-gatherer",
+      "genre": "Blues",
+      "type": "",
+      "composer": "W C Handy",
+      "score": "${baseUrl}/tunes/zAmerican/STU/StLoB/StLoB.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/STU/StLoB/StLoBt.pdf",
+      "audio": ""
+    },
+    {
+      "name": "I Don't Want to Set the World on Fire",
+      "from": "nigel-gatherer",
+      "genre": "Jazz",
+      "type": "",
+      "composer": "Peter Ostroushko",
+      "score": "${baseUrl}/tunes/zAmerican/GHI/IDonW/IDonW.pdf",
+      "tab": "",
+      "audio": ""
+    },
+    {
+      "name": "Heart of the Heartland",
+      "from": "nigel-gatherer",
+      "genre": "Bluegrass",
+      "type": "",
+      "composer": "Peter Ostroushko",
+      "score": "${baseUrl}/tunes/zAmerican/GHI/Heart/Heart.pdf",
+      "tab": "${baseUrl}/tunes/zAmerican/GHI/Heart/Heartt.pdf",
+      "audio": ""
+    },
+    {
       "name": "Jitterbug Waltz",
       "from": "nigel-gatherer",
       "genre": "Jazz",
