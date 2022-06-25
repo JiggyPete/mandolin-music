@@ -416,16 +416,6 @@
             "audio": ""
           },
           {
-            "name": "Jock o' Hazeldean",
-            "from": "nigel-gatherer",
-            "genre": "",
-            "type": "",
-            "composer": "Alfred Scott-Gatty",
-            "score": "${baseUrl}/tunes/CCM/STU/SWltz/SWltz.pdf",
-            "tab": "${baseUrl}/tunes/CCM/STU/SWltz/SWltzt.pdf",
-            "audio": ""
-          },
-          {
             "name": "Waters of Kylesku",
             "from": "nigel-gatherer",
             "genre": "",
@@ -433,16 +423,6 @@
             "composer": "Alfred Scott-Gatty",
             "score": "${baseUrl}/tunes/CCM/STU/SWltz/SWltz.pdf",
             "tab": "${baseUrl}/tunes/CCM/STU/SWltz/SWltzt.pdf",
-            "audio": ""
-          },
-          {
-            "name": "Of A' the Airts the Wind Can Blaw",
-            "from": "nigel-gatherer",
-            "genre": "",
-            "type": "",
-            "composer": "Marshall",
-            "score": "${baseUrl}/tunes/CCM/MNO/OAirts/OAirts.pdf",
-            "tab": "${baseUrl}/tunes/CCM/MNO/OAirts/OAirtst.pdf",
             "audio": ""
           },
           {
@@ -455,18 +435,6 @@
             "tab": "${baseUrl}/tunes/CCM/MNO/NewHL/NewHLt.pdf",
             "audio": ""
           },
-          {
-            "name": "Soldier's Joy",
-            "from": "nigel-gatherer",
-            "genre": "",
-            "type": "",
-            "composer": "Andrew Rankine",
-            "score": "${baseUrl}/tunes/CCM/MNO/NewHL/NewHL.pdf",
-            "tab": "${baseUrl}/tunes/CCM/MNO/NewHL/NewHLt.pdf",
-            "audio": ""
-          },
-
-
 
           {
             "name": "Que Sera Sera",
@@ -991,16 +959,6 @@
   },
 
   {
-    "name": "Rory MacLeod",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "Pipe Jig",
-    "composer": "Donald MacLeod",
-    "score": "${baseUrl}/tunes/CCM/PQR/RoryM/RoryM.pdf",
-    "tab": "${baseUrl}/tunes/CCM/PQR/RoryM/RoryMt.pdf",
-    "audio": ""
-  },
-  {
     "name": "Mo Chaillin Dileas Donn",
     "from": "nigel-gatherer",
     "genre": "",
@@ -1044,16 +1002,6 @@
 
 
 
-  {
-    "name": "Bonny At Morn",
-    "from": "nigel-gatherer",
-    "genre": "Nothumbrian",
-    "type": "Air",
-    "composer": "",
-    "score": "${baseUrl}/tunes/CCM/ABC/BMorn/BMorn.pdf",
-    "tab": "${baseUrl}/tunes/CCM/ABC/BMorn/BMornt.pdf",
-    "audio": "${baseUrl}/tunes/CCM/ABC/BMorn/BMorn_W.mp3"
-  },
 
   {
     "name": "Mrs General Maxwell",
@@ -1225,16 +1173,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab9/baly3.html",
-    "audio": ""
-  },
-  {
-    "name": "The Barren Rocks of Aden",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/T/ThisS/ThisS.pdf",
-    "tab": "${baseUrl}/tunes/T/ThisS/ThisSt.pdf",
     "audio": ""
   },
   {
@@ -1488,16 +1426,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab10/donmb.html",
-    "audio": ""
-  },
-  {
-    "name": "Down Home Waltz",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab11/dhome.html",
     "audio": ""
   },
   {
@@ -1800,7 +1728,7 @@
     "genre": "",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/whistle/tut_7/7-2.html - FILE MISSING",
+    "score": "",
     "tab": "${baseUrl}/tab/tab2/jonny.html",
     "audio": ""
   },
@@ -2105,16 +2033,6 @@
     "audio": ""
   },
   {
-    "name": "Ook Pik Waltz",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab7/oovie.html",
-    "audio": ""
-  },
-  {
     "name": "Oot Pik Waltz",
     "from": "nigel-gatherer",
     "genre": "",
@@ -2132,26 +2050,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/tab/tab7/ocean.html",
-    "audio": ""
-  },
-  {
-    "name": "Over the Sea to Skye",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/mando/tut2/tut4.html - FILE MISSING",
-    "audio": ""
-  },
-  {
-    "name": "Over the Waterfall",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab6/otw.html",
     "audio": ""
   },
   {
@@ -2265,16 +2163,6 @@
     "audio": ""
   },
   {
-    "name": "Rock the Cradle Joe",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab1/cradl.html",
-    "audio": ""
-  },
-  {
     "name": "The Rolling Wave",
     "from": "nigel-gatherer",
     "genre": "",
@@ -2376,16 +2264,6 @@
     "audio": ""
   },
   {
-    "name": "Silent Night",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab8/sn1.html",
-    "audio": ""
-  },
-  {
     "name": "Spey In Spate",
     "from": "nigel-gatherer",
     "genre": "",
@@ -2396,16 +2274,6 @@
     "audio": ""
   },
   {
-    "name": "Stan Chapman's Jig",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab5/stanc.html",
-    "audio": ""
-  },
-  {
     "name": "Star o' Robbie Burns",
     "from": "nigel-gatherer",
     "genre": "",
@@ -2413,16 +2281,6 @@
     "composer": "",
     "score": "",
     "tab": "${baseUrl}/midi/midi3/starcd.mid",
-    "audio": ""
-  },
-  {
-    "name": "Sugarfoot Rag",
-    "from": "nigel-gatherer",
-    "genre": "",
-    "type": "",
-    "composer": "",
-    "score": "",
-    "tab": "${baseUrl}/tab/tab11/sugft.html",
     "audio": ""
   },
   {
@@ -2957,31 +2815,6 @@
       "tab": "${baseUrl}/tunes/zTheory/Styles/Ragtime/M-RT-2t.pdf",
       "audio": "${baseUrl}/tunes/zTheory/Styles/Ragtime/GathR_M.mp3"
     },
-
-    {
-      "name": "Jenn's Polka",
-      "from": "nigel-gatherer",
-      "genre": "",
-      "type": "Polka",
-      "composer": "Nigel Gatherer",
-      "score": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlk.pdf",
-      "tab": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlkt.pdf",
-      "audio": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlk-JennP_M.mp3"
-    },
-
-
-    {
-      "name": "Laura Beth's Polka",
-      "from": "nigel-gatherer",
-      "genre": "",
-      "type": "Polka",
-      "composer": "Nigel Gatherer",
-      "score": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlk.pdf",
-      "tab": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlkt.pdf",
-      "audio": "${baseUrl}/tunes/zComposers/JKL/LBPlk/LBPlk-JennP_M.mp3"
-    },
-
-
     {
       "name": "Muskrat Ramble",
       "from": "nigel-gatherer",

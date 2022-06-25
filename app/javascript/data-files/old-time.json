@@ -194,16 +194,6 @@
             "audio": ""
           },
           {
-            "name": "Soldier's Joy",
-            "from": "nigel-gatherer",
-            "genre": "Old Time",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zAmerican/STU/SoJoy/SoJoy.pdf",
-            "tab": "${baseUrl}/tunes/zAmerican/STU/SoJoy/SoJoyt.pdf",
-            "audio": "${baseUrl}/tunes/zAmerican/STU/SoJoy/SoJoy_M.mp3"
-          },
-          {
             "name": "Hermine",
             "from": "nigel-gatherer",
             "genre": "Old Time",
@@ -304,7 +294,7 @@
             "audio": "${baseUrl}/tunes/zAmerican/PQR/RobCo/RobCo-Kitty_M.mp3"
           },
           {
-            "name": "Gentle Annie",
+            "name": "Gentle Annie 2",
             "from": "nigel-gatherer",
             "genre": "Old Time",
             "type": "",

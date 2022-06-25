@@ -111,16 +111,6 @@
       "audio": ""
     },
     {
-      "name": "Rocking the Baby",
-      "from": "nigel-gatherer",
-      "genre": "Irish",
-      "type": "Barndance/Hornpipe",
-      "composer": "",
-      "score": "${baseUrl}/tunes/L/LucFB/LucFB.pdf",
-      "tab": "${baseUrl}/tunes/L/LucFB/LucFBt.pdf",
-      "audio": ""
-    },
-    {
       "name": "Slieve Russell",
       "from": "nigel-gatherer",
       "genre": "Irish",
@@ -252,16 +242,6 @@
       "tab": "${baseUrl}/tunes/F/FigFK/FigFKt.pdf",
       "audio": "${baseUrl}/tunes/F/FigFK/FigFK-AnJig_M.mp3"
     },
-  {
-    "name": "Far from Home",
-    "from": "nigel-gatherer",
-    "genre": "Irish",
-    "type": "Reel",
-    "composer": "",
-    "score": "${baseUrl}/tunes/F/FarFH/FarFH.pdf",
-    "tab": "${baseUrl}/tunes/F/FarFH/FarFHt.pdf",
-    "audio": "${baseUrl}/tunes/F/FarFH/FarFH-RoadH_M.mp3"
-  },
   {
     "name": "New Copperplate, The (1)",
     "from": "nigel-gatherer",
@@ -1634,16 +1614,6 @@
             "audio": "${baseUrl}/tunes/M/MMcDr/MMcDr-Geogh_M.mp3"
           },
 
-  {
-    "name": "Scottish Concerto",
-    "from": "nigel-gatherer",
-    "genre": "Irish",
-    "type": "Reel",
-    "composer": "Charlie Lennon",
-    "score": "${baseUrl}/tunes/S/ScCon/ScCon.pdf",
-    "tab": "${baseUrl}/tunes/S/ScCon/ScCont.pdf",
-    "audio": ""
-  },
     {
       "name": "Maurice O'Connor",
       "from": "nigel-gatherer",

@@ -125,18 +125,6 @@
       "audio": "${baseUrl}/tunes/zAmerican/STU/TennB/TennB_M.mp3"
     },
     {
-      "name": "Tennessee Blues",
-      "key": "D",
-      "from": "nigel-gatherer",
-      "genre": "Bluegrass",
-      "type": "",
-      "composer": "Bill Monroe",
-      "score": "",
-      "tab": "${baseUrl}/tunes/zAmerican/STU/TennB/TennB-Dt.pdf",
-      "audio": "${baseUrl}/tunes/zAmerican/STU/TennB/TennB-D_M.mp3"
-    },
-
-    {
       "name": "Pike County Breakdown",
       "from": "nigel-gatherer",
       "genre": "Bluegrass",

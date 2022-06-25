@@ -84,16 +84,6 @@
     "audio": ""
   },
   {
-    "name": "The Garden of Skye",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "March",
-    "composer": "Harper",
-    "score": "${baseUrl}/tunes/S/SkyeV/SkyeV.pdf",
-    "tab": "${baseUrl}/tunes/S/SkyeV/SkyeVt.pdf",
-    "audio": ""
-  },
-  {
     "name": "The Sound of Iona",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -624,26 +614,6 @@
     "score": "${baseUrl}/tunes/F/FngCv/FngCv.pdf",
     "tab": "${baseUrl}/tunes/F/FngCv/FngCvt.pdf",
     "audio": "${baseUrl}/tunes/F/FngCv/FngCv3-FngCv1_M.mp3"
-  },
-  {
-    "name": "The Dark Island",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "Iain McLachlan",
-    "score": "${baseUrl}/tunes/tunes/D/DarkI/DarkI.pdf",
-    "tab": "${baseUrl}/tunes/tunes/D/DarkI/DarkIt.pdf",
-    "audio": "${baseUrl}/tunes/tunes/D/DarkI/DarkI_M.mp3"
-  },
-  {
-    "name": "The Dark Island",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "Iain McLachlan",
-    "score": "${baseUrl}/tunes/tunes/D/DarkI/DarkI2.pdf",
-    "tab": "${baseUrl}/tunes/tunes/D/DarkI/DarkI2t.pdf",
-    "audio": "${baseUrl}/tunes/tunes/D/DarkI/DarkI2_M.mp3"
   },
   {
     "name": "Harris Dance (1)",

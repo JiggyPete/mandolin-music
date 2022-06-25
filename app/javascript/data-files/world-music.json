@@ -371,12 +371,12 @@
   {
     "name": "Bonny At Morn",
     "from": "nigel-gatherer",
-    "genre": "World",
-    "type": "English",
+    "genre": "Nothumbrian",
+    "type": "Air",
     "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/ABC/BMorn/BMorn.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/BMorn/BMornt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/CCM/ABC/BMorn/BMorn.pdf",
+    "tab": "${baseUrl}/tunes/CCM/ABC/BMorn/BMornt.pdf",
+    "audio": "${baseUrl}/tunes/CCM/ABC/BMorn/BMorn_W.mp3"
   },
   {
     "name": "Zi Zhu Diao (The Purple Bamboo Flute)",
@@ -594,7 +594,7 @@
     "genre": "World",
     "type": "Quebec",
     "composer": "Bouchard",
-    "score": "{baseUrl}/tunes/zWorld/PQR/RMalb/RMalb.pdf",
+    "score": "${baseUrl}/tunes/zWorld/PQR/RMalb/RMalb.pdf",
     "tab": "${baseUrl}/tunes/zWorld/PQR/RMalb/RMalbt.pdf",
     "audio": "${baseUrl}/tunes/zWorld/PQR/RMalb/RMalb-REugn_W.mp3"
   },
@@ -977,16 +977,6 @@
     "score": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanz.pdf",
     "tab": "${baseUrl}/tunes/zWorld/DEF/DTanz/DTanzt.pdf",
     "audio": ""
-  },
-  {
-    "name": "The Bear Dance",
-    "from": "nigel-gatherer",
-    "genre": "Belgian",
-    "type": "",
-    "composer": "",
-    "score": "${baseUrl}/tunes/zWorld/ABC/BearD/BearD.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/ABC/BearD/BearDt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/ABC/BearD/BearD_M.mp3"
   },
   {
     "name": "Josefins Dopvals",
@@ -1509,16 +1499,6 @@
     "score": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS.pdf",
     "tab": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepSt.pdf",
     "audio": "${baseUrl}/tunes/zWorld/STU/ShepS/ShepS-MaidL_M.mp3"
-  },
-  {
-    "name": "Sweet Thames Flow Softly",
-    "from": "nigel-gatherer",
-    "genre": "England",
-    "type": "Air",
-    "composer": "Ewan MacColl",
-    "score": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTh.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTht.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/STU/SwtTh/SwtTh_M.mp3"
   },
   {
     "name": "Uncle's Jig",
@@ -2078,16 +2058,6 @@
     "score": "${baseUrl}/tunes/zWorld/STU/SuoGn/SuoGn.pdf",
     "tab": "${baseUrl}/tunes/zWorld/STU/SuoGn/SuoGnt.pdf",
     "audio": "${baseUrl}/tunes/zWorld/STU/SuoGn/SuoGn_W.mp3"
-  },
-  {
-    "name": "Orkney",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Air",
-    "composer": "Gordon Gunn",
-    "score": "${baseUrl}/tunes/zWorld/MNO/Orkny/Orkny.pdf",
-    "tab": "${baseUrl}/tunes/zWorld/MNO/Orkny/Orknyt.pdf",
-    "audio": "${baseUrl}/tunes/zWorld/MNO/Orkny/Orkny_M.mp3"
   },
     {
       "name": "Calon Lan",
