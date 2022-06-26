@@ -194,16 +194,6 @@
             "audio": ""
           },
           {
-            "name": "Hermine",
-            "from": "nigel-gatherer",
-            "genre": "Old Time",
-            "type": "",
-            "composer": "Johan B Kok",
-            "score": "${baseUrl}/tunes/zAmerican/JKL/Kok/Hermi/Hermi.pdf",
-            "tab": "${baseUrl}/tunes/zAmerican/JKL/Kok/Hermi/Hermit.pdf",
-            "audio": ""
-          },
-          {
             "name": "Rock the Cradle Joe",
             "from": "nigel-gatherer",
             "genre": "Old Time",
@@ -584,16 +574,6 @@
             "audio": "${baseUrl}/tunes/zAmerican/JKL/LLizJ/LLizJ1_M.mp3"
           },
           {
-            "name": "Liza Jane",
-            "from": "nigel-gatherer",
-            "genre": "",
-            "type": "",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zAmerican/JKL/LizJ/LizJ.pdf",
-            "tab": "${baseUrl}/tunes/zAmerican/JKL/LizJ/LizJt.pdf",
-            "audio": "${baseUrl}/tunes/zAmerican/JKL/LizJ/LizJ_M.mp3"
-          },
-          {
             "name": "Jaybird",
             "from": "nigel-gatherer",
             "genre": "Old Time",
@@ -662,9 +642,9 @@
       "from": "nigel-gatherer",
       "genre": "Old Time",
       "type": "Waltz",
-      "score": "http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWD.pdf",
-      "tab": "http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWDt.pdf",
-      "audio": "http://www.nigelgatherer.com/tunes/tunes/zOld-Time/STU/TennW/TennWD_M.mp3"
+      "score": "http://www.nigelgatherer.com/tunes/tunes/zAmerican/STU/TennW/TennWD.pdf",
+      "tab": "http://www.nigelgatherer.com/tunes/tunes/zAmerican/STU/TennW/TennWDt.pdf",
+      "audio": "http://www.nigelgatherer.com/tunes/tunes/zAmerican/STU/TennW/TennWD_M.mp3"
     }
 
   ]

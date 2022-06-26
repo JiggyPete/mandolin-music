@@ -1220,26 +1220,6 @@
             "audio": "${baseUrl}/tunes/zWorld/GHI/IllGo/IllGo_M.mp3"
           },
           {
-            "name": "Princess Royal (7 Springs)",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Morris Dance",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FTt.pdf",
-            "audio": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT_M.mp3"
-          },
-          {
-            "name": "The Nutting Girl (Fieldtown)",
-            "from": "nigel-gatherer",
-            "genre": "English",
-            "type": "Morris Dance",
-            "composer": "",
-            "score": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT.pdf",
-            "tab": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FTt.pdf",
-            "audio": "${baseUrl}/tunes/zEngland/PQR/PrinR/PR-FT_M.mp3"
-          },
-          {
             "name": "Reynardine",
             "from": "nigel-gatherer",
             "genre": "English",

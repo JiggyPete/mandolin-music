@@ -628,17 +628,6 @@
   },
   {
     "name": "Egan's Polka",
-    "key": "D",
-    "from": "nigel-gatherer",
-    "genre": "Irish",
-    "type": "Polka",
-    "composer": "",
-    "score": "${baseUrl}/tunes/E/EganP2/EganP2.pdf",
-    "tab": "${baseUrl}/tunes/E/EganP2/EganP2t.pdf",
-    "audio": ""
-  },
-  {
-    "name": "Egan's Polka",
     "key": "G",
     "from": "nigel-gatherer",
     "genre": "Irish",
@@ -684,9 +673,9 @@
     "genre": "Irish",
     "type": "Polka",
     "composer": "",
-    "score": "${baseUrl}/tunes/E/EganP/EganP2.pdf",
-    "tab": "${baseUrl}/tunes/E/EganP/EganP2t.pdf",
-    "audio": "${baseUrl}/tunes/E/EganP/EganP_D_RyanP_M.mp3"
+    "score": "${baseUrl}/tunes/E/EganP2/EganP2.pdf",
+    "tab": "${baseUrl}/tunes/E/EganP2/EganP2t.pdf",
+    "audio": "${baseUrl}/tunes/E/EganP2/EganP_D_RyanP_M.mp3"
   },
   {
     "name": "Spanish Ladies",
@@ -1413,9 +1402,9 @@
             "genre": "Irish",
             "type": "Reel",
             "composer": "",
-            "score": "${baseUrl}/J/JOSul/JOSul.pdf",
-            "tab": "${baseUrl}/J/JOSul/JOSult.pdf",
-            "audio": "${baseUrl}/J/JOSul/JOSul_M.mp3"
+            "score": "${baseUrl}/tunes/J/JOSul/JOSul.pdf",
+            "tab": "${baseUrl}/tunes/J/JOSul/JOSult.pdf",
+            "audio": "${baseUrl}/tunes/J/JOSul/JOSul_M.mp3"
           },
           {
             "name": "The Dimmers",
@@ -1423,9 +1412,9 @@
             "genre": "Irish",
             "type": "Reel",
             "composer": "",
-            "score": "${baseUrl}/J/JOSul/JOSul.pdf",
-            "tab": "${baseUrl}/J/JOSul/JOSult.pdf",
-            "audio": "${baseUrl}/J/JOSul/JOSul_M.mp3"
+            "score": "${baseUrl}/tunes/J/JOSul/JOSul.pdf",
+            "tab": "${baseUrl}/tunes/J/JOSul/JOSult.pdf",
+            "audio": "${baseUrl}/tunes/J/JOSul/JOSul_M.mp3"
           },
 
           {

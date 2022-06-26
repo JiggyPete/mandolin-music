@@ -270,9 +270,9 @@
     "genre": "Scottish",
     "type": "Waltz",
     "composer": "",
-    "score": "${baseUrl}/tunes/tunes/S/SMull/SMull.pdf",
-    "tab": "${baseUrl}/tunes/tunes/S/SMull/SMullt.pdf",
-    "audio": "${baseUrl}/tunes/tunes/S/SMull/SMull_M.mp3"
+    "score": "${baseUrl}/tunes/S/SMull/SMull.pdf",
+    "tab": "${baseUrl}/tunes/S/SMull/SMullt.pdf",
+    "audio": "${baseUrl}/tunes/S/SMull/SMull_M.mp3"
   },
   {
     "name": "The Milltimber Jig",
@@ -280,9 +280,9 @@
     "genre": "Scottish",
     "type": "Jig",
     "composer": "Ian Crichton",
-    "score": "${baseUrl}/tunes/tunes/M/MillT/MillT.pdf",
-    "tab": "${baseUrl}/tunes/tunes/M/MillT/MillTt.pdf",
-    "audio": "${baseUrl}/tunes/tunes/M/MillT/MillT-BonCB_M.mp3"
+    "score": "${baseUrl}/tunes/M/MillT/MillT.pdf",
+    "tab": "${baseUrl}/tunes/M/MillT/MillTt.pdf",
+    "audio": "${baseUrl}/tunes/M/MillT/MillT-BonCB_M.mp3"
   },
   {
     "name": "Bonnie Cluden Mill",
@@ -290,9 +290,9 @@
     "genre": "Scottish",
     "type": "Jig",
     "composer": "Max Houliston",
-    "score": "${baseUrl}/tunes/tunes/M/MillT/MillT.pdf",
-    "tab": "${baseUrl}/tunes/tunes/M/MillT/MillTt.pdf",
-    "audio": "${baseUrl}/tunes/tunes/M/MillT/MillT-BonCB_M.mp3"
+    "score": "${baseUrl}/tunes/M/MillT/MillT.pdf",
+    "tab": "${baseUrl}/tunes/M/MillT/MillTt.pdf",
+    "audio": "${baseUrl}/tunes/M/MillT/MillT-BonCB_M.mp3"
   },
   {
     "name": "Largo Law",
@@ -300,9 +300,9 @@
     "genre": "Scottish",
     "type": "Reel",
     "composer": "",
-    "score": "${baseUrl}/tunes/tunes/L/Largo/Largo.pdf",
-    "tab": "${baseUrl}/tunes/tunes/L/Largo/Largot.pdf",
-    "audio": "${baseUrl}/tunes/tunes/L/Largo/Largo-AinKD_W.mp3"
+    "score": "${baseUrl}/tunes/L/Largo/Largo.pdf",
+    "tab": "${baseUrl}/tunes/L/Largo/Largot.pdf",
+    "audio": "${baseUrl}/tunes/L/Largo/Largo-AinKD_W.mp3"
   },
   {
     "name": "Ain Kind Dearie",
@@ -310,9 +310,9 @@
     "genre": "Scottish",
     "type": "Reel",
     "composer": "",
-    "score": "${baseUrl}/tunes/tunes/L/Largo/Largo.pdf",
-    "tab": "${baseUrl}/tunes/tunes/L/Largo/Largot.pdf",
-    "audio": "${baseUrl}/tunes/tunes/L/Largo/Largo-AinKD_W.mp3"
+    "score": "${baseUrl}/tunes/L/Largo/Largo.pdf",
+    "tab": "${baseUrl}/tunes/L/Largo/Largot.pdf",
+    "audio": "${baseUrl}/tunes/L/Largo/Largo-AinKD_W.mp3"
   },
   {
     "name": "Forneth House",
@@ -320,8 +320,8 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "Robert Petrie",
-    "score": "${baseUrl}/tunes/tunes/F/FornH/FornH.pdf",
-    "tab": "${baseUrl}/tunes/tunes/F/FornH/FornHt.pdf",
+    "score": "${baseUrl}/tunes/F/FornH/FornH.pdf",
+    "tab": "${baseUrl}/tunes/F/FornH/FornHt.pdf",
     "audio": ""
   },
   {
@@ -330,8 +330,8 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "",
-    "score": "${baseUrl}/tunes/tunes/F/FFiun/FFiun.pdf",
-    "tab": "${baseUrl}/tunes/tunes/F/FFiun/FFiunt.pdf",
+    "score": "${baseUrl}/tunes/F/FFiun/FFiun.pdf",
+    "tab": "${baseUrl}/tunes/F/FFiun/FFiunt.pdf",
     "audio": "${baseUrl}/F/FFiun/FFiun_W.mp3"
   },
   {
@@ -340,8 +340,8 @@
     "genre": "Scottish",
     "type": "",
     "composer": "",
-    "score": "${baseUrl}/tunes/tunes/A/AnniL/AnniL.pdf",
-    "tab": "${baseUrl}/tunes/tunes/A/AnniL/AnniLt.pdf",
+    "score": "${baseUrl}/tunes/A/AnniL/AnniL.pdf",
+    "tab": "${baseUrl}/tunes/A/AnniL/AnniLt.pdf",
     "audio": "${baseUrl}/tunes/zAmerican/ABC/AnniL/AnniL_M.mp3"
   },
 
@@ -1041,8 +1041,8 @@
     "genre": "Scottish",
     "type": "Jig",
     "composer": "",
-    "score": "${baseUrl}/tunes/ILMyL/ILMyL.pdf",
-    "tab": "${baseUrl}/tunes/ILMyL/ILMyLt.pdf",
+    "score": "${baseUrl}/tunes/I/ILMyL/ILMyL.pdf",
+    "tab": "${baseUrl}/tunes/I/ILMyL/ILMyLt.pdf",
     "audio": ""
   },
   {
@@ -1727,9 +1727,9 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "Ruaidhrí Dall Ó Catháin",
-    "score": "${baseUrl}/tunes/P/PLnex/PLnex.pdf",
-    "tab": "${baseUrl}/tunes/P/PLnex/PLnext.pdf",
-    "audio": "${baseUrl}/tunes/P/PLnex/PLenx.mp3"
+    "score": "${baseUrl}/tunes/P/PLenx/PLenx.pdf",
+    "tab": "${baseUrl}/tunes/P/PLenx/PLenxt.pdf",
+    "audio": "${baseUrl}/tunes/P/PLenx/PLenx.mp3"
   },
   {
     "name": "Professor Blackie",
@@ -2100,16 +2100,6 @@
     "score": "${baseUrl}/tunes/D/DrnkP/DrnkP.pdf",
     "tab": "${baseUrl}/tunes/D/DrnkP/DrnkPt.pdf",
     "audio": "${baseUrl}/tunes/D/DrnkP/DrnkP-BoyLD_M.mp3"
-  },
-  {
-    "name": "Midlothian Pipe Band",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "March",
-    "composer": "",
-    "score": "${baseUrl}/tunes/F/FtTay/FtTay.pdf",
-    "tab": "${baseUrl}/tunes/F/FtTay/FtTayt.pdf",
-    "audio": "${baseUrl}/tunes/F/FtTay/FtTay-MidlP_M.mp3"
   },
   {
     "name": "Drummond Castle",
@@ -2564,16 +2554,6 @@
     "score": "${baseUrl}/tunes/A/AngMc/AngMc.pdf",
     "tab": "${baseUrl}/tunes/A/AngMc/AngMct.pdf",
     "audio": "${baseUrl}/tunes/A/AngMc/AngMc-BonTS_M.mp3"
-  },
-  {
-    "name": "Mishie’s Jig",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "type": "Jig",
-    "composer": "",
-    "score": "${baseUrl}/tunes/B/BTull/BTull.pdf",
-    "tab": "${baseUrl}/tunes/B/BTull/BTullt.pdf",
-    "audio": ""
   },
   {
     "name": "Fear a Figue",
@@ -3756,16 +3736,6 @@
     "audio": "${baseUrl}/tunes/B/BefIM/BefIM-set_M.mp3"
   },
   {
-    "name": "Island of Mull",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "composer": "Offenbach",
-    "type": "Jig",
-    "score": "${baseUrl}/classes/gfw/slos/set25/25-HighI.pdf",
-    "tab": "${baseUrl}/classes/gfw/slos/set25/25-HighIt.pdf",
-    "audio": "${baseUrl}/classes/gfw/slos/set25/TopBL-IsldM_M.mp3"
-  },
-  {
     "name": "Morag",
     "from": "nigel-gatherer",
     "genre": "Scottish",
@@ -3774,16 +3744,6 @@
     "score": "${baseUrl}/tunes/B/BefIM/BefIM.pdf",
     "tab": "${baseUrl}/tunes/B/BefIM/BefIMt.pdf",
     "audio": "${baseUrl}/tunes/B/BefIM/BefIM-set_M.mp3"
-  },
-  {
-    "name": "Top of Ben Lomond",
-    "from": "nigel-gatherer",
-    "genre": "Scottish",
-    "composer": "Offenbach",
-    "type": "Jig",
-    "score": "${baseUrl}/classes/gfw/slos/set25/25-HighI.pdf",
-    "tab": "${baseUrl}/classes/gfw/slos/set25/25-HighIt.pdf",
-    "audio": "${baseUrl}/classes/gfw/slos/set25/TopBL-IsldM_M.mp3"
   },
           {
             "name": "The Railway Hornpipe",
@@ -4965,16 +4925,6 @@
             "audio": ""
           },
           {
-            "name": "Wee Murdie",
-            "from": "nigel-gatherer",
-            "genre": "Scottish",
-            "type": "Jig",
-            "composer": "Alexander Cameron",
-            "score": "${baseUrl}/tunes/SSS/20-WMurd/20-WMurd.pdf",
-            "tab": "${baseUrl}/tunes/SSS/20-WMurd/20-WMurdt.pdf",
-            "audio": "${baseUrl}/tunes/SSS/20-WMurd/20-WMurd.mp3"
-          },
-          {
             "name": "Whistle O'er the Lave O't",
             "from": "nigel-gatherer",
             "genre": "Scottish",
@@ -5016,17 +4966,6 @@
             "score": "${baseUrl}/tunes/G/GlsgR/GlsgR.pdf",
             "tab": "${baseUrl}/tunes/G/GlsgR/GlsgRt.pdf",
             "audio": ""
-          },
-          {
-            "name": "Night In That Land",
-            "from": "Duncan Chisholm",
-            "genre": "Scottish",
-            "type": "Waltz",
-            "composer": "Johnny Cunningham",
-            "score": "https://thesession.org/tunes/8792",
-            "tab": "https://web.archive.org/web/20150911100616/http://mandolintab.net/tabs.php?name=Night%20In%20That%20Land&id=09651",
-            "audio": "",
-            "video": "https://www.youtube.com/watch?v=XHOfF_60Eek"
           },
           {
             "name": "Captain Francis Wemyss",
@@ -6022,9 +5961,9 @@
             "genre": "Scottish",
             "type": "Jig",
             "composer": "",
-            "score": "${baseUrl}/G/GrstD/GrstD.pdf",
-            "tab": "${baseUrl}/G/GrstD/GrstDt.pdf",
-            "audio": "${baseUrl}/G/GrstD/GrstD-DBrig_M.mp3"
+            "score": "${baseUrl}/tunes/G/GrstD/GrstD.pdf",
+            "tab": "${baseUrl}/tunes/G/GrstD/GrstDt.pdf",
+            "audio": "${baseUrl}/tunes/G/GrstD/GrstD-DBrig_M.mp3"
           },
           {
             "name": "Da Brig",
@@ -6032,9 +5971,9 @@
             "genre": "Scottish",
             "type": "Jig",
             "composer": "Friedemann Stickle",
-            "score": "${baseUrl}/G/GrstD/GrstD.pdf",
-            "tab": "${baseUrl}/G/GrstD/GrstDt.pdf",
-            "audio": "${baseUrl}/G/GrstD/GrstD-DBrig_M.mp3"
+            "score": "${baseUrl}/tunes/G/GrstD/GrstD.pdf",
+            "tab": "${baseUrl}/tunes/G/GrstD/GrstDt.pdf",
+            "audio": "${baseUrl}/tunes/G/GrstD/GrstD-DBrig_M.mp3"
           },
           {
             "name": "Frank's Reel",
@@ -6810,9 +6749,9 @@
     "genre": "Scottish",
     "type": "March",
     "composer": "Ian Powrie",
-    "score": "${baseUrl}/T/TighN/TighN.pdf",
-    "tab": "${baseUrl}/T/TighN/TighNt.pdf",
-    "audio": "${baseUrl}/T/TighN/TighN_M.mp3"
+    "score": "${baseUrl}/tunes/T/TighN/TighN.pdf",
+    "tab": "${baseUrl}/tunes/T/TighN/TighNt.pdf",
+    "audio": "${baseUrl}/tunes/T/TighN/TighN_M.mp3"
   },
   {
     "name": "Jimmy Shand's Welcome to Corrieburn",
@@ -6820,9 +6759,9 @@
     "genre": "Scottish",
     "type": "March",
     "composer": "Ian Powrie",
-    "score": "${baseUrl}/T/TighN/TighN.pdf",
-    "tab": "${baseUrl}/T/TighN/TighNt.pdf",
-    "audio": "${baseUrl}/T/TighN/TighN_M.mp3"
+    "score": "${baseUrl}/tunes/T/TighN/TighN.pdf",
+    "tab": "${baseUrl}/tunes/T/TighN/TighNt.pdf",
+    "audio": "${baseUrl}/tunes/T/TighN/TighN_M.mp3"
   },
   {
     "name": "Mrs Colonel Bailie of Red-Castle",
@@ -6830,9 +6769,9 @@
     "genre": "Scottish",
     "type": "Reel",
     "composer": "Joseph Lowe",
-    "score": "${baseUrl}/W/Wrlks/Wrlks2.pdf",
-    "tab": "${baseUrl}/W/Wrlks/Wrlks2t.pdf",
-    "audio": "${baseUrl}/W/Wrlks/Wrlks-MrsCB_M.mp3"
+    "score": "${baseUrl}/tunes/W/Wrlks/Wrlks2.pdf",
+    "tab": "${baseUrl}/tunes/W/Wrlks/Wrlks2t.pdf",
+    "audio": "${baseUrl}/tunes/W/Wrlks/Wrlks-MrsCB_M.mp3"
   },
 
 
@@ -6987,9 +6926,9 @@
     "genre": "Scottish",
     "type": "Reel",
     "composer": "",
-    "score": "${baseUrl}/tunes/S/SJoy/SJoy2.pdf",
-    "tab": "${baseUrl}/tunes/S/SJoy/SJoy2t.pdf",
-    "audio": "${baseUrl}/tunes/S/SJoy/SJoy_M.mp3"
+    "score": "${baseUrl}/tunes/S/SoJoy/SoJoy2.pdf",
+    "tab": "${baseUrl}/tunes/S/SoJoy/SoJoy2t.pdf",
+    "audio": "${baseUrl}/tunes/S/SoJoy/SoJoy_M.mp3"
   },
   {
     "name": "Gathering, The",
@@ -7047,9 +6986,9 @@
     "genre": "Scottish",
     "type": "Air",
     "composer": "",
-    "score": "${baseUrl}/tunes/1-9/14Oct/tow94-14Oct.pdf",
-    "tab": "${baseUrl}/tunes/1-9/14Oct/tow94-14Octt.pdf",
-    "audio": ""
+    "score": "${baseUrl}/tunes/1-9/14Oct/14Oct.pdf",
+    "tab": "${baseUrl}/tunes/1-9/14Oct/14Octt.pdf",
+    "audio": "${baseUrl}/tunes/1-9/14Oct/14Oct_M.mp3"
   },
   {
     "name": "A Man's a Man",

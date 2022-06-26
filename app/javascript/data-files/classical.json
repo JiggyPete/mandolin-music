@@ -567,9 +567,9 @@
       "genre": "Classical",
       "type": "",
       "composer": "Johann Sebastian Back",
-      "score": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF1/BchMiF1.pdf",
-      "tab": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF1/BchMiF1t.pdf",
-      "audio": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF1/BchMiF1_M.mp3"
+      "score": "${baseUrl}/tunes/zClassical/ABC/Bach/BMinF1/BMinF1.pdf",
+      "tab": "${baseUrl}/tunes/zClassical/ABC/Bach/BMinF1/BMinF1t.pdf",
+      "audio": "${baseUrl}/tunes/zClassical/ABC/Bach/BMinF1/BMinF1_M.mp3"
     },
     {
       "name": "Minuet in F major (2)",
@@ -577,8 +577,8 @@
       "genre": "Classical",
       "type": "",
       "composer": "Johann Sebastian Back",
-      "score": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF2/BchMiF2.pdf",
-      "tab": "${baseUrl}/tunes/zClassical/ABC/Bach/BchMiF2/BchMiF2t.pdf",
+      "score": "${baseUrl}/tunes/zClassical/ABC/Bach/BMinF2/BMinF2.pdf",
+      "tab": "${baseUrl}/tunes/zClassical/ABC/Bach/BMinF2/BMinF2t.pdf",
       "audio": ""
     },
     {
