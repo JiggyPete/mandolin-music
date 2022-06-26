@@ -1146,6 +1146,16 @@
     "tab": "${baseUrl}/tunes/B/BonGa/BonGat.pdf",
     "audio": "${baseUrl}/tunes/B/BnGal/BnGal_W.mp3"
   },
+  {
+    "name": "Maggie",
+    "from": "nigel-gatherer",
+    "genre": "Scottish",
+    "type": "Air",
+    "composer": "Johnson / Butterfield",
+    "score": "${baseUrl}/tunes/B/BonGa/BonGa-ccm.pdf",
+    "tab": "${baseUrl}/tunes/B/BonGa/BonGat-ccm.pdf",
+    "audio": ""
+  },
 
   {
     "name": "Hey Ho My Bonny Lass",

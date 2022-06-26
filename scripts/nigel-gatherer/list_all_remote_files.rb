@@ -6,7 +6,7 @@ def fetch_website_dir_contents(url, data_bag)
   html = Net::HTTP.get(uri)
 
   process_html url, html, data_bag
-  print "."
+  # print "."
 end
 
 def process_html(url, html, data_bag)
@@ -15,8 +15,10 @@ def process_html(url, html, data_bag)
   urls = list_items.map{|item| item.split("href=\"")[1].split("\"")[0] }
   dirs = urls.select{ |u| u.end_with?("/") }
 
-  data_bag[:pdfs] << urls.select{ |u| u.end_with?(".pdf") }.map{|filename| url + filename}
-  data_bag[:mp3s] << urls.select{ |u| u.end_with?(".mp3") }.map{|filename| url + filename}
+  # data_bag[:pdfs] << urls.select{ |u| u.end_with?(".pdf") }.map{|filename| url + filename}
+  # data_bag[:mp3s] << urls.select{ |u| u.end_with?(".mp3") }.map{|filename| url + filename}
+  urls.select{ |u| u.end_with?(".pdf") }.each{|filename| puts (url + filename)}
+  urls.select{ |u| u.end_with?(".mp3") }.each{|filename| puts (url + filename)}
 
   dirs.each do |dir|
     new_url = url + dir
@@ -26,6 +28,7 @@ end
 
 
 data_bag = { pdfs: [], mp3s: [] }
+# root_url = "http://www.nigelgatherer.com/tunes/"
 root_url = "http://www.nigelgatherer.com/tunes/"
 fetch_website_dir_contents root_url, data_bag
 
